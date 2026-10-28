@@ -1,0 +1,56 @@
+{
+  "checkedAt": "2026-10-14T04:35:45.965Z",
+  "native4kPhotographicDetailClaim": false,
+  "entries": [
+    {
+      "name": "home",
+      "path": "design/approval-panels/complete-home-full.png",
+      "format": "png",
+      "width": 1424,
+      "height": 7335,
+      "bytes": 9889341,
+      "sha256": "7e886a5f5c2907b324c8f00ab06a596d633f9bd2e2d0ffb996e0c937b43b6160",
+      "method": "actual browser full-page capture; JPEG decoded to PNG; no resizing"
+    },
+    {
+      "name": "mayonnaise",
+      "path": "design/approval-panels/complete-mayonnaise-full.png",
+      "format": "png",
+      "width": 1424,
+      "height": 6730,
+      "bytes": 4210087,
+      "sha256": "ea7f8a2ffbdcb31e0417b5307c415375d50d2cf3d64fb8b84221115596eaf856",
+      "method": "actual browser full-page capture; JPEG decoded to PNG; no resizing"
+    },
+    {
+      "name": "about",
+      "path": "design/approval-panels/complete-about-full.png",
+      "format": "png",
+      "width": 1424,
+      "height": 5041,
+      "bytes": 4611995,
+      "sha256": "b338250591d9e2837032084ff36f82db89e447b00fb992799e962c0a86474027",
+      "method": "actual browser full-page capture; JPEG decoded to PNG; no resizing"
+    },
+    {
+      "name": "home-4k",
+      "path": "design/approval-panels/complete-home-4k-full.png",
+      "format": "png",
+      "width": 3840,
+      "height": 7871,
+      "bytes": 23462086,
+      "sha256": "d7a47679cb911901e9dddfb384c59356241aa2b4c04f31c12a05b9cc4da7d0a8",
+      "method": "actual browser full-page capture; JPEG decoded to PNG; no resizing"
+    },
+    {
+      "name": "mayonnaise-4k",
+      "path": "design/approval-panels/complete-mayonnaise-4k-full.png",
+      "format": "png",
+      "width": 3840,
+      "height": 6963,
+      "bytes": 8034790,
+      "sha256": "4ce421687094a2b573bddfb831a9a922c83c0fd5c00eb93bda7c22204b6af44c",
+      "method": "actual browser full-page capture; JPEG decoded to PNG; no resizing"
+    }
+  ]
+}

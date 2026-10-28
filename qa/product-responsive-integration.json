@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-14",
+  "status": "source-types-production-export-and-local-browser-selection-evidence-complete",
+  "manifest": "assets/manifest.product-responsive.json",
+  "helper": "src/components/ProductImage.tsx",
+  "integratedCallsites": {
+    "Editorial": 4,
+    "ProductStudioIncludingNoscript": 2,
+    "ProductCollection": 1,
+    "NavigationSelectedPreview": 1,
+    "CorporatePagesProductRibbon": 1,
+    "ProductsPageFeatured": 1,
+    "FamilyPageHero": 1,
+    "ExperienceDialogsDetail": 1,
+    "total": 12
+  },
+  "retained": {
+    "canonicalImgSrc": true,
+    "existingCss": true,
+    "altLabels": true,
+    "loadingAndFetchPriority": true,
+    "dragAndOtherImgEvents": true,
+    "noScriptPack": true,
+    "localeOnlyProps": true,
+    "collectionSearch": true
+  },
+  "sizes": {
+    "studio": "mobile58vw; desktop31vw capped520px",
+    "productHero": "latest mobile CSS overrides: paste60vw, other52vw; desktop34vw/27vw",
+    "detailPack": "mobile65vw; desktop34vw",
+    "kitchenReference": "90px",
+    "collectionCard": "mobile70vw; desktop30vw capped400px",
+    "related": "mobile72vw; desktop25vw capped400px",
+    "navigation": "220px",
+    "corporateRibbon": "mobile44vw; desktop23vw",
+    "collectionHeroFeatured": "mobile28vw; desktop13vw",
+    "familyHero": "mobile60vw; desktop25vw",
+    "experienceDialog": "(max-width: 1023px) 60vw, 300px"
+  },
+  "verification": {
+    "typescriptExitCode": 0,
+    "21stReviewFiles": 6,
+    "21stReviewFindings": 0,
+    "21stReviewFixed": 0,
+    "21stReviewExitCode": 0,
+    "productionBuildPerformed": true,
+    "browserTransferMeasured": true,
+    "productionBuildReference": {
+      "finalBuildSession": 30383,
+      "staticExportEvidence": "qa/complete-export-review.json",
+      "localHttpEvidence": "qa/complete-http-review.json"
+    },
+    "browserTransferReference": {
+      "evidence": "qa/performance-final-review.json",
+      "buildSession": 30383,
+      "validSamples": 18,
+      "scope": "Native measured overall homepage wire/body transfers. Separate from selected product currentSrc observations.",
+      "perDerivativeTransferBytesMeasured": false,
+      "isolatedResponsiveSavingsBenchmarkPerformed": false
+    },
+    "responsiveSelectionObserved": true,
+    "responsiveSelectionReference": {
+      "evidence": "qa/final-continuation-runtime.json",
+      "mobile": {
+        "page": "/tr/products/mayonez/",
+        "viewport": "390x844",
+        "case": "final-responsive-currentSrc",
+        "currentSrc": "http://127.0.0.1:4320/assets/products/responsive/mayonez-240w.webp",
+        "loaded": true,
+        "src": "/assets/products/mayonez.webp",
+        "srcset": "/assets/products/responsive/mayonez-240w.webp 240w, /assets/products/mayonez.webp 281w",
+        "width": 195.1000061035156,
+        "pass": true
+      },
+      "desktop": {
+        "page": "/tr/products/mayonez/",
+        "viewport": "1440x900",
+        "nativeLoadedPackObservations": [
+          {
+            "alt": "Burcu Mayonez",
+            "className": "",
+            "currentSrc": "/assets/products/mayonez.webp",
+            "height": 686,
+            "loaded": true,
+            "src": "/assets/products/mayonez.webp",
+            "srcset": "/assets/products/responsive/mayonez-240w.webp 240w, /assets/products/mayonez.webp 281w",
+            "width": 385
+          },
+          {
+            "alt": "Burcu Mayonez",
+            "className": "",
+            "currentSrc": "/assets/products/mayonez.webp",
+            "height": 504,
+            "loaded": true,
+            "src": "/assets/products/mayonez.webp",
+            "srcset": "/assets/products/responsive/mayonez-240w.webp 240w, /assets/products/mayonez.webp 281w",
+            "width": 281
+          }
+        ]
+      }
+    },
+    "sourceConsistency": {
+      "helperCanonicalSourceAndNativeDimensions": true,
+      "integratedCallsites": 12,
+      "identityEvidence": "qa/product-responsive-review.json",
+      "scope": "Source/pixel preservation is a source verification result; browser selection is a separately recorded DOM observation."
+    }
+  },
+  "identityNote": "The img src attribute remains the canonical source-backed product URL. Browser currentSrc may be a registered responsive derivative; acceptance checks should validate against this manifest.",
+  "outsideScope": "Native product masters retain their original pixel dimensions. All-SKU physical-device review, per-derivative wire-byte savings, production hosting and human label acceptance remain outside these local observations.",
+  "checkedAt": "2026-10-14T09:59:59.374Z",
+  "callsiteFiles": {
+    "Editorial": "src/components/Editorial.tsx",
+    "ProductStudioIncludingNoscript": "src/components/ProductStudio.tsx",
+    "ProductCollection": "src/components/ProductCollection.tsx",
+    "NavigationSelectedPreview": "src/components/Navigation.tsx",
+    "CorporatePagesProductRibbon": "src/components/CorporatePages.tsx",
+    "ProductsPageFeatured": "src/app/[locale]/products/page.tsx",
+    "FamilyPageHero": "src/app/[locale]/products/family/[family]/page.tsx",
+    "ExperienceDialogsDetail": "src/components/ExperienceDialogs.tsx"
+  }
+}

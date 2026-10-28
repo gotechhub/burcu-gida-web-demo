@@ -1,0 +1,711 @@
+{
+  "schemaVersion": "3.1-v2-complete-frontend-continuation-register",
+  "project": "Burcu Web V2",
+  "reviewDateIstanbul": "2026-10-14",
+  "status": "99-route-local-frontend-final-build-and-brave-checks-recorded-js-budget-open",
+  "scope": {
+    "implementedPagesPerLocale": 33,
+    "activeLocales": [
+      "tr",
+      "en",
+      "ar"
+    ],
+    "contentRouteCount": 99,
+    "implementedPageKinds": {
+      "home": 1,
+      "corporateAndSupport": 15,
+      "productCollection": 1,
+      "productFamilies": 6,
+      "productDetails": 10
+    },
+    "corporateSectionIds": [
+      "about",
+      "facilities",
+      "quality",
+      "food-safety",
+      "certificates",
+      "careers",
+      "corporate-sales",
+      "global",
+      "kitchen",
+      "media",
+      "contact",
+      "sitemap",
+      "privacy",
+      "kvkk",
+      "cookies"
+    ],
+    "productFamilyIds": [
+      "paste",
+      "sauce",
+      "vegetables",
+      "pulses",
+      "meals",
+      "roasted"
+    ],
+    "fullProductDetailIds": [
+      "P01",
+      "P02",
+      "P03",
+      "P04",
+      "P05",
+      "P06",
+      "P07",
+      "P08",
+      "P09",
+      "P10"
+    ],
+    "previewDialogOnlyProductIds": [],
+    "lockedLocales": [
+      "de",
+      "fr",
+      "es"
+    ],
+    "lockedLocaleRoutesProduced": 0,
+    "helperRoutesIncludedInContentCount": false,
+    "frontendOnly": true,
+    "backendImplemented": false,
+    "realFormTransmission": false,
+    "formDataPersisted": false,
+    "publicDeploymentPerformed": false,
+    "productionReady": false,
+    "onlineStoreUrl": "https://fabrikasatisreyonu.com/"
+  },
+  "routes": [
+    "/tr/",
+    "/tr/products/",
+    "/tr/about/",
+    "/tr/facilities/",
+    "/tr/quality/",
+    "/tr/food-safety/",
+    "/tr/certificates/",
+    "/tr/careers/",
+    "/tr/corporate-sales/",
+    "/tr/global/",
+    "/tr/kitchen/",
+    "/tr/media/",
+    "/tr/contact/",
+    "/tr/sitemap/",
+    "/tr/privacy/",
+    "/tr/kvkk/",
+    "/tr/cookies/",
+    "/tr/products/family/paste/",
+    "/tr/products/family/sauce/",
+    "/tr/products/family/vegetables/",
+    "/tr/products/family/pulses/",
+    "/tr/products/family/meals/",
+    "/tr/products/family/roasted/",
+    "/tr/products/domates-salcasi/",
+    "/tr/products/biber-salcasi/",
+    "/tr/products/2si1arada/",
+    "/tr/products/ketcap/",
+    "/tr/products/mayonez/",
+    "/tr/products/barbunya-pilaki/",
+    "/tr/products/yaprak-sarma/",
+    "/tr/products/bezelye/",
+    "/tr/products/haslanmis-nohut/",
+    "/tr/products/kozlenmis-biber/",
+    "/en/",
+    "/en/products/",
+    "/en/about/",
+    "/en/facilities/",
+    "/en/quality/",
+    "/en/food-safety/",
+    "/en/certificates/",
+    "/en/careers/",
+    "/en/corporate-sales/",
+    "/en/global/",
+    "/en/kitchen/",
+    "/en/media/",
+    "/en/contact/",
+    "/en/sitemap/",
+    "/en/privacy/",
+    "/en/kvkk/",
+    "/en/cookies/",
+    "/en/products/family/paste/",
+    "/en/products/family/sauce/",
+    "/en/products/family/vegetables/",
+    "/en/products/family/pulses/",
+    "/en/products/family/meals/",
+    "/en/products/family/roasted/",
+    "/en/products/domates-salcasi/",
+    "/en/products/biber-salcasi/",
+    "/en/products/2si1arada/",
+    "/en/products/ketcap/",
+    "/en/products/mayonez/",
+    "/en/products/barbunya-pilaki/",
+    "/en/products/yaprak-sarma/",
+    "/en/products/bezelye/",
+    "/en/products/haslanmis-nohut/",
+    "/en/products/kozlenmis-biber/",
+    "/ar/",
+    "/ar/products/",
+    "/ar/about/",
+    "/ar/facilities/",
+    "/ar/quality/",
+    "/ar/food-safety/",
+    "/ar/certificates/",
+    "/ar/careers/",
+    "/ar/corporate-sales/",
+    "/ar/global/",
+    "/ar/kitchen/",
+    "/ar/media/",
+    "/ar/contact/",
+    "/ar/sitemap/",
+    "/ar/privacy/",
+    "/ar/kvkk/",
+    "/ar/cookies/",
+    "/ar/products/family/paste/",
+    "/ar/products/family/sauce/",
+    "/ar/products/family/vegetables/",
+    "/ar/products/family/pulses/",
+    "/ar/products/family/meals/",
+    "/ar/products/family/roasted/",
+    "/ar/products/domates-salcasi/",
+    "/ar/products/biber-salcasi/",
+    "/ar/products/2si1arada/",
+    "/ar/products/ketcap/",
+    "/ar/products/mayonez/",
+    "/ar/products/barbunya-pilaki/",
+    "/ar/products/yaprak-sarma/",
+    "/ar/products/bezelye/",
+    "/ar/products/haslanmis-nohut/",
+    "/ar/products/kozlenmis-biber/"
+  ],
+  "homepageFlow": [
+    "header",
+    "brand-and-production-banner",
+    "about",
+    "product-worlds",
+    "production-facilities",
+    "quality-and-certification-references",
+    "external-online-store",
+    "brochure-brand-film-burcu-tv",
+    "brand-closing",
+    "footer"
+  ],
+  "productInformation": {
+    "exactSourceMatchedNativeSkuCount": 10,
+    "officialVariantRecordCount": 77,
+    "exactSkuTechnicalFields": [
+      "package",
+      "material",
+      "netWeight",
+      "unitsPerCase",
+      "barcode",
+      "caseBarcode"
+    ],
+    "missingSourceCaseBarcodeVariantCount": 8,
+    "missingValueDisplay": "Localized not-provided-in-source text",
+    "rawSourceValuesAndLeadingZeroBarcodesPreserved": true,
+    "noCrossSkuTechnicalInformationTransfer": true,
+    "dataPath": "src/content/product-specs.ts",
+    "variantNamesAndMaterialsLocalized": true,
+    "currentPurchasedProductLabelRemainsAuthorityForIngredientsNutritionAllergensAndStorage": true
+  },
+  "sourceAndAssetStatus": {
+    "v1Preserved": true,
+    "originalSourceLayersPreserved": true,
+    "authenticProductPackagingPreserved": true,
+    "productVisibleAndOpaqueRgbMatchesOriginal": "10/10; prior codec evidence on unchanged source packshots",
+    "newGeneratedMasters": {
+      "total": 17,
+      "firstPhase": 8,
+      "expansionPhase": 9,
+      "photographicScenes": 16,
+      "transparentIngredientForegrounds": 1,
+      "expansionSceneIds": [
+        "mayonnaise",
+        "brand-field",
+        "about-harvest",
+        "table-corrected",
+        "store-pantry",
+        "media-table",
+        "pepper-paste",
+        "mixed-paste",
+        "vine-leaves"
+      ],
+      "nativePhotographicDimensions": [
+        1672,
+        941
+      ],
+      "nativeForegroundDimensions": [
+        1360,
+        1156
+      ],
+      "generationMode": "built-in image_gen",
+      "firstPhasePromptsPath": "docs/creative/generation-prompts-complete.json",
+      "expansionPromptsPath": "docs/creative/expansion-image-prompts.json",
+      "productSpecificPromptsPath": "docs/creative/product-specific-image-prompts.json"
+    },
+    "reusedV1ServingScenes": {
+      "count": 1,
+      "path": "assets/masters/ketchup-serving.png",
+      "includedInNewGenerationCount": false,
+      "copiedByteForByte": true
+    },
+    "actualArchivalFacilityPhotographs": {
+      "count": 2,
+      "ids": [
+        "F01",
+        "F02"
+      ],
+      "names": [
+        "Burhaniye",
+        "Ovaköy"
+      ],
+      "captureDatesKnown": false,
+      "currentActiveFacilityCountProvenByThesePhotos": false
+    },
+    "officialCertificateSources": {
+      "copiedJpegCount": 14,
+      "displayedInspectedArchiveDocuments": 4,
+      "standards": [
+        "TS EN ISO 9001:2015",
+        "OIC/SMIIC 1:2019",
+        "FSSC 22000 V5.1",
+        "BRCGS Issue 9"
+      ],
+      "displayedDocumentPrintedExpiryDatesBeforeReviewDate": true,
+      "publishedAsCurrentCertificationBadges": false,
+      "currentCompanyCertificationStatusDetermined": false,
+      "evidencePath": "docs/research/certificate-image-sources.json"
+    },
+    "webDerivativeCount": 64,
+    "sceneForegroundFacilityWebpCount": 37,
+    "authenticProductAndLogoLosslessWebpCount": 11,
+    "distinctUiAndCategorySvgCount": 30,
+    "additionalSvgSpriteFileCount": 1,
+    "fontWoff2Count": 3,
+    "productAndLogoDecodedRgbaMatchesSource": "11/11; prior codec evidence on unchanged source packshots",
+    "fontCodecReviewPath": "qa/font-codec-review.md",
+    "productCodecReviewPath": "qa/product-codec-review.md",
+    "assetManifestPath": "assets/manifest.generated.json",
+    "productCodecManifestPath": "assets/manifest.product-webp.json",
+    "sourceInventoryPath": "source-inventory.json",
+    "existingCatalogue": {
+      "path": "public/assets/documents/burcu-catalogue-web.pdf",
+      "pageCount": 67,
+      "isArchive": true,
+      "isNewCatalogueClaim": false,
+      "webBytes": 14775912,
+      "originalBytes": 118371031,
+      "reductionPercent": 87.52,
+      "protectedOriginalPath": "assets/source/documents/burcu-catalogue-archive.pdf",
+      "publicOriginalRemovedAfterVerifiedPreservation": true,
+      "verificationPath": "qa/brochure-web-review.json"
+    },
+    "existingConceptFilm": {
+      "path": "public/assets/video/burcu-concept.mp4",
+      "durationSeconds": 150,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "fps": 25,
+      "includesRepresentativeGeneratedScenes": true,
+      "documentaryCompanyFootage": false,
+      "disclosureUiKey": "ui.filmDisclosure",
+      "captions": {
+        "tracks": 3,
+        "locales": [
+          "tr",
+          "en",
+          "ar"
+        ],
+        "cuesPerTrack": 33,
+        "sourceReviewPath": "qa/film-captions-review.json",
+        "humanTimingAndEditorialAcceptanceRecorded": false
+      }
+    },
+    "native4kOr8kPhotographicDetailClaim": false,
+    "distinctProductSceneCount": 10,
+    "baselineWebDerivativeCount": 48,
+    "responsiveProductDerivativeCount": 16,
+    "productResponsiveManifestPath": "assets/manifest.product-responsive.json",
+    "activeFontFaceCount": 2,
+    "preservedOriginalArabicWoff2Path": "public/assets/fonts/NotoSansArabic.woff2",
+    "activeArabicWebFontPath": "public/assets/fonts/NotoSansArabic-web.woff2",
+    "arabicWebFontReviewPath": "qa/font-arabic-web-review.json"
+  },
+  "authorizationAndAcceptance": {
+    "completeFrontendImplementation": {
+      "status": "authorized-and-implemented",
+      "basis": "The latest user request explicitly expands V2 to all pages, the full index, menus, product details and three languages; the earlier limited pilot implementation gate has been superseded."
+    },
+    "earlier57RoutePlan": {
+      "status": "superseded-by-current-99-route-scope",
+      "isPendingImplementationGate": false
+    },
+    "userVisualAndContentAcceptance": {
+      "status": "awaiting-user-review",
+      "recordedApproval": false,
+      "reviewArtifact": "Local 99-route frontend at http://127.0.0.1:4320/tr/",
+      "doesNotBlockAuthorizedImplementation": true
+    },
+    "publishingAndBackend": {
+      "status": "outside-current-frontend-scope",
+      "performed": false
+    },
+    "earlierNineRouteVisualPilot": {
+      "status": "historical-superseded-by-explicit-all-pages-request",
+      "isPendingImplementationGate": false
+    },
+    "localBraveBrowserVerification": {
+      "status": "explicitly-authorized-by-human-user",
+      "scope": "Local frontend browser compatibility, interaction and performance verification",
+      "doesNotAuthorizePublicPublishing": true
+    }
+  },
+  "verification": {
+    "strictTypeScript": {
+      "status": "passed-source-checks",
+      "reportedBy": "root and page agents",
+      "afterMetadataHelper": true
+    },
+    "firstCompleteProductionWebpackBuild": {
+      "status": "passed-historical-first-complete-build",
+      "buildSession": "65240",
+      "contentRoutes": 99,
+      "afterLatestProductSceneAdditions": false,
+      "meansPublicProductionReady": false
+    },
+    "staticExportFlightAliases": {
+      "status": "passed-final-30383-complete-build",
+      "aliasCount": 101,
+      "contentPageFlightCount": 99,
+      "evidencePath": "qa/export-path-aliases.json",
+      "originalNestedFilesPreserved": true
+    },
+    "completeStaticRouteReview": {
+      "status": "passed-final-30383-all-99-routes",
+      "evidencePath": "qa/complete-export-review.json",
+      "expectedRoutes": 99,
+      "firstSnapshotOnlyDefect": "Shared /media/#tv anchor mismatch",
+      "sourceDefectFixed": true,
+      "isBrowserRuntimeEvidence": false,
+      "verifiedRouteCount": 99,
+      "finalThreeSceneSourceDeltaRecheckPending": false,
+      "buildSession": "30383"
+    },
+    "pageComponent21stReview": {
+      "status": "passed",
+      "errors": 0,
+      "warnings": 0,
+      "suggestions": 0,
+      "componentCount": 3,
+      "authenticatedCatalogueRetrievalClaimed": false,
+      "hostedAiGenerationClaimed": false
+    },
+    "currentRuntimeBrowserReview": {
+      "status": "final-local-brave-feature-and-modal-regression-recorded",
+      "owner": "root agent",
+      "all99RouteRuntimeChecksClaimedPassed": false,
+      "uniquePageLayoutCases": 216,
+      "pageLayoutEvidencePath": "qa/complete-browser-layout.json",
+      "pasteCopyColumnCorrectionPercent": 42,
+      "menuAndFilmFitCases": 18,
+      "modalEvidencePath": "qa/complete-modal-review.json",
+      "physicalDevicesTested": false,
+      "finalThreeProductScenesRecheckPending": false,
+      "finalFeatureAndScreenshotRecord": "recorded-local-features-and-3840px-browser-artifacts",
+      "finalFeatureRecordSeparatelyPending": false,
+      "runtimeSummaryPath": "qa/complete-runtime-review.md",
+      "newProductSceneCases": 18,
+      "interactionEvidencePath": "qa/complete-interactions.json",
+      "interactionErrors": [],
+      "verifiedFeatureCases": [
+        "P05 mayonnaise scene and detail link",
+        "Product search one result",
+        "Product search empty state",
+        "Same-SKU English language change"
+      ],
+      "ultrawideProductCases": 10,
+      "ultrawideEvidencePath": "qa/ultrawide-product-review.json",
+      "ultrawideCasesPassing": true,
+      "screenshotPhotographsNative4kClaim": false,
+      "tableVerticalWheelEvidencePath": "qa/product-table-scroll-review.json",
+      "tableVerticalWheelPassing": true,
+      "tableWheelScrollBeforePx": 2700,
+      "tableWheelScrollAfterPx": 108,
+      "finalMayonnaisePngVisualInspection": "root-view-image-passed-560px-decor-version",
+      "full216CaseMatrixReperformedForFinalBuild": false,
+      "finalContinuationEvidencePath": "qa/final-continuation-runtime.json",
+      "finalContinuationFeatures": [
+        "TR uppercase/Turkish accents search",
+        "EN case-insensitive and Arabic diacritic search",
+        "Product family filters",
+        "TR/EN/AR whitespace-only enquiry rejection and repaired preview",
+        "Arabic invalid-email rejection",
+        "Same-SKU language switch",
+        "P05 mayonnaise own cream scene",
+        "Visible Arabic native film subtitles",
+        "1440px mega-menu fit and Escape/focus return",
+        "390px portrait and 844px landscape film fit"
+      ]
+    },
+    "historicalPilotEvidence": {
+      "appliesToCurrent99RouteAcceptance": false,
+      "scope": "Earlier three-page design pilot in TR/EN/AR",
+      "pageLayoutMatrixPath": "qa/runtime-layout-matrix.json",
+      "pageLayoutMatrixCount": 72,
+      "mobileProductWorldMatrixPath": "qa/runtime-product-worlds.json",
+      "mobileProductWorldMatrixCount": 36,
+      "httpReviewPath": "qa/http-review.json",
+      "coldMobileSamplePath": "qa/network-final-mobile-startup.json",
+      "oldColdMobileGetBodyBytes": 741085,
+      "oldInitialHomeHypotheticalGzipJsBytes": 152663,
+      "oldInitialProductHypotheticalGzipJsBytes": 152115
+    },
+    "initialJsBudget": {
+      "status": "failed-target-current-static-initial-js-sum",
+      "targetGzipBytes": 80000,
+      "fullSiteBudgetClaimedPassed": false,
+      "evidencePath": "qa/complete-export-review.json",
+      "measurementMethod": "Sum of gzip bytes of modern initial script references; separately reported from observed Resource Timing transfer",
+      "historicalStaticSnapshotHomeGzipBytes": 155848,
+      "currentRuntimeReportPath": "qa/performance-final-review.md",
+      "currentHomeGzipBytes": 151448,
+      "beforeContinuationHomeGzipBytes": 155848,
+      "reductionBytes": 4400,
+      "measuredNextReactBaseGzipBytes": 131615
+    },
+    "lighthouse": {
+      "status": "not-measured",
+      "scores": null,
+      "all100Claimed": false
+    },
+    "currentPhysicalDevices": {
+      "status": "not-completed"
+    },
+    "nativeArabicEditorialAcceptance": {
+      "status": "not-recorded"
+    },
+    "humanFilmAcceptance": {
+      "status": "not-recorded"
+    },
+    "completeHttpReview": {
+      "status": "passed-final-30383-local-99-content-101-flight-99-sitemap-checks",
+      "contentRoutes": 99,
+      "flightFiles": 101,
+      "sitemapUrls": 99,
+      "evidencePath": "qa/complete-http-review.json",
+      "finalSourceDeltaRecheckPending": false,
+      "meansPublicDeploymentPassed": false,
+      "buildSession": "30383"
+    },
+    "latestVerifiedProductionWebpackBuild": {
+      "status": "passed-final-continuation-build",
+      "reportedBy": "root agent",
+      "buildSession": "30383",
+      "contentRoutes": 99,
+      "outputPath": "out/",
+      "meansPublicProductionReady": false,
+      "latestMetadataAndTvAnchorSourceChangesRequireFinalRebuild": false,
+      "latestThreeProductSpecificScenesRequireFinalRebuild": false,
+      "buildStaticOutputCount": 104,
+      "finalThreeProductSpecificScenesIncluded": true,
+      "finalStudioSheenFixIncluded": true,
+      "ultrawideDecorLimitPx": 560,
+      "horizontalTablePreservesVerticalWheel": true,
+      "currentContinuationFinalRecheckPending": false,
+      "exitCode": 0,
+      "continuationChangesIncluded": [
+        "active-locale server props",
+        "responsive native product profiles and ViewportImage",
+        "exact-URL local font preload",
+        "normal-width Arabic web font",
+        "three native VTT tracks",
+        "trimmed localized form validation",
+        "film viewport height fitting"
+      ]
+    },
+    "currentContinuation": {
+      "status": "final-build-static-http-and-selected-brave-runtime-checks-recorded",
+      "owner": "root agent",
+      "changes": [
+        "active-locale server props",
+        "source-backed responsive packshots",
+        "exact-URL local font preload",
+        "normal-width Arabic web font",
+        "TR/EN/AR VTT tracks",
+        "trimmed localized frontend-form validation"
+      ],
+      "runtimeSummaryPath": "qa/final-continuation-runtime.md",
+      "currentPerformanceScores": null,
+      "meansHumanAcceptance": false,
+      "meansPublicProductionReady": false,
+      "buildSession": "30383",
+      "runtimeDataPath": "qa/final-continuation-runtime.json",
+      "performanceReviewPath": "qa/performance-final-review.md",
+      "performanceDataPath": "qa/performance-final-review.json",
+      "rawNativePerformancePath": "qa/performance-browser-final.json",
+      "nativePerformanceSummary": {
+        "samples": 18,
+        "deviceProfiles": [
+          "390x844",
+          "1440x900"
+        ],
+        "repetitionsPerLocaleDevice": 3,
+        "initialWindowMs": 5000,
+        "networkCpuThrottled": false,
+        "origin": "http://127.0.0.1:4320",
+        "browser": "Brave",
+        "isLighthouse": false,
+        "isInp": false,
+        "isFieldCoreWebVitals": false,
+        "isPhysicalDeviceAcceptance": false,
+        "allObservedCls": 0,
+        "medians": {
+          "tr": {
+            "mobile": {
+              "lcpMs": 352,
+              "transferBytes": 483055
+            },
+            "desktop": {
+              "lcpMs": 436,
+              "transferBytes": 927241
+            }
+          },
+          "en": {
+            "mobile": {
+              "lcpMs": 408,
+              "transferBytes": 482682
+            },
+            "desktop": {
+              "lcpMs": 528,
+              "transferBytes": 926868
+            }
+          },
+          "ar": {
+            "mobile": {
+              "lcpMs": 680,
+              "transferBytes": 640612
+            },
+            "desktop": {
+              "lcpMs": 512,
+              "transferBytes": 1086051
+            }
+          }
+        }
+      },
+      "runtimeBuildPartition": {
+        "searchFormsSameSkuLanguage": "27267",
+        "finalLayoutVisualMotionPanelAndFontDefaults": "30383"
+      },
+      "runtimeRecordCounts": {
+        "total": 72,
+        "explicitPass": 63,
+        "stateObservations": 7,
+        "earlyImagesExcludedFromFinalAcceptance": 2
+      },
+      "normalPreviewStatus": {
+        "evidencePath": "qa/preview-final-status.json",
+        "processIdAtRecord": 16244,
+        "threeActiveLocalesHttp200": true,
+        "privateMeasurementRoutes404": 2,
+        "optInQaLoggerEnabled": false,
+        "privateMeasurementFixturesEnabled": false,
+        "permanentServerAvailabilityClaimed": false
+      },
+      "mediaHttpReview": {
+        "evidencePath": "qa/quality-assets-http-review.json",
+        "passed": 20,
+        "checked": 20
+      },
+      "browserHandoff": {
+        "browser": "Brave",
+        "cleanTrAddressOpened": true,
+        "emulatedViewportReset": true,
+        "markedDeliverable": true,
+        "codexQueuedPanelShownClaimed": false
+      }
+    }
+  },
+  "metadata": {
+    "helperPath": "src/content/metadata.ts",
+    "canonicalAndSameRouteHreflang": true,
+    "activeHreflangLocales": [
+      "tr",
+      "en",
+      "ar"
+    ],
+    "openGraphAndTwitterLargeImage": true,
+    "defaultOrigin": "http://127.0.0.1:4320",
+    "defaultOriginIsProductionClaim": false,
+    "noindex": true,
+    "originEnvironmentVariable": "NEXT_PUBLIC_SITE_ORIGIN",
+    "xmlSitemapContentUrls": 99
+  },
+  "remainingAcceptanceItems": [
+    "Physical-device and additional browser compatibility acceptance",
+    "80 KB initial JavaScript target remains unmet in the current Next/React architecture",
+    "Lighthouse, INP and field Core Web Vitals measurements",
+    "Native-language human proofreading",
+    "Complete-film human caption/narration timing and visual/content acceptance",
+    "Burcu current approved legal texts and current certificate/document scope confirmation before public publication",
+    "Brand source/media rights confirmation before public publication"
+  ],
+  "authoritativeDocuments": {
+    "readme": "README.md",
+    "siteIndex": "src/content/site-map.ts",
+    "corporateCopy": "src/content/site-content.ts",
+    "productTechnicalData": "src/content/product-specs.ts",
+    "metadata": "src/content/metadata.ts",
+    "completeMenuAndPageIndex": "docs/project/site-index.md",
+    "completeRuntimeReview": "qa/complete-runtime-review.md",
+    "currentRuntimeAndPerformance": "qa/complete-runtime-review.md",
+    "finalContinuationRuntime": "qa/final-continuation-runtime.md",
+    "finalPerformance": "qa/performance-final-review.md",
+    "finalScreenshotEvidence": "qa/final-screenshots-current.json"
+  },
+  "claimsNotMade": [
+    "User visual/content acceptance completed",
+    "Current-scope Lighthouse 100 or all performance budgets met",
+    "Native 4K/8K source photographic detail",
+    "Concept film is real company documentary footage",
+    "Current certificate validity, production capacity or active factory count",
+    "Production readiness or public deployment"
+  ],
+  "visualArtifacts": {
+    "homepage": {
+      "path": "design/approval-panels/final-home-4k-full.png",
+      "width": 3840,
+      "height": 7901,
+      "format": "png",
+      "densityDpi": 300,
+      "bytes": 21968924,
+      "sha256": "c81b461d22c8b795a847f0817bc0fa10615c2459f5ce9ba5658350a30a1f8aa3",
+      "buildSession": "30383",
+      "isNativeBrowserBitmap": true,
+      "resized": false
+    },
+    "mayonnaise": {
+      "path": "design/approval-panels/final-mayonnaise-4k-full.png",
+      "width": 3840,
+      "height": 6993,
+      "format": "png",
+      "densityDpi": 300,
+      "bytes": 7410763,
+      "sha256": "37604391a273fe20a6fb69cd18a8e2abb76c97ef3f8be99a7841ed09bd045e0b",
+      "buildSession": "30383",
+      "isNativeBrowserBitmap": true,
+      "resized": false
+    },
+    "browserBitmapWidthIsReal": true,
+    "nativeSourcePhotographWidth": 1672,
+    "nativeSourcePhotographHeight": 941,
+    "native4kPhotographicDetailClaim": false,
+    "metadataEvidencePath": "qa/final-screenshots-current.json",
+    "densityIsExportMetadataNotNewSourceDetail": true,
+    "captureMotionReduced": true,
+    "mayonnaiseUnusedViewportBelowFooterCroppedPx": 207,
+    "arabicNativeCaptionProof": {
+      "path": "qa/final-film-ar-mobile-captions.jpg",
+      "width": 390,
+      "height": 844,
+      "visible": true,
+      "fullFilmHumanTimingAcceptance": false
+    }
+  }
+}

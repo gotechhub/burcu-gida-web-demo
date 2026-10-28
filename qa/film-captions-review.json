@@ -1,0 +1,65 @@
+{
+  "checkedAt": "2026-10-14T06:15:48.959Z",
+  "validation": "Source derivation only; browser load and normal-speed human acceptance remain separate.",
+  "allPassed": true,
+  "checks": {
+    "sourceSrtHashPinned": true,
+    "filmHashPinnedAndUnchanged": true,
+    "sourceScriptExact242Tokens": true,
+    "source40CueCoverageComplete": true,
+    "threeTracksHaveIdenticalTimeline": true,
+    "noDerivedCueOverlaps": true,
+    "allCuesWithin150Seconds": true,
+    "noEmptyCaptions": true,
+    "atMostTwoLinesPerCue": true,
+    "atMost46CharactersPerLine": true,
+    "sourceV3FilesNotModified": true
+  },
+  "tracks": [
+    {
+      "locale": "tr",
+      "kind": "captions",
+      "url": "/assets/video/captions/burcu-tr.vtt",
+      "sha256": "97eea7c81202cbdb863f58db7450bb1e43b5979320cddb18302b4c8add77cc4c",
+      "bytes": 3230,
+      "cueCount": 33,
+      "firstStartMs": 800,
+      "lastEndMs": 148000,
+      "maxLines": 2,
+      "maxCharactersPerLine": 46,
+      "maxCharactersPerSecond": 17.81
+    },
+    {
+      "locale": "en",
+      "kind": "subtitles",
+      "url": "/assets/video/captions/burcu-en.vtt",
+      "sha256": "36e8d58e4f7fdb1aacd10e3288fea221715b75abf4a679f861b30587d9e11fff",
+      "bytes": 3107,
+      "cueCount": 33,
+      "firstStartMs": 800,
+      "lastEndMs": 148000,
+      "maxLines": 2,
+      "maxCharactersPerLine": 44,
+      "maxCharactersPerSecond": 17.8
+    },
+    {
+      "locale": "ar",
+      "kind": "subtitles",
+      "url": "/assets/video/captions/burcu-ar.vtt",
+      "sha256": "ef776054d5adcdeb1501e324838703114b834d6a8447174213e3fbdfd092bb7b",
+      "bytes": 4004,
+      "cueCount": 33,
+      "firstStartMs": 800,
+      "lastEndMs": 148000,
+      "maxLines": 2,
+      "maxCharactersPerLine": 46,
+      "maxCharactersPerSecond": 18.16
+    }
+  ],
+  "remainingChecks": [
+    "Native-language proofreading and translation acceptance",
+    "Normal-speed human narration/caption timing review",
+    "Native video cue legibility, Arabic direction and dialog fit on physical devices",
+    "Overall accessibility audit; caption presence alone does not establish WCAG 2.2 AA conformance"
+  ]
+}

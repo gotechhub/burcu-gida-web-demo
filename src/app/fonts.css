@@ -1,0 +1,37 @@
+@font-face {
+  font-family: manrope;
+  src: url('/assets/fonts/Manrope.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'manrope Fallback';
+  src: local('Arial');
+  ascent-override: 106.45%;
+  descent-override: 29.96%;
+  line-gap-override: 0%;
+  size-adjust: 100.14%;
+}
+@font-face {
+  font-family: arabic;
+  src: url('/assets/fonts/NotoSansArabic-web.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'arabic Fallback';
+  src: local('Arial');
+  ascent-override: 129.05%;
+  descent-override: 69.32%;
+  line-gap-override: 0%;
+  size-adjust: 106.47%;
+}
+.font-manrope { --font-manrope: manrope, 'manrope Fallback'; }
+.font-arabic { --font-arabic: arabic, 'arabic Fallback'; }
+html[lang='ar'] {
+  --font-sans: var(--font-arabic);
+  font-family: var(--font-arabic), sans-serif;
+}
+.language-entry a[lang='ar'] { font-family: var(--font-arabic), sans-serif; }

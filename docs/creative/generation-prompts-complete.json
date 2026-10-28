@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-13",
+  "mode": "built-in image_gen",
+  "core": [
+    "ketchup",
+    "chickpea",
+    "paste",
+    "table",
+    "ingredients"
+  ],
+  "extensions": [
+    "peas",
+    "roasted",
+    "meals"
+  ],
+  "count": 8,
+  "prompts": {
+    "ketchup": "Commercial food photography for a premium global BURCU website. Widescreen16:9, highest supported native resolution. Studio lighting, macro photography, hyper-realistic, extremely fine material detail, natural physical shadows; requested8K quality of detail, do not add UI. NO typography, NO logo, NO package, NO bottle or jar, NO watermark. Real unchanged product packshots will be inserted by the webpage separately. Camera eye-level with tabletop visible lowerthird; EMPTY CENTRAL bottle/jar insertion zone at50%width from15%to88%height. Plenty of negative space in upper40% for huge editorial UI. Materials live at side edges and foreground, NOT center. Advertising-grade appetizing physical reality, never cartoon3D, vector illustration, gummy/plastic ingredients or arbitrary fake objects. Deep vibrant tomato-red seamless studio environment. A broad highly sculptural wave of thick glossy ketchup flows from lowerleft, curves around the EMPTY center, then rises dramatically on far right with delicate suspended droplets. Juicy REAL tomatoes, freshly cut wet tomato half with tiny actual seed cells and green vines in lower corners. Ingredients grounded at edges with a few flying droplets, precise natural specular rimlight, strong cinema lens depth, warm red reflective floor below empty slot. Hero will be central real upright RED squeeze bottle, so absolutely no generated bottle. No rings that look like a donut, no cluttered center. Saturated yet sophisticated deep red #c51c10 palette, cream highlights.",
+    "chickpea": "Commercial food photography for a premium global BURCU website. Widescreen16:9, highest supported native resolution. Studio lighting, macro photography, hyper-realistic, extremely fine material detail, natural physical shadows; requested8K quality of detail, do not add UI. NO typography, NO logo, NO package, NO bottle or jar, NO watermark. Real unchanged product packshots will be inserted by the webpage separately. Camera eye-level with tabletop visible lowerthird; EMPTY CENTRAL bottle/jar insertion zone at50%width from15%to88%height. Plenty of negative space in upper40% for huge editorial UI. Materials live at side edges and foreground, NOT center. Advertising-grade appetizing physical reality, never cartoon3D, vector illustration, gummy/plastic ingredients or arbitrary fake objects. Warm ivory and sandy-stone studio scene, natural cream travertine tabletop, beige softly textured backdrop with olive undertones. Real cooked chickpeas scattered along loweredge and in an elegant delicate high-speed arc at farleft and far right, fresh parsley accents. A small beautiful bowl of chickpea salad only at far-right-bottom, cropped into edge; no bowl in central empty space. Golden natural daylight, subtle soft shadows, warm earthy appetizing material realism, calm premium editorialfood scale. No tomatoes above center; no glass jars, utensils center or brand.",
+    "paste": "Commercial food photography for a premium global BURCU website. Widescreen16:9, highest supported native resolution. Studio lighting, macro photography, hyper-realistic, extremely fine material detail, natural physical shadows; requested8K quality of detail, do not add UI. NO typography, NO logo, NO package, NO bottle or jar, NO watermark. Real unchanged product packshots will be inserted by the webpage separately. Camera eye-level with tabletop visible lowerthird; EMPTY CENTRAL bottle/jar insertion zone at50%width from15%to88%height. Plenty of negative space in upper40% for huge editorial UI. Materials live at side edges and foreground, NOT center. Advertising-grade appetizing physical reality, never cartoon3D, vector illustration, gummy/plastic ingredients or arbitrary fake objects. Dark botanical emerald and deep burgundy studio world, reddish warm stone ground. Lush REAL ripe tomatoes on their green vines at farleft and far right; rich concentrated tomato paste in a beautifullylit metal spoon cropped into lowerleft edge and a tactile thick tomato-paste ribbon lower foreground. Central empty jar slot for an actual green-lid tomato-paste jar. Huge macro tomato skin and juicy flesh details at edges, real soft tungsten highlights against deep cool forest shadows, masterful lens depth. High-end Mediterranean food manufacturing brand aesthetic, not a generic sauce splash remake. No packagedjar, no red ketchup bottle.",
+    "table": "Commercial food photography for a premium global BURCU website. Widescreen16:9, highest supported native resolution. Studio lighting, macro photography, hyper-realistic, extremely fine material detail, natural physical shadows; requested8K quality of detail, do not add UI. NO typography, NO logo, NO package, NO bottle or jar, NO watermark. Real unchanged product packshots will be inserted by the webpage separately. Camera eye-level with tabletop visible lowerthird; EMPTY CENTRAL bottle/jar insertion zone at50%width from15%to88%height. Plenty of negative space in upper40% for huge editorial UI. Materials live at side edges and foreground, NOT center. Advertising-grade appetizing physical reality, never cartoon3D, vector illustration, gummy/plastic ingredients or arbitrary fake objects. Elevated Mediterranean dining and cooking editorial photograph. Warm muted cream limestone table. On far-right half a large handmade ceramic plate of beautifully cooked tomato pasta with herbs and a few roasted vegetables; food edges cropped naturally, delicious steam subtle. Linen napkin, small bowl of tomato sauce, fresh basil at extreme corners, tiny real crumbs. Left40% quiet clean stone and center clean product insertion zone. Sophisticated natural afternoonwindowlight, physical honest appetizing textures, no unbalanced banquet, no generic burger, no product bottle orlabel.",
+    "peas": "Commercial premium food photography, widescreen16:9, studio lighting, macro photography, hyper-realistic, requested8K-grade material detail and highest supported native resolution. NO text, logo, package, bottle/jar, watermark. Original Burcu packaging will be placed separately. Center50% is an EMPTY clean product insertion slot, upper center negative space for typography. Natural lens depth and truthful appetizing ingredient texture; not cartoon, fake plastic food, or illustration. Rich fresh muted sage-green seamless backdrop with beautifully lit pale stone surface. Real fresh green peas, opened pea pods and young pea leaves around farleft and right borders, few delicate frozen high-speed peas midair along outeredges. Crisp botanical photographic reality, natural quiet center, harmonious green luminosity, side lighting and refined food editorial art direction. Absolutely no chickpeas, tomatoes, bowls of unrelated food or floating spherical plastic dots.",
+    "roasted": "Commercial premium food photography, widescreen16:9, studio lighting, macro photography, hyper-realistic, requested8K-grade material detail and highest supported native resolution. NO text, logo, package, bottle/jar, watermark. Original Burcu packaging will be placed separately. Center50% is an EMPTY clean product insertion slot, upper center negative space for typography. Natural lens depth and truthful appetizing ingredient texture; not cartoon, fake plastic food, or illustration. Deep warm burnt umber and dark burgundy background, stone surface. Real sweet red peppers and a few roasted pepper strips with delicate char marks across far corners, intensely appetizing oily red material highlights, understated smoky atmosphere near edges, no fire/flames, realistic roasted pepper skin and texture. Large quiet empty center for actual original pepper jar. Sophisticated lowkey restaurant-editorial advertising campaign photograph, no salsa/ketchupwave.",
+    "meals": "Use case: photorealistic-natural. Highest quality commercial Mediterranean food photography for BURCU product-family website. Widescreen16:9, studio lighting, macro photography, hyper-realistic; requested8K material detail, output highest supported native resolution. NO text, logo, product package, tin can, jar or watermark. Warm cream and muted golden tabletop with large EMPTY central product insertion zone, calm pale background upper40% for UI. At far-left lowercorner a beautiful small ceramic bowl of Turkish barbunya pilaki (reddish-brown kidney beans in a tomato/vegetable sauce), at far-right loweredge authentic stuffed grape-leaf rolls with gentle olive-oil sheen on an artisanal plate, leafy herbs in extreme corners. An understated convivial lunch setting, fine physical food texture, grounded natural shadows, realistic irregular food, not gummy CGI. Center remains empty for real unchanged Burcu ready-meal cans inserted later. No food or cutlery crossing center. One coherent real editorial photograph.",
+    "ingredients": "Use case: product-mockup. Generate a SINGLE premium advertising FOOD INGREDIENT foreground cutout with genuine TRANSPARENT BACKGROUND. No text, logo, package, frame, solid floor or cast shadow rectangle. A beautifully ripe REAL tomato cut half with wet translucent seed cells, one small whole red tomato still on vine, and a delicate fresh basil sprig, grouped into one sculptural floating diagonal composition from lowerleft toward upperright. High speed food editorial photography, extremely fine real wet flesh/skin/stem texture, clear softbox studio lighting, elegant tiny actual water droplets; premium macro photorealistic quality, requested8K-grade detail, highest supported resolution. Shape compact centered with generous transparent margins; clean accurate organic alpha edge, no white halos. Objects fully visible, no cropped ingredient. Intended as an optional desktop parallax layer, isolated on transparent background rather than solid background. No fake plastic3D tomato or cartoon illustration."
+  },
+  "outputs": [
+    {
+      "key": "ketchup",
+      "path": "C:\\Users\\SG\\.codex\\generated_images\\01a12d59-f576-7913-99dc-420ebbc33de8\\exec-23f7f9bc-f9c9-4d07-a6f5-de6603ff7840.png"
+    },
+    {
+      "key": "chickpea",
+      "path": "C:\\Users\\SG\\.codex\\generated_images\\01a12d59-f576-7913-99dc-420ebbc33de8\\exec-c7cfa413-fff4-4c9c-ac92-2c3cc1b556b2.png"
+    },
+    {
+      "key": "paste",
+      "path": "C:\\Users\\SG\\.codex\\generated_images\\01a12d59-f576-7913-99dc-420ebbc33de8\\exec-466ca923-77bf-4010-b952-434ed696e5b2.png"
+    },
+    {
+      "key": "table",
+      "path": "C:\\Users\\SG\\.codex\\generated_images\\01a12d59-f576-7913-99dc-420ebbc33de8\\exec-56ed5172-5dc5-4f3e-8e04-04e67f630c32.png"
+    },
+    {
+      "key": "peas",
+      "path": "C:\\Users\\SG\\.codex\\generated_images\\01a12d59-f576-7913-99dc-420ebbc33de8\\exec-fbfba7ac-2f26-49c4-a4f8-caa019022146.png"
+    },
+    {
+      "key": "roasted",
+      "path": "C:\\Users\\SG\\.codex\\generated_images\\01a12d59-f576-7913-99dc-420ebbc33de8\\exec-d36eb426-9629-40e8-b5c8-cc0f3cbded40.png"
+    },
+    {
+      "key": "meals",
+      "path": "C:\\Users\\SG\\.codex\\generated_images\\01a12d59-f576-7913-99dc-420ebbc33de8\\exec-23380547-6a87-4113-9d86-0c2cb3db8291.png"
+    },
+    {
+      "key": "ingredients",
+      "path": "C:\\Users\\SG\\.codex\\generated_images\\01a12d59-f576-7913-99dc-420ebbc33de8\\exec-1edb18cb-9d10-4b1f-a91e-97555150e3dc.png"
+    }
+  ]
+}

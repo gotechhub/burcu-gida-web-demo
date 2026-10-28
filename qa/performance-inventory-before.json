@@ -1,0 +1,350 @@
+{
+  "checkedAt": "2026-10-14T06:24:08.851Z",
+  "label": "before",
+  "method": "Static export encoded file inventory; not measured browser transfer or Lighthouse",
+  "routes": [
+    {
+      "route": "/tr/",
+      "htmlBytes": 48623,
+      "htmlGzipBytes": 9089,
+      "initialModernJsGzipBytes": 155848,
+      "chunks": [
+        {
+          "url": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "rawBytes": 203721,
+          "gzipBytes": 64057
+        },
+        {
+          "url": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "rawBytes": 242917,
+          "gzipBytes": 67558
+        },
+        {
+          "url": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "rawBytes": 513,
+          "gzipBytes": 222
+        },
+        {
+          "url": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "rawBytes": 7642,
+          "gzipBytes": 3246
+        },
+        {
+          "url": "/_next/static/chunks/926-5b87db13b8560e52.js",
+          "rawBytes": 16886,
+          "gzipBytes": 5948
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/layout-088c9cead18012d9.js",
+          "rawBytes": 29094,
+          "gzipBytes": 8246
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/page-b6da2d997a6cdf2b.js",
+          "rawBytes": 11307,
+          "gzipBytes": 4196
+        },
+        {
+          "url": "/_next/static/chunks/webpack-bf76ff87123d81e1.js",
+          "rawBytes": 4873,
+          "gzipBytes": 2375
+        }
+      ],
+      "fontPreloads": []
+    },
+    {
+      "route": "/en/",
+      "htmlBytes": 48574,
+      "htmlGzipBytes": 8934,
+      "initialModernJsGzipBytes": 155848,
+      "chunks": [
+        {
+          "url": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "rawBytes": 203721,
+          "gzipBytes": 64057
+        },
+        {
+          "url": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "rawBytes": 242917,
+          "gzipBytes": 67558
+        },
+        {
+          "url": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "rawBytes": 513,
+          "gzipBytes": 222
+        },
+        {
+          "url": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "rawBytes": 7642,
+          "gzipBytes": 3246
+        },
+        {
+          "url": "/_next/static/chunks/926-5b87db13b8560e52.js",
+          "rawBytes": 16886,
+          "gzipBytes": 5948
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/layout-088c9cead18012d9.js",
+          "rawBytes": 29094,
+          "gzipBytes": 8246
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/page-b6da2d997a6cdf2b.js",
+          "rawBytes": 11307,
+          "gzipBytes": 4196
+        },
+        {
+          "url": "/_next/static/chunks/webpack-bf76ff87123d81e1.js",
+          "rawBytes": 4873,
+          "gzipBytes": 2375
+        }
+      ],
+      "fontPreloads": []
+    },
+    {
+      "route": "/ar/",
+      "htmlBytes": 51417,
+      "htmlGzipBytes": 9397,
+      "initialModernJsGzipBytes": 155848,
+      "chunks": [
+        {
+          "url": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "rawBytes": 203721,
+          "gzipBytes": 64057
+        },
+        {
+          "url": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "rawBytes": 242917,
+          "gzipBytes": 67558
+        },
+        {
+          "url": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "rawBytes": 513,
+          "gzipBytes": 222
+        },
+        {
+          "url": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "rawBytes": 7642,
+          "gzipBytes": 3246
+        },
+        {
+          "url": "/_next/static/chunks/926-5b87db13b8560e52.js",
+          "rawBytes": 16886,
+          "gzipBytes": 5948
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/layout-088c9cead18012d9.js",
+          "rawBytes": 29094,
+          "gzipBytes": 8246
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/page-b6da2d997a6cdf2b.js",
+          "rawBytes": 11307,
+          "gzipBytes": 4196
+        },
+        {
+          "url": "/_next/static/chunks/webpack-bf76ff87123d81e1.js",
+          "rawBytes": 4873,
+          "gzipBytes": 2375
+        }
+      ],
+      "fontPreloads": []
+    },
+    {
+      "route": "/tr/products/",
+      "htmlBytes": 29171,
+      "htmlGzipBytes": 5841,
+      "initialModernJsGzipBytes": 153636,
+      "chunks": [
+        {
+          "url": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "rawBytes": 203721,
+          "gzipBytes": 64057
+        },
+        {
+          "url": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "rawBytes": 242917,
+          "gzipBytes": 67558
+        },
+        {
+          "url": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "rawBytes": 513,
+          "gzipBytes": 222
+        },
+        {
+          "url": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "rawBytes": 7642,
+          "gzipBytes": 3246
+        },
+        {
+          "url": "/_next/static/chunks/926-5b87db13b8560e52.js",
+          "rawBytes": 16886,
+          "gzipBytes": 5948
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/layout-088c9cead18012d9.js",
+          "rawBytes": 29094,
+          "gzipBytes": 8246
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/products/page-299a1376ac03bb10.js",
+          "rawBytes": 4326,
+          "gzipBytes": 1984
+        },
+        {
+          "url": "/_next/static/chunks/webpack-bf76ff87123d81e1.js",
+          "rawBytes": 4873,
+          "gzipBytes": 2375
+        }
+      ],
+      "fontPreloads": []
+    },
+    {
+      "route": "/ar/products/",
+      "htmlBytes": 31414,
+      "htmlGzipBytes": 6129,
+      "initialModernJsGzipBytes": 153636,
+      "chunks": [
+        {
+          "url": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "rawBytes": 203721,
+          "gzipBytes": 64057
+        },
+        {
+          "url": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "rawBytes": 242917,
+          "gzipBytes": 67558
+        },
+        {
+          "url": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "rawBytes": 513,
+          "gzipBytes": 222
+        },
+        {
+          "url": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "rawBytes": 7642,
+          "gzipBytes": 3246
+        },
+        {
+          "url": "/_next/static/chunks/926-5b87db13b8560e52.js",
+          "rawBytes": 16886,
+          "gzipBytes": 5948
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/layout-088c9cead18012d9.js",
+          "rawBytes": 29094,
+          "gzipBytes": 8246
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/products/page-299a1376ac03bb10.js",
+          "rawBytes": 4326,
+          "gzipBytes": 1984
+        },
+        {
+          "url": "/_next/static/chunks/webpack-bf76ff87123d81e1.js",
+          "rawBytes": 4873,
+          "gzipBytes": 2375
+        }
+      ],
+      "fontPreloads": []
+    },
+    {
+      "route": "/tr/products/mayonez/",
+      "htmlBytes": 56028,
+      "htmlGzipBytes": 9153,
+      "initialModernJsGzipBytes": 154120,
+      "chunks": [
+        {
+          "url": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "rawBytes": 203721,
+          "gzipBytes": 64057
+        },
+        {
+          "url": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "rawBytes": 242917,
+          "gzipBytes": 67558
+        },
+        {
+          "url": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "rawBytes": 513,
+          "gzipBytes": 222
+        },
+        {
+          "url": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "rawBytes": 7642,
+          "gzipBytes": 3246
+        },
+        {
+          "url": "/_next/static/chunks/926-5b87db13b8560e52.js",
+          "rawBytes": 16886,
+          "gzipBytes": 5948
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/layout-088c9cead18012d9.js",
+          "rawBytes": 29094,
+          "gzipBytes": 8246
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/products/%5Bslug%5D/page-7c377f99b387f242.js",
+          "rawBytes": 6261,
+          "gzipBytes": 2468
+        },
+        {
+          "url": "/_next/static/chunks/webpack-bf76ff87123d81e1.js",
+          "rawBytes": 4873,
+          "gzipBytes": 2375
+        }
+      ],
+      "fontPreloads": []
+    },
+    {
+      "route": "/ar/products/mayonez/",
+      "htmlBytes": 59632,
+      "htmlGzipBytes": 9618,
+      "initialModernJsGzipBytes": 154120,
+      "chunks": [
+        {
+          "url": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "rawBytes": 203721,
+          "gzipBytes": 64057
+        },
+        {
+          "url": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "rawBytes": 242917,
+          "gzipBytes": 67558
+        },
+        {
+          "url": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "rawBytes": 513,
+          "gzipBytes": 222
+        },
+        {
+          "url": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "rawBytes": 7642,
+          "gzipBytes": 3246
+        },
+        {
+          "url": "/_next/static/chunks/926-5b87db13b8560e52.js",
+          "rawBytes": 16886,
+          "gzipBytes": 5948
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/layout-088c9cead18012d9.js",
+          "rawBytes": 29094,
+          "gzipBytes": 8246
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/products/%5Bslug%5D/page-7c377f99b387f242.js",
+          "rawBytes": 6261,
+          "gzipBytes": 2468
+        },
+        {
+          "url": "/_next/static/chunks/webpack-bf76ff87123d81e1.js",
+          "rawBytes": 4873,
+          "gzipBytes": 2375
+        }
+      ],
+      "fontPreloads": []
+    }
+  ]
+}

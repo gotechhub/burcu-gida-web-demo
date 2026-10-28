@@ -1,0 +1,106 @@
+{
+  "checkedAt": "2026-10-14T04:23:53.228Z",
+  "checks": [
+    {
+      "slug": "domates-salcasi",
+      "backdropHeight": "560px",
+      "backdropWidth": "560px",
+      "overflow": 0,
+      "stageHeight": 560,
+      "stageWidth": 1634.875,
+      "width": 3856,
+      "contained": true
+    },
+    {
+      "slug": "biber-salcasi",
+      "backdropHeight": "560px",
+      "backdropWidth": "560px",
+      "overflow": 0,
+      "stageHeight": 560,
+      "stageWidth": 1634.875,
+      "width": 3856,
+      "contained": true
+    },
+    {
+      "slug": "2si1arada",
+      "backdropHeight": "560px",
+      "backdropWidth": "560px",
+      "overflow": 0,
+      "stageHeight": 560,
+      "stageWidth": 1634.875,
+      "width": 3856,
+      "contained": true
+    },
+    {
+      "slug": "ketcap",
+      "backdropHeight": "560px",
+      "backdropWidth": "560px",
+      "overflow": 0,
+      "stageHeight": 560,
+      "stageWidth": 1634.875,
+      "width": 3856,
+      "contained": true
+    },
+    {
+      "slug": "mayonez",
+      "backdropHeight": "560px",
+      "backdropWidth": "560px",
+      "overflow": 0,
+      "stageHeight": 560,
+      "stageWidth": 1634.875,
+      "width": 3856,
+      "contained": true
+    },
+    {
+      "slug": "barbunya-pilaki",
+      "backdropHeight": "560px",
+      "backdropWidth": "560px",
+      "overflow": 0,
+      "stageHeight": 560,
+      "stageWidth": 1634.875,
+      "width": 3856,
+      "contained": true
+    },
+    {
+      "slug": "yaprak-sarma",
+      "backdropHeight": "560px",
+      "backdropWidth": "560px",
+      "overflow": 0,
+      "stageHeight": 560,
+      "stageWidth": 1634.875,
+      "width": 3856,
+      "contained": true
+    },
+    {
+      "slug": "bezelye",
+      "backdropHeight": "560px",
+      "backdropWidth": "560px",
+      "overflow": 0,
+      "stageHeight": 560,
+      "stageWidth": 1634.875,
+      "width": 3856,
+      "contained": true
+    },
+    {
+      "slug": "haslanmis-nohut",
+      "backdropHeight": "560px",
+      "backdropWidth": "560px",
+      "overflow": 0,
+      "stageHeight": 560,
+      "stageWidth": 1634.875,
+      "width": 3856,
+      "contained": true
+    },
+    {
+      "slug": "kozlenmis-biber",
+      "backdropHeight": "560px",
+      "backdropWidth": "560px",
+      "overflow": 0,
+      "stageHeight": 560,
+      "stageWidth": 1634.875,
+      "width": 3856,
+      "contained": true
+    }
+  ],
+  "passed": true
+}

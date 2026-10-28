@@ -1,0 +1,1278 @@
+{
+  "date": "2026-10-14",
+  "buildSession": 27267,
+  "search": [
+    {
+      "locale": "tr",
+      "query": "TATLI",
+      "result": "Burcu Tatlı Biber Salçası\n\nSalçalar · 320 g\n\nBurcu Tatlı Ketçap\n\nKetçap ve mayonez · 250 g",
+      "expectedProducts": [
+        "P02",
+        "P04"
+      ],
+      "pass": true
+    },
+    {
+      "locale": "tr",
+      "query": "SALÇASI",
+      "result": "Burcu Domates Salçası\n\nSalçalar · 320 g\n\nBurcu Tatlı Biber Salçası\n\nSalçalar · 320 g",
+      "expectedProducts": [
+        "P01",
+        "P02"
+      ],
+      "pass": true
+    },
+    {
+      "locale": "tr",
+      "category": "sauce",
+      "result": "Burcu Tatlı Ketçap\n\nKetçap ve mayonez · 250 g\n\nBurcu Mayonez\n\nKetçap ve mayonez · 220 g",
+      "pass": true
+    },
+    {
+      "locale": "ar",
+      "query": "مَايُونِيز",
+      "result": "Burcu مايونيز\n\nالكاتشب والمايونيز · 220 g",
+      "expectedProducts": [
+        "P05"
+      ],
+      "pass": true
+    },
+    {
+      "locale": "en",
+      "query": "MAYONNAISÉ",
+      "result": "Burcu Mayonnaise\n\nKetchup and mayonnaise · 220 g",
+      "expectedProducts": [
+        "P05"
+      ],
+      "pass": true
+    }
+  ],
+  "form": [
+    {
+      "locale": "tr",
+      "case": "whitespace",
+      "invalid": [
+        {
+          "message": "Lütfen bu alanı doldurun.",
+          "name": "name"
+        },
+        {
+          "message": "Lütfen bu alanı doldurun.",
+          "name": "subject"
+        },
+        {
+          "message": "Lütfen bu alanı doldurun.",
+          "name": "message"
+        }
+      ],
+      "ready": false,
+      "pass": true
+    },
+    {
+      "locale": "tr",
+      "case": "repaired-trimmed-preview",
+      "preview": "Demo talebi hazırlandı; gönderilmedi.\n\nAd ve soyad\nDemo Kullanıcı\nE-posta adresi\nqa@example.invalid\nKonu\nÜrün bilgisi\nMesajın\nYerel demo kontrolü. Gönderim yapılmaz.",
+      "pass": true
+    },
+    {
+      "locale": "en",
+      "case": "whitespace",
+      "invalid": [
+        {
+          "message": "Please complete this field.",
+          "name": "name"
+        },
+        {
+          "message": "Please complete this field.",
+          "name": "subject"
+        },
+        {
+          "message": "Please complete this field.",
+          "name": "message"
+        }
+      ],
+      "ready": false,
+      "pass": true
+    },
+    {
+      "locale": "en",
+      "case": "repaired-trimmed-preview",
+      "preview": "Demo enquiry prepared; not sent.\n\nFull name\nDemo User\nEmail address\nqa@example.invalid\nSubject\nProduct information\nYour message\nLocal preview only.",
+      "pass": true
+    },
+    {
+      "locale": "ar",
+      "case": "whitespace",
+      "invalid": [
+        {
+          "message": "يرجى ملء هذا الحقل.",
+          "name": "name"
+        },
+        {
+          "message": "يرجى ملء هذا الحقل.",
+          "name": "subject"
+        },
+        {
+          "message": "يرجى ملء هذا الحقل.",
+          "name": "message"
+        }
+      ],
+      "ready": false,
+      "pass": true
+    },
+    {
+      "locale": "ar",
+      "case": "repaired-trimmed-preview",
+      "preview": "تم إعداد الطلب التجريبي؛ ولم يُرسل.\n\nالاسم الكامل\nDemo User\nعنوان البريد الإلكتروني\nqa@example.invalid\nالموضوع\nProduct information\nرسالتكم\nLocal preview only.",
+      "pass": true
+    },
+    {
+      "locale": "ar",
+      "case": "native-email-invalid",
+      "previewPresent": false,
+      "typeMismatch": true,
+      "valid": false,
+      "pass": true
+    }
+  ],
+  "film": [
+    {
+      "locale": "ar",
+      "viewport": "390x844",
+      "case": "film-fit",
+      "clientHeight": 824,
+      "clientWidth": 370,
+      "overflow": "hidden",
+      "rect": {
+        "h": 824,
+        "w": 370.3999938964844,
+        "x": 10,
+        "y": 10
+      },
+      "scrollHeight": 824,
+      "scrollWidth": 370,
+      "pass": true
+    },
+    {
+      "locale": "ar",
+      "case": "native-playback-caption",
+      "pass": true,
+      "evidence": "Arabic subtitle visibly rendered over the existing Turkish narrated video during native playback; DOM default ar track confirmed."
+    },
+    {
+      "locale": "ar",
+      "case": "final-film-fit-portrait",
+      "viewport": "390x844",
+      "clientHeight": 342,
+      "clientWidth": 370,
+      "height": 341.8500061035156,
+      "scrollHeight": 342,
+      "scrollWidth": 370,
+      "pass": true
+    },
+    {
+      "locale": "ar",
+      "case": "final-film-fit-landscape",
+      "viewport": "844x390",
+      "clientHeight": 340,
+      "clientWidth": 824,
+      "height": 340,
+      "scrollHeight": 340,
+      "scrollWidth": 824,
+      "pass": true
+    },
+    {
+      "locale": "en",
+      "case": "final-short-desktop-film-fit-default",
+      "viewport": "1024x600",
+      "clientHeight": 523,
+      "clientWidth": 976,
+      "scrollHeight": 523,
+      "scrollWidth": 976,
+      "tracks": [
+        {
+          "default": false,
+          "language": "tr",
+          "src": "/assets/video/captions/burcu-tr.vtt"
+        },
+        {
+          "default": true,
+          "language": "en",
+          "src": "/assets/video/captions/burcu-en.vtt"
+        },
+        {
+          "default": false,
+          "language": "ar",
+          "src": "/assets/video/captions/burcu-ar.vtt"
+        }
+      ],
+      "pass": true
+    },
+    {
+      "locale": "tr",
+      "case": "final-mobile-film-fit-default",
+      "viewport": "390x844",
+      "clientHeight": 342,
+      "clientWidth": 370,
+      "scrollHeight": 342,
+      "scrollWidth": 370,
+      "tracks": [
+        {
+          "default": true,
+          "lang": "tr"
+        },
+        {
+          "default": false,
+          "lang": "en"
+        },
+        {
+          "default": false,
+          "lang": "ar"
+        }
+      ],
+      "pass": true
+    }
+  ],
+  "navigation": [
+    {
+      "from": "/tr/products/mayonez/",
+      "to": "http://127.0.0.1:4320/en/products/mayonez/",
+      "expected": "/en/products/mayonez/",
+      "pass": true
+    },
+    {
+      "from": "/en/products/mayonez/",
+      "to": "http://127.0.0.1:4320/ar/products/mayonez/",
+      "expected": "/ar/products/mayonez/",
+      "pass": true
+    },
+    {
+      "case": "form-escape-focus",
+      "focused": "İletişime geçin",
+      "openDialogs": 0
+    },
+    {
+      "case": "form-escape-focus",
+      "focused": "Contact our team",
+      "openDialogs": 0
+    },
+    {
+      "case": "form-escape-focus",
+      "focused": "تواصل مع فريقنا",
+      "openDialogs": 0
+    },
+    {
+      "case": "film-close-focus",
+      "focused": "الفيلم التعريفي",
+      "openDialogs": 0
+    },
+    {
+      "case": "desktop-product-menu-fit",
+      "viewport": "1440x900",
+      "clientHeight": 680,
+      "clientWidth": 1392,
+      "overflow": "hidden",
+      "scrollHeight": 680,
+      "scrollWidth": 1392,
+      "pass": true
+    },
+    {
+      "case": "final-en-menu-short-desktop",
+      "viewport": "1024x600",
+      "clientHeight": 576,
+      "clientWidth": 976,
+      "scrollHeight": 576,
+      "scrollWidth": 976,
+      "pass": true
+    }
+  ],
+  "motion": [
+    {
+      "canvasCount": 0,
+      "case": "user-motion-off",
+      "motion": "off",
+      "toggleHeight": 44,
+      "togglePressed": "true"
+    },
+    {
+      "case": "reduced-visible-pack",
+      "animationDuration": "1e-05s",
+      "animationIterationCount": "1",
+      "complete": false,
+      "naturalWidth": 0,
+      "transitionDuration": "1e-05s",
+      "acceptedForFinal": false,
+      "observation": "Immediate post-action snapshot before lazy image completed; later final reduced-motion pack is loaded and visible."
+    },
+    {
+      "case": "user-motion-on",
+      "motion": "on",
+      "togglePressed": "false"
+    },
+    {
+      "locale": "en",
+      "case": "final-user-motion-off",
+      "canvasCount": 0,
+      "height": 44,
+      "motion": "off",
+      "pressed": "true",
+      "pass": true
+    },
+    {
+      "locale": "en",
+      "case": "final-user-motion-on",
+      "value": "on",
+      "pass": true
+    },
+    {
+      "case": "final-reduced-pack-and-photo-visible",
+      "canvas": 0,
+      "deferred": [
+        {
+          "loaded": true,
+          "source": "/assets/facilities/F02.webp",
+          "status": "ready"
+        },
+        {
+          "loaded": true,
+          "source": "/assets/facilities/F01.webp",
+          "status": "ready"
+        },
+        {
+          "loaded": true,
+          "source": "/assets/facilities/F01.webp",
+          "status": "ready"
+        }
+      ],
+      "motion": "off",
+      "pack": [
+        {
+          "animationDuration": "1e-05s",
+          "currentSrc": "http://127.0.0.1:4320/assets/products/domates-salcasi.webp",
+          "loaded": true,
+          "opacity": "1",
+          "source": "/assets/products/domates-salcasi.webp"
+        }
+      ],
+      "pass": true
+    }
+  ],
+  "images": [
+    {
+      "page": "/tr/products/mayonez/",
+      "viewport": "1440x900",
+      "images": [
+        {
+          "alt": "",
+          "className": "",
+          "currentSrc": "/assets/scenes/mayonnaise-desktop.webp",
+          "height": 980,
+          "loaded": true,
+          "src": "/assets/scenes/mayonnaise-mobile.webp",
+          "srcset": null,
+          "width": 1425
+        },
+        {
+          "alt": "Burcu Mayonez",
+          "className": "",
+          "currentSrc": "/assets/products/mayonez.webp",
+          "height": 686,
+          "loaded": true,
+          "src": "/assets/products/mayonez.webp",
+          "srcset": "/assets/products/responsive/mayonez-240w.webp 240w, /assets/products/mayonez.webp 281w",
+          "width": 385
+        },
+        {
+          "alt": "Burcu Mayonez",
+          "className": "",
+          "currentSrc": "/assets/products/mayonez.webp",
+          "height": 504,
+          "loaded": true,
+          "src": "/assets/products/mayonez.webp",
+          "srcset": "/assets/products/responsive/mayonez-240w.webp 240w, /assets/products/mayonez.webp 281w",
+          "width": 281
+        },
+        {
+          "alt": "",
+          "className": "",
+          "currentSrc": "/assets/scenes/mayonnaise-desktop.webp",
+          "height": 812,
+          "loaded": false,
+          "src": "/assets/scenes/mayonnaise-mobile.webp",
+          "srcset": null,
+          "width": 746
+        },
+        {
+          "alt": "Burcu Mayonez",
+          "className": "",
+          "currentSrc": "/assets/products/responsive/mayonez-240w.webp",
+          "height": 165,
+          "loaded": true,
+          "src": "/assets/products/mayonez.webp",
+          "srcset": "/assets/products/responsive/mayonez-240w.webp 240w, /assets/products/mayonez.webp 281w",
+          "width": 100
+        }
+      ]
+    },
+    {
+      "case": "mayonnaise-scene-own-background",
+      "images": [
+        {
+          "className": "",
+          "currentSrc": "http://127.0.0.1:4320/assets/scenes/mayonnaise-desktop.webp",
+          "loaded": true,
+          "src": "/assets/scenes/mayonnaise-mobile.webp"
+        },
+        {
+          "className": "studio-pack",
+          "currentSrc": "",
+          "loaded": false,
+          "src": "/assets/products/mayonez.webp"
+        }
+      ],
+      "acceptedForFinal": false,
+      "observation": "Immediate post-action snapshot before lazy image completed. Superseded by the later loaded-source DOM and visible screenshot evidence."
+    },
+    {
+      "page": "/tr/products/mayonez/",
+      "viewport": "390x844",
+      "case": "final-responsive-currentSrc",
+      "currentSrc": "http://127.0.0.1:4320/assets/products/responsive/mayonez-240w.webp",
+      "loaded": true,
+      "src": "/assets/products/mayonez.webp",
+      "srcset": "/assets/products/responsive/mayonez-240w.webp 240w, /assets/products/mayonez.webp 281w",
+      "width": 195.1000061035156,
+      "pass": true
+    },
+    {
+      "case": "final-visible-full-page-resources",
+      "viewport": "3840x8200",
+      "canvas": 0,
+      "deferred": [
+        {
+          "loaded": true,
+          "source": "/assets/facilities/F02.webp",
+          "status": "ready"
+        },
+        {
+          "loaded": true,
+          "source": "/assets/facilities/F01.webp",
+          "status": "ready"
+        },
+        {
+          "loaded": true,
+          "source": "/assets/facilities/F01.webp",
+          "status": "ready"
+        }
+      ],
+      "motion": "off",
+      "pack": [
+        {
+          "animationDuration": "1e-05s",
+          "currentSrc": "http://127.0.0.1:4320/assets/products/domates-salcasi.webp",
+          "loaded": true,
+          "opacity": "1",
+          "source": "/assets/products/domates-salcasi.webp"
+        }
+      ],
+      "pass": true
+    }
+  ],
+  "layouts": [
+    {
+      "locale": "tr",
+      "path": "",
+      "viewport": "390x844",
+      "clientWidth": 375,
+      "dir": "ltr",
+      "documentWidth": 375,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 26,
+          "right": 349,
+          "text": "Lezzetin kaynağı Türkiye.Ufku dünya.",
+          "width": 323
+        }
+      ],
+      "h1Count": 1,
+      "lang": "tr",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "tr",
+      "path": "products/mayonez",
+      "viewport": "390x844",
+      "clientWidth": 375,
+      "dir": "ltr",
+      "documentWidth": 375,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 26,
+          "right": 349,
+          "text": "Yumuşak dokusu.Yeni fikirler.",
+          "width": 323
+        }
+      ],
+      "h1Count": 1,
+      "lang": "tr",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "tr",
+      "path": "about",
+      "viewport": "390x844",
+      "clientWidth": 375,
+      "dir": "ltr",
+      "documentWidth": 375,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 26,
+          "right": 349,
+          "text": "Lezzetin arkasında,bir dünya var.",
+          "width": 323
+        }
+      ],
+      "h1Count": 1,
+      "lang": "tr",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "tr",
+      "path": "products",
+      "viewport": "390x844",
+      "clientWidth": 375,
+      "dir": "ltr",
+      "documentWidth": 375,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 26,
+          "right": 349,
+          "text": "Lezzetinbirçok hâli.",
+          "width": 323
+        }
+      ],
+      "h1Count": 1,
+      "lang": "tr",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "tr",
+      "path": "media",
+      "viewport": "390x844",
+      "clientWidth": 375,
+      "dir": "ltr",
+      "documentWidth": 375,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 26,
+          "right": 349,
+          "text": "Markanın hikâyesi,birçok kadrajda.",
+          "width": 323
+        }
+      ],
+      "h1Count": 1,
+      "lang": "tr",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "tr",
+      "path": "facilities",
+      "viewport": "390x844",
+      "clientWidth": 375,
+      "dir": "ltr",
+      "documentWidth": 375,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 26,
+          "right": 349,
+          "text": "Lezzet üretenbirikim.",
+          "width": 323
+        }
+      ],
+      "h1Count": 1,
+      "lang": "tr",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "en",
+      "path": "",
+      "viewport": "390x844",
+      "clientWidth": 375,
+      "dir": "ltr",
+      "documentWidth": 375,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 26,
+          "right": 349,
+          "text": "Rooted in Türkiye.Shared with the world.",
+          "width": 323
+        }
+      ],
+      "h1Count": 1,
+      "lang": "en",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "en",
+      "path": "products/mayonez",
+      "viewport": "390x844",
+      "clientWidth": 375,
+      "dir": "ltr",
+      "documentWidth": 375,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 26,
+          "right": 349,
+          "text": "A smooth texture.Fresh ideas.",
+          "width": 323
+        }
+      ],
+      "h1Count": 1,
+      "lang": "en",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "en",
+      "path": "about",
+      "viewport": "390x844",
+      "clientWidth": 375,
+      "dir": "ltr",
+      "documentWidth": 375,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 26,
+          "right": 349,
+          "text": "There is a worldbehind the flavour.",
+          "width": 323
+        }
+      ],
+      "h1Count": 1,
+      "lang": "en",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "en",
+      "path": "products",
+      "viewport": "390x844",
+      "clientWidth": 375,
+      "dir": "ltr",
+      "documentWidth": 375,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 26,
+          "right": 349,
+          "text": "Many waysto enjoy flavour.",
+          "width": 323
+        }
+      ],
+      "h1Count": 1,
+      "lang": "en",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "en",
+      "path": "media",
+      "viewport": "390x844",
+      "clientWidth": 375,
+      "dir": "ltr",
+      "documentWidth": 375,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 26,
+          "right": 349,
+          "text": "The brand story,through different lenses.",
+          "width": 323
+        }
+      ],
+      "h1Count": 1,
+      "lang": "en",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "en",
+      "path": "facilities",
+      "viewport": "390x844",
+      "clientWidth": 375,
+      "dir": "ltr",
+      "documentWidth": 375,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 26,
+          "right": 349,
+          "text": "Experience thatcreates flavour.",
+          "width": 323
+        }
+      ],
+      "h1Count": 1,
+      "lang": "en",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "ar",
+      "path": "",
+      "viewport": "390x844",
+      "clientWidth": 375,
+      "dir": "rtl",
+      "documentWidth": 375,
+      "font": "arabic, \"arabic Fallback\", sans-serif",
+      "footer": true,
+      "h1": [
+        {
+          "left": 26,
+          "right": 349,
+          "text": "جذورنا في تركيا.ومذاقنا للعالم.",
+          "width": 323
+        }
+      ],
+      "h1Count": 1,
+      "lang": "ar",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "ar",
+      "path": "products/mayonez",
+      "viewport": "390x844",
+      "clientWidth": 375,
+      "dir": "rtl",
+      "documentWidth": 375,
+      "font": "arabic, \"arabic Fallback\", sans-serif",
+      "footer": true,
+      "h1": [
+        {
+          "left": 26,
+          "right": 349,
+          "text": "قوام ناعم.أفكار جديدة.",
+          "width": 323
+        }
+      ],
+      "h1Count": 1,
+      "lang": "ar",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "ar",
+      "path": "about",
+      "viewport": "390x844",
+      "clientWidth": 375,
+      "dir": "rtl",
+      "documentWidth": 375,
+      "font": "arabic, \"arabic Fallback\", sans-serif",
+      "footer": true,
+      "h1": [
+        {
+          "left": 26,
+          "right": 349,
+          "text": "وراء المذاق،عالم كامل.",
+          "width": 323
+        }
+      ],
+      "h1Count": 1,
+      "lang": "ar",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "ar",
+      "path": "products",
+      "viewport": "390x844",
+      "clientWidth": 375,
+      "dir": "rtl",
+      "documentWidth": 375,
+      "font": "arabic, \"arabic Fallback\", sans-serif",
+      "footer": true,
+      "h1": [
+        {
+          "left": 26,
+          "right": 349,
+          "text": "للنكهةوجوه متعددة.",
+          "width": 323
+        }
+      ],
+      "h1Count": 1,
+      "lang": "ar",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "ar",
+      "path": "media",
+      "viewport": "390x844",
+      "clientWidth": 375,
+      "dir": "rtl",
+      "documentWidth": 375,
+      "font": "arabic, \"arabic Fallback\", sans-serif",
+      "footer": true,
+      "h1": [
+        {
+          "left": 26,
+          "right": 349,
+          "text": "قصة العلامة،بعدسات مختلفة.",
+          "width": 323
+        }
+      ],
+      "h1Count": 1,
+      "lang": "ar",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "ar",
+      "path": "facilities",
+      "viewport": "390x844",
+      "clientWidth": 375,
+      "dir": "rtl",
+      "documentWidth": 375,
+      "font": "arabic, \"arabic Fallback\", sans-serif",
+      "footer": true,
+      "h1": [
+        {
+          "left": 26,
+          "right": 349,
+          "text": "خبرة تنتجالمذاق.",
+          "width": 323
+        }
+      ],
+      "h1Count": 1,
+      "lang": "ar",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "tr",
+      "path": "",
+      "viewport": "1440x900",
+      "clientWidth": 1425,
+      "dir": "ltr",
+      "documentWidth": 1425,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 79,
+          "right": 1079,
+          "text": "Lezzetin kaynağı Türkiye.Ufku dünya.",
+          "width": 1000
+        }
+      ],
+      "h1Count": 1,
+      "lang": "tr",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "tr",
+      "path": "products/mayonez",
+      "viewport": "1440x900",
+      "clientWidth": 1425,
+      "dir": "ltr",
+      "documentWidth": 1425,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 79,
+          "right": 763,
+          "text": "Yumuşak dokusu.Yeni fikirler.",
+          "width": 684
+        }
+      ],
+      "h1Count": 1,
+      "lang": "tr",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "tr",
+      "path": "about",
+      "viewport": "1440x900",
+      "clientWidth": 1425,
+      "dir": "ltr",
+      "documentWidth": 1425,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 79,
+          "right": 922,
+          "text": "Lezzetin arkasında,bir dünya var.",
+          "width": 843
+        }
+      ],
+      "h1Count": 1,
+      "lang": "tr",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "tr",
+      "path": "products",
+      "viewport": "1440x900",
+      "clientWidth": 1425,
+      "dir": "ltr",
+      "documentWidth": 1425,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 79,
+          "right": 790,
+          "text": "Lezzetinbirçok hâli.",
+          "width": 711
+        }
+      ],
+      "h1Count": 1,
+      "lang": "tr",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "tr",
+      "path": "media",
+      "viewport": "1440x900",
+      "clientWidth": 1425,
+      "dir": "ltr",
+      "documentWidth": 1425,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 79,
+          "right": 889,
+          "text": "Markanın hikâyesi,birçok kadrajda.",
+          "width": 810
+        }
+      ],
+      "h1Count": 1,
+      "lang": "tr",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "tr",
+      "path": "facilities",
+      "viewport": "1440x900",
+      "clientWidth": 1425,
+      "dir": "ltr",
+      "documentWidth": 1425,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 79,
+          "right": 719,
+          "text": "Lezzet üretenbirikim.",
+          "width": 640
+        }
+      ],
+      "h1Count": 1,
+      "lang": "tr",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "en",
+      "path": "",
+      "viewport": "1440x900",
+      "clientWidth": 1425,
+      "dir": "ltr",
+      "documentWidth": 1425,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 79,
+          "right": 1079,
+          "text": "Rooted in Türkiye.Shared with the world.",
+          "width": 1000
+        }
+      ],
+      "h1Count": 1,
+      "lang": "en",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "en",
+      "path": "products/mayonez",
+      "viewport": "1440x900",
+      "clientWidth": 1425,
+      "dir": "ltr",
+      "documentWidth": 1425,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 79,
+          "right": 763,
+          "text": "A smooth texture.Fresh ideas.",
+          "width": 684
+        }
+      ],
+      "h1Count": 1,
+      "lang": "en",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "en",
+      "path": "about",
+      "viewport": "1440x900",
+      "clientWidth": 1425,
+      "dir": "ltr",
+      "documentWidth": 1425,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 79,
+          "right": 895,
+          "text": "There is a worldbehind the flavour.",
+          "width": 816
+        }
+      ],
+      "h1Count": 1,
+      "lang": "en",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "en",
+      "path": "products",
+      "viewport": "1440x900",
+      "clientWidth": 1425,
+      "dir": "ltr",
+      "documentWidth": 1425,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 79,
+          "right": 790,
+          "text": "Many waysto enjoy flavour.",
+          "width": 711
+        }
+      ],
+      "h1Count": 1,
+      "lang": "en",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "en",
+      "path": "media",
+      "viewport": "1440x900",
+      "clientWidth": 1425,
+      "dir": "ltr",
+      "documentWidth": 1425,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 79,
+          "right": 1170,
+          "text": "The brand story,through different lenses.",
+          "width": 1091
+        }
+      ],
+      "h1Count": 1,
+      "lang": "en",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "en",
+      "path": "facilities",
+      "viewport": "1440x900",
+      "clientWidth": 1425,
+      "dir": "ltr",
+      "documentWidth": 1425,
+      "font": "manrope, \"manrope Fallback\"",
+      "footer": true,
+      "h1": [
+        {
+          "left": 79,
+          "right": 776,
+          "text": "Experience thatcreates flavour.",
+          "width": 696
+        }
+      ],
+      "h1Count": 1,
+      "lang": "en",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "ar",
+      "path": "",
+      "viewport": "1440x900",
+      "clientWidth": 1425,
+      "dir": "rtl",
+      "documentWidth": 1425,
+      "font": "arabic, \"arabic Fallback\", sans-serif",
+      "footer": true,
+      "h1": [
+        {
+          "left": 346,
+          "right": 1346,
+          "text": "جذورنا في تركيا.ومذاقنا للعالم.",
+          "width": 1000
+        }
+      ],
+      "h1Count": 1,
+      "lang": "ar",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "ar",
+      "path": "products/mayonez",
+      "viewport": "1440x900",
+      "clientWidth": 1425,
+      "dir": "rtl",
+      "documentWidth": 1425,
+      "font": "arabic, \"arabic Fallback\", sans-serif",
+      "footer": true,
+      "h1": [
+        {
+          "left": 662,
+          "right": 1346,
+          "text": "قوام ناعم.أفكار جديدة.",
+          "width": 684
+        }
+      ],
+      "h1Count": 1,
+      "lang": "ar",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "ar",
+      "path": "about",
+      "viewport": "1440x900",
+      "clientWidth": 1425,
+      "dir": "rtl",
+      "documentWidth": 1425,
+      "font": "arabic, \"arabic Fallback\", sans-serif",
+      "footer": true,
+      "h1": [
+        {
+          "left": 709,
+          "right": 1346,
+          "text": "وراء المذاق،عالم كامل.",
+          "width": 637
+        }
+      ],
+      "h1Count": 1,
+      "lang": "ar",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "ar",
+      "path": "products",
+      "viewport": "1440x900",
+      "clientWidth": 1425,
+      "dir": "rtl",
+      "documentWidth": 1425,
+      "font": "arabic, \"arabic Fallback\", sans-serif",
+      "footer": true,
+      "h1": [
+        {
+          "left": 635,
+          "right": 1346,
+          "text": "للنكهةوجوه متعددة.",
+          "width": 711
+        }
+      ],
+      "h1Count": 1,
+      "lang": "ar",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "ar",
+      "path": "media",
+      "viewport": "1440x900",
+      "clientWidth": 1425,
+      "dir": "rtl",
+      "documentWidth": 1425,
+      "font": "arabic, \"arabic Fallback\", sans-serif",
+      "footer": true,
+      "h1": [
+        {
+          "left": 679,
+          "right": 1346,
+          "text": "قصة العلامة،بعدسات مختلفة.",
+          "width": 666
+        }
+      ],
+      "h1Count": 1,
+      "lang": "ar",
+      "main": true,
+      "pass": true
+    },
+    {
+      "locale": "ar",
+      "path": "facilities",
+      "viewport": "1440x900",
+      "clientWidth": 1425,
+      "dir": "rtl",
+      "documentWidth": 1425,
+      "font": "arabic, \"arabic Fallback\", sans-serif",
+      "footer": true,
+      "h1": [
+        {
+          "left": 706,
+          "right": 1346,
+          "text": "خبرة تنتجالمذاق.",
+          "width": 640
+        }
+      ],
+      "h1Count": 1,
+      "lang": "ar",
+      "main": true,
+      "pass": true
+    }
+  ],
+  "finalBuildSession": 30383,
+  "functionalBuildSession": 27267,
+  "scopeNote": "Search/forms and language preservation verified on build27267; final30383 changes only near-viewport photo loading, Arabic root font and film panel fit. Final layouts, images, motion, default tracks and modal fit separately repeated on30383. Native AR subtitles visibly verified; full normal-speed caption/editorial acceptance remains human review."
+}

@@ -1,0 +1,180 @@
+{
+  "kind": "local server response log, not HAR",
+  "viewport": 390,
+  "bodyBytes": 741085,
+  "targetBytes": 800000,
+  "meetsLocalBodyBudget": true,
+  "records": [
+    {
+      "at": "2026-10-13T22:26:35.748Z",
+      "method": "GET",
+      "path": "/tr/",
+      "range": false,
+      "status": 200,
+      "responseBytes": 7023,
+      "encoding": "br"
+    },
+    {
+      "at": "2026-10-13T22:26:35.800Z",
+      "method": "GET",
+      "path": "/assets/products/ketcap.webp",
+      "range": false,
+      "status": 200,
+      "responseBytes": 283906,
+      "encoding": null
+    },
+    {
+      "at": "2026-10-13T22:26:35.808Z",
+      "method": "GET",
+      "path": "/_next/static/css/a477c78908705ec3.css",
+      "range": false,
+      "status": 200,
+      "responseBytes": 10477,
+      "encoding": "br"
+    },
+    {
+      "at": "2026-10-13T22:26:35.814Z",
+      "method": "GET",
+      "path": "/assets/brand/burcu-logo.webp",
+      "range": false,
+      "status": 200,
+      "responseBytes": 21736,
+      "encoding": null
+    },
+    {
+      "at": "2026-10-13T22:26:35.843Z",
+      "method": "GET",
+      "path": "/_next/static/chunks/webpack-778986402d37ddcf.js",
+      "range": false,
+      "status": 200,
+      "responseBytes": 2393,
+      "encoding": "br"
+    },
+    {
+      "at": "2026-10-13T22:26:35.883Z",
+      "method": "GET",
+      "path": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+      "range": false,
+      "status": 200,
+      "responseBytes": 63842,
+      "encoding": "br"
+    },
+    {
+      "at": "2026-10-13T22:26:35.895Z",
+      "method": "GET",
+      "path": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+      "range": false,
+      "status": 200,
+      "responseBytes": 65042,
+      "encoding": "br"
+    },
+    {
+      "at": "2026-10-13T22:26:35.914Z",
+      "method": "GET",
+      "path": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+      "range": false,
+      "status": 200,
+      "responseBytes": 3295,
+      "encoding": "br"
+    },
+    {
+      "at": "2026-10-13T22:26:35.923Z",
+      "method": "GET",
+      "path": "/_next/static/chunks/319-231054c294c00b2d.js",
+      "range": false,
+      "status": 200,
+      "responseBytes": 7488,
+      "encoding": "br"
+    },
+    {
+      "at": "2026-10-13T22:26:35.929Z",
+      "method": "GET",
+      "path": "/_next/static/chunks/app/%5Blocale%5D/layout-5c31caf82028fdb3.js",
+      "range": false,
+      "status": 200,
+      "responseBytes": 4799,
+      "encoding": "br"
+    },
+    {
+      "at": "2026-10-13T22:26:35.935Z",
+      "method": "GET",
+      "path": "/_next/static/chunks/app/%5Blocale%5D/page-0ece250a9e9b23bf.js",
+      "range": false,
+      "status": 200,
+      "responseBytes": 3008,
+      "encoding": "br"
+    },
+    {
+      "at": "2026-10-13T22:26:35.941Z",
+      "method": "GET",
+      "path": "/_next/static/chunks/main-app-53fb55aaedf99428.js",
+      "range": false,
+      "status": 200,
+      "responseBytes": 513,
+      "encoding": null
+    },
+    {
+      "at": "2026-10-13T22:26:35.944Z",
+      "method": "GET",
+      "path": "/_next/static/media/1d87c1b82f2f077a-s.p.woff2",
+      "range": false,
+      "status": 200,
+      "responseBytes": 53892,
+      "encoding": null
+    },
+    {
+      "at": "2026-10-13T22:26:36.047Z",
+      "method": "GET",
+      "path": "/assets/scenes/ketchup-mobile.webp",
+      "range": false,
+      "status": 200,
+      "responseBytes": 32064,
+      "encoding": null
+    },
+    {
+      "at": "2026-10-13T22:26:36.049Z",
+      "method": "GET",
+      "path": "/assets/scenes/paste-mobile.webp",
+      "range": false,
+      "status": 200,
+      "responseBytes": 55704,
+      "encoding": null
+    },
+    {
+      "at": "2026-10-13T22:26:36.051Z",
+      "method": "GET",
+      "path": "/assets/facilities/F01.webp",
+      "range": false,
+      "status": 200,
+      "responseBytes": 122156,
+      "encoding": null
+    },
+    {
+      "at": "2026-10-13T22:26:36.065Z",
+      "method": "HEAD",
+      "path": "/tr/",
+      "range": false,
+      "status": 200,
+      "responseBytes": 7023,
+      "encoding": "br"
+    },
+    {
+      "at": "2026-10-13T22:26:36.102Z",
+      "method": "GET",
+      "path": "/tr/__next._tree.txt",
+      "range": false,
+      "status": 200,
+      "responseBytes": 360,
+      "encoding": null
+    },
+    {
+      "at": "2026-10-13T22:26:36.113Z",
+      "method": "GET",
+      "path": "/tr/__next.$d$locale.__PAGE__.txt",
+      "range": false,
+      "status": 200,
+      "responseBytes": 3387,
+      "encoding": "br"
+    }
+  ]
+}

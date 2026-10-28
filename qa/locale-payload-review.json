@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-14",
+  "status": "source-types-common-build-static-http-and-local-browser-evidence-complete",
+  "scope": "Server-selected active locale props; no visual or route changes",
+  "serverContent": [
+    "src/content/copy.ts",
+    "src/content/navigation-copy.ts",
+    "src/content/collection-copy.ts"
+  ],
+  "clientComponents": [
+    "src/components/Navigation.tsx",
+    "src/components/ProductStudio.tsx",
+    "src/components/ProductCollection.tsx",
+    "src/components/ExperienceDialogs.tsx"
+  ],
+  "checks": {
+    "allFourClientComponentsUseTypeOnlyCopyImports": true,
+    "navigationAndCollectionTranslationsRetained": true,
+    "sharedSelectedCopyObjectPassedFromServerLayout": true,
+    "headerFooterSameRouteLanguageSelectionRetained": true,
+    "collectionSearchNormalizationRetained": true,
+    "trimmedLocalizedFormValidationRetained": true,
+    "reactSourceReview": {
+      "bundleConditional": "Existing desktop gates unchanged; no animation dependency moved into startup imports",
+      "serverDedupProps": "Server layout shares selected text and nav object references",
+      "serverSerialization": "Only active locale values cross client boundaries",
+      "hooksAndAccessibility": "Existing hooks, dialog focus restoration, keyboard controls and RTL unchanged"
+    },
+    "typescript": {
+      "command": "npm run typecheck",
+      "exitCode": 0
+    },
+    "21stReview": {
+      "files": 4,
+      "findings": 0,
+      "fixed": 0,
+      "exitCode": 0
+    },
+    "commonProductionBuild": {
+      "performed": true,
+      "finalBuildSession": 30383,
+      "functionalBuildSession": 27267,
+      "evidence": "qa/performance-final-review.json",
+      "scopeNote": "Search/forms and language preservation verified on build27267; final30383 changes only near-viewport photo loading, Arabic root font and film panel fit. Final layouts, images, motion, default tracks and modal fit separately repeated on30383. Native AR subtitles visibly verified; full normal-speed caption/editorial acceptance remains human review."
+    },
+    "staticExport": {
+      "passed": true,
+      "verifiedRoutes": 99,
+      "evidence": "qa/complete-export-review.json"
+    },
+    "localHttp": {
+      "passed": true,
+      "pageCount": 99,
+      "flightCount": 101,
+      "sitemapCount": 99,
+      "evidence": "qa/complete-http-review.json"
+    },
+    "measuredAssets": {
+      "inventoryBefore": "qa/performance-inventory-before.json",
+      "inventoryAfter": "qa/performance-inventory-after.json",
+      "method": "Static gzip inventory for actual linked initial modern JavaScript and HTML; separate from browser wire transfer.",
+      "comparisons": [
+        {
+          "route": "/tr/",
+          "beforeInitialModernJsGzipBytes": 155848,
+          "afterInitialModernJsGzipBytes": 151448,
+          "jsGzipDifferenceBytes": -4400,
+          "beforeHtmlGzipBytes": 9089,
+          "afterHtmlGzipBytes": 11394
+        },
+        {
+          "route": "/en/",
+          "beforeInitialModernJsGzipBytes": 155848,
+          "afterInitialModernJsGzipBytes": 151448,
+          "jsGzipDifferenceBytes": -4400,
+          "beforeHtmlGzipBytes": 8934,
+          "afterHtmlGzipBytes": 11115
+        },
+        {
+          "route": "/ar/",
+          "beforeInitialModernJsGzipBytes": 155848,
+          "afterInitialModernJsGzipBytes": 151448,
+          "jsGzipDifferenceBytes": -4400,
+          "beforeHtmlGzipBytes": 9397,
+          "afterHtmlGzipBytes": 12287
+        },
+        {
+          "route": "/tr/products/",
+          "beforeInitialModernJsGzipBytes": 153636,
+          "afterInitialModernJsGzipBytes": 148264,
+          "jsGzipDifferenceBytes": -5372,
+          "beforeHtmlGzipBytes": 5841,
+          "afterHtmlGzipBytes": 8770
+        },
+        {
+          "route": "/ar/products/",
+          "beforeInitialModernJsGzipBytes": 153636,
+          "afterInitialModernJsGzipBytes": 148264,
+          "jsGzipDifferenceBytes": -5372,
+          "beforeHtmlGzipBytes": 6129,
+          "afterHtmlGzipBytes": 9151
+        },
+        {
+          "route": "/tr/products/mayonez/",
+          "beforeInitialModernJsGzipBytes": 154120,
+          "afterInitialModernJsGzipBytes": 148670,
+          "jsGzipDifferenceBytes": -5450,
+          "beforeHtmlGzipBytes": 9153,
+          "afterHtmlGzipBytes": 12127
+        },
+        {
+          "route": "/ar/products/mayonez/",
+          "beforeInitialModernJsGzipBytes": 154120,
+          "afterInitialModernJsGzipBytes": 148670,
+          "jsGzipDifferenceBytes": -5450,
+          "beforeHtmlGzipBytes": 9618,
+          "afterHtmlGzipBytes": 12853
+        }
+      ],
+      "attributionNote": "Other concurrent captions, responsive images, motion control and font changes are included. This comparison does not isolate the effect of locale props.",
+      "isolatedReactFlightSizeDeltaMeasured": false
+    },
+    "sameSkuLanguageRuntime": {
+      "evidence": "qa/final-continuation-runtime.json",
+      "buildSession": 27267,
+      "cases": [
+        {
+          "from": "/tr/products/mayonez/",
+          "to": "http://127.0.0.1:4320/en/products/mayonez/",
+          "expected": "/en/products/mayonez/",
+          "pass": true
+        },
+        {
+          "from": "/en/products/mayonez/",
+          "to": "http://127.0.0.1:4320/ar/products/mayonez/",
+          "expected": "/ar/products/mayonez/",
+          "pass": true
+        }
+      ],
+      "allCasesPass": true
+    },
+    "finalBrowserPerformance": {
+      "evidence": "qa/performance-final-review.json",
+      "buildSession": 30383,
+      "validSamples": 18,
+      "profileCount": 6,
+      "browser": "Brave Chromium",
+      "allTopLevel": true,
+      "explicitNetworkThrottling": false,
+      "allPlanTargetsMet": false
+    }
+  },
+  "pending": [],
+  "checkedAt": "2026-10-14T09:59:59.342Z",
+  "remainingAcceptance": [
+    "The 80 KB initial JavaScript target remains unmet; see the final performance report.",
+    "Native-language editorial review, physical-device and screen-reader acceptance remain separate.",
+    "Lighthouse 100, controlled cold-cache/throttled performance and full field Core Web Vitals were not established."
+  ],
+  "measurementBoundary": "Client imports and selected active-locale serialization were reviewed in source. Actual local static/HTTP, JavaScript inventory and same-SKU navigation have separate evidence. An isolated ReactFlight payload reduction is not claimed."
+}

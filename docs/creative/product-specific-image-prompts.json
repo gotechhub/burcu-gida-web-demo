@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-14",
+  "mode": "built-in image_gen",
+  "count": 3,
+  "entries": [
+    {
+      "key": "pepper-paste",
+      "prompt": "Use case: ads-marketing. BACKGROUND ONLY for premium Burcu SWEET RED PEPPER PASTE glass jar campaign. Widescreen16:9 highest native resolution. Real commercial food photography, deep burgundy with warm roasted-red shadows, physical stone tabletop and soft keylight from upperleft, photoreal macro textures not cartoon. Real sweet red bell peppers with stems, one freshlycut pepper showing irregular actual white seeds along FAR LEFT and FAR RIGHT, a small spoonful of dense brick-red pepper paste in bottom-left foreground, leafy subtle greens at extreme corners. EMPTY central45% reserved for separate authentic upright 320g green-lid jar: no generated jar or package. Upper40% quiet dark negative space for later large cream UI. Impressive luxury advertising campaign with real appetizing materials and honest light/shadows, no tomatoes, no ketchupwaves, no bottles, no logos, no typography, no watermark, no fake factory.",
+      "source": "C:\\Users\\SG\\.codex\\generated_images\\01a12d59-f576-7913-99dc-420ebbc33de8\\exec-a47ebdcc-a195-4a46-b449-86234db069ed.png",
+      "destination": "assets/masters/pepper-paste.png"
+    },
+    {
+      "key": "mixed-paste",
+      "prompt": "Use case: ads-marketing. BACKGROUND ONLY for premium Turkish food brand Burcu MIXED TOMATO AND PEPPER PASTE product website. Widescreen16:9 highest supported native resolution. Real commercial macro food photography, refined dark olive and warm burgundy culinary studio, real lightly textured dark stone tabletop. Real red tomatoes on vine grouped FAR LEFT, beautiful red sweet bell peppers cut open with real seed cavities FAR RIGHT, tiny dense tomato-pepper paste on dark artisan spoon at loweredge. Central45% fully EMPTY for an unchanged real upright green-lid320gjar inserted in browser; no packaging generated. Quiet uppercenter negative space for headings. Consistent golden side illumination and softly grounded contact plane. Sophisticated balanced ingredient pairing distinct from ketchup, natural honest irregular skins, wet tomato seedcells and real pepper texture. No fantasy/CGI, no logo, no text/watermark, no jar/bottle, no unrelated ingredients or fake certbadge.",
+      "source": "C:\\Users\\SG\\.codex\\generated_images\\01a12d59-f576-7913-99dc-420ebbc33de8\\exec-21eb8d5b-aafe-4c3d-b67f-382de1acf693.png",
+      "destination": "assets/masters/mixed-paste.png"
+    },
+    {
+      "key": "vine-leaves",
+      "prompt": "Use case: photorealistic-natural. BACKGROUND ONLY for premium Burcu stuffed grape-leaf rolls400g canned food product world. Wide16:9 highest native resolution. Natural warm-cream and pale olive studio backdrop, sunlit stone table. FAR RIGHT one realistically small artisan ceramicplate with a few authentic Turkish yaprak sarma stuffed vine-leaf rolls, tightlyrolled textured darkgreen olive-oil glistening real grapeleaves, ordinary portion and physicalscale. FAR LEFT subtle fresh grapeleaf texture and herbs with one delicate smalllemon wedge. Center45% totally EMPTY for separate authentic untouched400gtin, upper40% quiet pale space for navy heading. Coherent real food editorial photography, tactile leafveins/folds, grounded plate shadow, softwarm keylightupperleft, eleganthighendfoodadvertising, not cartoon/plastic3D, no massiveplatter/no kidneybeans, no package/tin/jar/logo/typography/watermark. Ingredients are illustrative serving idea, no nutrition/formula claim.",
+      "source": "C:\\Users\\SG\\.codex\\generated_images\\01a12d59-f576-7913-99dc-420ebbc33de8\\exec-b58e33c9-48ce-4317-b4d3-3957051d9ce8.png",
+      "destination": "assets/masters/vine-leaves.png"
+    }
+  ]
+}

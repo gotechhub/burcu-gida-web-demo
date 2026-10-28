@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "project": {
+    "name": "Burcu Global V2 corporate frontend",
+    "productType": "Complete corporate food-brand frontend; immersive product and production experience",
+    "stack": [
+      "nextjs",
+      "react",
+      "tailwind-v4"
+    ]
+  },
+  "sources": {
+    "tokens": [
+      "src/app/globals.css"
+    ],
+    "components": [],
+    "assets": [
+      "public/assets",
+      "assets"
+    ],
+    "instructions": [
+      "AGENTS.md"
+    ]
+  },
+  "design": {
+    "colorMode": "light",
+    "colors": {
+      "--color-burcu": {
+        "value": "#001688",
+        "source": "src/app/globals.css"
+      },
+      "--color-cream": {
+        "value": "#f5eee1",
+        "source": "src/app/globals.css"
+      },
+      "--color-tomato": {
+        "value": "#c41c11",
+        "source": "src/app/globals.css"
+      }
+    },
+    "typography": {
+      "latin": "Manrope variable 200–800",
+      "arabic": "Noto Sans Arabic",
+      "display": "large, fluid, strongly weighted; no label reconstruction"
+    },
+    "spacing": {
+      "--gutter": {
+        "value": "clamp(22px,5.5vw,112px)",
+        "source": "src/app/globals.css"
+      }
+    },
+    "radius": {},
+    "shadows": {},
+    "motion": {
+      "desktop": "GSAP staggered sections/photo masks/bounded photo drift + user-controlled ingredient product transitions + optional R3F photo shader. No wheel hijack.",
+      "mobile": "separate static layouts and horizontal native intent swipe",
+      "reduced": "no shader, no animated reveal or liquid wipe"
+    },
+    "density": "cinematic full-width editorial scenes, sparse controls"
+  },
+  "components": {
+    "installed": [],
+    "preferredPrimitives": [],
+    "patterns": []
+  },
+  "constraints": {
+    "must": [
+      "99 complete content routes: 33 per locale TR/EN/AR. Current user request authorizes all-page implementation.",
+      "Preserve original product labels/caps; native cutout RGB proven identical.",
+      "Ten SKU-specific visual worlds in six families; no catalog-card grid as homepage storytelling.",
+      "Real catalogue facilities; concept-film disclosure.",
+      "No desktopGL/GSAP/Lenis/video startup requests on mobile.",
+      "Normal scroll, focus and keyboard, RTL, reduced motion, error/static fallback."
+    ],
+    "avoid": [
+      "AI package/label/backside reconstruction",
+      "fake factory/certificate/count/health claims",
+      "paid hosted21st AI or public publishing",
+      "blocking preloader or wheel-hijacked page scroll",
+      "treating a4Kcanvas as new native photographic detail"
+    ]
+  },
+  "decisions": [
+    {
+      "id": "v2-supersedes-v1-direction",
+      "decision": "13October user rejected V1 and commissioned a new V2. Product/production-first cinematic ingredient worlds with an interactive six-family studio.",
+      "source": "Current user request and attached creative brief"
+    },
+    {
+      "id": "pilot-approval-boundary",
+      "decision": "Historical three-page/nine-route visual pilot and 57-route plan. The latest explicit all-pages user request supersedes this implementation approval boundary; human visual/content acceptance remains separate.",
+      "source": "AGENTS.md",
+      "status": "historical-superseded",
+      "supersededBy": "full-v2-corporate-expansion"
+    },
+    {
+      "id": "21st-access",
+      "decision": "LocalCLI1.18.0 initialized; catalog search blocked by sign-in. Public references reviewed; no hostedAI generation or fetched component code.",
+      "source": "docs/technical/architecture.md"
+    },
+    {
+      "id": "full-v2-corporate-expansion",
+      "decision": "14 October user requested all subpages, corrected brand-first home flow, SKU-specific mayo scene, physical serving composition, all assets and no-scrollbar mega/film UI. Full scope now99routes; no prior pilot approval hold.",
+      "source": "Current direct human user request"
+    },
+    {
+      "id": "local-brave-verification",
+      "decision": "User explicitly authorized local Brave browser testing during the continuation. Final production-build, runtime and performance evidence remains separate from human acceptance and public deployment.",
+      "source": "Current direct human authorization; root agent records runtime evidence",
+      "date": "2026-10-14"
+    }
+  ],
+  "evidence": [
+    {
+      "fact": "design.colorMode:light",
+      "source": "src/app/globals.css"
+    },
+    {
+      "fact": "design.tokens",
+      "source": "src/app/globals.css"
+    },
+    {
+      "fact": "project.instructions",
+      "source": "AGENTS.md"
+    },
+    {
+      "fact": "project.stack:nextjs",
+      "source": "package.json"
+    },
+    {
+      "fact": "project.stack:react",
+      "source": "package.json"
+    },
+    {
+      "fact": "project.stack:tailwind-v4",
+      "source": "package.json"
+    }
+  ],
+  "generatedAt": "2026-10-13T20:33:27.411Z",
+  "assetCounts": {
+    "generatedAiMasters": 17,
+    "baselineWebp": 48,
+    "responsiveProductWebp": 16,
+    "totalWebp": 64,
+    "woff2Files": 3,
+    "activeFontFaces": 2,
+    "preservedArabicWoff2Archives": 1,
+    "vttTracks": 3,
+    "cuesPerTrack": 33
+  },
+  "verification": {
+    "currentOwner": "root agent",
+    "currentRuntimeReport": "qa/final-continuation-runtime.md",
+    "finalContinuationBuildAndRuntimeStatus": "build30383-and-99-route-http-checks-passed-selected-brave-tests-recorded",
+    "humanVisualContentAcceptance": false,
+    "publicProductionReadinessClaimed": false,
+    "currentPerformanceReport": "qa/performance-final-review.md",
+    "initialJs80KbTargetPassed": false
+  },
+  "updatedAt": "2026-10-14"
+}

@@ -1,0 +1,2197 @@
+{
+  "schemaVersion": "1.0-final-local-performance-review",
+  "clientDate": "2026-10-14",
+  "clientTimeZone": "Europe/Istanbul",
+  "generatedAt": "2026-10-14T09:31:23.305Z",
+  "buildSession": 30383,
+  "status": "OBSERVED_LOCAL_TRANSFER_AND_CSS_BUDGETS_PASS_WITH_OPEN_INITIAL_JS_TARGET",
+  "allPlanTargetsMet": false,
+  "sources": [
+    {
+      "path": "qa/performance-browser-final.json",
+      "bytes": 84034,
+      "sha256": "86dddacb714cad2b972b43266c58c31cb7229d9a99892779c46a4ce970312198"
+    },
+    {
+      "path": "qa/performance-inventory-after.json",
+      "bytes": 9597,
+      "sha256": "de04d633d80bca086093f62791cdd88a8e6350167f463250985a548ace15db28"
+    },
+    {
+      "path": "qa/performance-inventory-before.json",
+      "bytes": 9940,
+      "sha256": "39d4b89f0b4e5ef43259aee708bf64c9ff7e317ae20f36d1a1e1f67013e467f7"
+    },
+    {
+      "path": "qa/performance-sensor.js",
+      "bytes": 4105,
+      "sha256": "3cec91cf8019bebc7ef97cd27c4a35708a36ec43e49e4d2a85ddce365abc59c8"
+    },
+    {
+      "path": "src/components/QualityProbe.tsx",
+      "bytes": 722,
+      "sha256": "27991509605176ea82f8ef408c8f1976696ce13ee38485529b1c7f1df6f38caf"
+    }
+  ],
+  "method": {
+    "browser": "Brave Chromium",
+    "host": "127.0.0.1 localhost static demo",
+    "capture": "Direct top-level navigation; native PerformanceObserver instantiated in the sampled document",
+    "profileCount": 6,
+    "runsPerProfile": 3,
+    "totalSamples": 18,
+    "viewports": {
+      "mobile": {
+        "width": 390,
+        "height": 844
+      },
+      "desktop": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    "devicePixelRatioObserved": 1.0000000149011612,
+    "observedAfterSensorLoadMs": 5000,
+    "navigationElapsedMs": {
+      "min": 5572,
+      "median": 5963,
+      "max": 7825,
+      "values": [
+        7825,
+        5963,
+        5990,
+        6347,
+        5771,
+        5658,
+        5837,
+        6068,
+        6099,
+        6060,
+        5572,
+        5687,
+        5741,
+        5733,
+        5763,
+        6039,
+        5636,
+        6085
+      ]
+    },
+    "observationWindowNote": "The snapshot is taken 5000 ms after the QA sensor executes, not exactly 5000 ms after navigation. Buffered native LCP/CLS entries precede sensor execution where supported.",
+    "explicitNetworkThrottling": false,
+    "explicitCpuThrottling": false,
+    "forcedCacheClear": false,
+    "coldWarmSeparatelyVerified": false,
+    "cacheNote": "No forced cache clearing or isolated cold/warm profiles. All app resource transferSize entries are nonzero in these samples; this does not establish a controlled cold-cache run.",
+    "scope": "Three homepage locales at two viewport sizes. Not a performance audit of all 99 content routes.",
+    "units": {
+      "KB": 1000,
+      "MB": 1000000,
+      "encodedBodyBytes": "Native Navigation Timing encodedBodySize plus same-origin Resource Timing encodedBodySize; /__qa/ requests excluded.",
+      "transferBytes": "Native Navigation Timing transferSize plus same-origin Resource Timing transferSize; /__qa/ requests excluded. Includes headers as reported by Chromium.",
+      "staticGzipBytes": "Sum of node:zlib gzipSync output for the exact initial modern JS or linked CSS files, counted once per URL. Separate from browser native encoding."
+    }
+  },
+  "validity": {
+    "validSamples": 18,
+    "allTopLevel": true,
+    "allNativeObserversSupported": true,
+    "allLcpElementsFromCorrectSampleDocument": true,
+    "iframeSamplesIncluded": 0,
+    "excludedHistoricalArtifacts": [
+      "qa/performance-browser-initial-invalid.json",
+      "qa/performance-framed-pre-guard.json"
+    ]
+  },
+  "privateInstrumentation": {
+    "excludedRequestPrefix": "/__qa/",
+    "sensorBodyBytesPerRun": [
+      1731
+    ],
+    "totalExcludedSensorBodyBytes": 31158,
+    "totalExcludedSensorTransferBytes": 36558,
+    "rawResourcesRetainSensorRows": true,
+    "qualityProbeLoaderIncludedInInitialApplicationJs": true,
+    "qualityProbeLoaderNote": "QualityProbe client code remains in the shared layout chunk and in the reported 151448-byte initial JS inventory. No arbitrary shared-chunk subtraction is made.",
+    "sensorRequestCondition": "Local hostname plus one of the six explicit qa profile query values. Ordinary visits do not request the external sensor or append its result panel.",
+    "outputPanelTiming": "The result panel is appended only after the snapshot; it is not present while captured CLS/LCP values are computed."
+  },
+  "profiles": [
+    {
+      "profile": "tr-mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "sampleCount": 3,
+      "budgetBytes": 800000,
+      "lcpMs": {
+        "min": 352,
+        "median": 352,
+        "max": 620,
+        "values": [
+          620,
+          352,
+          352
+        ]
+      },
+      "fcpMs": {
+        "min": 328,
+        "median": 352,
+        "max": 608,
+        "values": [
+          608,
+          328,
+          352
+        ]
+      },
+      "cls": {
+        "min": 0,
+        "median": 0,
+        "max": 0,
+        "values": [
+          0,
+          0,
+          0
+        ]
+      },
+      "encodedBodyBytes": {
+        "min": 483055,
+        "median": 483055,
+        "max": 483055,
+        "values": [
+          483055,
+          483055,
+          483055
+        ]
+      },
+      "transferBytes": {
+        "min": 487855,
+        "median": 487855,
+        "max": 487855,
+        "values": [
+          487855,
+          487855,
+          487855
+        ]
+      },
+      "allEncodedBodyRunsWithinBudget": true,
+      "allTransferRunsWithinBudget": true,
+      "samples": [
+        {
+          "run": 1,
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "devicePixelRatio": 1.0000000149011612,
+          "captureContext": "top-level",
+          "observerDocument": "/tr/",
+          "observerSupport": {
+            "lcp": true,
+            "cls": true
+          },
+          "lcpMs": 620,
+          "fcpMs": 608,
+          "cls": 0,
+          "lcpElement": {
+            "tag": "IMG",
+            "id": "",
+            "className": "",
+            "document": "/tr/"
+          },
+          "elapsedSinceNavigationMs": 6060,
+          "observedAfterSensorLoadMs": 5000,
+          "encodedBodyBytes": 483055,
+          "transferBytes": 487855,
+          "excludedQaSensorBodyBytes": 1731,
+          "requestedFonts": [
+            {
+              "path": "/assets/fonts/Manrope.woff2",
+              "initiator": "link",
+              "bodyBytes": 53892,
+              "transferBytes": 54192,
+              "durationMs": 166
+            }
+          ],
+          "startupFacilityRequests": [],
+          "canvasCount": 0,
+          "zeroTransferAppResourceCount": 0,
+          "navigation": {
+            "encodedBodyBytes": 11613,
+            "transferBytes": 11913
+          },
+          "categories": {
+            "font": {
+              "requestCount": 1,
+              "encodedBodyBytes": 53892,
+              "transferBytes": 54192
+            },
+            "raster": {
+              "requestCount": 4,
+              "encodedBodyBytes": 246350,
+              "transferBytes": 247550
+            },
+            "initialCss": {
+              "requestCount": 2,
+              "encodedBodyBytes": 20497,
+              "transferBytes": 21097
+            },
+            "initialJavaScript": {
+              "requestCount": 7,
+              "encodedBodyBytes": 149450,
+              "transferBytes": 151550
+            },
+            "svg": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1253,
+              "transferBytes": 1553
+            },
+            "excludedQaSensor": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1731,
+              "transferBytes": 2031
+            }
+          }
+        },
+        {
+          "run": 2,
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "devicePixelRatio": 1.0000000149011612,
+          "captureContext": "top-level",
+          "observerDocument": "/tr/",
+          "observerSupport": {
+            "lcp": true,
+            "cls": true
+          },
+          "lcpMs": 352,
+          "fcpMs": 328,
+          "cls": 0,
+          "lcpElement": {
+            "tag": "IMG",
+            "id": "",
+            "className": "",
+            "document": "/tr/"
+          },
+          "elapsedSinceNavigationMs": 5572,
+          "observedAfterSensorLoadMs": 5000,
+          "encodedBodyBytes": 483055,
+          "transferBytes": 487855,
+          "excludedQaSensorBodyBytes": 1731,
+          "requestedFonts": [
+            {
+              "path": "/assets/fonts/Manrope.woff2",
+              "initiator": "link",
+              "bodyBytes": 53892,
+              "transferBytes": 54192,
+              "durationMs": 93
+            }
+          ],
+          "startupFacilityRequests": [],
+          "canvasCount": 0,
+          "zeroTransferAppResourceCount": 0,
+          "navigation": {
+            "encodedBodyBytes": 11613,
+            "transferBytes": 11913
+          },
+          "categories": {
+            "font": {
+              "requestCount": 1,
+              "encodedBodyBytes": 53892,
+              "transferBytes": 54192
+            },
+            "raster": {
+              "requestCount": 4,
+              "encodedBodyBytes": 246350,
+              "transferBytes": 247550
+            },
+            "initialCss": {
+              "requestCount": 2,
+              "encodedBodyBytes": 20497,
+              "transferBytes": 21097
+            },
+            "initialJavaScript": {
+              "requestCount": 7,
+              "encodedBodyBytes": 149450,
+              "transferBytes": 151550
+            },
+            "svg": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1253,
+              "transferBytes": 1553
+            },
+            "excludedQaSensor": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1731,
+              "transferBytes": 2031
+            }
+          }
+        },
+        {
+          "run": 3,
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "devicePixelRatio": 1.0000000149011612,
+          "captureContext": "top-level",
+          "observerDocument": "/tr/",
+          "observerSupport": {
+            "lcp": true,
+            "cls": true
+          },
+          "lcpMs": 352,
+          "fcpMs": 352,
+          "cls": 0,
+          "lcpElement": {
+            "tag": "IMG",
+            "id": "",
+            "className": "",
+            "document": "/tr/"
+          },
+          "elapsedSinceNavigationMs": 5687,
+          "observedAfterSensorLoadMs": 5000,
+          "encodedBodyBytes": 483055,
+          "transferBytes": 487855,
+          "excludedQaSensorBodyBytes": 1731,
+          "requestedFonts": [
+            {
+              "path": "/assets/fonts/Manrope.woff2",
+              "initiator": "link",
+              "bodyBytes": 53892,
+              "transferBytes": 54192,
+              "durationMs": 100
+            }
+          ],
+          "startupFacilityRequests": [],
+          "canvasCount": 0,
+          "zeroTransferAppResourceCount": 0,
+          "navigation": {
+            "encodedBodyBytes": 11613,
+            "transferBytes": 11913
+          },
+          "categories": {
+            "font": {
+              "requestCount": 1,
+              "encodedBodyBytes": 53892,
+              "transferBytes": 54192
+            },
+            "raster": {
+              "requestCount": 4,
+              "encodedBodyBytes": 246350,
+              "transferBytes": 247550
+            },
+            "initialCss": {
+              "requestCount": 2,
+              "encodedBodyBytes": 20497,
+              "transferBytes": 21097
+            },
+            "initialJavaScript": {
+              "requestCount": 7,
+              "encodedBodyBytes": 149450,
+              "transferBytes": 151550
+            },
+            "svg": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1253,
+              "transferBytes": 1553
+            },
+            "excludedQaSensor": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1731,
+              "transferBytes": 2031
+            }
+          }
+        }
+      ]
+    },
+    {
+      "profile": "en-mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "sampleCount": 3,
+      "budgetBytes": 800000,
+      "lcpMs": {
+        "min": 364,
+        "median": 408,
+        "max": 420,
+        "values": [
+          364,
+          408,
+          420
+        ]
+      },
+      "fcpMs": {
+        "min": 364,
+        "median": 380,
+        "max": 380,
+        "values": [
+          364,
+          380,
+          380
+        ]
+      },
+      "cls": {
+        "min": 0,
+        "median": 0,
+        "max": 0,
+        "values": [
+          0,
+          0,
+          0
+        ]
+      },
+      "encodedBodyBytes": {
+        "min": 482682,
+        "median": 482682,
+        "max": 482682,
+        "values": [
+          482682,
+          482682,
+          482682
+        ]
+      },
+      "transferBytes": {
+        "min": 487482,
+        "median": 487482,
+        "max": 487482,
+        "values": [
+          487482,
+          487482,
+          487482
+        ]
+      },
+      "allEncodedBodyRunsWithinBudget": true,
+      "allTransferRunsWithinBudget": true,
+      "samples": [
+        {
+          "run": 1,
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "devicePixelRatio": 1.0000000149011612,
+          "captureContext": "top-level",
+          "observerDocument": "/en/",
+          "observerSupport": {
+            "lcp": true,
+            "cls": true
+          },
+          "lcpMs": 364,
+          "fcpMs": 364,
+          "cls": 0,
+          "lcpElement": {
+            "tag": "IMG",
+            "id": "",
+            "className": "",
+            "document": "/en/"
+          },
+          "elapsedSinceNavigationMs": 5741,
+          "observedAfterSensorLoadMs": 5000,
+          "encodedBodyBytes": 482682,
+          "transferBytes": 487482,
+          "excludedQaSensorBodyBytes": 1731,
+          "requestedFonts": [
+            {
+              "path": "/assets/fonts/Manrope.woff2",
+              "initiator": "link",
+              "bodyBytes": 53892,
+              "transferBytes": 54192,
+              "durationMs": 109
+            }
+          ],
+          "startupFacilityRequests": [],
+          "canvasCount": 0,
+          "zeroTransferAppResourceCount": 0,
+          "navigation": {
+            "encodedBodyBytes": 11240,
+            "transferBytes": 11540
+          },
+          "categories": {
+            "font": {
+              "requestCount": 1,
+              "encodedBodyBytes": 53892,
+              "transferBytes": 54192
+            },
+            "raster": {
+              "requestCount": 4,
+              "encodedBodyBytes": 246350,
+              "transferBytes": 247550
+            },
+            "initialCss": {
+              "requestCount": 2,
+              "encodedBodyBytes": 20497,
+              "transferBytes": 21097
+            },
+            "initialJavaScript": {
+              "requestCount": 7,
+              "encodedBodyBytes": 149450,
+              "transferBytes": 151550
+            },
+            "svg": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1253,
+              "transferBytes": 1553
+            },
+            "excludedQaSensor": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1731,
+              "transferBytes": 2031
+            }
+          }
+        },
+        {
+          "run": 2,
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "devicePixelRatio": 1.0000000149011612,
+          "captureContext": "top-level",
+          "observerDocument": "/en/",
+          "observerSupport": {
+            "lcp": true,
+            "cls": true
+          },
+          "lcpMs": 408,
+          "fcpMs": 380,
+          "cls": 0,
+          "lcpElement": {
+            "tag": "IMG",
+            "id": "",
+            "className": "",
+            "document": "/en/"
+          },
+          "elapsedSinceNavigationMs": 5733,
+          "observedAfterSensorLoadMs": 5000,
+          "encodedBodyBytes": 482682,
+          "transferBytes": 487482,
+          "excludedQaSensorBodyBytes": 1731,
+          "requestedFonts": [
+            {
+              "path": "/assets/fonts/Manrope.woff2",
+              "initiator": "link",
+              "bodyBytes": 53892,
+              "transferBytes": 54192,
+              "durationMs": 118
+            }
+          ],
+          "startupFacilityRequests": [],
+          "canvasCount": 0,
+          "zeroTransferAppResourceCount": 0,
+          "navigation": {
+            "encodedBodyBytes": 11240,
+            "transferBytes": 11540
+          },
+          "categories": {
+            "font": {
+              "requestCount": 1,
+              "encodedBodyBytes": 53892,
+              "transferBytes": 54192
+            },
+            "raster": {
+              "requestCount": 4,
+              "encodedBodyBytes": 246350,
+              "transferBytes": 247550
+            },
+            "initialCss": {
+              "requestCount": 2,
+              "encodedBodyBytes": 20497,
+              "transferBytes": 21097
+            },
+            "initialJavaScript": {
+              "requestCount": 7,
+              "encodedBodyBytes": 149450,
+              "transferBytes": 151550
+            },
+            "svg": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1253,
+              "transferBytes": 1553
+            },
+            "excludedQaSensor": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1731,
+              "transferBytes": 2031
+            }
+          }
+        },
+        {
+          "run": 3,
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "devicePixelRatio": 1.0000000149011612,
+          "captureContext": "top-level",
+          "observerDocument": "/en/",
+          "observerSupport": {
+            "lcp": true,
+            "cls": true
+          },
+          "lcpMs": 420,
+          "fcpMs": 380,
+          "cls": 0,
+          "lcpElement": {
+            "tag": "IMG",
+            "id": "",
+            "className": "",
+            "document": "/en/"
+          },
+          "elapsedSinceNavigationMs": 5763,
+          "observedAfterSensorLoadMs": 5000,
+          "encodedBodyBytes": 482682,
+          "transferBytes": 487482,
+          "excludedQaSensorBodyBytes": 1731,
+          "requestedFonts": [
+            {
+              "path": "/assets/fonts/Manrope.woff2",
+              "initiator": "link",
+              "bodyBytes": 53892,
+              "transferBytes": 54192,
+              "durationMs": 111
+            }
+          ],
+          "startupFacilityRequests": [],
+          "canvasCount": 0,
+          "zeroTransferAppResourceCount": 0,
+          "navigation": {
+            "encodedBodyBytes": 11240,
+            "transferBytes": 11540
+          },
+          "categories": {
+            "font": {
+              "requestCount": 1,
+              "encodedBodyBytes": 53892,
+              "transferBytes": 54192
+            },
+            "raster": {
+              "requestCount": 4,
+              "encodedBodyBytes": 246350,
+              "transferBytes": 247550
+            },
+            "initialCss": {
+              "requestCount": 2,
+              "encodedBodyBytes": 20497,
+              "transferBytes": 21097
+            },
+            "initialJavaScript": {
+              "requestCount": 7,
+              "encodedBodyBytes": 149450,
+              "transferBytes": 151550
+            },
+            "svg": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1253,
+              "transferBytes": 1553
+            },
+            "excludedQaSensor": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1731,
+              "transferBytes": 2031
+            }
+          }
+        }
+      ]
+    },
+    {
+      "profile": "ar-mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "sampleCount": 3,
+      "budgetBytes": 800000,
+      "lcpMs": {
+        "min": 348,
+        "median": 680,
+        "max": 716,
+        "values": [
+          716,
+          348,
+          680
+        ]
+      },
+      "fcpMs": {
+        "min": 348,
+        "median": 680,
+        "max": 716,
+        "values": [
+          716,
+          348,
+          680
+        ]
+      },
+      "cls": {
+        "min": 0,
+        "median": 0,
+        "max": 0,
+        "values": [
+          0,
+          0,
+          0
+        ]
+      },
+      "encodedBodyBytes": {
+        "min": 640612,
+        "median": 640612,
+        "max": 640612,
+        "values": [
+          640612,
+          640612,
+          640612
+        ]
+      },
+      "transferBytes": {
+        "min": 645412,
+        "median": 645412,
+        "max": 645412,
+        "values": [
+          645412,
+          645412,
+          645412
+        ]
+      },
+      "allEncodedBodyRunsWithinBudget": true,
+      "allTransferRunsWithinBudget": true,
+      "samples": [
+        {
+          "run": 1,
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "devicePixelRatio": 1.0000000149011612,
+          "captureContext": "top-level",
+          "observerDocument": "/ar/",
+          "observerSupport": {
+            "lcp": true,
+            "cls": true
+          },
+          "lcpMs": 716,
+          "fcpMs": 716,
+          "cls": 0,
+          "lcpElement": {
+            "tag": "IMG",
+            "id": "",
+            "className": "",
+            "document": "/ar/"
+          },
+          "elapsedSinceNavigationMs": 6039,
+          "observedAfterSensorLoadMs": 5000,
+          "encodedBodyBytes": 640612,
+          "transferBytes": 645412,
+          "excludedQaSensorBodyBytes": 1731,
+          "requestedFonts": [
+            {
+              "path": "/assets/fonts/NotoSansArabic-web.woff2",
+              "initiator": "link",
+              "bodyBytes": 210848,
+              "transferBytes": 211148,
+              "durationMs": 271
+            }
+          ],
+          "startupFacilityRequests": [],
+          "canvasCount": 0,
+          "zeroTransferAppResourceCount": 0,
+          "navigation": {
+            "encodedBodyBytes": 12214,
+            "transferBytes": 12514
+          },
+          "categories": {
+            "font": {
+              "requestCount": 1,
+              "encodedBodyBytes": 210848,
+              "transferBytes": 211148
+            },
+            "raster": {
+              "requestCount": 4,
+              "encodedBodyBytes": 246350,
+              "transferBytes": 247550
+            },
+            "initialCss": {
+              "requestCount": 2,
+              "encodedBodyBytes": 20497,
+              "transferBytes": 21097
+            },
+            "initialJavaScript": {
+              "requestCount": 7,
+              "encodedBodyBytes": 149450,
+              "transferBytes": 151550
+            },
+            "svg": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1253,
+              "transferBytes": 1553
+            },
+            "excludedQaSensor": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1731,
+              "transferBytes": 2031
+            }
+          }
+        },
+        {
+          "run": 2,
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "devicePixelRatio": 1.0000000149011612,
+          "captureContext": "top-level",
+          "observerDocument": "/ar/",
+          "observerSupport": {
+            "lcp": true,
+            "cls": true
+          },
+          "lcpMs": 348,
+          "fcpMs": 348,
+          "cls": 0,
+          "lcpElement": {
+            "tag": "IMG",
+            "id": "",
+            "className": "",
+            "document": "/ar/"
+          },
+          "elapsedSinceNavigationMs": 5636,
+          "observedAfterSensorLoadMs": 5000,
+          "encodedBodyBytes": 640612,
+          "transferBytes": 645412,
+          "excludedQaSensorBodyBytes": 1731,
+          "requestedFonts": [
+            {
+              "path": "/assets/fonts/NotoSansArabic-web.woff2",
+              "initiator": "link",
+              "bodyBytes": 210848,
+              "transferBytes": 211148,
+              "durationMs": 99
+            }
+          ],
+          "startupFacilityRequests": [],
+          "canvasCount": 0,
+          "zeroTransferAppResourceCount": 0,
+          "navigation": {
+            "encodedBodyBytes": 12214,
+            "transferBytes": 12514
+          },
+          "categories": {
+            "font": {
+              "requestCount": 1,
+              "encodedBodyBytes": 210848,
+              "transferBytes": 211148
+            },
+            "raster": {
+              "requestCount": 4,
+              "encodedBodyBytes": 246350,
+              "transferBytes": 247550
+            },
+            "initialCss": {
+              "requestCount": 2,
+              "encodedBodyBytes": 20497,
+              "transferBytes": 21097
+            },
+            "initialJavaScript": {
+              "requestCount": 7,
+              "encodedBodyBytes": 149450,
+              "transferBytes": 151550
+            },
+            "svg": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1253,
+              "transferBytes": 1553
+            },
+            "excludedQaSensor": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1731,
+              "transferBytes": 2031
+            }
+          }
+        },
+        {
+          "run": 3,
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "devicePixelRatio": 1.0000000149011612,
+          "captureContext": "top-level",
+          "observerDocument": "/ar/",
+          "observerSupport": {
+            "lcp": true,
+            "cls": true
+          },
+          "lcpMs": 680,
+          "fcpMs": 680,
+          "cls": 0,
+          "lcpElement": {
+            "tag": "IMG",
+            "id": "",
+            "className": "",
+            "document": "/ar/"
+          },
+          "elapsedSinceNavigationMs": 6085,
+          "observedAfterSensorLoadMs": 5000,
+          "encodedBodyBytes": 640612,
+          "transferBytes": 645412,
+          "excludedQaSensorBodyBytes": 1731,
+          "requestedFonts": [
+            {
+              "path": "/assets/fonts/NotoSansArabic-web.woff2",
+              "initiator": "link",
+              "bodyBytes": 210848,
+              "transferBytes": 211148,
+              "durationMs": 240
+            }
+          ],
+          "startupFacilityRequests": [],
+          "canvasCount": 0,
+          "zeroTransferAppResourceCount": 0,
+          "navigation": {
+            "encodedBodyBytes": 12214,
+            "transferBytes": 12514
+          },
+          "categories": {
+            "font": {
+              "requestCount": 1,
+              "encodedBodyBytes": 210848,
+              "transferBytes": 211148
+            },
+            "raster": {
+              "requestCount": 4,
+              "encodedBodyBytes": 246350,
+              "transferBytes": 247550
+            },
+            "initialCss": {
+              "requestCount": 2,
+              "encodedBodyBytes": 20497,
+              "transferBytes": 21097
+            },
+            "initialJavaScript": {
+              "requestCount": 7,
+              "encodedBodyBytes": 149450,
+              "transferBytes": 151550
+            },
+            "svg": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1253,
+              "transferBytes": 1553
+            },
+            "excludedQaSensor": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1731,
+              "transferBytes": 2031
+            }
+          }
+        }
+      ]
+    },
+    {
+      "profile": "tr-desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "sampleCount": 3,
+      "budgetBytes": 1200000,
+      "lcpMs": {
+        "min": 372,
+        "median": 436,
+        "max": 756,
+        "values": [
+          756,
+          436,
+          372
+        ]
+      },
+      "fcpMs": {
+        "min": 372,
+        "median": 436,
+        "max": 756,
+        "values": [
+          756,
+          436,
+          372
+        ]
+      },
+      "cls": {
+        "min": 0,
+        "median": 0,
+        "max": 0,
+        "values": [
+          0,
+          0,
+          0
+        ]
+      },
+      "encodedBodyBytes": {
+        "min": 927241,
+        "median": 927241,
+        "max": 927241,
+        "values": [
+          927241,
+          927241,
+          927241
+        ]
+      },
+      "transferBytes": {
+        "min": 933241,
+        "median": 933241,
+        "max": 933241,
+        "values": [
+          933241,
+          933241,
+          933241
+        ]
+      },
+      "allEncodedBodyRunsWithinBudget": true,
+      "allTransferRunsWithinBudget": true,
+      "samples": [
+        {
+          "run": 1,
+          "viewport": {
+            "width": 1440,
+            "height": 900
+          },
+          "devicePixelRatio": 1.0000000149011612,
+          "captureContext": "top-level",
+          "observerDocument": "/tr/",
+          "observerSupport": {
+            "lcp": true,
+            "cls": true
+          },
+          "lcpMs": 756,
+          "fcpMs": 756,
+          "cls": 0,
+          "lcpElement": {
+            "tag": "SPAN",
+            "id": "",
+            "className": "title-line",
+            "document": "/tr/"
+          },
+          "elapsedSinceNavigationMs": 6347,
+          "observedAfterSensorLoadMs": 5000,
+          "encodedBodyBytes": 927241,
+          "transferBytes": 933241,
+          "excludedQaSensorBodyBytes": 1731,
+          "requestedFonts": [
+            {
+              "path": "/assets/fonts/Manrope.woff2",
+              "initiator": "link",
+              "bodyBytes": 53892,
+              "transferBytes": 54192,
+              "durationMs": 230
+            }
+          ],
+          "startupFacilityRequests": [],
+          "canvasCount": 0,
+          "zeroTransferAppResourceCount": 0,
+          "navigation": {
+            "encodedBodyBytes": 11613,
+            "transferBytes": 11913
+          },
+          "categories": {
+            "font": {
+              "requestCount": 1,
+              "encodedBodyBytes": 53892,
+              "transferBytes": 54192
+            },
+            "raster": {
+              "requestCount": 4,
+              "encodedBodyBytes": 633358,
+              "transferBytes": 634558
+            },
+            "initialCss": {
+              "requestCount": 2,
+              "encodedBodyBytes": 20497,
+              "transferBytes": 21097
+            },
+            "initialJavaScript": {
+              "requestCount": 7,
+              "encodedBodyBytes": 149450,
+              "transferBytes": 151550
+            },
+            "svg": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1253,
+              "transferBytes": 1553
+            },
+            "excludedQaSensor": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1731,
+              "transferBytes": 2031
+            },
+            "deferredJavaScript": {
+              "requestCount": 3,
+              "encodedBodyBytes": 56722,
+              "transferBytes": 57622
+            },
+            "deferredCss": {
+              "requestCount": 1,
+              "encodedBodyBytes": 456,
+              "transferBytes": 756
+            }
+          }
+        },
+        {
+          "run": 2,
+          "viewport": {
+            "width": 1440,
+            "height": 900
+          },
+          "devicePixelRatio": 1.0000000149011612,
+          "captureContext": "top-level",
+          "observerDocument": "/tr/",
+          "observerSupport": {
+            "lcp": true,
+            "cls": true
+          },
+          "lcpMs": 436,
+          "fcpMs": 436,
+          "cls": 0,
+          "lcpElement": {
+            "tag": "SPAN",
+            "id": "",
+            "className": "title-line",
+            "document": "/tr/"
+          },
+          "elapsedSinceNavigationMs": 5771,
+          "observedAfterSensorLoadMs": 5000,
+          "encodedBodyBytes": 927241,
+          "transferBytes": 933241,
+          "excludedQaSensorBodyBytes": 1731,
+          "requestedFonts": [
+            {
+              "path": "/assets/fonts/Manrope.woff2",
+              "initiator": "link",
+              "bodyBytes": 53892,
+              "transferBytes": 54192,
+              "durationMs": 140
+            }
+          ],
+          "startupFacilityRequests": [],
+          "canvasCount": 0,
+          "zeroTransferAppResourceCount": 0,
+          "navigation": {
+            "encodedBodyBytes": 11613,
+            "transferBytes": 11913
+          },
+          "categories": {
+            "font": {
+              "requestCount": 1,
+              "encodedBodyBytes": 53892,
+              "transferBytes": 54192
+            },
+            "raster": {
+              "requestCount": 4,
+              "encodedBodyBytes": 633358,
+              "transferBytes": 634558
+            },
+            "initialCss": {
+              "requestCount": 2,
+              "encodedBodyBytes": 20497,
+              "transferBytes": 21097
+            },
+            "initialJavaScript": {
+              "requestCount": 7,
+              "encodedBodyBytes": 149450,
+              "transferBytes": 151550
+            },
+            "svg": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1253,
+              "transferBytes": 1553
+            },
+            "excludedQaSensor": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1731,
+              "transferBytes": 2031
+            },
+            "deferredJavaScript": {
+              "requestCount": 3,
+              "encodedBodyBytes": 56722,
+              "transferBytes": 57622
+            },
+            "deferredCss": {
+              "requestCount": 1,
+              "encodedBodyBytes": 456,
+              "transferBytes": 756
+            }
+          }
+        },
+        {
+          "run": 3,
+          "viewport": {
+            "width": 1440,
+            "height": 900
+          },
+          "devicePixelRatio": 1.0000000149011612,
+          "captureContext": "top-level",
+          "observerDocument": "/tr/",
+          "observerSupport": {
+            "lcp": true,
+            "cls": true
+          },
+          "lcpMs": 372,
+          "fcpMs": 372,
+          "cls": 0,
+          "lcpElement": {
+            "tag": "SPAN",
+            "id": "",
+            "className": "title-line",
+            "document": "/tr/"
+          },
+          "elapsedSinceNavigationMs": 5658,
+          "observedAfterSensorLoadMs": 5000,
+          "encodedBodyBytes": 927241,
+          "transferBytes": 933241,
+          "excludedQaSensorBodyBytes": 1731,
+          "requestedFonts": [
+            {
+              "path": "/assets/fonts/Manrope.woff2",
+              "initiator": "link",
+              "bodyBytes": 53892,
+              "transferBytes": 54192,
+              "durationMs": 59
+            }
+          ],
+          "startupFacilityRequests": [],
+          "canvasCount": 0,
+          "zeroTransferAppResourceCount": 0,
+          "navigation": {
+            "encodedBodyBytes": 11613,
+            "transferBytes": 11913
+          },
+          "categories": {
+            "font": {
+              "requestCount": 1,
+              "encodedBodyBytes": 53892,
+              "transferBytes": 54192
+            },
+            "raster": {
+              "requestCount": 4,
+              "encodedBodyBytes": 633358,
+              "transferBytes": 634558
+            },
+            "initialCss": {
+              "requestCount": 2,
+              "encodedBodyBytes": 20497,
+              "transferBytes": 21097
+            },
+            "initialJavaScript": {
+              "requestCount": 7,
+              "encodedBodyBytes": 149450,
+              "transferBytes": 151550
+            },
+            "svg": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1253,
+              "transferBytes": 1553
+            },
+            "excludedQaSensor": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1731,
+              "transferBytes": 2031
+            },
+            "deferredJavaScript": {
+              "requestCount": 3,
+              "encodedBodyBytes": 56722,
+              "transferBytes": 57622
+            },
+            "deferredCss": {
+              "requestCount": 1,
+              "encodedBodyBytes": 456,
+              "transferBytes": 756
+            }
+          }
+        }
+      ]
+    },
+    {
+      "profile": "en-desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "sampleCount": 3,
+      "budgetBytes": 1200000,
+      "lcpMs": {
+        "min": 516,
+        "median": 528,
+        "max": 636,
+        "values": [
+          516,
+          528,
+          636
+        ]
+      },
+      "fcpMs": {
+        "min": 516,
+        "median": 528,
+        "max": 636,
+        "values": [
+          516,
+          528,
+          636
+        ]
+      },
+      "cls": {
+        "min": 0,
+        "median": 0,
+        "max": 0,
+        "values": [
+          0,
+          0,
+          0
+        ]
+      },
+      "encodedBodyBytes": {
+        "min": 926868,
+        "median": 926868,
+        "max": 926868,
+        "values": [
+          926868,
+          926868,
+          926868
+        ]
+      },
+      "transferBytes": {
+        "min": 932868,
+        "median": 932868,
+        "max": 932868,
+        "values": [
+          932868,
+          932868,
+          932868
+        ]
+      },
+      "allEncodedBodyRunsWithinBudget": true,
+      "allTransferRunsWithinBudget": true,
+      "samples": [
+        {
+          "run": 1,
+          "viewport": {
+            "width": 1440,
+            "height": 900
+          },
+          "devicePixelRatio": 1.0000000149011612,
+          "captureContext": "top-level",
+          "observerDocument": "/en/",
+          "observerSupport": {
+            "lcp": true,
+            "cls": true
+          },
+          "lcpMs": 516,
+          "fcpMs": 516,
+          "cls": 0,
+          "lcpElement": {
+            "tag": "SPAN",
+            "id": "",
+            "className": "title-line",
+            "document": "/en/"
+          },
+          "elapsedSinceNavigationMs": 5837,
+          "observedAfterSensorLoadMs": 5000,
+          "encodedBodyBytes": 926868,
+          "transferBytes": 932868,
+          "excludedQaSensorBodyBytes": 1731,
+          "requestedFonts": [
+            {
+              "path": "/assets/fonts/Manrope.woff2",
+              "initiator": "link",
+              "bodyBytes": 53892,
+              "transferBytes": 54192,
+              "durationMs": 106
+            }
+          ],
+          "startupFacilityRequests": [],
+          "canvasCount": 0,
+          "zeroTransferAppResourceCount": 0,
+          "navigation": {
+            "encodedBodyBytes": 11240,
+            "transferBytes": 11540
+          },
+          "categories": {
+            "font": {
+              "requestCount": 1,
+              "encodedBodyBytes": 53892,
+              "transferBytes": 54192
+            },
+            "raster": {
+              "requestCount": 4,
+              "encodedBodyBytes": 633358,
+              "transferBytes": 634558
+            },
+            "initialCss": {
+              "requestCount": 2,
+              "encodedBodyBytes": 20497,
+              "transferBytes": 21097
+            },
+            "initialJavaScript": {
+              "requestCount": 7,
+              "encodedBodyBytes": 149450,
+              "transferBytes": 151550
+            },
+            "svg": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1253,
+              "transferBytes": 1553
+            },
+            "excludedQaSensor": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1731,
+              "transferBytes": 2031
+            },
+            "deferredJavaScript": {
+              "requestCount": 3,
+              "encodedBodyBytes": 56722,
+              "transferBytes": 57622
+            },
+            "deferredCss": {
+              "requestCount": 1,
+              "encodedBodyBytes": 456,
+              "transferBytes": 756
+            }
+          }
+        },
+        {
+          "run": 2,
+          "viewport": {
+            "width": 1440,
+            "height": 900
+          },
+          "devicePixelRatio": 1.0000000149011612,
+          "captureContext": "top-level",
+          "observerDocument": "/en/",
+          "observerSupport": {
+            "lcp": true,
+            "cls": true
+          },
+          "lcpMs": 528,
+          "fcpMs": 528,
+          "cls": 0,
+          "lcpElement": {
+            "tag": "SPAN",
+            "id": "",
+            "className": "title-line",
+            "document": "/en/"
+          },
+          "elapsedSinceNavigationMs": 6068,
+          "observedAfterSensorLoadMs": 5000,
+          "encodedBodyBytes": 926868,
+          "transferBytes": 932868,
+          "excludedQaSensorBodyBytes": 1731,
+          "requestedFonts": [
+            {
+              "path": "/assets/fonts/Manrope.woff2",
+              "initiator": "link",
+              "bodyBytes": 53892,
+              "transferBytes": 54192,
+              "durationMs": 105
+            }
+          ],
+          "startupFacilityRequests": [],
+          "canvasCount": 0,
+          "zeroTransferAppResourceCount": 0,
+          "navigation": {
+            "encodedBodyBytes": 11240,
+            "transferBytes": 11540
+          },
+          "categories": {
+            "font": {
+              "requestCount": 1,
+              "encodedBodyBytes": 53892,
+              "transferBytes": 54192
+            },
+            "raster": {
+              "requestCount": 4,
+              "encodedBodyBytes": 633358,
+              "transferBytes": 634558
+            },
+            "initialCss": {
+              "requestCount": 2,
+              "encodedBodyBytes": 20497,
+              "transferBytes": 21097
+            },
+            "initialJavaScript": {
+              "requestCount": 7,
+              "encodedBodyBytes": 149450,
+              "transferBytes": 151550
+            },
+            "svg": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1253,
+              "transferBytes": 1553
+            },
+            "excludedQaSensor": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1731,
+              "transferBytes": 2031
+            },
+            "deferredJavaScript": {
+              "requestCount": 3,
+              "encodedBodyBytes": 56722,
+              "transferBytes": 57622
+            },
+            "deferredCss": {
+              "requestCount": 1,
+              "encodedBodyBytes": 456,
+              "transferBytes": 756
+            }
+          }
+        },
+        {
+          "run": 3,
+          "viewport": {
+            "width": 1440,
+            "height": 900
+          },
+          "devicePixelRatio": 1.0000000149011612,
+          "captureContext": "top-level",
+          "observerDocument": "/en/",
+          "observerSupport": {
+            "lcp": true,
+            "cls": true
+          },
+          "lcpMs": 636,
+          "fcpMs": 636,
+          "cls": 0,
+          "lcpElement": {
+            "tag": "SPAN",
+            "id": "",
+            "className": "title-line",
+            "document": "/en/"
+          },
+          "elapsedSinceNavigationMs": 6099,
+          "observedAfterSensorLoadMs": 5000,
+          "encodedBodyBytes": 926868,
+          "transferBytes": 932868,
+          "excludedQaSensorBodyBytes": 1731,
+          "requestedFonts": [
+            {
+              "path": "/assets/fonts/Manrope.woff2",
+              "initiator": "link",
+              "bodyBytes": 53892,
+              "transferBytes": 54192,
+              "durationMs": 195
+            }
+          ],
+          "startupFacilityRequests": [],
+          "canvasCount": 0,
+          "zeroTransferAppResourceCount": 0,
+          "navigation": {
+            "encodedBodyBytes": 11240,
+            "transferBytes": 11540
+          },
+          "categories": {
+            "font": {
+              "requestCount": 1,
+              "encodedBodyBytes": 53892,
+              "transferBytes": 54192
+            },
+            "raster": {
+              "requestCount": 4,
+              "encodedBodyBytes": 633358,
+              "transferBytes": 634558
+            },
+            "initialCss": {
+              "requestCount": 2,
+              "encodedBodyBytes": 20497,
+              "transferBytes": 21097
+            },
+            "initialJavaScript": {
+              "requestCount": 7,
+              "encodedBodyBytes": 149450,
+              "transferBytes": 151550
+            },
+            "svg": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1253,
+              "transferBytes": 1553
+            },
+            "excludedQaSensor": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1731,
+              "transferBytes": 2031
+            },
+            "deferredJavaScript": {
+              "requestCount": 3,
+              "encodedBodyBytes": 56722,
+              "transferBytes": 57622
+            },
+            "deferredCss": {
+              "requestCount": 1,
+              "encodedBodyBytes": 456,
+              "transferBytes": 756
+            }
+          }
+        }
+      ]
+    },
+    {
+      "profile": "ar-desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "sampleCount": 3,
+      "budgetBytes": 1200000,
+      "lcpMs": {
+        "min": 484,
+        "median": 512,
+        "max": 1424,
+        "values": [
+          1424,
+          484,
+          512
+        ]
+      },
+      "fcpMs": {
+        "min": 484,
+        "median": 512,
+        "max": 1424,
+        "values": [
+          1424,
+          484,
+          512
+        ]
+      },
+      "cls": {
+        "min": 0,
+        "median": 0,
+        "max": 0,
+        "values": [
+          0,
+          0,
+          0
+        ]
+      },
+      "encodedBodyBytes": {
+        "min": 1084798,
+        "median": 1086051,
+        "max": 1106534,
+        "values": [
+          1086051,
+          1106534,
+          1084798
+        ]
+      },
+      "transferBytes": {
+        "min": 1090798,
+        "median": 1092351,
+        "max": 1112834,
+        "values": [
+          1092351,
+          1112834,
+          1090798
+        ]
+      },
+      "allEncodedBodyRunsWithinBudget": true,
+      "allTransferRunsWithinBudget": true,
+      "samples": [
+        {
+          "run": 1,
+          "viewport": {
+            "width": 1440,
+            "height": 900
+          },
+          "devicePixelRatio": 1.0000000149011612,
+          "captureContext": "top-level",
+          "observerDocument": "/ar/",
+          "observerSupport": {
+            "lcp": true,
+            "cls": true
+          },
+          "lcpMs": 1424,
+          "fcpMs": 1424,
+          "cls": 0,
+          "lcpElement": {
+            "tag": "SPAN",
+            "id": "",
+            "className": "title-line",
+            "document": "/ar/"
+          },
+          "elapsedSinceNavigationMs": 7825,
+          "observedAfterSensorLoadMs": 5000,
+          "encodedBodyBytes": 1086051,
+          "transferBytes": 1092351,
+          "excludedQaSensorBodyBytes": 1731,
+          "requestedFonts": [
+            {
+              "path": "/assets/fonts/NotoSansArabic-web.woff2",
+              "initiator": "link",
+              "bodyBytes": 210848,
+              "transferBytes": 211148,
+              "durationMs": 454
+            }
+          ],
+          "startupFacilityRequests": [],
+          "canvasCount": 0,
+          "zeroTransferAppResourceCount": 0,
+          "navigation": {
+            "encodedBodyBytes": 12214,
+            "transferBytes": 12514
+          },
+          "categories": {
+            "font": {
+              "requestCount": 1,
+              "encodedBodyBytes": 210848,
+              "transferBytes": 211148
+            },
+            "raster": {
+              "requestCount": 4,
+              "encodedBodyBytes": 633358,
+              "transferBytes": 634558
+            },
+            "initialCss": {
+              "requestCount": 2,
+              "encodedBodyBytes": 20497,
+              "transferBytes": 21097
+            },
+            "initialJavaScript": {
+              "requestCount": 7,
+              "encodedBodyBytes": 149450,
+              "transferBytes": 151550
+            },
+            "svg": {
+              "requestCount": 2,
+              "encodedBodyBytes": 2506,
+              "transferBytes": 3106
+            },
+            "excludedQaSensor": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1731,
+              "transferBytes": 2031
+            },
+            "deferredJavaScript": {
+              "requestCount": 3,
+              "encodedBodyBytes": 56722,
+              "transferBytes": 57622
+            },
+            "deferredCss": {
+              "requestCount": 1,
+              "encodedBodyBytes": 456,
+              "transferBytes": 756
+            }
+          }
+        },
+        {
+          "run": 2,
+          "viewport": {
+            "width": 1440,
+            "height": 900
+          },
+          "devicePixelRatio": 1.0000000149011612,
+          "captureContext": "top-level",
+          "observerDocument": "/ar/",
+          "observerSupport": {
+            "lcp": true,
+            "cls": true
+          },
+          "lcpMs": 484,
+          "fcpMs": 484,
+          "cls": 0,
+          "lcpElement": {
+            "tag": "SPAN",
+            "id": "",
+            "className": "title-line",
+            "document": "/ar/"
+          },
+          "elapsedSinceNavigationMs": 5963,
+          "observedAfterSensorLoadMs": 5000,
+          "encodedBodyBytes": 1106534,
+          "transferBytes": 1112834,
+          "excludedQaSensorBodyBytes": 1731,
+          "requestedFonts": [
+            {
+              "path": "/assets/fonts/NotoSansArabic-web.woff2",
+              "initiator": "link",
+              "bodyBytes": 210848,
+              "transferBytes": 211148,
+              "durationMs": 80
+            }
+          ],
+          "startupFacilityRequests": [],
+          "canvasCount": 0,
+          "zeroTransferAppResourceCount": 0,
+          "navigation": {
+            "encodedBodyBytes": 12214,
+            "transferBytes": 12514
+          },
+          "categories": {
+            "font": {
+              "requestCount": 1,
+              "encodedBodyBytes": 210848,
+              "transferBytes": 211148
+            },
+            "raster": {
+              "requestCount": 5,
+              "encodedBodyBytes": 655094,
+              "transferBytes": 656594
+            },
+            "initialCss": {
+              "requestCount": 2,
+              "encodedBodyBytes": 20497,
+              "transferBytes": 21097
+            },
+            "initialJavaScript": {
+              "requestCount": 7,
+              "encodedBodyBytes": 149450,
+              "transferBytes": 151550
+            },
+            "svg": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1253,
+              "transferBytes": 1553
+            },
+            "excludedQaSensor": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1731,
+              "transferBytes": 2031
+            },
+            "deferredJavaScript": {
+              "requestCount": 3,
+              "encodedBodyBytes": 56722,
+              "transferBytes": 57622
+            },
+            "deferredCss": {
+              "requestCount": 1,
+              "encodedBodyBytes": 456,
+              "transferBytes": 756
+            }
+          }
+        },
+        {
+          "run": 3,
+          "viewport": {
+            "width": 1440,
+            "height": 900
+          },
+          "devicePixelRatio": 1.0000000149011612,
+          "captureContext": "top-level",
+          "observerDocument": "/ar/",
+          "observerSupport": {
+            "lcp": true,
+            "cls": true
+          },
+          "lcpMs": 512,
+          "fcpMs": 512,
+          "cls": 0,
+          "lcpElement": {
+            "tag": "SPAN",
+            "id": "",
+            "className": "title-line",
+            "document": "/ar/"
+          },
+          "elapsedSinceNavigationMs": 5990,
+          "observedAfterSensorLoadMs": 5000,
+          "encodedBodyBytes": 1084798,
+          "transferBytes": 1090798,
+          "excludedQaSensorBodyBytes": 1731,
+          "requestedFonts": [
+            {
+              "path": "/assets/fonts/NotoSansArabic-web.woff2",
+              "initiator": "link",
+              "bodyBytes": 210848,
+              "transferBytes": 211148,
+              "durationMs": 117
+            }
+          ],
+          "startupFacilityRequests": [],
+          "canvasCount": 0,
+          "zeroTransferAppResourceCount": 0,
+          "navigation": {
+            "encodedBodyBytes": 12214,
+            "transferBytes": 12514
+          },
+          "categories": {
+            "font": {
+              "requestCount": 1,
+              "encodedBodyBytes": 210848,
+              "transferBytes": 211148
+            },
+            "raster": {
+              "requestCount": 4,
+              "encodedBodyBytes": 633358,
+              "transferBytes": 634558
+            },
+            "initialCss": {
+              "requestCount": 2,
+              "encodedBodyBytes": 20497,
+              "transferBytes": 21097
+            },
+            "initialJavaScript": {
+              "requestCount": 7,
+              "encodedBodyBytes": 149450,
+              "transferBytes": 151550
+            },
+            "svg": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1253,
+              "transferBytes": 1553
+            },
+            "excludedQaSensor": {
+              "requestCount": 1,
+              "encodedBodyBytes": 1731,
+              "transferBytes": 2031
+            },
+            "deferredJavaScript": {
+              "requestCount": 3,
+              "encodedBodyBytes": 56722,
+              "transferBytes": 57622
+            },
+            "deferredCss": {
+              "requestCount": 1,
+              "encodedBodyBytes": 456,
+              "transferBytes": 756
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "initialAssetInventory": {
+    "method": "Existing static JS inventory plus freshly measured gzip of every actual initial stylesheet linked by the seven audited static HTML documents. This is not measured browser transfer.",
+    "routes": [
+      {
+        "route": "/tr/",
+        "htmlBytes": 56770,
+        "htmlGzipBytes": 11394,
+        "initialModernJsGzipBytes": 151448
+      },
+      {
+        "route": "/en/",
+        "htmlBytes": 56746,
+        "htmlGzipBytes": 11115,
+        "initialModernJsGzipBytes": 151448
+      },
+      {
+        "route": "/ar/",
+        "htmlBytes": 61569,
+        "htmlGzipBytes": 12287,
+        "initialModernJsGzipBytes": 151448
+      },
+      {
+        "route": "/tr/products/",
+        "htmlBytes": 39744,
+        "htmlGzipBytes": 8770,
+        "initialModernJsGzipBytes": 148264
+      },
+      {
+        "route": "/ar/products/",
+        "htmlBytes": 44085,
+        "htmlGzipBytes": 9151,
+        "initialModernJsGzipBytes": 148264
+      },
+      {
+        "route": "/tr/products/mayonez/",
+        "htmlBytes": 65491,
+        "htmlGzipBytes": 12127,
+        "initialModernJsGzipBytes": 148670
+      },
+      {
+        "route": "/ar/products/mayonez/",
+        "htmlBytes": 71044,
+        "htmlGzipBytes": 12853,
+        "initialModernJsGzipBytes": 148670
+      }
+    ],
+    "initialCssByRoute": [
+      {
+        "route": "/tr/",
+        "files": [
+          {
+            "url": "/_next/static/css/a3c403f78441e6ce.css",
+            "rawBytes": 43772,
+            "gzipBytes": 10223,
+            "sha256": "2deb4b4c113f83337db3269e39fa3b977cc9ae968f7adf4fb160f7d5f26cab88"
+          },
+          {
+            "url": "/_next/static/css/3bd78fa3ef2a3318.css",
+            "rawBytes": 45944,
+            "gzipBytes": 9061,
+            "sha256": "94ba0781315bf773d6c4676b7fc6c94f4c56a982796a169a9b58c7e5ef8df578"
+          }
+        ],
+        "totalRawBytes": 89716,
+        "totalGzipBytes": 19284
+      },
+      {
+        "route": "/en/",
+        "files": [
+          {
+            "url": "/_next/static/css/a3c403f78441e6ce.css",
+            "rawBytes": 43772,
+            "gzipBytes": 10223,
+            "sha256": "2deb4b4c113f83337db3269e39fa3b977cc9ae968f7adf4fb160f7d5f26cab88"
+          },
+          {
+            "url": "/_next/static/css/3bd78fa3ef2a3318.css",
+            "rawBytes": 45944,
+            "gzipBytes": 9061,
+            "sha256": "94ba0781315bf773d6c4676b7fc6c94f4c56a982796a169a9b58c7e5ef8df578"
+          }
+        ],
+        "totalRawBytes": 89716,
+        "totalGzipBytes": 19284
+      },
+      {
+        "route": "/ar/",
+        "files": [
+          {
+            "url": "/_next/static/css/a3c403f78441e6ce.css",
+            "rawBytes": 43772,
+            "gzipBytes": 10223,
+            "sha256": "2deb4b4c113f83337db3269e39fa3b977cc9ae968f7adf4fb160f7d5f26cab88"
+          },
+          {
+            "url": "/_next/static/css/3bd78fa3ef2a3318.css",
+            "rawBytes": 45944,
+            "gzipBytes": 9061,
+            "sha256": "94ba0781315bf773d6c4676b7fc6c94f4c56a982796a169a9b58c7e5ef8df578"
+          }
+        ],
+        "totalRawBytes": 89716,
+        "totalGzipBytes": 19284
+      },
+      {
+        "route": "/tr/products/",
+        "files": [
+          {
+            "url": "/_next/static/css/a3c403f78441e6ce.css",
+            "rawBytes": 43772,
+            "gzipBytes": 10223,
+            "sha256": "2deb4b4c113f83337db3269e39fa3b977cc9ae968f7adf4fb160f7d5f26cab88"
+          },
+          {
+            "url": "/_next/static/css/3bd78fa3ef2a3318.css",
+            "rawBytes": 45944,
+            "gzipBytes": 9061,
+            "sha256": "94ba0781315bf773d6c4676b7fc6c94f4c56a982796a169a9b58c7e5ef8df578"
+          }
+        ],
+        "totalRawBytes": 89716,
+        "totalGzipBytes": 19284
+      },
+      {
+        "route": "/ar/products/",
+        "files": [
+          {
+            "url": "/_next/static/css/a3c403f78441e6ce.css",
+            "rawBytes": 43772,
+            "gzipBytes": 10223,
+            "sha256": "2deb4b4c113f83337db3269e39fa3b977cc9ae968f7adf4fb160f7d5f26cab88"
+          },
+          {
+            "url": "/_next/static/css/3bd78fa3ef2a3318.css",
+            "rawBytes": 45944,
+            "gzipBytes": 9061,
+            "sha256": "94ba0781315bf773d6c4676b7fc6c94f4c56a982796a169a9b58c7e5ef8df578"
+          }
+        ],
+        "totalRawBytes": 89716,
+        "totalGzipBytes": 19284
+      },
+      {
+        "route": "/tr/products/mayonez/",
+        "files": [
+          {
+            "url": "/_next/static/css/a3c403f78441e6ce.css",
+            "rawBytes": 43772,
+            "gzipBytes": 10223,
+            "sha256": "2deb4b4c113f83337db3269e39fa3b977cc9ae968f7adf4fb160f7d5f26cab88"
+          },
+          {
+            "url": "/_next/static/css/3bd78fa3ef2a3318.css",
+            "rawBytes": 45944,
+            "gzipBytes": 9061,
+            "sha256": "94ba0781315bf773d6c4676b7fc6c94f4c56a982796a169a9b58c7e5ef8df578"
+          }
+        ],
+        "totalRawBytes": 89716,
+        "totalGzipBytes": 19284
+      },
+      {
+        "route": "/ar/products/mayonez/",
+        "files": [
+          {
+            "url": "/_next/static/css/a3c403f78441e6ce.css",
+            "rawBytes": 43772,
+            "gzipBytes": 10223,
+            "sha256": "2deb4b4c113f83337db3269e39fa3b977cc9ae968f7adf4fb160f7d5f26cab88"
+          },
+          {
+            "url": "/_next/static/css/3bd78fa3ef2a3318.css",
+            "rawBytes": 45944,
+            "gzipBytes": 9061,
+            "sha256": "94ba0781315bf773d6c4676b7fc6c94f4c56a982796a169a9b58c7e5ef8df578"
+          }
+        ],
+        "totalRawBytes": 89716,
+        "totalGzipBytes": 19284
+      }
+    ],
+    "javaScript": {
+      "budgetBytes": 80000,
+      "status": "FAIL_OPEN",
+      "homepageBeforeGzipBytes": 155848,
+      "homepageAfterGzipBytes": 151448,
+      "savedGzipBytes": 4400,
+      "savedPercent": 2.82,
+      "frameworkFiles": [
+        {
+          "url": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "rawBytes": 203721,
+          "gzipBytes": 64057
+        },
+        {
+          "url": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "rawBytes": 242917,
+          "gzipBytes": 67558
+        }
+      ],
+      "frameworkGzipBytes": 131615,
+      "remainingApplicationAndLoaderGzipBytes": 19833,
+      "explanation": "The two shared ReactDOM and Next/React runtime files alone total 131615 gzip bytes in this exact build. The 80000-byte target is not satisfied. This is a measured current-build floor, not a universal minimum for all Next/React implementations.",
+      "htmlTradeoff": "Locale-only client copy moves selected text into serialized HTML/RSC props. TR homepage HTML gzip changed from 9089 to 11394 bytes; the 4400-byte JS reduction is not an identical total-network saving."
+    },
+    "css": {
+      "budgetBytes": 35000,
+      "status": "PASS_STATIC_GZIP",
+      "maximumInitialCssGzipBytes": 19284,
+      "deferredCssNote": "The Lenis stylesheet is absent from initial HTML link inventory. When loaded during the native sample window, it is included in runtime totals and deferredCss categories."
+    }
+  },
+  "acceptance": {
+    "all18EncodedBodyWithinInitialViewportBudget": true,
+    "all18NativeTransferWithinInitialViewportBudget": true,
+    "all18ObservedLcpBelow2500Ms": true,
+    "maximumObservedLcpMs": 1424,
+    "all18ObservedClsZero": true,
+    "all9MobileInitialCanvasZero": true,
+    "all6ArabicSamplesRequestOnlyArabicWebFont": true,
+    "all18StartupFacilityRequestsAbsent": true,
+    "initialCssGzipBudgetPass": true,
+    "initialJavaScriptGzipBudgetPass": false,
+    "LighthouseMeasured": false,
+    "Lighthouse100Claimed": false,
+    "INPMeasured": false,
+    "fieldCoreWebVitalsMeasured": false,
+    "physicalDeviceMeasured": false,
+    "SafariMeasured": false,
+    "all99RoutesPerformanceMeasured": false,
+    "productionHostedPerformanceVerified": false
+  },
+  "limitations": [
+    "Unthrottled localhost timing is not a Lighthouse score, field Core Web Vitals assessment, or real-device acceptance.",
+    "No controlled cold-cache/warm-cache split and no explicit network or CPU throttling.",
+    "Only homepage initial-load windows are sampled; later scrolling, menus, all product routes, video playback and interactive INP require separate verification.",
+    "Desktop motion JavaScript that loads within the window is counted; zero initial desktop canvas means the product world was offscreen, not that desktop motion was disabled.",
+    "The 80 KB initial JavaScript gzip target remains unmet.",
+    "Runtime functional and visual acceptance evidence is documented separately by the project lead."
+  ]
+}

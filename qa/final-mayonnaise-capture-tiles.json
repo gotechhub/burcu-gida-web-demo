@@ -1,0 +1,33 @@
+{
+  "method": "Native Brave viewport captures at requested 3840px width; full-page screenshot exceeded backend capture timeout; screenshots retained; no generated pixels",
+  "tiles": [
+    {
+      "filename": "final-mayonnaise-4k-tile-0.jpg",
+      "documentHeight": 6993,
+      "height": 2160,
+      "scroll": 0,
+      "width": 3840
+    },
+    {
+      "filename": "final-mayonnaise-4k-tile-1.jpg",
+      "documentHeight": 6993,
+      "height": 2160,
+      "scroll": 2160,
+      "width": 3840
+    },
+    {
+      "filename": "final-mayonnaise-4k-tile-2.jpg",
+      "documentHeight": 6993,
+      "height": 2160,
+      "scroll": 4320,
+      "width": 3840
+    },
+    {
+      "filename": "final-mayonnaise-4k-tile-3.jpg",
+      "documentHeight": 6993,
+      "height": 2160,
+      "scroll": 4832.7998046875,
+      "width": 3840
+    }
+  ]
+}

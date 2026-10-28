@@ -1,0 +1,3004 @@
+{
+  "date": "2026-10-14",
+  "buildSession": 27267,
+  "method": "18 direct top-level Brave samples; 390x844 and 1440x900; native Performance API; 5 second initial load window; unthrottled localhost; not Lighthouse or field/device acceptance",
+  "samples": [
+    {
+      "run": 1,
+      "profile": "tr-mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "devicePixelRatio": 1.0000000149011612,
+      "observedAfterSensorLoadMs": 5000,
+      "elapsedSinceNavigationMs": 9595,
+      "method": "Chromium Performance API observer in the sampled document; unthrottled local sample; not Lighthouse or field acceptance",
+      "observerDocument": "/tr/",
+      "observerSupport": {
+        "lcp": true,
+        "cls": true
+      },
+      "fcpMs": 868,
+      "lcpMs": 1016,
+      "lcpElement": {
+        "tag": "IMG",
+        "id": "",
+        "className": "",
+        "document": "/tr/"
+      },
+      "cls": 0.000214,
+      "shiftSources": [
+        {
+          "value": 0.0002142014005608814,
+          "time": 952.8000000007451,
+          "sources": [
+            {
+              "tag": "DIV",
+              "id": "",
+              "className": "nav-actions",
+              "document": "/tr/",
+              "previous": {
+                "x": 294.2124938964844,
+                "y": 18.600000381469727,
+                "width": 70.1875,
+                "height": 44,
+                "top": 18.600000381469727,
+                "right": 364.3999938964844,
+                "bottom": 62.60000038146973,
+                "left": 294.2124938964844
+              },
+              "current": {
+                "x": 279.01251220703125,
+                "y": 18.600000381469727,
+                "width": 70.1875,
+                "height": 44,
+                "top": 18.600000381469727,
+                "right": 349.20001220703125,
+                "bottom": 62.60000038146973,
+                "left": 279.01251220703125
+              }
+            }
+          ]
+        }
+      ],
+      "encodedBodyBytes": 504375,
+      "transferBytes": 509475,
+      "excludedQaSensorBodyBytes": 1731,
+      "resources": [
+        {
+          "path": "/assets/fonts/Manrope.woff2",
+          "initiator": "link",
+          "bodyBytes": 53892,
+          "transferBytes": 54192,
+          "durationMs": 192
+        },
+        {
+          "path": "/assets/brand/burcu-logo.webp",
+          "initiator": "link",
+          "bodyBytes": 21736,
+          "transferBytes": 22036,
+          "durationMs": 199
+        },
+        {
+          "path": "/_next/static/css/7cd8e1b6f1987bd3.css",
+          "initiator": "link",
+          "bodyBytes": 10749,
+          "transferBytes": 11049,
+          "durationMs": 155
+        },
+        {
+          "path": "/_next/static/css/5a337cbd971222fc.css",
+          "initiator": "link",
+          "bodyBytes": 9719,
+          "transferBytes": 10019,
+          "durationMs": 167
+        },
+        {
+          "path": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "initiator": "link",
+          "bodyBytes": 2400,
+          "transferBytes": 2700,
+          "durationMs": 344
+        },
+        {
+          "path": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "initiator": "script",
+          "bodyBytes": 63842,
+          "transferBytes": 64142,
+          "durationMs": 408
+        },
+        {
+          "path": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "initiator": "script",
+          "bodyBytes": 65042,
+          "transferBytes": 65342,
+          "durationMs": 425
+        },
+        {
+          "path": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "initiator": "script",
+          "bodyBytes": 513,
+          "transferBytes": 813,
+          "durationMs": 449
+        },
+        {
+          "path": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "initiator": "script",
+          "bodyBytes": 3295,
+          "transferBytes": 3595,
+          "durationMs": 432
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "initiator": "script",
+          "bodyBytes": 8747,
+          "transferBytes": 9047,
+          "durationMs": 440
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/page-e459c51372e05f32.js",
+          "initiator": "script",
+          "bodyBytes": 5306,
+          "transferBytes": 5606,
+          "durationMs": 446
+        },
+        {
+          "path": "/assets/scenes/brand-field-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 86176,
+          "transferBytes": 86476,
+          "durationMs": 191
+        },
+        {
+          "path": "/assets/scenes/about-harvest-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 82734,
+          "transferBytes": 83034,
+          "durationMs": 67
+        },
+        {
+          "path": "/assets/scenes/paste-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 55704,
+          "transferBytes": 56004,
+          "durationMs": 65
+        },
+        {
+          "path": "/assets/icons/sprite.svg",
+          "initiator": "other",
+          "bodyBytes": 1253,
+          "transferBytes": 1553,
+          "durationMs": 43
+        },
+        {
+          "path": "/assets/brand/burcu-logo.webp",
+          "initiator": "img",
+          "bodyBytes": 21736,
+          "transferBytes": 22036,
+          "durationMs": 51
+        },
+        {
+          "path": "/__qa/metrics.js",
+          "initiator": "script",
+          "bodyBytes": 1731,
+          "transferBytes": 2031,
+          "durationMs": 17
+        }
+      ],
+      "canvasCount": 0,
+      "captureContext": "top-level"
+    },
+    {
+      "run": 2,
+      "profile": "tr-mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "devicePixelRatio": 1.0000000149011612,
+      "observedAfterSensorLoadMs": 5000,
+      "elapsedSinceNavigationMs": 6884,
+      "method": "Chromium Performance API observer in the sampled document; unthrottled local sample; not Lighthouse or field acceptance",
+      "observerDocument": "/tr/",
+      "observerSupport": {
+        "lcp": true,
+        "cls": true
+      },
+      "fcpMs": 1684,
+      "lcpMs": 1684,
+      "lcpElement": {
+        "tag": "IMG",
+        "id": "",
+        "className": "",
+        "document": "/tr/"
+      },
+      "cls": 0,
+      "shiftSources": [],
+      "encodedBodyBytes": 482639,
+      "transferBytes": 487439,
+      "excludedQaSensorBodyBytes": 1731,
+      "resources": [
+        {
+          "path": "/assets/fonts/Manrope.woff2",
+          "initiator": "link",
+          "bodyBytes": 53892,
+          "transferBytes": 54192,
+          "durationMs": 335
+        },
+        {
+          "path": "/assets/brand/burcu-logo.webp",
+          "initiator": "link",
+          "bodyBytes": 21736,
+          "transferBytes": 22036,
+          "durationMs": 430
+        },
+        {
+          "path": "/_next/static/css/7cd8e1b6f1987bd3.css",
+          "initiator": "link",
+          "bodyBytes": 10749,
+          "transferBytes": 11049,
+          "durationMs": 235
+        },
+        {
+          "path": "/_next/static/css/5a337cbd971222fc.css",
+          "initiator": "link",
+          "bodyBytes": 9719,
+          "transferBytes": 10019,
+          "durationMs": 274
+        },
+        {
+          "path": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "initiator": "link",
+          "bodyBytes": 2400,
+          "transferBytes": 2700,
+          "durationMs": 426
+        },
+        {
+          "path": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "initiator": "script",
+          "bodyBytes": 63842,
+          "transferBytes": 64142,
+          "durationMs": 508
+        },
+        {
+          "path": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "initiator": "script",
+          "bodyBytes": 65042,
+          "transferBytes": 65342,
+          "durationMs": 511
+        },
+        {
+          "path": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "initiator": "script",
+          "bodyBytes": 513,
+          "transferBytes": 813,
+          "durationMs": 512
+        },
+        {
+          "path": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "initiator": "script",
+          "bodyBytes": 3295,
+          "transferBytes": 3595,
+          "durationMs": 542
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "initiator": "script",
+          "bodyBytes": 8747,
+          "transferBytes": 9047,
+          "durationMs": 544
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/page-e459c51372e05f32.js",
+          "initiator": "script",
+          "bodyBytes": 5306,
+          "transferBytes": 5606,
+          "durationMs": 557
+        },
+        {
+          "path": "/assets/scenes/brand-field-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 86176,
+          "transferBytes": 86476,
+          "durationMs": 427
+        },
+        {
+          "path": "/assets/icons/sprite.svg",
+          "initiator": "other",
+          "bodyBytes": 1253,
+          "transferBytes": 1553,
+          "durationMs": 544
+        },
+        {
+          "path": "/assets/scenes/about-harvest-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 82734,
+          "transferBytes": 83034,
+          "durationMs": 11
+        },
+        {
+          "path": "/assets/scenes/paste-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 55704,
+          "transferBytes": 56004,
+          "durationMs": 15
+        },
+        {
+          "path": "/__qa/metrics.js",
+          "initiator": "script",
+          "bodyBytes": 1731,
+          "transferBytes": 2031,
+          "durationMs": 35
+        }
+      ],
+      "canvasCount": 0,
+      "captureContext": "top-level"
+    },
+    {
+      "run": 3,
+      "profile": "tr-mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "devicePixelRatio": 1.0000000149011612,
+      "observedAfterSensorLoadMs": 5000,
+      "elapsedSinceNavigationMs": 5721,
+      "method": "Chromium Performance API observer in the sampled document; unthrottled local sample; not Lighthouse or field acceptance",
+      "observerDocument": "/tr/",
+      "observerSupport": {
+        "lcp": true,
+        "cls": true
+      },
+      "fcpMs": 360,
+      "lcpMs": 360,
+      "lcpElement": {
+        "tag": "IMG",
+        "id": "",
+        "className": "",
+        "document": "/tr/"
+      },
+      "cls": 0,
+      "shiftSources": [],
+      "encodedBodyBytes": 482639,
+      "transferBytes": 487439,
+      "excludedQaSensorBodyBytes": 1731,
+      "resources": [
+        {
+          "path": "/assets/fonts/Manrope.woff2",
+          "initiator": "link",
+          "bodyBytes": 53892,
+          "transferBytes": 54192,
+          "durationMs": 106
+        },
+        {
+          "path": "/assets/brand/burcu-logo.webp",
+          "initiator": "link",
+          "bodyBytes": 21736,
+          "transferBytes": 22036,
+          "durationMs": 112
+        },
+        {
+          "path": "/_next/static/css/7cd8e1b6f1987bd3.css",
+          "initiator": "link",
+          "bodyBytes": 10749,
+          "transferBytes": 11049,
+          "durationMs": 123
+        },
+        {
+          "path": "/_next/static/css/5a337cbd971222fc.css",
+          "initiator": "link",
+          "bodyBytes": 9719,
+          "transferBytes": 10019,
+          "durationMs": 133
+        },
+        {
+          "path": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "initiator": "link",
+          "bodyBytes": 2400,
+          "transferBytes": 2700,
+          "durationMs": 145
+        },
+        {
+          "path": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "initiator": "script",
+          "bodyBytes": 63842,
+          "transferBytes": 64142,
+          "durationMs": 162
+        },
+        {
+          "path": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "initiator": "script",
+          "bodyBytes": 65042,
+          "transferBytes": 65342,
+          "durationMs": 174
+        },
+        {
+          "path": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "initiator": "script",
+          "bodyBytes": 513,
+          "transferBytes": 813,
+          "durationMs": 188
+        },
+        {
+          "path": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "initiator": "script",
+          "bodyBytes": 3295,
+          "transferBytes": 3595,
+          "durationMs": 174
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/page-e459c51372e05f32.js",
+          "initiator": "script",
+          "bodyBytes": 5306,
+          "transferBytes": 5606,
+          "durationMs": 179
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "initiator": "script",
+          "bodyBytes": 8747,
+          "transferBytes": 9047,
+          "durationMs": 178
+        },
+        {
+          "path": "/assets/scenes/brand-field-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 86176,
+          "transferBytes": 86476,
+          "durationMs": 134
+        },
+        {
+          "path": "/assets/icons/sprite.svg",
+          "initiator": "other",
+          "bodyBytes": 1253,
+          "transferBytes": 1553,
+          "durationMs": 158
+        },
+        {
+          "path": "/assets/scenes/about-harvest-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 82734,
+          "transferBytes": 83034,
+          "durationMs": 19
+        },
+        {
+          "path": "/assets/scenes/paste-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 55704,
+          "transferBytes": 56004,
+          "durationMs": 33
+        },
+        {
+          "path": "/__qa/metrics.js",
+          "initiator": "script",
+          "bodyBytes": 1731,
+          "transferBytes": 2031,
+          "durationMs": 120
+        }
+      ],
+      "canvasCount": 0,
+      "captureContext": "top-level"
+    },
+    {
+      "run": 1,
+      "profile": "en-mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "devicePixelRatio": 1.0000000149011612,
+      "observedAfterSensorLoadMs": 5000,
+      "elapsedSinceNavigationMs": 6850,
+      "method": "Chromium Performance API observer in the sampled document; unthrottled local sample; not Lighthouse or field acceptance",
+      "observerDocument": "/en/",
+      "observerSupport": {
+        "lcp": true,
+        "cls": true
+      },
+      "fcpMs": 1248,
+      "lcpMs": 1248,
+      "lcpElement": {
+        "tag": "IMG",
+        "id": "",
+        "className": "",
+        "document": "/en/"
+      },
+      "cls": 0,
+      "shiftSources": [],
+      "encodedBodyBytes": 482272,
+      "transferBytes": 487072,
+      "excludedQaSensorBodyBytes": 1731,
+      "resources": [
+        {
+          "path": "/assets/fonts/Manrope.woff2",
+          "initiator": "link",
+          "bodyBytes": 53892,
+          "transferBytes": 54192,
+          "durationMs": 409
+        },
+        {
+          "path": "/assets/brand/burcu-logo.webp",
+          "initiator": "link",
+          "bodyBytes": 21736,
+          "transferBytes": 22036,
+          "durationMs": 410
+        },
+        {
+          "path": "/_next/static/css/7cd8e1b6f1987bd3.css",
+          "initiator": "link",
+          "bodyBytes": 10749,
+          "transferBytes": 11049,
+          "durationMs": 298
+        },
+        {
+          "path": "/_next/static/css/5a337cbd971222fc.css",
+          "initiator": "link",
+          "bodyBytes": 9719,
+          "transferBytes": 10019,
+          "durationMs": 396
+        },
+        {
+          "path": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "initiator": "link",
+          "bodyBytes": 2400,
+          "transferBytes": 2700,
+          "durationMs": 518
+        },
+        {
+          "path": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "initiator": "script",
+          "bodyBytes": 63842,
+          "transferBytes": 64142,
+          "durationMs": 516
+        },
+        {
+          "path": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "initiator": "script",
+          "bodyBytes": 65042,
+          "transferBytes": 65342,
+          "durationMs": 571
+        },
+        {
+          "path": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "initiator": "script",
+          "bodyBytes": 513,
+          "transferBytes": 813,
+          "durationMs": 606
+        },
+        {
+          "path": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "initiator": "script",
+          "bodyBytes": 3295,
+          "transferBytes": 3595,
+          "durationMs": 573
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "initiator": "script",
+          "bodyBytes": 8747,
+          "transferBytes": 9047,
+          "durationMs": 583
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/page-e459c51372e05f32.js",
+          "initiator": "script",
+          "bodyBytes": 5306,
+          "transferBytes": 5606,
+          "durationMs": 601
+        },
+        {
+          "path": "/assets/scenes/brand-field-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 86176,
+          "transferBytes": 86476,
+          "durationMs": 597
+        },
+        {
+          "path": "/assets/icons/sprite.svg",
+          "initiator": "other",
+          "bodyBytes": 1253,
+          "transferBytes": 1553,
+          "durationMs": 428
+        },
+        {
+          "path": "/assets/scenes/about-harvest-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 82734,
+          "transferBytes": 83034,
+          "durationMs": 23
+        },
+        {
+          "path": "/assets/scenes/paste-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 55704,
+          "transferBytes": 56004,
+          "durationMs": 26
+        },
+        {
+          "path": "/__qa/metrics.js",
+          "initiator": "script",
+          "bodyBytes": 1731,
+          "transferBytes": 2031,
+          "durationMs": 37
+        }
+      ],
+      "canvasCount": 0,
+      "captureContext": "top-level"
+    },
+    {
+      "run": 2,
+      "profile": "en-mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "devicePixelRatio": 1.0000000149011612,
+      "observedAfterSensorLoadMs": 5000,
+      "elapsedSinceNavigationMs": 5630,
+      "method": "Chromium Performance API observer in the sampled document; unthrottled local sample; not Lighthouse or field acceptance",
+      "observerDocument": "/en/",
+      "observerSupport": {
+        "lcp": true,
+        "cls": true
+      },
+      "fcpMs": 280,
+      "lcpMs": 292,
+      "lcpElement": {
+        "tag": "IMG",
+        "id": "",
+        "className": "",
+        "document": "/en/"
+      },
+      "cls": 0,
+      "shiftSources": [],
+      "encodedBodyBytes": 482272,
+      "transferBytes": 487072,
+      "excludedQaSensorBodyBytes": 1731,
+      "resources": [
+        {
+          "path": "/assets/fonts/Manrope.woff2",
+          "initiator": "link",
+          "bodyBytes": 53892,
+          "transferBytes": 54192,
+          "durationMs": 90
+        },
+        {
+          "path": "/assets/brand/burcu-logo.webp",
+          "initiator": "link",
+          "bodyBytes": 21736,
+          "transferBytes": 22036,
+          "durationMs": 119
+        },
+        {
+          "path": "/_next/static/css/7cd8e1b6f1987bd3.css",
+          "initiator": "link",
+          "bodyBytes": 10749,
+          "transferBytes": 11049,
+          "durationMs": 102
+        },
+        {
+          "path": "/_next/static/css/5a337cbd971222fc.css",
+          "initiator": "link",
+          "bodyBytes": 9719,
+          "transferBytes": 10019,
+          "durationMs": 112
+        },
+        {
+          "path": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "initiator": "link",
+          "bodyBytes": 2400,
+          "transferBytes": 2700,
+          "durationMs": 117
+        },
+        {
+          "path": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "initiator": "script",
+          "bodyBytes": 63842,
+          "transferBytes": 64142,
+          "durationMs": 139
+        },
+        {
+          "path": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "initiator": "script",
+          "bodyBytes": 513,
+          "transferBytes": 813,
+          "durationMs": 168
+        },
+        {
+          "path": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "initiator": "script",
+          "bodyBytes": 65042,
+          "transferBytes": 65342,
+          "durationMs": 149
+        },
+        {
+          "path": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "initiator": "script",
+          "bodyBytes": 3295,
+          "transferBytes": 3595,
+          "durationMs": 154
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "initiator": "script",
+          "bodyBytes": 8747,
+          "transferBytes": 9047,
+          "durationMs": 157
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/page-e459c51372e05f32.js",
+          "initiator": "script",
+          "bodyBytes": 5306,
+          "transferBytes": 5606,
+          "durationMs": 163
+        },
+        {
+          "path": "/assets/scenes/brand-field-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 86176,
+          "transferBytes": 86476,
+          "durationMs": 156
+        },
+        {
+          "path": "/assets/icons/sprite.svg",
+          "initiator": "other",
+          "bodyBytes": 1253,
+          "transferBytes": 1553,
+          "durationMs": 141
+        },
+        {
+          "path": "/assets/scenes/about-harvest-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 82734,
+          "transferBytes": 83034,
+          "durationMs": 23
+        },
+        {
+          "path": "/assets/scenes/paste-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 55704,
+          "transferBytes": 56004,
+          "durationMs": 35
+        },
+        {
+          "path": "/__qa/metrics.js",
+          "initiator": "script",
+          "bodyBytes": 1731,
+          "transferBytes": 2031,
+          "durationMs": 54
+        }
+      ],
+      "canvasCount": 0,
+      "captureContext": "top-level"
+    },
+    {
+      "run": 3,
+      "profile": "en-mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "devicePixelRatio": 1.0000000149011612,
+      "observedAfterSensorLoadMs": 5000,
+      "elapsedSinceNavigationMs": 5548,
+      "method": "Chromium Performance API observer in the sampled document; unthrottled local sample; not Lighthouse or field acceptance",
+      "observerDocument": "/en/",
+      "observerSupport": {
+        "lcp": true,
+        "cls": true
+      },
+      "fcpMs": 276,
+      "lcpMs": 288,
+      "lcpElement": {
+        "tag": "IMG",
+        "id": "",
+        "className": "",
+        "document": "/en/"
+      },
+      "cls": 0,
+      "shiftSources": [],
+      "encodedBodyBytes": 482272,
+      "transferBytes": 487072,
+      "excludedQaSensorBodyBytes": 1731,
+      "resources": [
+        {
+          "path": "/assets/fonts/Manrope.woff2",
+          "initiator": "link",
+          "bodyBytes": 53892,
+          "transferBytes": 54192,
+          "durationMs": 71
+        },
+        {
+          "path": "/assets/brand/burcu-logo.webp",
+          "initiator": "link",
+          "bodyBytes": 21736,
+          "transferBytes": 22036,
+          "durationMs": 97
+        },
+        {
+          "path": "/_next/static/css/7cd8e1b6f1987bd3.css",
+          "initiator": "link",
+          "bodyBytes": 10749,
+          "transferBytes": 11049,
+          "durationMs": 89
+        },
+        {
+          "path": "/_next/static/css/5a337cbd971222fc.css",
+          "initiator": "link",
+          "bodyBytes": 9719,
+          "transferBytes": 10019,
+          "durationMs": 105
+        },
+        {
+          "path": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "initiator": "link",
+          "bodyBytes": 2400,
+          "transferBytes": 2700,
+          "durationMs": 107
+        },
+        {
+          "path": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "initiator": "script",
+          "bodyBytes": 63842,
+          "transferBytes": 64142,
+          "durationMs": 120
+        },
+        {
+          "path": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "initiator": "script",
+          "bodyBytes": 65042,
+          "transferBytes": 65342,
+          "durationMs": 131
+        },
+        {
+          "path": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "initiator": "script",
+          "bodyBytes": 513,
+          "transferBytes": 813,
+          "durationMs": 146
+        },
+        {
+          "path": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "initiator": "script",
+          "bodyBytes": 3295,
+          "transferBytes": 3595,
+          "durationMs": 133
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "initiator": "script",
+          "bodyBytes": 8747,
+          "transferBytes": 9047,
+          "durationMs": 138
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/page-e459c51372e05f32.js",
+          "initiator": "script",
+          "bodyBytes": 5306,
+          "transferBytes": 5606,
+          "durationMs": 141
+        },
+        {
+          "path": "/assets/scenes/brand-field-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 86176,
+          "transferBytes": 86476,
+          "durationMs": 143
+        },
+        {
+          "path": "/assets/icons/sprite.svg",
+          "initiator": "other",
+          "bodyBytes": 1253,
+          "transferBytes": 1553,
+          "durationMs": 118
+        },
+        {
+          "path": "/assets/scenes/about-harvest-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 82734,
+          "transferBytes": 83034,
+          "durationMs": 20
+        },
+        {
+          "path": "/assets/scenes/paste-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 55704,
+          "transferBytes": 56004,
+          "durationMs": 21
+        },
+        {
+          "path": "/__qa/metrics.js",
+          "initiator": "script",
+          "bodyBytes": 1731,
+          "transferBytes": 2031,
+          "durationMs": 61
+        }
+      ],
+      "canvasCount": 0,
+      "captureContext": "top-level"
+    },
+    {
+      "run": 1,
+      "profile": "ar-mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "devicePixelRatio": 1.0000000149011612,
+      "observedAfterSensorLoadMs": 5000,
+      "elapsedSinceNavigationMs": 6645,
+      "method": "Chromium Performance API observer in the sampled document; unthrottled local sample; not Lighthouse or field acceptance",
+      "observerDocument": "/ar/",
+      "observerSupport": {
+        "lcp": true,
+        "cls": true
+      },
+      "fcpMs": 728,
+      "lcpMs": 728,
+      "lcpElement": {
+        "tag": "IMG",
+        "id": "",
+        "className": "",
+        "document": "/ar/"
+      },
+      "cls": 0,
+      "shiftSources": [],
+      "encodedBodyBytes": 694095,
+      "transferBytes": 699195,
+      "excludedQaSensorBodyBytes": 1731,
+      "resources": [
+        {
+          "path": "/assets/fonts/NotoSansArabic-web.woff2",
+          "initiator": "link",
+          "bodyBytes": 210848,
+          "transferBytes": 211148,
+          "durationMs": 159
+        },
+        {
+          "path": "/assets/brand/burcu-logo.webp",
+          "initiator": "link",
+          "bodyBytes": 21736,
+          "transferBytes": 22036,
+          "durationMs": 181
+        },
+        {
+          "path": "/_next/static/css/7cd8e1b6f1987bd3.css",
+          "initiator": "link",
+          "bodyBytes": 10749,
+          "transferBytes": 11049,
+          "durationMs": 121
+        },
+        {
+          "path": "/_next/static/css/5a337cbd971222fc.css",
+          "initiator": "link",
+          "bodyBytes": 9719,
+          "transferBytes": 10019,
+          "durationMs": 134
+        },
+        {
+          "path": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "initiator": "link",
+          "bodyBytes": 2400,
+          "transferBytes": 2700,
+          "durationMs": 140
+        },
+        {
+          "path": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "initiator": "script",
+          "bodyBytes": 63842,
+          "transferBytes": 64142,
+          "durationMs": 159
+        },
+        {
+          "path": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "initiator": "script",
+          "bodyBytes": 65042,
+          "transferBytes": 65342,
+          "durationMs": 174
+        },
+        {
+          "path": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "initiator": "script",
+          "bodyBytes": 513,
+          "transferBytes": 813,
+          "durationMs": 210
+        },
+        {
+          "path": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "initiator": "script",
+          "bodyBytes": 3295,
+          "transferBytes": 3595,
+          "durationMs": 184
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "initiator": "script",
+          "bodyBytes": 8747,
+          "transferBytes": 9047,
+          "durationMs": 196
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/page-e459c51372e05f32.js",
+          "initiator": "script",
+          "bodyBytes": 5306,
+          "transferBytes": 5606,
+          "durationMs": 201
+        },
+        {
+          "path": "/assets/scenes/brand-field-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 86176,
+          "transferBytes": 86476,
+          "durationMs": 196
+        },
+        {
+          "path": "/assets/icons/sprite.svg",
+          "initiator": "other",
+          "bodyBytes": 1253,
+          "transferBytes": 1553,
+          "durationMs": 169
+        },
+        {
+          "path": "/assets/scenes/about-harvest-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 82734,
+          "transferBytes": 83034,
+          "durationMs": 22
+        },
+        {
+          "path": "/assets/scenes/paste-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 55704,
+          "transferBytes": 56004,
+          "durationMs": 31
+        },
+        {
+          "path": "/assets/fonts/Manrope.woff2",
+          "initiator": "css",
+          "bodyBytes": 53892,
+          "transferBytes": 54192,
+          "durationMs": 243
+        },
+        {
+          "path": "/__qa/metrics.js",
+          "initiator": "script",
+          "bodyBytes": 1731,
+          "transferBytes": 2031,
+          "durationMs": 81
+        }
+      ],
+      "canvasCount": 0,
+      "captureContext": "top-level"
+    },
+    {
+      "run": 2,
+      "profile": "ar-mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "devicePixelRatio": 1.0000000149011612,
+      "observedAfterSensorLoadMs": 5000,
+      "elapsedSinceNavigationMs": 5654,
+      "method": "Chromium Performance API observer in the sampled document; unthrottled local sample; not Lighthouse or field acceptance",
+      "observerDocument": "/ar/",
+      "observerSupport": {
+        "lcp": true,
+        "cls": true
+      },
+      "fcpMs": 324,
+      "lcpMs": 364,
+      "lcpElement": {
+        "tag": "IMG",
+        "id": "",
+        "className": "",
+        "document": "/ar/"
+      },
+      "cls": 0,
+      "shiftSources": [],
+      "encodedBodyBytes": 694095,
+      "transferBytes": 699195,
+      "excludedQaSensorBodyBytes": 1731,
+      "resources": [
+        {
+          "path": "/assets/fonts/NotoSansArabic-web.woff2",
+          "initiator": "link",
+          "bodyBytes": 210848,
+          "transferBytes": 211148,
+          "durationMs": 103
+        },
+        {
+          "path": "/assets/brand/burcu-logo.webp",
+          "initiator": "link",
+          "bodyBytes": 21736,
+          "transferBytes": 22036,
+          "durationMs": 141
+        },
+        {
+          "path": "/_next/static/css/7cd8e1b6f1987bd3.css",
+          "initiator": "link",
+          "bodyBytes": 10749,
+          "transferBytes": 11049,
+          "durationMs": 129
+        },
+        {
+          "path": "/_next/static/css/5a337cbd971222fc.css",
+          "initiator": "link",
+          "bodyBytes": 9719,
+          "transferBytes": 10019,
+          "durationMs": 133
+        },
+        {
+          "path": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "initiator": "link",
+          "bodyBytes": 2400,
+          "transferBytes": 2700,
+          "durationMs": 138
+        },
+        {
+          "path": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "initiator": "script",
+          "bodyBytes": 63842,
+          "transferBytes": 64142,
+          "durationMs": 168
+        },
+        {
+          "path": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "initiator": "script",
+          "bodyBytes": 513,
+          "transferBytes": 813,
+          "durationMs": 187
+        },
+        {
+          "path": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "initiator": "script",
+          "bodyBytes": 65042,
+          "transferBytes": 65342,
+          "durationMs": 155
+        },
+        {
+          "path": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "initiator": "script",
+          "bodyBytes": 3295,
+          "transferBytes": 3595,
+          "durationMs": 172
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "initiator": "script",
+          "bodyBytes": 8747,
+          "transferBytes": 9047,
+          "durationMs": 175
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/page-e459c51372e05f32.js",
+          "initiator": "script",
+          "bodyBytes": 5306,
+          "transferBytes": 5606,
+          "durationMs": 180
+        },
+        {
+          "path": "/assets/scenes/brand-field-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 86176,
+          "transferBytes": 86476,
+          "durationMs": 178
+        },
+        {
+          "path": "/assets/icons/sprite.svg",
+          "initiator": "other",
+          "bodyBytes": 1253,
+          "transferBytes": 1553,
+          "durationMs": 153
+        },
+        {
+          "path": "/assets/scenes/about-harvest-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 82734,
+          "transferBytes": 83034,
+          "durationMs": 10
+        },
+        {
+          "path": "/assets/scenes/paste-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 55704,
+          "transferBytes": 56004,
+          "durationMs": 13
+        },
+        {
+          "path": "/__qa/metrics.js",
+          "initiator": "script",
+          "bodyBytes": 1731,
+          "transferBytes": 2031,
+          "durationMs": 146
+        },
+        {
+          "path": "/assets/fonts/Manrope.woff2",
+          "initiator": "css",
+          "bodyBytes": 53892,
+          "transferBytes": 54192,
+          "durationMs": 92
+        }
+      ],
+      "canvasCount": 0,
+      "captureContext": "top-level"
+    },
+    {
+      "run": 3,
+      "profile": "ar-mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "devicePixelRatio": 1.0000000149011612,
+      "observedAfterSensorLoadMs": 5000,
+      "elapsedSinceNavigationMs": 5559,
+      "method": "Chromium Performance API observer in the sampled document; unthrottled local sample; not Lighthouse or field acceptance",
+      "observerDocument": "/ar/",
+      "observerSupport": {
+        "lcp": true,
+        "cls": true
+      },
+      "fcpMs": 340,
+      "lcpMs": 368,
+      "lcpElement": {
+        "tag": "IMG",
+        "id": "",
+        "className": "",
+        "document": "/ar/"
+      },
+      "cls": 0,
+      "shiftSources": [],
+      "encodedBodyBytes": 694095,
+      "transferBytes": 699195,
+      "excludedQaSensorBodyBytes": 1731,
+      "resources": [
+        {
+          "path": "/assets/fonts/NotoSansArabic-web.woff2",
+          "initiator": "link",
+          "bodyBytes": 210848,
+          "transferBytes": 211148,
+          "durationMs": 114
+        },
+        {
+          "path": "/assets/brand/burcu-logo.webp",
+          "initiator": "link",
+          "bodyBytes": 21736,
+          "transferBytes": 22036,
+          "durationMs": 124
+        },
+        {
+          "path": "/_next/static/css/7cd8e1b6f1987bd3.css",
+          "initiator": "link",
+          "bodyBytes": 10749,
+          "transferBytes": 11049,
+          "durationMs": 109
+        },
+        {
+          "path": "/_next/static/css/5a337cbd971222fc.css",
+          "initiator": "link",
+          "bodyBytes": 9719,
+          "transferBytes": 10019,
+          "durationMs": 117
+        },
+        {
+          "path": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "initiator": "link",
+          "bodyBytes": 2400,
+          "transferBytes": 2700,
+          "durationMs": 121
+        },
+        {
+          "path": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "initiator": "script",
+          "bodyBytes": 65042,
+          "transferBytes": 65342,
+          "durationMs": 144
+        },
+        {
+          "path": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "initiator": "script",
+          "bodyBytes": 63842,
+          "transferBytes": 64142,
+          "durationMs": 135
+        },
+        {
+          "path": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "initiator": "script",
+          "bodyBytes": 3295,
+          "transferBytes": 3595,
+          "durationMs": 164
+        },
+        {
+          "path": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "initiator": "script",
+          "bodyBytes": 513,
+          "transferBytes": 813,
+          "durationMs": 182
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "initiator": "script",
+          "bodyBytes": 8747,
+          "transferBytes": 9047,
+          "durationMs": 168
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/page-e459c51372e05f32.js",
+          "initiator": "script",
+          "bodyBytes": 5306,
+          "transferBytes": 5606,
+          "durationMs": 173
+        },
+        {
+          "path": "/assets/scenes/brand-field-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 86176,
+          "transferBytes": 86476,
+          "durationMs": 167
+        },
+        {
+          "path": "/assets/icons/sprite.svg",
+          "initiator": "other",
+          "bodyBytes": 1253,
+          "transferBytes": 1553,
+          "durationMs": 152
+        },
+        {
+          "path": "/assets/scenes/about-harvest-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 82734,
+          "transferBytes": 83034,
+          "durationMs": 21
+        },
+        {
+          "path": "/assets/scenes/paste-mobile.webp",
+          "initiator": "img",
+          "bodyBytes": 55704,
+          "transferBytes": 56004,
+          "durationMs": 34
+        },
+        {
+          "path": "/__qa/metrics.js",
+          "initiator": "script",
+          "bodyBytes": 1731,
+          "transferBytes": 2031,
+          "durationMs": 29
+        },
+        {
+          "path": "/assets/fonts/Manrope.woff2",
+          "initiator": "css",
+          "bodyBytes": 53892,
+          "transferBytes": 54192,
+          "durationMs": 86
+        }
+      ],
+      "canvasCount": 0,
+      "captureContext": "top-level"
+    },
+    {
+      "run": 1,
+      "profile": "tr-desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "devicePixelRatio": 1.0000000149011612,
+      "observedAfterSensorLoadMs": 5000,
+      "elapsedSinceNavigationMs": 5742,
+      "method": "Chromium Performance API observer in the sampled document; unthrottled local sample; not Lighthouse or field acceptance",
+      "observerDocument": "/tr/",
+      "observerSupport": {
+        "lcp": true,
+        "cls": true
+      },
+      "fcpMs": 376,
+      "lcpMs": 376,
+      "lcpElement": {
+        "tag": "SPAN",
+        "id": "",
+        "className": "title-line",
+        "document": "/tr/"
+      },
+      "cls": 0,
+      "shiftSources": [],
+      "encodedBodyBytes": 932106,
+      "transferBytes": 938406,
+      "excludedQaSensorBodyBytes": 1731,
+      "resources": [
+        {
+          "path": "/assets/fonts/Manrope.woff2",
+          "initiator": "link",
+          "bodyBytes": 53892,
+          "transferBytes": 54192,
+          "durationMs": 56
+        },
+        {
+          "path": "/assets/brand/burcu-logo.webp",
+          "initiator": "link",
+          "bodyBytes": 21736,
+          "transferBytes": 22036,
+          "durationMs": 97
+        },
+        {
+          "path": "/_next/static/css/7cd8e1b6f1987bd3.css",
+          "initiator": "link",
+          "bodyBytes": 10749,
+          "transferBytes": 11049,
+          "durationMs": 65
+        },
+        {
+          "path": "/_next/static/css/5a337cbd971222fc.css",
+          "initiator": "link",
+          "bodyBytes": 9719,
+          "transferBytes": 10019,
+          "durationMs": 83
+        },
+        {
+          "path": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "initiator": "link",
+          "bodyBytes": 2400,
+          "transferBytes": 2700,
+          "durationMs": 152
+        },
+        {
+          "path": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "initiator": "script",
+          "bodyBytes": 63842,
+          "transferBytes": 64142,
+          "durationMs": 167
+        },
+        {
+          "path": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "initiator": "script",
+          "bodyBytes": 65042,
+          "transferBytes": 65342,
+          "durationMs": 188
+        },
+        {
+          "path": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "initiator": "script",
+          "bodyBytes": 513,
+          "transferBytes": 813,
+          "durationMs": 228
+        },
+        {
+          "path": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "initiator": "script",
+          "bodyBytes": 3295,
+          "transferBytes": 3595,
+          "durationMs": 204
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/page-e459c51372e05f32.js",
+          "initiator": "script",
+          "bodyBytes": 5306,
+          "transferBytes": 5606,
+          "durationMs": 218
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "initiator": "script",
+          "bodyBytes": 8747,
+          "transferBytes": 9047,
+          "durationMs": 212
+        },
+        {
+          "path": "/assets/scenes/brand-field-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 200318,
+          "transferBytes": 200618,
+          "durationMs": 94
+        },
+        {
+          "path": "/assets/icons/sprite.svg",
+          "initiator": "other",
+          "bodyBytes": 1253,
+          "transferBytes": 1553,
+          "durationMs": 157
+        },
+        {
+          "path": "/assets/scenes/about-harvest-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 189714,
+          "transferBytes": 190014,
+          "durationMs": 25
+        },
+        {
+          "path": "/assets/scenes/paste-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 221590,
+          "transferBytes": 221890,
+          "durationMs": 24
+        },
+        {
+          "path": "/favicon.ico",
+          "initiator": "other",
+          "bodyBytes": 5281,
+          "transferBytes": 5581,
+          "durationMs": 24
+        },
+        {
+          "path": "/__qa/metrics.js",
+          "initiator": "script",
+          "bodyBytes": 1731,
+          "transferBytes": 2031,
+          "durationMs": 22
+        },
+        {
+          "path": "/_next/static/chunks/c15bf2b0.182b384b62e205ff.js",
+          "initiator": "script",
+          "bodyBytes": 20607,
+          "transferBytes": 20907,
+          "durationMs": 79
+        },
+        {
+          "path": "/_next/static/chunks/523.2dbd31648f81e2e6.js",
+          "initiator": "script",
+          "bodyBytes": 34115,
+          "transferBytes": 34415,
+          "durationMs": 99
+        },
+        {
+          "path": "/_next/static/chunks/59.f68e1080d752302d.js",
+          "initiator": "script",
+          "bodyBytes": 2000,
+          "transferBytes": 2300,
+          "durationMs": 101
+        },
+        {
+          "path": "/_next/static/css/226f4571965e8b3e.css",
+          "initiator": "link",
+          "bodyBytes": 456,
+          "transferBytes": 756,
+          "durationMs": 106
+        }
+      ],
+      "canvasCount": 0,
+      "captureContext": "top-level"
+    },
+    {
+      "run": 2,
+      "profile": "tr-desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "devicePixelRatio": 1.0000000149011612,
+      "observedAfterSensorLoadMs": 5000,
+      "elapsedSinceNavigationMs": 5577,
+      "method": "Chromium Performance API observer in the sampled document; unthrottled local sample; not Lighthouse or field acceptance",
+      "observerDocument": "/tr/",
+      "observerSupport": {
+        "lcp": true,
+        "cls": true
+      },
+      "fcpMs": 276,
+      "lcpMs": 276,
+      "lcpElement": {
+        "tag": "SPAN",
+        "id": "",
+        "className": "title-line",
+        "document": "/tr/"
+      },
+      "cls": 0,
+      "shiftSources": [],
+      "encodedBodyBytes": 926825,
+      "transferBytes": 932825,
+      "excludedQaSensorBodyBytes": 1731,
+      "resources": [
+        {
+          "path": "/assets/fonts/Manrope.woff2",
+          "initiator": "link",
+          "bodyBytes": 53892,
+          "transferBytes": 54192,
+          "durationMs": 86
+        },
+        {
+          "path": "/assets/brand/burcu-logo.webp",
+          "initiator": "link",
+          "bodyBytes": 21736,
+          "transferBytes": 22036,
+          "durationMs": 95
+        },
+        {
+          "path": "/_next/static/css/7cd8e1b6f1987bd3.css",
+          "initiator": "link",
+          "bodyBytes": 10749,
+          "transferBytes": 11049,
+          "durationMs": 97
+        },
+        {
+          "path": "/_next/static/css/5a337cbd971222fc.css",
+          "initiator": "link",
+          "bodyBytes": 9719,
+          "transferBytes": 10019,
+          "durationMs": 99
+        },
+        {
+          "path": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "initiator": "link",
+          "bodyBytes": 2400,
+          "transferBytes": 2700,
+          "durationMs": 119
+        },
+        {
+          "path": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "initiator": "script",
+          "bodyBytes": 63842,
+          "transferBytes": 64142,
+          "durationMs": 134
+        },
+        {
+          "path": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "initiator": "script",
+          "bodyBytes": 513,
+          "transferBytes": 813,
+          "durationMs": 167
+        },
+        {
+          "path": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "initiator": "script",
+          "bodyBytes": 65042,
+          "transferBytes": 65342,
+          "durationMs": 150
+        },
+        {
+          "path": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "initiator": "script",
+          "bodyBytes": 3295,
+          "transferBytes": 3595,
+          "durationMs": 157
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/page-e459c51372e05f32.js",
+          "initiator": "script",
+          "bodyBytes": 5306,
+          "transferBytes": 5606,
+          "durationMs": 161
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "initiator": "script",
+          "bodyBytes": 8747,
+          "transferBytes": 9047,
+          "durationMs": 159
+        },
+        {
+          "path": "/assets/scenes/brand-field-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 200318,
+          "transferBytes": 200618,
+          "durationMs": 100
+        },
+        {
+          "path": "/assets/icons/sprite.svg",
+          "initiator": "other",
+          "bodyBytes": 1253,
+          "transferBytes": 1553,
+          "durationMs": 120
+        },
+        {
+          "path": "/assets/scenes/about-harvest-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 189714,
+          "transferBytes": 190014,
+          "durationMs": 29
+        },
+        {
+          "path": "/assets/scenes/paste-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 221590,
+          "transferBytes": 221890,
+          "durationMs": 35
+        },
+        {
+          "path": "/__qa/metrics.js",
+          "initiator": "script",
+          "bodyBytes": 1731,
+          "transferBytes": 2031,
+          "durationMs": 22
+        },
+        {
+          "path": "/_next/static/chunks/c15bf2b0.182b384b62e205ff.js",
+          "initiator": "script",
+          "bodyBytes": 20607,
+          "transferBytes": 20907,
+          "durationMs": 54
+        },
+        {
+          "path": "/_next/static/chunks/523.2dbd31648f81e2e6.js",
+          "initiator": "script",
+          "bodyBytes": 34115,
+          "transferBytes": 34415,
+          "durationMs": 59
+        },
+        {
+          "path": "/_next/static/chunks/59.f68e1080d752302d.js",
+          "initiator": "script",
+          "bodyBytes": 2000,
+          "transferBytes": 2300,
+          "durationMs": 60
+        },
+        {
+          "path": "/_next/static/css/226f4571965e8b3e.css",
+          "initiator": "link",
+          "bodyBytes": 456,
+          "transferBytes": 756,
+          "durationMs": 61
+        }
+      ],
+      "canvasCount": 0,
+      "captureContext": "top-level"
+    },
+    {
+      "run": 3,
+      "profile": "tr-desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "devicePixelRatio": 1.0000000149011612,
+      "observedAfterSensorLoadMs": 5000,
+      "elapsedSinceNavigationMs": 6285,
+      "method": "Chromium Performance API observer in the sampled document; unthrottled local sample; not Lighthouse or field acceptance",
+      "observerDocument": "/tr/",
+      "observerSupport": {
+        "lcp": true,
+        "cls": true
+      },
+      "fcpMs": 732,
+      "lcpMs": 732,
+      "lcpElement": {
+        "tag": "SPAN",
+        "id": "",
+        "className": "title-line",
+        "document": "/tr/"
+      },
+      "cls": 0,
+      "shiftSources": [],
+      "encodedBodyBytes": 926825,
+      "transferBytes": 932825,
+      "excludedQaSensorBodyBytes": 1731,
+      "resources": [
+        {
+          "path": "/assets/fonts/Manrope.woff2",
+          "initiator": "link",
+          "bodyBytes": 53892,
+          "transferBytes": 54192,
+          "durationMs": 442
+        },
+        {
+          "path": "/assets/brand/burcu-logo.webp",
+          "initiator": "link",
+          "bodyBytes": 21736,
+          "transferBytes": 22036,
+          "durationMs": 419
+        },
+        {
+          "path": "/_next/static/css/7cd8e1b6f1987bd3.css",
+          "initiator": "link",
+          "bodyBytes": 10749,
+          "transferBytes": 11049,
+          "durationMs": 368
+        },
+        {
+          "path": "/_next/static/css/5a337cbd971222fc.css",
+          "initiator": "link",
+          "bodyBytes": 9719,
+          "transferBytes": 10019,
+          "durationMs": 396
+        },
+        {
+          "path": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "initiator": "link",
+          "bodyBytes": 2400,
+          "transferBytes": 2700,
+          "durationMs": 411
+        },
+        {
+          "path": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "initiator": "script",
+          "bodyBytes": 63842,
+          "transferBytes": 64142,
+          "durationMs": 496
+        },
+        {
+          "path": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "initiator": "script",
+          "bodyBytes": 65042,
+          "transferBytes": 65342,
+          "durationMs": 525
+        },
+        {
+          "path": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "initiator": "script",
+          "bodyBytes": 513,
+          "transferBytes": 813,
+          "durationMs": 547
+        },
+        {
+          "path": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "initiator": "script",
+          "bodyBytes": 3295,
+          "transferBytes": 3595,
+          "durationMs": 526
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "initiator": "script",
+          "bodyBytes": 8747,
+          "transferBytes": 9047,
+          "durationMs": 531
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/page-e459c51372e05f32.js",
+          "initiator": "script",
+          "bodyBytes": 5306,
+          "transferBytes": 5606,
+          "durationMs": 546
+        },
+        {
+          "path": "/assets/scenes/brand-field-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 200318,
+          "transferBytes": 200618,
+          "durationMs": 562
+        },
+        {
+          "path": "/assets/icons/sprite.svg",
+          "initiator": "other",
+          "bodyBytes": 1253,
+          "transferBytes": 1553,
+          "durationMs": 492
+        },
+        {
+          "path": "/assets/scenes/about-harvest-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 189714,
+          "transferBytes": 190014,
+          "durationMs": 15
+        },
+        {
+          "path": "/assets/scenes/paste-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 221590,
+          "transferBytes": 221890,
+          "durationMs": 27
+        },
+        {
+          "path": "/__qa/metrics.js",
+          "initiator": "script",
+          "bodyBytes": 1731,
+          "transferBytes": 2031,
+          "durationMs": 96
+        },
+        {
+          "path": "/_next/static/chunks/c15bf2b0.182b384b62e205ff.js",
+          "initiator": "script",
+          "bodyBytes": 20607,
+          "transferBytes": 20907,
+          "durationMs": 85
+        },
+        {
+          "path": "/_next/static/chunks/523.2dbd31648f81e2e6.js",
+          "initiator": "script",
+          "bodyBytes": 34115,
+          "transferBytes": 34415,
+          "durationMs": 90
+        },
+        {
+          "path": "/_next/static/chunks/59.f68e1080d752302d.js",
+          "initiator": "script",
+          "bodyBytes": 2000,
+          "transferBytes": 2300,
+          "durationMs": 94
+        },
+        {
+          "path": "/_next/static/css/226f4571965e8b3e.css",
+          "initiator": "link",
+          "bodyBytes": 456,
+          "transferBytes": 756,
+          "durationMs": 113
+        }
+      ],
+      "canvasCount": 0,
+      "captureContext": "top-level"
+    },
+    {
+      "run": 1,
+      "profile": "en-desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "devicePixelRatio": 1.0000000149011612,
+      "observedAfterSensorLoadMs": 5000,
+      "elapsedSinceNavigationMs": 5934,
+      "method": "Chromium Performance API observer in the sampled document; unthrottled local sample; not Lighthouse or field acceptance",
+      "observerDocument": "/en/",
+      "observerSupport": {
+        "lcp": true,
+        "cls": true
+      },
+      "fcpMs": 632,
+      "lcpMs": 632,
+      "lcpElement": {
+        "tag": "SPAN",
+        "id": "",
+        "className": "title-line",
+        "document": "/en/"
+      },
+      "cls": 0,
+      "shiftSources": [],
+      "encodedBodyBytes": 926458,
+      "transferBytes": 932458,
+      "excludedQaSensorBodyBytes": 1731,
+      "resources": [
+        {
+          "path": "/assets/fonts/Manrope.woff2",
+          "initiator": "link",
+          "bodyBytes": 53892,
+          "transferBytes": 54192,
+          "durationMs": 249
+        },
+        {
+          "path": "/assets/brand/burcu-logo.webp",
+          "initiator": "link",
+          "bodyBytes": 21736,
+          "transferBytes": 22036,
+          "durationMs": 266
+        },
+        {
+          "path": "/_next/static/css/7cd8e1b6f1987bd3.css",
+          "initiator": "link",
+          "bodyBytes": 10749,
+          "transferBytes": 11049,
+          "durationMs": 112
+        },
+        {
+          "path": "/_next/static/css/5a337cbd971222fc.css",
+          "initiator": "link",
+          "bodyBytes": 9719,
+          "transferBytes": 10019,
+          "durationMs": 189
+        },
+        {
+          "path": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "initiator": "link",
+          "bodyBytes": 2400,
+          "transferBytes": 2700,
+          "durationMs": 205
+        },
+        {
+          "path": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "initiator": "script",
+          "bodyBytes": 63842,
+          "transferBytes": 64142,
+          "durationMs": 236
+        },
+        {
+          "path": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "initiator": "script",
+          "bodyBytes": 65042,
+          "transferBytes": 65342,
+          "durationMs": 259
+        },
+        {
+          "path": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "initiator": "script",
+          "bodyBytes": 513,
+          "transferBytes": 813,
+          "durationMs": 278
+        },
+        {
+          "path": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "initiator": "script",
+          "bodyBytes": 3295,
+          "transferBytes": 3595,
+          "durationMs": 269
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "initiator": "script",
+          "bodyBytes": 8747,
+          "transferBytes": 9047,
+          "durationMs": 272
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/page-e459c51372e05f32.js",
+          "initiator": "script",
+          "bodyBytes": 5306,
+          "transferBytes": 5606,
+          "durationMs": 277
+        },
+        {
+          "path": "/assets/scenes/brand-field-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 200318,
+          "transferBytes": 200618,
+          "durationMs": 281
+        },
+        {
+          "path": "/assets/icons/sprite.svg",
+          "initiator": "other",
+          "bodyBytes": 1253,
+          "transferBytes": 1553,
+          "durationMs": 156
+        },
+        {
+          "path": "/assets/scenes/about-harvest-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 189714,
+          "transferBytes": 190014,
+          "durationMs": 13
+        },
+        {
+          "path": "/assets/scenes/paste-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 221590,
+          "transferBytes": 221890,
+          "durationMs": 15
+        },
+        {
+          "path": "/__qa/metrics.js",
+          "initiator": "script",
+          "bodyBytes": 1731,
+          "transferBytes": 2031,
+          "durationMs": 59
+        },
+        {
+          "path": "/_next/static/chunks/c15bf2b0.182b384b62e205ff.js",
+          "initiator": "script",
+          "bodyBytes": 20607,
+          "transferBytes": 20907,
+          "durationMs": 14
+        },
+        {
+          "path": "/_next/static/chunks/523.2dbd31648f81e2e6.js",
+          "initiator": "script",
+          "bodyBytes": 34115,
+          "transferBytes": 34415,
+          "durationMs": 19
+        },
+        {
+          "path": "/_next/static/chunks/59.f68e1080d752302d.js",
+          "initiator": "script",
+          "bodyBytes": 2000,
+          "transferBytes": 2300,
+          "durationMs": 19
+        },
+        {
+          "path": "/_next/static/css/226f4571965e8b3e.css",
+          "initiator": "link",
+          "bodyBytes": 456,
+          "transferBytes": 756,
+          "durationMs": 19
+        }
+      ],
+      "canvasCount": 0,
+      "captureContext": "top-level"
+    },
+    {
+      "run": 2,
+      "profile": "en-desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "devicePixelRatio": 1.0000000149011612,
+      "observedAfterSensorLoadMs": 5000,
+      "elapsedSinceNavigationMs": 5961,
+      "method": "Chromium Performance API observer in the sampled document; unthrottled local sample; not Lighthouse or field acceptance",
+      "observerDocument": "/en/",
+      "observerSupport": {
+        "lcp": true,
+        "cls": true
+      },
+      "fcpMs": 456,
+      "lcpMs": 456,
+      "lcpElement": {
+        "tag": "SPAN",
+        "id": "",
+        "className": "title-line",
+        "document": "/en/"
+      },
+      "cls": 0,
+      "shiftSources": [],
+      "encodedBodyBytes": 926458,
+      "transferBytes": 932458,
+      "excludedQaSensorBodyBytes": 1731,
+      "resources": [
+        {
+          "path": "/assets/fonts/Manrope.woff2",
+          "initiator": "link",
+          "bodyBytes": 53892,
+          "transferBytes": 54192,
+          "durationMs": 110
+        },
+        {
+          "path": "/assets/brand/burcu-logo.webp",
+          "initiator": "link",
+          "bodyBytes": 21736,
+          "transferBytes": 22036,
+          "durationMs": 137
+        },
+        {
+          "path": "/_next/static/css/7cd8e1b6f1987bd3.css",
+          "initiator": "link",
+          "bodyBytes": 10749,
+          "transferBytes": 11049,
+          "durationMs": 86
+        },
+        {
+          "path": "/_next/static/css/5a337cbd971222fc.css",
+          "initiator": "link",
+          "bodyBytes": 9719,
+          "transferBytes": 10019,
+          "durationMs": 102
+        },
+        {
+          "path": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "initiator": "link",
+          "bodyBytes": 2400,
+          "transferBytes": 2700,
+          "durationMs": 193
+        },
+        {
+          "path": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "initiator": "script",
+          "bodyBytes": 63842,
+          "transferBytes": 64142,
+          "durationMs": 222
+        },
+        {
+          "path": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "initiator": "script",
+          "bodyBytes": 65042,
+          "transferBytes": 65342,
+          "durationMs": 245
+        },
+        {
+          "path": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "initiator": "script",
+          "bodyBytes": 513,
+          "transferBytes": 813,
+          "durationMs": 274
+        },
+        {
+          "path": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "initiator": "script",
+          "bodyBytes": 3295,
+          "transferBytes": 3595,
+          "durationMs": 254
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "initiator": "script",
+          "bodyBytes": 8747,
+          "transferBytes": 9047,
+          "durationMs": 261
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/page-e459c51372e05f32.js",
+          "initiator": "script",
+          "bodyBytes": 5306,
+          "transferBytes": 5606,
+          "durationMs": 265
+        },
+        {
+          "path": "/assets/scenes/brand-field-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 200318,
+          "transferBytes": 200618,
+          "durationMs": 135
+        },
+        {
+          "path": "/assets/icons/sprite.svg",
+          "initiator": "other",
+          "bodyBytes": 1253,
+          "transferBytes": 1553,
+          "durationMs": 153
+        },
+        {
+          "path": "/assets/scenes/about-harvest-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 189714,
+          "transferBytes": 190014,
+          "durationMs": 17
+        },
+        {
+          "path": "/assets/scenes/paste-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 221590,
+          "transferBytes": 221890,
+          "durationMs": 24
+        },
+        {
+          "path": "/__qa/metrics.js",
+          "initiator": "script",
+          "bodyBytes": 1731,
+          "transferBytes": 2031,
+          "durationMs": 17
+        },
+        {
+          "path": "/_next/static/chunks/c15bf2b0.182b384b62e205ff.js",
+          "initiator": "script",
+          "bodyBytes": 20607,
+          "transferBytes": 20907,
+          "durationMs": 13
+        },
+        {
+          "path": "/_next/static/chunks/523.2dbd31648f81e2e6.js",
+          "initiator": "script",
+          "bodyBytes": 34115,
+          "transferBytes": 34415,
+          "durationMs": 24
+        },
+        {
+          "path": "/_next/static/chunks/59.f68e1080d752302d.js",
+          "initiator": "script",
+          "bodyBytes": 2000,
+          "transferBytes": 2300,
+          "durationMs": 26
+        },
+        {
+          "path": "/_next/static/css/226f4571965e8b3e.css",
+          "initiator": "link",
+          "bodyBytes": 456,
+          "transferBytes": 756,
+          "durationMs": 27
+        }
+      ],
+      "canvasCount": 0,
+      "captureContext": "top-level"
+    },
+    {
+      "run": 3,
+      "profile": "en-desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "devicePixelRatio": 1.0000000149011612,
+      "observedAfterSensorLoadMs": 5000,
+      "elapsedSinceNavigationMs": 5691,
+      "method": "Chromium Performance API observer in the sampled document; unthrottled local sample; not Lighthouse or field acceptance",
+      "observerDocument": "/en/",
+      "observerSupport": {
+        "lcp": true,
+        "cls": true
+      },
+      "fcpMs": 260,
+      "lcpMs": 260,
+      "lcpElement": {
+        "tag": "SPAN",
+        "id": "",
+        "className": "title-line",
+        "document": "/en/"
+      },
+      "cls": 0,
+      "shiftSources": [],
+      "encodedBodyBytes": 926458,
+      "transferBytes": 932458,
+      "excludedQaSensorBodyBytes": 1731,
+      "resources": [
+        {
+          "path": "/assets/fonts/Manrope.woff2",
+          "initiator": "link",
+          "bodyBytes": 53892,
+          "transferBytes": 54192,
+          "durationMs": 89
+        },
+        {
+          "path": "/assets/brand/burcu-logo.webp",
+          "initiator": "link",
+          "bodyBytes": 21736,
+          "transferBytes": 22036,
+          "durationMs": 102
+        },
+        {
+          "path": "/_next/static/css/7cd8e1b6f1987bd3.css",
+          "initiator": "link",
+          "bodyBytes": 10749,
+          "transferBytes": 11049,
+          "durationMs": 101
+        },
+        {
+          "path": "/_next/static/css/5a337cbd971222fc.css",
+          "initiator": "link",
+          "bodyBytes": 9719,
+          "transferBytes": 10019,
+          "durationMs": 107
+        },
+        {
+          "path": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "initiator": "link",
+          "bodyBytes": 2400,
+          "transferBytes": 2700,
+          "durationMs": 109
+        },
+        {
+          "path": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "initiator": "script",
+          "bodyBytes": 63842,
+          "transferBytes": 64142,
+          "durationMs": 118
+        },
+        {
+          "path": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "initiator": "script",
+          "bodyBytes": 513,
+          "transferBytes": 813,
+          "durationMs": 152
+        },
+        {
+          "path": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "initiator": "script",
+          "bodyBytes": 65042,
+          "transferBytes": 65342,
+          "durationMs": 141
+        },
+        {
+          "path": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "initiator": "script",
+          "bodyBytes": 3295,
+          "transferBytes": 3595,
+          "durationMs": 143
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/page-e459c51372e05f32.js",
+          "initiator": "script",
+          "bodyBytes": 5306,
+          "transferBytes": 5606,
+          "durationMs": 129
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "initiator": "script",
+          "bodyBytes": 8747,
+          "transferBytes": 9047,
+          "durationMs": 147
+        },
+        {
+          "path": "/assets/scenes/brand-field-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 200318,
+          "transferBytes": 200618,
+          "durationMs": 150
+        },
+        {
+          "path": "/assets/icons/sprite.svg",
+          "initiator": "other",
+          "bodyBytes": 1253,
+          "transferBytes": 1553,
+          "durationMs": 109
+        },
+        {
+          "path": "/assets/scenes/about-harvest-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 189714,
+          "transferBytes": 190014,
+          "durationMs": 12
+        },
+        {
+          "path": "/assets/scenes/paste-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 221590,
+          "transferBytes": 221890,
+          "durationMs": 20
+        },
+        {
+          "path": "/__qa/metrics.js",
+          "initiator": "script",
+          "bodyBytes": 1731,
+          "transferBytes": 2031,
+          "durationMs": 56
+        },
+        {
+          "path": "/_next/static/chunks/c15bf2b0.182b384b62e205ff.js",
+          "initiator": "script",
+          "bodyBytes": 20607,
+          "transferBytes": 20907,
+          "durationMs": 13
+        },
+        {
+          "path": "/_next/static/chunks/523.2dbd31648f81e2e6.js",
+          "initiator": "script",
+          "bodyBytes": 34115,
+          "transferBytes": 34415,
+          "durationMs": 18
+        },
+        {
+          "path": "/_next/static/chunks/59.f68e1080d752302d.js",
+          "initiator": "script",
+          "bodyBytes": 2000,
+          "transferBytes": 2300,
+          "durationMs": 19
+        },
+        {
+          "path": "/_next/static/css/226f4571965e8b3e.css",
+          "initiator": "link",
+          "bodyBytes": 456,
+          "transferBytes": 756,
+          "durationMs": 20
+        }
+      ],
+      "canvasCount": 0,
+      "captureContext": "top-level"
+    },
+    {
+      "run": 1,
+      "profile": "ar-desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "devicePixelRatio": 1.0000000149011612,
+      "observedAfterSensorLoadMs": 5000,
+      "elapsedSinceNavigationMs": 6689,
+      "method": "Chromium Performance API observer in the sampled document; unthrottled local sample; not Lighthouse or field acceptance",
+      "observerDocument": "/ar/",
+      "observerSupport": {
+        "lcp": true,
+        "cls": true
+      },
+      "fcpMs": 668,
+      "lcpMs": 668,
+      "lcpElement": {
+        "tag": "SPAN",
+        "id": "",
+        "className": "title-line",
+        "document": "/ar/"
+      },
+      "cls": 0,
+      "shiftSources": [],
+      "encodedBodyBytes": 1138281,
+      "transferBytes": 1144581,
+      "excludedQaSensorBodyBytes": 1731,
+      "resources": [
+        {
+          "path": "/assets/fonts/NotoSansArabic-web.woff2",
+          "initiator": "link",
+          "bodyBytes": 210848,
+          "transferBytes": 211148,
+          "durationMs": 144
+        },
+        {
+          "path": "/assets/brand/burcu-logo.webp",
+          "initiator": "link",
+          "bodyBytes": 21736,
+          "transferBytes": 22036,
+          "durationMs": 153
+        },
+        {
+          "path": "/_next/static/css/7cd8e1b6f1987bd3.css",
+          "initiator": "link",
+          "bodyBytes": 10749,
+          "transferBytes": 11049,
+          "durationMs": 91
+        },
+        {
+          "path": "/_next/static/css/5a337cbd971222fc.css",
+          "initiator": "link",
+          "bodyBytes": 9719,
+          "transferBytes": 10019,
+          "durationMs": 105
+        },
+        {
+          "path": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "initiator": "link",
+          "bodyBytes": 2400,
+          "transferBytes": 2700,
+          "durationMs": 184
+        },
+        {
+          "path": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "initiator": "script",
+          "bodyBytes": 63842,
+          "transferBytes": 64142,
+          "durationMs": 210
+        },
+        {
+          "path": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "initiator": "script",
+          "bodyBytes": 65042,
+          "transferBytes": 65342,
+          "durationMs": 218
+        },
+        {
+          "path": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "initiator": "script",
+          "bodyBytes": 513,
+          "transferBytes": 813,
+          "durationMs": 247
+        },
+        {
+          "path": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "initiator": "script",
+          "bodyBytes": 3295,
+          "transferBytes": 3595,
+          "durationMs": 223
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "initiator": "script",
+          "bodyBytes": 8747,
+          "transferBytes": 9047,
+          "durationMs": 232
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/page-e459c51372e05f32.js",
+          "initiator": "script",
+          "bodyBytes": 5306,
+          "transferBytes": 5606,
+          "durationMs": 240
+        },
+        {
+          "path": "/assets/scenes/brand-field-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 200318,
+          "transferBytes": 200618,
+          "durationMs": 153
+        },
+        {
+          "path": "/assets/icons/sprite.svg",
+          "initiator": "other",
+          "bodyBytes": 1253,
+          "transferBytes": 1553,
+          "durationMs": 110
+        },
+        {
+          "path": "/assets/scenes/about-harvest-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 189714,
+          "transferBytes": 190014,
+          "durationMs": 13
+        },
+        {
+          "path": "/assets/scenes/paste-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 221590,
+          "transferBytes": 221890,
+          "durationMs": 14
+        },
+        {
+          "path": "/__qa/metrics.js",
+          "initiator": "script",
+          "bodyBytes": 1731,
+          "transferBytes": 2031,
+          "durationMs": 12
+        },
+        {
+          "path": "/assets/fonts/Manrope.woff2",
+          "initiator": "css",
+          "bodyBytes": 53892,
+          "transferBytes": 54192,
+          "durationMs": 124
+        },
+        {
+          "path": "/_next/static/chunks/c15bf2b0.182b384b62e205ff.js",
+          "initiator": "script",
+          "bodyBytes": 20607,
+          "transferBytes": 20907,
+          "durationMs": 69
+        },
+        {
+          "path": "/_next/static/chunks/523.2dbd31648f81e2e6.js",
+          "initiator": "script",
+          "bodyBytes": 34115,
+          "transferBytes": 34415,
+          "durationMs": 106
+        },
+        {
+          "path": "/_next/static/chunks/59.f68e1080d752302d.js",
+          "initiator": "script",
+          "bodyBytes": 2000,
+          "transferBytes": 2300,
+          "durationMs": 135
+        },
+        {
+          "path": "/_next/static/css/226f4571965e8b3e.css",
+          "initiator": "link",
+          "bodyBytes": 456,
+          "transferBytes": 756,
+          "durationMs": 200
+        }
+      ],
+      "canvasCount": 0,
+      "captureContext": "top-level"
+    },
+    {
+      "run": 2,
+      "profile": "ar-desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "devicePixelRatio": 1.0000000149011612,
+      "observedAfterSensorLoadMs": 5000,
+      "elapsedSinceNavigationMs": 5986,
+      "method": "Chromium Performance API observer in the sampled document; unthrottled local sample; not Lighthouse or field acceptance",
+      "observerDocument": "/ar/",
+      "observerSupport": {
+        "lcp": true,
+        "cls": true
+      },
+      "fcpMs": 508,
+      "lcpMs": 508,
+      "lcpElement": {
+        "tag": "SPAN",
+        "id": "",
+        "className": "title-line",
+        "document": "/ar/"
+      },
+      "cls": 0,
+      "shiftSources": [],
+      "encodedBodyBytes": 1413589,
+      "transferBytes": 1420489,
+      "excludedQaSensorBodyBytes": 1731,
+      "resources": [
+        {
+          "path": "/assets/fonts/NotoSansArabic-web.woff2",
+          "initiator": "link",
+          "bodyBytes": 210848,
+          "transferBytes": 211148,
+          "durationMs": 100
+        },
+        {
+          "path": "/assets/brand/burcu-logo.webp",
+          "initiator": "link",
+          "bodyBytes": 21736,
+          "transferBytes": 22036,
+          "durationMs": 100
+        },
+        {
+          "path": "/_next/static/css/7cd8e1b6f1987bd3.css",
+          "initiator": "link",
+          "bodyBytes": 10749,
+          "transferBytes": 11049,
+          "durationMs": 63
+        },
+        {
+          "path": "/_next/static/css/5a337cbd971222fc.css",
+          "initiator": "link",
+          "bodyBytes": 9719,
+          "transferBytes": 10019,
+          "durationMs": 86
+        },
+        {
+          "path": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "initiator": "link",
+          "bodyBytes": 2400,
+          "transferBytes": 2700,
+          "durationMs": 129
+        },
+        {
+          "path": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "initiator": "script",
+          "bodyBytes": 63842,
+          "transferBytes": 64142,
+          "durationMs": 140
+        },
+        {
+          "path": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "initiator": "script",
+          "bodyBytes": 513,
+          "transferBytes": 813,
+          "durationMs": 167
+        },
+        {
+          "path": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "initiator": "script",
+          "bodyBytes": 65042,
+          "transferBytes": 65342,
+          "durationMs": 148
+        },
+        {
+          "path": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "initiator": "script",
+          "bodyBytes": 3295,
+          "transferBytes": 3595,
+          "durationMs": 152
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "initiator": "script",
+          "bodyBytes": 8747,
+          "transferBytes": 9047,
+          "durationMs": 158
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/page-e459c51372e05f32.js",
+          "initiator": "script",
+          "bodyBytes": 5306,
+          "transferBytes": 5606,
+          "durationMs": 165
+        },
+        {
+          "path": "/assets/scenes/brand-field-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 200318,
+          "transferBytes": 200618,
+          "durationMs": 100
+        },
+        {
+          "path": "/assets/icons/sprite.svg",
+          "initiator": "other",
+          "bodyBytes": 1253,
+          "transferBytes": 1553,
+          "durationMs": 96
+        },
+        {
+          "path": "/assets/scenes/about-harvest-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 189714,
+          "transferBytes": 190014,
+          "durationMs": 21
+        },
+        {
+          "path": "/assets/scenes/paste-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 221590,
+          "transferBytes": 221890,
+          "durationMs": 23
+        },
+        {
+          "path": "/assets/facilities/F02.webp",
+          "initiator": "img",
+          "bodyBytes": 153152,
+          "transferBytes": 153452,
+          "durationMs": 24
+        },
+        {
+          "path": "/assets/facilities/F01.webp",
+          "initiator": "img",
+          "bodyBytes": 122156,
+          "transferBytes": 122456,
+          "durationMs": 31
+        },
+        {
+          "path": "/assets/fonts/Manrope.woff2",
+          "initiator": "css",
+          "bodyBytes": 53892,
+          "transferBytes": 54192,
+          "durationMs": 98
+        },
+        {
+          "path": "/__qa/metrics.js",
+          "initiator": "script",
+          "bodyBytes": 1731,
+          "transferBytes": 2031,
+          "durationMs": 28
+        },
+        {
+          "path": "/_next/static/chunks/c15bf2b0.182b384b62e205ff.js",
+          "initiator": "script",
+          "bodyBytes": 20607,
+          "transferBytes": 20907,
+          "durationMs": 13
+        },
+        {
+          "path": "/_next/static/chunks/523.2dbd31648f81e2e6.js",
+          "initiator": "script",
+          "bodyBytes": 34115,
+          "transferBytes": 34415,
+          "durationMs": 18
+        },
+        {
+          "path": "/_next/static/chunks/59.f68e1080d752302d.js",
+          "initiator": "script",
+          "bodyBytes": 2000,
+          "transferBytes": 2300,
+          "durationMs": 27
+        },
+        {
+          "path": "/_next/static/css/226f4571965e8b3e.css",
+          "initiator": "link",
+          "bodyBytes": 456,
+          "transferBytes": 756,
+          "durationMs": 28
+        }
+      ],
+      "canvasCount": 0,
+      "captureContext": "top-level"
+    },
+    {
+      "run": 3,
+      "profile": "ar-desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "devicePixelRatio": 1.0000000149011612,
+      "observedAfterSensorLoadMs": 5000,
+      "elapsedSinceNavigationMs": 6168,
+      "method": "Chromium Performance API observer in the sampled document; unthrottled local sample; not Lighthouse or field acceptance",
+      "observerDocument": "/ar/",
+      "observerSupport": {
+        "lcp": true,
+        "cls": true
+      },
+      "fcpMs": 780,
+      "lcpMs": 780,
+      "lcpElement": {
+        "tag": "SPAN",
+        "id": "",
+        "className": "title-line",
+        "document": "/ar/"
+      },
+      "cls": 0,
+      "shiftSources": [],
+      "encodedBodyBytes": 1413589,
+      "transferBytes": 1420489,
+      "excludedQaSensorBodyBytes": 1731,
+      "resources": [
+        {
+          "path": "/assets/fonts/NotoSansArabic-web.woff2",
+          "initiator": "link",
+          "bodyBytes": 210848,
+          "transferBytes": 211148,
+          "durationMs": 259
+        },
+        {
+          "path": "/assets/brand/burcu-logo.webp",
+          "initiator": "link",
+          "bodyBytes": 21736,
+          "transferBytes": 22036,
+          "durationMs": 221
+        },
+        {
+          "path": "/_next/static/css/7cd8e1b6f1987bd3.css",
+          "initiator": "link",
+          "bodyBytes": 10749,
+          "transferBytes": 11049,
+          "durationMs": 100
+        },
+        {
+          "path": "/_next/static/css/5a337cbd971222fc.css",
+          "initiator": "link",
+          "bodyBytes": 9719,
+          "transferBytes": 10019,
+          "durationMs": 217
+        },
+        {
+          "path": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "initiator": "link",
+          "bodyBytes": 2400,
+          "transferBytes": 2700,
+          "durationMs": 256
+        },
+        {
+          "path": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "initiator": "script",
+          "bodyBytes": 63842,
+          "transferBytes": 64142,
+          "durationMs": 285
+        },
+        {
+          "path": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "initiator": "script",
+          "bodyBytes": 65042,
+          "transferBytes": 65342,
+          "durationMs": 305
+        },
+        {
+          "path": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "initiator": "script",
+          "bodyBytes": 513,
+          "transferBytes": 813,
+          "durationMs": 335
+        },
+        {
+          "path": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "initiator": "script",
+          "bodyBytes": 3295,
+          "transferBytes": 3595,
+          "durationMs": 317
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/page-e459c51372e05f32.js",
+          "initiator": "script",
+          "bodyBytes": 5306,
+          "transferBytes": 5606,
+          "durationMs": 326
+        },
+        {
+          "path": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "initiator": "script",
+          "bodyBytes": 8747,
+          "transferBytes": 9047,
+          "durationMs": 322
+        },
+        {
+          "path": "/assets/scenes/brand-field-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 200318,
+          "transferBytes": 200618,
+          "durationMs": 330
+        },
+        {
+          "path": "/assets/icons/sprite.svg",
+          "initiator": "other",
+          "bodyBytes": 1253,
+          "transferBytes": 1553,
+          "durationMs": 293
+        },
+        {
+          "path": "/assets/scenes/about-harvest-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 189714,
+          "transferBytes": 190014,
+          "durationMs": 43
+        },
+        {
+          "path": "/assets/scenes/paste-desktop.webp",
+          "initiator": "img",
+          "bodyBytes": 221590,
+          "transferBytes": 221890,
+          "durationMs": 50
+        },
+        {
+          "path": "/assets/facilities/F02.webp",
+          "initiator": "img",
+          "bodyBytes": 153152,
+          "transferBytes": 153452,
+          "durationMs": 44
+        },
+        {
+          "path": "/assets/facilities/F01.webp",
+          "initiator": "img",
+          "bodyBytes": 122156,
+          "transferBytes": 122456,
+          "durationMs": 42
+        },
+        {
+          "path": "/__qa/metrics.js",
+          "initiator": "script",
+          "bodyBytes": 1731,
+          "transferBytes": 2031,
+          "durationMs": 23
+        },
+        {
+          "path": "/_next/static/chunks/c15bf2b0.182b384b62e205ff.js",
+          "initiator": "script",
+          "bodyBytes": 20607,
+          "transferBytes": 20907,
+          "durationMs": 19
+        },
+        {
+          "path": "/_next/static/chunks/523.2dbd31648f81e2e6.js",
+          "initiator": "script",
+          "bodyBytes": 34115,
+          "transferBytes": 34415,
+          "durationMs": 24
+        },
+        {
+          "path": "/_next/static/chunks/59.f68e1080d752302d.js",
+          "initiator": "script",
+          "bodyBytes": 2000,
+          "transferBytes": 2300,
+          "durationMs": 34
+        },
+        {
+          "path": "/_next/static/css/226f4571965e8b3e.css",
+          "initiator": "link",
+          "bodyBytes": 456,
+          "transferBytes": 756,
+          "durationMs": 14
+        },
+        {
+          "path": "/assets/fonts/Manrope.woff2",
+          "initiator": "css",
+          "bodyBytes": 53892,
+          "transferBytes": 54192,
+          "durationMs": 97
+        }
+      ],
+      "canvasCount": 0,
+      "captureContext": "top-level"
+    }
+  ]
+}

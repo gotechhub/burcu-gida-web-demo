@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "reviewDateIstanbul": "2026-10-14",
+  "scope": "V2 creative pilot: home, ketchup and tomato paste x TR/EN/AR",
+  "expectedContentRoutes": 9,
+  "full57ScopeImplemented": false,
+  "sourceChangesInThisReview": false,
+  "staticReviewStatus": "passed-with-open-performance-budget-and-pending-runtime-matrix",
+  "runtimePerformedByThisReview": false,
+  "lighthouseScores": null,
+  "commands": [
+    {
+      "command": "node_modules/.bin/tsc.cmd --noEmit --incremental false",
+      "exitCode": 0,
+      "result": "strict TypeScript passed after final production build"
+    },
+    {
+      "command": "node_modules/.bin/21st.cmd review src/components --json",
+      "exitCode": 0,
+      "errors": 0,
+      "warnings": 0,
+      "informationalSuggestions": 2,
+      "evidence": "qa/21st-component-review.json"
+    },
+    {
+      "command": "node qa/inspect-static-export.mjs",
+      "exitCode": 0,
+      "result": "9 expected content files, valid locale/dir, one main/H1, no duplicate IDs, no missing declared assets or broken internal route links",
+      "evidence": "qa/static-export-data.json"
+    }
+  ],
+  "buildEvidence": {
+    "independentlyRerun": false,
+    "reportedBy": "parent agent",
+    "reportedResult": "final production webpack build succeeded, session 84277",
+    "reviewedArtifact": "out/"
+  },
+  "findings": [
+    {
+      "id": "PERF-01",
+      "priority": "P2",
+      "status": "open",
+      "targetInitialModernJsGzipBytes": 80000,
+      "homeInitialModernJsGzipBytes": 152495,
+      "productInitialModernJsGzipBytes": 152113,
+      "sharedLargestTwoChunksGzipBytes": 131615,
+      "method": "Hypothetical local per-file gzip of modern initial HTML script references; not observed HTTP transfer or a Lighthouse score"
+    },
+    {
+      "id": "EXPORT-01",
+      "priority": "P2",
+      "status": "resolved-source-and-export",
+      "description": "Two-tone focus and family overflow-y rules exist in the final global CSS referenced by all nine content pages"
+    },
+    {
+      "id": "A11Y-01",
+      "priority": "P2",
+      "status": "source-and-export-resolved-full-runtime-matrix-pending",
+      "description": "Previous yellow ring on cream was 1.57:1; source and final export use cream outline with navy outer shadow. Full scene contrast and keyboard matrix remain unmeasured by this review"
+    },
+    {
+      "id": "A11Y-02",
+      "priority": "P3",
+      "status": "resolved-source-and-export-physical-touch-pending",
+      "description": "Mobile close and secondary circle controls now have min-width:44px and min-height:44px in source and final export. Physical touch testing remains separate"
+    },
+    {
+      "id": "QA-01",
+      "priority": "info",
+      "status": "accepted-mathematical-neutral-color",
+      "description": "Two deterministic 21st suggestions concern neutral shader white, not branded UI surfaces. No automatic fix applied"
+    }
+  ],
+  "staticChecks": {
+    "globalHeavyRuntimeImportAbsent": true,
+    "desktopComponentsAbsentFromInitialScripts": true,
+    "modalGuardPresentInDetachedChunks": true,
+    "productLabelsRemainDomPhotos": true,
+    "primaryGenericProductCardGridAbsent": true,
+    "lockedLanguagesHaveNoContentRoutes": true,
+    "demoFormHasNoApiOrStorageActionInSource": true,
+    "automaticLowFpsAdaptationImplemented": false,
+    "finalCssFixesReferencedByAll9ContentPages": true
+  },
+  "parentReportedRuntimeEvidence": {
+    "independentlyRepeatedByThisReviewer": false,
+    "desktopSixFamiliesAndRealSkuTransitions": "reported-passed",
+    "mobile390CanvasCount": 0,
+    "mobile390HorizontalOverflow": "reported-absent",
+    "mobileMenuFamilyNavigation": "reported-passed",
+    "productLanguageSwitchMaintainsSlug": "reported-passed",
+    "nativeEscapeRestoresCtaFocus": "reported-passed",
+    "limit": "A zero mobile canvas count does not prove zero heavy chunk requests; cold HAR remains required"
+  },
+  "pending": [
+    "Cold mobile HAR and zero heavy imports/desktop texture/video requests",
+    "Complete native device keyboard, pointer, wheel, modal focus and motion suspension matrix across locales",
+    "Reduced motion, Save-Data, no-WebGL, context loss and import-failure injection",
+    "Final TR/EN/AR screenshot fit, native Arabic review and source label readability",
+    "Film playback and demo form validation / zero transmission checks being gathered by parent",
+    "Four Lighthouse scores with recorded production HTTP conditions",
+    "User visual acceptance before expanding to full 57-address implementation"
+  ],
+  "report": "qa/technical-review.md"
+}

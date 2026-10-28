@@ -1,0 +1,336 @@
+{
+  "checkedAt": "2026-10-14T08:58:21.009Z",
+  "label": "after",
+  "method": "Static export encoded file inventory; not measured browser transfer or Lighthouse",
+  "routes": [
+    {
+      "route": "/tr/",
+      "htmlBytes": 56770,
+      "htmlGzipBytes": 11394,
+      "initialModernJsGzipBytes": 151448,
+      "chunks": [
+        {
+          "url": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "rawBytes": 203721,
+          "gzipBytes": 64057
+        },
+        {
+          "url": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "rawBytes": 242917,
+          "gzipBytes": 67558
+        },
+        {
+          "url": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "rawBytes": 513,
+          "gzipBytes": 222
+        },
+        {
+          "url": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "rawBytes": 7642,
+          "gzipBytes": 3246
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "rawBytes": 32337,
+          "gzipBytes": 8389
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/page-4a8d111d944172a2.js",
+          "rawBytes": 16921,
+          "gzipBytes": 5602
+        },
+        {
+          "url": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "rawBytes": 4873,
+          "gzipBytes": 2374
+        }
+      ],
+      "fontPreloads": [
+        "/assets/fonts/Manrope.woff2",
+        "/assets/fonts/Manrope.woff2"
+      ]
+    },
+    {
+      "route": "/en/",
+      "htmlBytes": 56746,
+      "htmlGzipBytes": 11115,
+      "initialModernJsGzipBytes": 151448,
+      "chunks": [
+        {
+          "url": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "rawBytes": 203721,
+          "gzipBytes": 64057
+        },
+        {
+          "url": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "rawBytes": 242917,
+          "gzipBytes": 67558
+        },
+        {
+          "url": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "rawBytes": 513,
+          "gzipBytes": 222
+        },
+        {
+          "url": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "rawBytes": 7642,
+          "gzipBytes": 3246
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "rawBytes": 32337,
+          "gzipBytes": 8389
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/page-4a8d111d944172a2.js",
+          "rawBytes": 16921,
+          "gzipBytes": 5602
+        },
+        {
+          "url": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "rawBytes": 4873,
+          "gzipBytes": 2374
+        }
+      ],
+      "fontPreloads": [
+        "/assets/fonts/Manrope.woff2",
+        "/assets/fonts/Manrope.woff2"
+      ]
+    },
+    {
+      "route": "/ar/",
+      "htmlBytes": 61569,
+      "htmlGzipBytes": 12287,
+      "initialModernJsGzipBytes": 151448,
+      "chunks": [
+        {
+          "url": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "rawBytes": 203721,
+          "gzipBytes": 64057
+        },
+        {
+          "url": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "rawBytes": 242917,
+          "gzipBytes": 67558
+        },
+        {
+          "url": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "rawBytes": 513,
+          "gzipBytes": 222
+        },
+        {
+          "url": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "rawBytes": 7642,
+          "gzipBytes": 3246
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "rawBytes": 32337,
+          "gzipBytes": 8389
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/page-4a8d111d944172a2.js",
+          "rawBytes": 16921,
+          "gzipBytes": 5602
+        },
+        {
+          "url": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "rawBytes": 4873,
+          "gzipBytes": 2374
+        }
+      ],
+      "fontPreloads": [
+        "/assets/fonts/NotoSansArabic-web.woff2",
+        "/assets/fonts/NotoSansArabic-web.woff2"
+      ]
+    },
+    {
+      "route": "/tr/products/",
+      "htmlBytes": 39744,
+      "htmlGzipBytes": 8770,
+      "initialModernJsGzipBytes": 148264,
+      "chunks": [
+        {
+          "url": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "rawBytes": 203721,
+          "gzipBytes": 64057
+        },
+        {
+          "url": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "rawBytes": 242917,
+          "gzipBytes": 67558
+        },
+        {
+          "url": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "rawBytes": 513,
+          "gzipBytes": 222
+        },
+        {
+          "url": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "rawBytes": 7642,
+          "gzipBytes": 3246
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "rawBytes": 32337,
+          "gzipBytes": 8389
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/products/page-a926d5e12d016caf.js",
+          "rawBytes": 7659,
+          "gzipBytes": 2418
+        },
+        {
+          "url": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "rawBytes": 4873,
+          "gzipBytes": 2374
+        }
+      ],
+      "fontPreloads": [
+        "/assets/fonts/Manrope.woff2",
+        "/assets/fonts/Manrope.woff2"
+      ]
+    },
+    {
+      "route": "/ar/products/",
+      "htmlBytes": 44085,
+      "htmlGzipBytes": 9151,
+      "initialModernJsGzipBytes": 148264,
+      "chunks": [
+        {
+          "url": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "rawBytes": 203721,
+          "gzipBytes": 64057
+        },
+        {
+          "url": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "rawBytes": 242917,
+          "gzipBytes": 67558
+        },
+        {
+          "url": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "rawBytes": 513,
+          "gzipBytes": 222
+        },
+        {
+          "url": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "rawBytes": 7642,
+          "gzipBytes": 3246
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "rawBytes": 32337,
+          "gzipBytes": 8389
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/products/page-a926d5e12d016caf.js",
+          "rawBytes": 7659,
+          "gzipBytes": 2418
+        },
+        {
+          "url": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "rawBytes": 4873,
+          "gzipBytes": 2374
+        }
+      ],
+      "fontPreloads": [
+        "/assets/fonts/NotoSansArabic-web.woff2",
+        "/assets/fonts/NotoSansArabic-web.woff2"
+      ]
+    },
+    {
+      "route": "/tr/products/mayonez/",
+      "htmlBytes": 65491,
+      "htmlGzipBytes": 12127,
+      "initialModernJsGzipBytes": 148670,
+      "chunks": [
+        {
+          "url": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "rawBytes": 203721,
+          "gzipBytes": 64057
+        },
+        {
+          "url": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "rawBytes": 242917,
+          "gzipBytes": 67558
+        },
+        {
+          "url": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "rawBytes": 513,
+          "gzipBytes": 222
+        },
+        {
+          "url": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "rawBytes": 7642,
+          "gzipBytes": 3246
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "rawBytes": 32337,
+          "gzipBytes": 8389
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/products/%5Bslug%5D/page-c65eee4c9fe0cbcc.js",
+          "rawBytes": 7272,
+          "gzipBytes": 2824
+        },
+        {
+          "url": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "rawBytes": 4873,
+          "gzipBytes": 2374
+        }
+      ],
+      "fontPreloads": [
+        "/assets/fonts/Manrope.woff2",
+        "/assets/fonts/Manrope.woff2"
+      ]
+    },
+    {
+      "route": "/ar/products/mayonez/",
+      "htmlBytes": 71044,
+      "htmlGzipBytes": 12853,
+      "initialModernJsGzipBytes": 148670,
+      "chunks": [
+        {
+          "url": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "rawBytes": 203721,
+          "gzipBytes": 64057
+        },
+        {
+          "url": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "rawBytes": 242917,
+          "gzipBytes": 67558
+        },
+        {
+          "url": "/_next/static/chunks/main-app-e3b9c0050dc955f8.js",
+          "rawBytes": 513,
+          "gzipBytes": 222
+        },
+        {
+          "url": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "rawBytes": 7642,
+          "gzipBytes": 3246
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/layout-58c390c3356b901e.js",
+          "rawBytes": 32337,
+          "gzipBytes": 8389
+        },
+        {
+          "url": "/_next/static/chunks/app/%5Blocale%5D/products/%5Bslug%5D/page-c65eee4c9fe0cbcc.js",
+          "rawBytes": 7272,
+          "gzipBytes": 2824
+        },
+        {
+          "url": "/_next/static/chunks/webpack-d1a09d491bc59dc2.js",
+          "rawBytes": 4873,
+          "gzipBytes": 2374
+        }
+      ],
+      "fontPreloads": [
+        "/assets/fonts/NotoSansArabic-web.woff2",
+        "/assets/fonts/NotoSansArabic-web.woff2"
+      ]
+    }
+  ]
+}

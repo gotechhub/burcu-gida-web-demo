@@ -1,0 +1,48 @@
+/* Product-world colour belongs to the selected SKU, rather than the family. */
+.product-studio.is-light .studio-liquid-wipe{background:#e7dec9}
+.studio-pack-position::after{content:'';position:absolute;bottom:1%;left:50%;width:65%;height:12px;background:#271e1555;border-radius:50%;transform:translateX(-50%);filter:blur(7px);z-index:-1;pointer-events:none}
+.site-icon{width:28px;height:28px;display:inline-block;flex-shrink:0;color:currentColor}
+.dialog-close,.nav-close,.related-product .circle-button{min-width:44px;min-height:44px}
+.nav-language-link{min-height:44px;display:inline-flex;align-items:center}
+.source-link{min-height:44px;display:inline-flex;align-items:center}
+.asset-photo{display:block;width:100%;height:100%;object-fit:cover}
+/* Reserve a real gap between copy and the wider jar image box in both directions. */
+@media(min-width:1024px){.product-hero-paste .product-hero-copy{width:42%}}
+@media(min-width:1024px) and (hover:hover) and (prefers-reduced-motion:no-preference){
+  .studio-liquid-wipe{clip-path:none;background:linear-gradient(110deg,transparent 25%,#fff9 50%,transparent 75%);opacity:0;animation:studio-sheen .7s both;pointer-events:none}
+  @keyframes studio-sheen{0%{opacity:0;transform:translateX(-20%)}30%{opacity:.12}100%{opacity:0;transform:translateX(20%)}}
+  .studio-pack-position::after{animation:shadow-enter .7s both}
+  .scene-picture{transition:filter .55s ease}
+  .product-studio:has(.studio-sku-tab:hover) .scene-picture{filter:saturate(1.06)}
+  .circle-button:hover,.studio-arrow:hover{background:var(--navy);color:var(--cream);transform:rotate(-8deg)}
+  .related-product img{transition:transform .65s cubic-bezier(.2,.7,.2,1),filter .65s}
+  .related-product:hover img{transform:translateY(-14px) rotate(-2deg);filter:drop-shadow(0 26px 15px #182e3422)}
+  @keyframes shadow-enter{from{opacity:0;transform:translateX(-50%) scale(.6)}to{opacity:1;transform:translateX(-50%) scale(1)}}
+}
+@media(prefers-reduced-motion:reduce){.scene-picture,.related-product img{transition:none!important}.studio-pack-position::after{animation:none!important}}
+/* Horizontal product tables keep vertical page scrolling available. */
+.variant-table-shell { overscroll-behavior-x: contain; overscroll-behavior-y: auto; }
+/* Keep the product backdrop inside its section on ultrawide screens. */
+@media (min-width: 1024px) {
+  .detail-pack-stage::before { width: min(92%, 560px); }
+}
+
+/* Native keyboard/touch control; preference text is supplied for the active locale. */
+.motion-preference { display: flex; flex-direction: column; align-items: flex-start; max-width: 34ch; flex-shrink: 0; }
+.motion-preference-toggle { display: inline-flex; align-items: center; gap: 10px; min-width: 44px; min-height: 44px; padding: 6px 0; font-size: 12px; font-weight: 650; line-height: 1.4; text-align: start; color: var(--cream); }
+.motion-preference-state { display: inline-grid; place-items: center; width: 18px; height: 18px; border: 1px solid currentColor; border-radius: 50%; flex: 0 0 auto; }
+.motion-preference-state::after { content: ''; width: 8px; height: 8px; border-radius: 50%; background: currentColor; opacity: 0; }
+.motion-preference-toggle[aria-pressed=true] .motion-preference-state::after { opacity: 1; }
+.motion-preference-note { font-size: 11px; line-height: 1.6; text-align: start; }
+
+html[data-motion=off],
+html[data-motion=off] *,
+html[data-motion=off] *::before,
+html[data-motion=off] *::after {
+  animation-duration: .01ms !important;
+  animation-iteration-count: 1 !important;
+  animation-delay: 0ms !important;
+  transition-duration: .01ms !important;
+  transition-delay: 0ms !important;
+  scroll-behavior: auto !important;
+}

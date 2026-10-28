@@ -1,0 +1,296 @@
+{
+  "date": "2026-10-14",
+  "newExpansionMasters": 9,
+  "newGenerationMasterTotal": 17,
+  "reusedV1MasterTotal": 1,
+  "sceneManifest": "assets/manifest.generated.json",
+  "productManifest": "assets/manifest.product-webp.json",
+  "certificateManifest": "docs/research/certificate-image-sources.json",
+  "vectorIconCount": 30,
+  "spriteCount": 1,
+  "icons": [
+    {
+      "path": "public/assets/icons/arrow.svg",
+      "sha256": "30b85fb22ce8006b903938f6e777f7c34af7ea73feda608ab5c44920bab4493c",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/book.svg",
+      "sha256": "91c3255c9cfea266940a596d2318d9b1532124657c8099119aba7c2e7e6d432a",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/check.svg",
+      "sha256": "9caa72edfb7af4e504a234e138856f337c93dc44868ae0b13cc00b4395c57338",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/clock.svg",
+      "sha256": "27e5c08621ebd184f18c8aacd902f0b4055262ddb45595bd842a1bf34e72ce2c",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/close.svg",
+      "sha256": "4b8383d6bafd08f4140374aaf7e7d8be85fcc86ede07ea25e2388a2c5f99b38c",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/download.svg",
+      "sha256": "a1d67bb88a528abef3878fd6132c16e14824330c9125013e5021cfb4dc4f072f",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/external.svg",
+      "sha256": "65c2a0662739414ed09c3c31b169889b4173b8dca582a0ff193226f47d0f48fc",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/factory.svg",
+      "sha256": "ae33d17ab0108465a13b964495ac152415a90a9229b9ba808f8a09b053f96c39",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/globe.svg",
+      "sha256": "5a317e4ab9c943360be995861435029f3bcad994378b47982a061ef8e18ff06f",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/language.svg",
+      "sha256": "59d48b38cd1229284efe73e904237b5bb70c3d17fe668cddaa08a5c4c1998553",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/leaf.svg",
+      "sha256": "8017d9bc3d23745b212ca199ab9f392cda0fbfe98989453078eddb1891ac1434",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/lock.svg",
+      "sha256": "2c78627a6ea7cb244853801d8c47cf9f5c321a8bcc3aca5547263506fa6437f6",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/mail.svg",
+      "sha256": "1cb68f4c07fd3e85dd5e92022087eb49d49e8247cdad4e52696b551691af4107",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/meals.svg",
+      "sha256": "b7840a7de937b8208a3ab4ed0f31f223e2c6f85a4d442c1f7eac84000de575ce",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/menu.svg",
+      "sha256": "5afd24e8989acf49555cd446591d32f93052e7ce941815b7959d25abd57d7b79",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/package.svg",
+      "sha256": "fc0e803d2ba0ca965321dcc4ca3fffeac9c70a0269a2c8e0b08a55408f192fcf",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/paste.svg",
+      "sha256": "90212057df244bd7434911eb6285e0d60850edab2498f6d2456d445ca4bec16e",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/pause.svg",
+      "sha256": "4a917872fbd0f36f48b563067f8536158253c78d8907f9f344c8044055d2434a",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/phone.svg",
+      "sha256": "bf37c3edd22a50eda9f0cb856fe63394b871deaeba91601b3f048267534818d1",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/pin.svg",
+      "sha256": "66ec18f65a0f286a9087fc2af0885e06adf82de9fd01124d47da1ea2bf779fde",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/play.svg",
+      "sha256": "be8aaabd25ce2c2d0cf0abc71ccbc760ce4659ef17f857ab4198b910b5d5b430",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/pulses.svg",
+      "sha256": "5df79c3721d196f31ebb5bfc57e132875ba02087aec136728a6b8072b16f6568",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/roasted.svg",
+      "sha256": "b41b42d3d261f7adcc4fc13121a587c7758cb2f5c50e50e4bb198f4e1d41ae21",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/sauce.svg",
+      "sha256": "0b9585fbd873fd321795effa1f894b2be701cb6eed809fe5cbe018418a7de1ef",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/search.svg",
+      "sha256": "53175eed98d3c2fb1815f0ca816a1d23da31acef8ee9cd754ed764966d376683",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/shield.svg",
+      "sha256": "5ec026a11e285b62046b0501ed6270d38ecd27b73d155cce6b89a2be7559e86d",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/shop.svg",
+      "sha256": "e825f493604826dc4ef5564ee6f38aceb0446104158b48107c42a6af22999a02",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/sprite.svg",
+      "sha256": "df4acd29f729d3ebb063a8e601e94c2e086877dfd73b314362b4e06b4458aed4",
+      "kind": "sprite"
+    },
+    {
+      "path": "public/assets/icons/sun.svg",
+      "sha256": "c94a4212c1af33cbc79c0f47f1d8ba6518f4ad87606d905602e0f11e6624fc04",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/users.svg",
+      "sha256": "16d27301dd0be41622be23b582486902186bd2d5200017dcc06f533f6393bbcd",
+      "kind": "hand-authored-vector-icon"
+    },
+    {
+      "path": "public/assets/icons/vegetables.svg",
+      "sha256": "0f8140545d39e119043c671aad9177a6b1266435a9c0b7c4eb28e9e2c5965c52",
+      "kind": "hand-authored-vector-icon"
+    }
+  ],
+  "brochure": {
+    "path": "public/assets/documents/burcu-catalogue-web.pdf",
+    "sha256": "59323f991887d9f4fff308921c3739069625dc604a0f138abd7c43d77fd63840",
+    "bytes": 14775912,
+    "status": "67-page archived catalogue web derivative; protected 118MB original remains in assets/source/documents",
+    "qa": "qa/brochure-web-review.json"
+  },
+  "coverage": {
+    "home": [
+      "brand-field",
+      "about-harvest",
+      "product scenes x10",
+      "F01",
+      "F02",
+      "store-pantry",
+      "media-table"
+    ],
+    "about": [
+      "about-harvest",
+      "F01",
+      "F02"
+    ],
+    "facilities": [
+      "F01",
+      "F02"
+    ],
+    "quality": [
+      "shield",
+      "leaf",
+      "factory"
+    ],
+    "foodSafety": [
+      "shield",
+      "published policy PDF"
+    ],
+    "certificates": [
+      "four official expired archived scans"
+    ],
+    "careers": [
+      "about-harvest",
+      "users"
+    ],
+    "corporateSales": [
+      "globe",
+      "source P01 P04 P09 P10"
+    ],
+    "global": [
+      "globe",
+      "source P01 P04 P09 P10"
+    ],
+    "products": [
+      "ten immutable packshots"
+    ],
+    "kitchen": [
+      "table-corrected",
+      "ketchup-serving",
+      "chickpea",
+      "peas",
+      "meals",
+      "roasted"
+    ],
+    "media": [
+      "media-table",
+      "F01",
+      "archive brochure",
+      "concept film"
+    ],
+    "contact": [
+      "leaf",
+      "real source contacts"
+    ],
+    "sitemap": [
+      "typographic"
+    ],
+    "privacy": [
+      "typographic"
+    ],
+    "kvkk": [
+      "typographic"
+    ],
+    "cookies": [
+      "typographic"
+    ]
+  },
+  "policy": "Backgrounds illustrate ingredients/harvest; actual facility provenance and packaging retained. No invented contemporary certifications or business figures. Native dimensions in individual manifests.",
+  "responsiveProductManifest": "assets/manifest.product-responsive.json",
+  "arabicWebFontManifest": "assets/manifest.font-arabic-web.json",
+  "captionSourceReview": "qa/film-captions-review.json",
+  "captionTranslationSource": "assets/source/captions/film-translations.json",
+  "currentAssetCounts": {
+    "baselineWebp": 48,
+    "responsiveProductWebp": 16,
+    "totalWebp": 64,
+    "woff2Files": 3,
+    "activeFontFaces": 2,
+    "preservedOriginalArabicWoff2Archives": 1,
+    "vttTracks": 3,
+    "cuesPerTrack": 33,
+    "newAiMasters": 17
+  },
+  "activeFontFiles": [
+    "public/assets/fonts/Manrope.woff2",
+    "public/assets/fonts/NotoSansArabic-web.woff2"
+  ],
+  "preservedOriginalArabicWoff2": "public/assets/fonts/NotoSansArabic.woff2",
+  "captionTracks": [
+    {
+      "locale": "tr",
+      "path": "public/assets/video/captions/burcu-tr.vtt",
+      "sha256": "97eea7c81202cbdb863f58db7450bb1e43b5979320cddb18302b4c8add77cc4c",
+      "bytes": 3230,
+      "cueCount": 33
+    },
+    {
+      "locale": "en",
+      "path": "public/assets/video/captions/burcu-en.vtt",
+      "sha256": "36e8d58e4f7fdb1aacd10e3288fea221715b75abf4a679f861b30587d9e11fff",
+      "bytes": 3107,
+      "cueCount": 33
+    },
+    {
+      "locale": "ar",
+      "path": "public/assets/video/captions/burcu-ar.vtt",
+      "sha256": "ef776054d5adcdeb1501e324838703114b834d6a8447174213e3fbdfd092bb7b",
+      "bytes": 4004,
+      "cueCount": 33
+    }
+  ]
+}

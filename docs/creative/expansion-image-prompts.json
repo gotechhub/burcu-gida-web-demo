@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-14",
+  "mode": "built-in image_gen",
+  "count": 6,
+  "policy": "New illustrative environments without generated packaging or invented facilities. All authentic product layers remain separate.",
+  "entries": [
+    {
+      "key": "mayonnaise",
+      "source": "C:\\Users\\SG\\.codex\\generated_images\\01a12d59-f576-7913-99dc-420ebbc33de8\\exec-1bc8872a-a423-44e7-aceb-7b9f982d0a84.png",
+      "prompt": "Use case: ads-marketing. Asset: premium Burcu mayonnaise product world BACKGROUND ONLY, wide 16:9 highest native resolution. Commercial actual food photography, incredibly fine food textures and truthful optical physics, NOT cartoon or plastic CGI. Warm ivory, muted buttercream and palest sage studio with smooth pale stone tabletop, elegant broad sculptural waves and ribbons of thick glossy REAL mayonnaise flowing around far-left and far-right edges, subtle tiny glistening sauce droplets, warm studio sidelight. Center 45% perfectly empty for a separate authentic upright green-cap 220g mayonnaise bottle, upper center ample uncluttered cream negative space for web typography. The tabletop contact plane at lower center is horizontal, softly lit from upper left with shadow to right. No ketchup, no tomato red, no bowls in center, no packaging, no bottle, no brand, no typography, no watermark, no fake label. Elegant luxury food campaign, sophisticated neutral depth and realistic creamy sauce, not huge chunks. Carefully balanced left and right framing.",
+      "destination": "assets/masters/mayonnaise.png"
+    },
+    {
+      "key": "brand-field",
+      "source": "C:\\Users\\SG\\.codex\\generated_images\\01a12d59-f576-7913-99dc-420ebbc33de8\\exec-0f7c3f91-c769-434e-8ef8-6bcead440ea2.png",
+      "prompt": "Use case: photorealistic-natural. Asset: wide 16:9 premium corporate food brand homepage campaign banner, highest native resolution. A magnificent real Mediterranean tomato harvest landscape at golden morning light; long well-ordered rows of lush tomato plants, ripe red tomatoes with rich real texture close in lower-right foreground, small weathered wooden harvest crate at far right. Distant countryside agricultural hills and soft morning sky, atmospheric photographic scale, warm sun at upper right. Wide quieter deep shaded olive-green left 60% with intentional tonal calm for LARGE cream campaign typography added later by webpage. Modern global corporate brand editorial photography, poised and credible, 50mm lens realism, no kitsch tourism aesthetic, no fantasy. No factory, no pretend Burcu facility, no machinery, no readable human faces, no people, no packages, no bottles/jars, no text/logos/watermarks. One physically coherent real-looking scene with exceptionally detailed crops and restrained golden highlights.",
+      "destination": "assets/masters/brand-field.png"
+    },
+    {
+      "key": "about-harvest",
+      "source": "C:\\Users\\SG\\.codex\\generated_images\\01a12d59-f576-7913-99dc-420ebbc33de8\\exec-15e754b1-17c0-4766-ae07-19afce35e2e9.png",
+      "prompt": "Use case: photorealistic-natural. Asset: full-width about page and home editorial photo for premium Turkish food brand. Wide16:9 highest native resolution. Close observational photograph of real sun-ripened tomatoes still on green vines and a pair of anonymous gloved worker hands gently inspecting one tomato in a harvest crate at frame right, only hands/no face/no identifiable person. Warm late morning natural agricultural daylight, tactile real vegetable skin, actual rich soil, worn pine crate, elegant honest photography. Left half quieter vineyard/crop bokeh for later text, rich crimson and deep natural greens. Editorial global agency aesthetic, 85mm lens shallow depth, no cartoon/AI plastic texture, no impossible scale, no signage, no packages, no logos, no text, no factory. This is illustrative harvest photography NOT evidence of a particular farm.",
+      "destination": "assets/masters/about-harvest.png"
+    },
+    {
+      "key": "table-corrected",
+      "source": "C:\\Users\\SG\\.codex\\generated_images\\01a12d59-f576-7913-99dc-420ebbc33de8\\exec-516415a5-b33d-4a80-8e6e-eb4b566c28c8.png",
+      "prompt": "Use case: photorealistic-natural. Asset: premium culinary editorial image, not a packshot insertion background. Wide16:9 highest native resolution. A NORMAL-SIZE 26cm ceramic dinner plate with a modest real serving of tomato-sauce pasta, fresh basil and a few small tomatoes, on a natural warm limestone table, photographed from realistic 40degree dining view using 50mm lens. The WHOLE plate is visible, occupying about 44% of frame width at right-center; realistic plate relative to 4cm tomatoes, fork and folded linen napkin. Center and left generous calm tabletop negative space, softly blurred understated Mediterranean kitchen behind. Directional windowlight from upper-left, soft grounded real plate and utensil shadows, truthful natural perspective, no enormous closeup dish, no overflowing oversized pasta/no plastic food, no product bottle/jar/package, no typography, logos or watermark. Honest appetizing photograph from global premium food editorial, all props on same physical plane.",
+      "destination": "assets/masters/table-corrected.png"
+    },
+    {
+      "key": "store-pantry",
+      "source": "C:\\Users\\SG\\.codex\\generated_images\\01a12d59-f576-7913-99dc-420ebbc33de8\\exec-174cb567-edba-4df4-af2c-af2f36975d6a.png",
+      "prompt": "Use case: photorealistic-natural. Asset: premium online-store website section BACKGROUND editorial photograph only. Wide16:9 highest native resolution. An elegantly styled home pantry and warm stone counter; refined natural oak open shelves at right with unlabeled clear glass containers of dry chickpeas, lentils and rice, a small wooden basket of ripe tomatoes and sweet red peppers lower-right. No branded or artificial packaged products. Left55% quiet textured cream wall and clear counter for web heading and external-store button. Natural afternoon sidelight, restrained timeless corporate food photography, warm neutral/navy-compatible palette, real scale and convincing tactile materials. No text, no logo, no generated Burcu pack, no watermark, no cartoon, no excess decorative props, no fake business or factory.",
+      "destination": "assets/masters/store-pantry.png"
+    },
+    {
+      "key": "media-table",
+      "source": "C:\\Users\\SG\\.codex\\generated_images\\01a12d59-f576-7913-99dc-420ebbc33de8\\exec-9a24fb1e-c9a3-4c21-812f-e234893b46b2.png",
+      "prompt": "Use case: photorealistic-natural. Asset: Burcu media/brochure page editorial image. Wide16:9 highest native resolution. A sophisticated commercial food flatlay photographed genuinely overhead on warm limestone tabletop. Real ripe whole tomatoes, fresh red pepper, a handful of green peas, a small bowl of cooked chickpeas and olive leaves form a restrained photographic frame along far-left and far-right edges. EMPTY central60% clean stone negative space intended for later brochure/video UI elements, no paper/brochure or device generated. Natural softbox directional light, real shadows and fine texture, sophisticated premium global food campaign style with warm cream, tomato red and herb greens. No packaging, brand, typography, watermark, no CGI/cartoon, no misleading certification badges.",
+      "destination": "assets/masters/media-table.png"
+    }
+  ]
+}

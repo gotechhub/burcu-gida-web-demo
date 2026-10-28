@@ -1,0 +1,329 @@
+{
+  "checkedAt": "2026-10-14T01:22:02.800Z",
+  "checks": [
+    {
+      "label": "tr corporate short",
+      "bodyLocked": true,
+      "clientHeight": 576,
+      "outsideControls": [],
+      "overflow": "hidden",
+      "rect": {
+        "height": 576,
+        "width": 976,
+        "x": 24,
+        "y": 12
+      },
+      "scrollHeight": 576,
+      "viewport": [
+        1024,
+        600
+      ]
+    },
+    {
+      "label": "tr products short",
+      "bodyLocked": true,
+      "clientHeight": 576,
+      "outsideControls": [],
+      "overflow": "hidden",
+      "rect": {
+        "height": 576,
+        "width": 976,
+        "x": 24,
+        "y": 12
+      },
+      "scrollHeight": 576,
+      "viewport": [
+        1024,
+        600
+      ]
+    },
+    {
+      "label": "tr media short",
+      "bodyLocked": true,
+      "clientHeight": 576,
+      "outsideControls": [],
+      "overflow": "hidden",
+      "rect": {
+        "height": 576,
+        "width": 976,
+        "x": 24,
+        "y": 12
+      },
+      "scrollHeight": 576,
+      "viewport": [
+        1024,
+        600
+      ]
+    },
+    {
+      "label": "tr film short",
+      "bodyLocked": true,
+      "clientHeight": 568,
+      "outsideControls": [],
+      "overflow": "hidden",
+      "rect": {
+        "height": 568,
+        "width": 976,
+        "x": 24,
+        "y": 16
+      },
+      "scrollHeight": 568,
+      "viewport": [
+        1024,
+        600
+      ]
+    },
+    {
+      "label": "en corporate short",
+      "bodyLocked": true,
+      "clientHeight": 576,
+      "outsideControls": [],
+      "overflow": "hidden",
+      "rect": {
+        "height": 576,
+        "width": 976,
+        "x": 24,
+        "y": 12
+      },
+      "scrollHeight": 576,
+      "viewport": [
+        1024,
+        600
+      ]
+    },
+    {
+      "label": "en Our products short",
+      "bodyLocked": true,
+      "clientHeight": 576,
+      "outsideControls": [],
+      "overflow": "hidden",
+      "rect": {
+        "height": 576,
+        "width": 976,
+        "x": 24,
+        "y": 12
+      },
+      "scrollHeight": 576,
+      "viewport": [
+        1024,
+        600
+      ]
+    },
+    {
+      "label": "en Burcu World short",
+      "bodyLocked": true,
+      "clientHeight": 576,
+      "outsideControls": [],
+      "overflow": "hidden",
+      "rect": {
+        "height": 576,
+        "width": 976,
+        "x": 24,
+        "y": 12
+      },
+      "scrollHeight": 576,
+      "viewport": [
+        1024,
+        600
+      ]
+    },
+    {
+      "label": "en film short",
+      "bodyLocked": true,
+      "clientHeight": 568,
+      "outsideControls": [],
+      "overflow": "hidden",
+      "rect": {
+        "height": 568,
+        "width": 976,
+        "x": 24,
+        "y": 16
+      },
+      "scrollHeight": 568,
+      "viewport": [
+        1024,
+        600
+      ]
+    },
+    {
+      "label": "ar corporate short",
+      "bodyLocked": true,
+      "clientHeight": 576,
+      "outsideControls": [],
+      "overflow": "hidden",
+      "rect": {
+        "height": 576,
+        "width": 976,
+        "x": 24,
+        "y": 12
+      },
+      "scrollHeight": 576,
+      "viewport": [
+        1024,
+        600
+      ]
+    },
+    {
+      "label": "ar منتجاتنا short",
+      "bodyLocked": true,
+      "clientHeight": 576,
+      "outsideControls": [],
+      "overflow": "hidden",
+      "rect": {
+        "height": 576,
+        "width": 976,
+        "x": 24,
+        "y": 12
+      },
+      "scrollHeight": 576,
+      "viewport": [
+        1024,
+        600
+      ]
+    },
+    {
+      "label": "ar عالم بورجو short",
+      "bodyLocked": true,
+      "clientHeight": 576,
+      "outsideControls": [],
+      "overflow": "hidden",
+      "rect": {
+        "height": 576,
+        "width": 976,
+        "x": 24,
+        "y": 12
+      },
+      "scrollHeight": 576,
+      "viewport": [
+        1024,
+        600
+      ]
+    },
+    {
+      "label": "ar film short",
+      "bodyLocked": true,
+      "clientHeight": 568,
+      "outsideControls": [],
+      "overflow": "hidden",
+      "rect": {
+        "height": 568,
+        "width": 976,
+        "x": 24,
+        "y": 16
+      },
+      "scrollHeight": 568,
+      "viewport": [
+        1024,
+        600
+      ]
+    },
+    {
+      "label": "tr film 390x844",
+      "bodyLocked": true,
+      "clientHeight": 824,
+      "outsideControls": [],
+      "overflow": "hidden",
+      "rect": {
+        "height": 824,
+        "width": 370.3999938964844,
+        "x": 10,
+        "y": 10
+      },
+      "scrollHeight": 824,
+      "viewport": [
+        390,
+        844
+      ]
+    },
+    {
+      "label": "en film 390x844",
+      "bodyLocked": true,
+      "clientHeight": 824,
+      "outsideControls": [],
+      "overflow": "hidden",
+      "rect": {
+        "height": 824,
+        "width": 370.3999938964844,
+        "x": 10,
+        "y": 10
+      },
+      "scrollHeight": 824,
+      "viewport": [
+        390,
+        844
+      ]
+    },
+    {
+      "label": "ar film 390x844",
+      "bodyLocked": true,
+      "clientHeight": 824,
+      "outsideControls": [],
+      "overflow": "hidden",
+      "rect": {
+        "height": 824,
+        "width": 370.3999938964844,
+        "x": 10,
+        "y": 10
+      },
+      "scrollHeight": 824,
+      "viewport": [
+        390,
+        844
+      ]
+    },
+    {
+      "label": "tr film 844x390",
+      "bodyLocked": true,
+      "clientHeight": 370,
+      "outsideControls": [],
+      "overflow": "hidden",
+      "rect": {
+        "height": 370.3999938964844,
+        "width": 824,
+        "x": 10,
+        "y": 10
+      },
+      "scrollHeight": 370,
+      "viewport": [
+        844,
+        390
+      ]
+    },
+    {
+      "label": "en film 844x390",
+      "bodyLocked": true,
+      "clientHeight": 370,
+      "outsideControls": [],
+      "overflow": "hidden",
+      "rect": {
+        "height": 370.3999938964844,
+        "width": 824,
+        "x": 10,
+        "y": 10
+      },
+      "scrollHeight": 370,
+      "viewport": [
+        844,
+        390
+      ]
+    },
+    {
+      "label": "ar film 844x390",
+      "bodyLocked": true,
+      "clientHeight": 370,
+      "outsideControls": [],
+      "overflow": "hidden",
+      "rect": {
+        "height": 370.3999938964844,
+        "width": 824,
+        "x": 10,
+        "y": 10
+      },
+      "scrollHeight": 370,
+      "viewport": [
+        844,
+        390
+      ]
+    }
+  ]
+}

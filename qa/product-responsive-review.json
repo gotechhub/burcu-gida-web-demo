@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "1.0-responsive-product-review",
+  "checkedAt": "2026-10-14T06:04:51.577Z",
+  "status": "PASS",
+  "manifestPath": "assets/manifest.product-responsive.json",
+  "manifestSha256": "25ce15e095c1b0cf1ac0292f12df0c5007b8d272778185b90b380a77994ae611",
+  "counts": {
+    "products": 10,
+    "derivatives": 16,
+    "derivativeBytes": 2959692
+  },
+  "sourcePngAndNativeWebpUnchanged": true,
+  "sourceRgbaHashesMatch": true,
+  "allDerivativesExactlyMatchCanonicalLanczosRgba": true,
+  "allAlphasPreservedByLosslessCodec": true,
+  "upscalingApplied": false,
+  "labelsOrLogosRegenerated": false,
+  "resamplingDisclosure": "Lossless refers to the codec after Lanczos resizing. Resampling itself changes native pixels; native sources remain unchanged.",
+  "uiCodeModified": false,
+  "browserTransferMeasured": false
+}

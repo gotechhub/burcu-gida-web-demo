@@ -1,0 +1,39 @@
+{
+  "completedAt": "2026-10-12T16:33:57.891Z",
+  "technicalDeliveryComplete": true,
+  "humanFilmAccepted": false,
+  "customerReady": false,
+  "moviePath": "out/burcu-v3-tarladan-sofralara.mp4",
+  "movieSha256": "2d44602be651b7c570e4529b072befda41149ddf843b9146ffd480ddc05b2f67",
+  "format": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 25,
+    "frames": 3750,
+    "videoSeconds": 150,
+    "containerSeconds": 150.016
+  },
+  "shots": 30,
+  "portfolioFamilies": 19,
+  "authenticPackages": 24,
+  "finalPackages": 24,
+  "packageChecks": 218,
+  "allPackageChecksPassed": true,
+  "sampledVisualFrames": 90,
+  "adjacentCutsReviewed": 29,
+  "storyboardFrames": 60,
+  "storyboardPdfPages": 31,
+  "integratedLufs": -16.03,
+  "truePeakDbtp": -1.62,
+  "cleanInstallPassed": true,
+  "browserPlaybackStarted": true,
+  "scope": "User-authorised available-photo and bespoke motion-graphics completion; unchanged Doga R05, no new video or voice generation.",
+  "recordedException": "SH30 frame3650 is the intentional 40ms plain-cream start of the closing fade.",
+  "evidence": [
+    "qa/full-film-qa.json",
+    "qa/final-visual-review.json",
+    "qa/clean-install.json",
+    "qa/storyboard-pdf.json",
+    "qa/package-verification.json"
+  ]
+}

@@ -1,0 +1,3 @@
+import type {CSSProperties} from 'react';
+export type IconName='arrow'|'close'|'menu'|'search'|'play'|'pause'|'globe'|'language'|'mail'|'phone'|'pin'|'download'|'external'|'book'|'factory'|'shield'|'leaf'|'users'|'shop'|'check'|'lock'|'sun'|'clock'|'package'|'paste'|'sauce'|'vegetables'|'pulses'|'meals'|'roasted';
+export default function SiteIcon({name,className='',style}:{name:IconName;className?:string;style?:CSSProperties}){return <svg className={`site-icon ${className}`} style={style} viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href={`/assets/icons/sprite.svg#${name}`}/></svg>;}

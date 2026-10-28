@@ -1,0 +1,362 @@
+[
+  {
+    "canvas": 0,
+    "locale": "tr",
+    "minSkuHeight": 44,
+    "overflow": false,
+    "overlap": false,
+    "product": "P01",
+    "selected": "Salçalar",
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "locale": "tr",
+    "minSkuHeight": 44,
+    "overflow": false,
+    "overlap": false,
+    "product": "P04",
+    "selected": "Ketçap ve mayonez",
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "locale": "tr",
+    "minSkuHeight": 999,
+    "overflow": false,
+    "overlap": false,
+    "product": "P08",
+    "selected": "Sebze konserveleri",
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "locale": "tr",
+    "minSkuHeight": 999,
+    "overflow": false,
+    "overlap": false,
+    "product": "P09",
+    "selected": "Haşlanmış ürünler",
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "locale": "tr",
+    "minSkuHeight": 44,
+    "overflow": false,
+    "overlap": false,
+    "product": "P06",
+    "selected": "Hazır yemekler",
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "locale": "tr",
+    "minSkuHeight": 999,
+    "overflow": false,
+    "overlap": false,
+    "product": "P10",
+    "selected": "Közlenmiş ürünler",
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "locale": "en",
+    "minSkuHeight": 44,
+    "overflow": false,
+    "overlap": false,
+    "product": "P01",
+    "selected": "Tomato and pepper pastes",
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "locale": "en",
+    "minSkuHeight": 44,
+    "overflow": false,
+    "overlap": false,
+    "product": "P04",
+    "selected": "Ketchup and mayonnaise",
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "locale": "en",
+    "minSkuHeight": 999,
+    "overflow": false,
+    "overlap": false,
+    "product": "P08",
+    "selected": "Canned vegetables",
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "locale": "en",
+    "minSkuHeight": 999,
+    "overflow": false,
+    "overlap": false,
+    "product": "P09",
+    "selected": "Cooked products",
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "locale": "en",
+    "minSkuHeight": 44,
+    "overflow": false,
+    "overlap": false,
+    "product": "P06",
+    "selected": "Ready meals",
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "locale": "en",
+    "minSkuHeight": 999,
+    "overflow": false,
+    "overlap": false,
+    "product": "P10",
+    "selected": "Roasted products",
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "locale": "ar",
+    "minSkuHeight": 44,
+    "overflow": false,
+    "overlap": false,
+    "product": "P01",
+    "selected": "معجون الطماطم والفلفل",
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "locale": "ar",
+    "minSkuHeight": 44,
+    "overflow": false,
+    "overlap": false,
+    "product": "P04",
+    "selected": "الكاتشب والمايونيز",
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "locale": "ar",
+    "minSkuHeight": 999,
+    "overflow": false,
+    "overlap": false,
+    "product": "P08",
+    "selected": "الخضار المعلبة",
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "locale": "ar",
+    "minSkuHeight": 999,
+    "overflow": false,
+    "overlap": false,
+    "product": "P09",
+    "selected": "المنتجات المسلوقة",
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "locale": "ar",
+    "minSkuHeight": 44,
+    "overflow": false,
+    "overlap": false,
+    "product": "P06",
+    "selected": "الوجبات الجاهزة",
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "locale": "ar",
+    "minSkuHeight": 999,
+    "overflow": false,
+    "overlap": false,
+    "product": "P10",
+    "selected": "المنتجات المشوية",
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "locale": "tr",
+    "minSkuHeight": 44,
+    "overflow": false,
+    "overlap": false,
+    "product": "P01",
+    "selected": "Salçalar",
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "locale": "tr",
+    "minSkuHeight": 44,
+    "overflow": false,
+    "overlap": false,
+    "product": "P04",
+    "selected": "Ketçap ve mayonez",
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "locale": "tr",
+    "minSkuHeight": 999,
+    "overflow": false,
+    "overlap": false,
+    "product": "P08",
+    "selected": "Sebze konserveleri",
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "locale": "tr",
+    "minSkuHeight": 999,
+    "overflow": false,
+    "overlap": false,
+    "product": "P09",
+    "selected": "Haşlanmış ürünler",
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "locale": "tr",
+    "minSkuHeight": 44,
+    "overflow": false,
+    "overlap": false,
+    "product": "P06",
+    "selected": "Hazır yemekler",
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "locale": "tr",
+    "minSkuHeight": 999,
+    "overflow": false,
+    "overlap": false,
+    "product": "P10",
+    "selected": "Közlenmiş ürünler",
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "locale": "en",
+    "minSkuHeight": 44,
+    "overflow": false,
+    "overlap": false,
+    "product": "P01",
+    "selected": "Tomato and pepper pastes",
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "locale": "en",
+    "minSkuHeight": 44,
+    "overflow": false,
+    "overlap": false,
+    "product": "P04",
+    "selected": "Ketchup and mayonnaise",
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "locale": "en",
+    "minSkuHeight": 999,
+    "overflow": false,
+    "overlap": false,
+    "product": "P08",
+    "selected": "Canned vegetables",
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "locale": "en",
+    "minSkuHeight": 999,
+    "overflow": false,
+    "overlap": false,
+    "product": "P09",
+    "selected": "Cooked products",
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "locale": "en",
+    "minSkuHeight": 44,
+    "overflow": false,
+    "overlap": false,
+    "product": "P06",
+    "selected": "Ready meals",
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "locale": "en",
+    "minSkuHeight": 999,
+    "overflow": false,
+    "overlap": false,
+    "product": "P10",
+    "selected": "Roasted products",
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "locale": "ar",
+    "minSkuHeight": 44,
+    "overflow": false,
+    "overlap": false,
+    "product": "P01",
+    "selected": "معجون الطماطم والفلفل",
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "locale": "ar",
+    "minSkuHeight": 44,
+    "overflow": false,
+    "overlap": false,
+    "product": "P04",
+    "selected": "الكاتشب والمايونيز",
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "locale": "ar",
+    "minSkuHeight": 999,
+    "overflow": false,
+    "overlap": false,
+    "product": "P08",
+    "selected": "الخضار المعلبة",
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "locale": "ar",
+    "minSkuHeight": 999,
+    "overflow": false,
+    "overlap": false,
+    "product": "P09",
+    "selected": "المنتجات المسلوقة",
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "locale": "ar",
+    "minSkuHeight": 44,
+    "overflow": false,
+    "overlap": false,
+    "product": "P06",
+    "selected": "الوجبات الجاهزة",
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "locale": "ar",
+    "minSkuHeight": 999,
+    "overflow": false,
+    "overlap": false,
+    "product": "P10",
+    "selected": "المنتجات المشوية",
+    "width": 820
+  }
+]

@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-14",
+  "captionFiles": 3,
+  "responsiveProductFiles": 16,
+  "checks": [
+    {
+      "path": "/assets/video/captions/burcu-tr.vtt",
+      "status": 200,
+      "mime": "text/vtt; charset=utf-8",
+      "cues": 33,
+      "pass": true
+    },
+    {
+      "path": "/assets/video/captions/burcu-en.vtt",
+      "status": 200,
+      "mime": "text/vtt; charset=utf-8",
+      "cues": 33,
+      "pass": true
+    },
+    {
+      "path": "/assets/video/captions/burcu-ar.vtt",
+      "status": 200,
+      "mime": "text/vtt; charset=utf-8",
+      "cues": 33,
+      "pass": true
+    },
+    {
+      "path": "/assets/products/responsive/2si1arada-240w.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bytes": 138394,
+      "pass": true
+    },
+    {
+      "path": "/assets/products/responsive/2si1arada-360w.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bytes": 293100,
+      "pass": true
+    },
+    {
+      "path": "/assets/products/responsive/barbunya-pilaki-240w.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bytes": 83256,
+      "pass": true
+    },
+    {
+      "path": "/assets/products/responsive/barbunya-pilaki-360w.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bytes": 171774,
+      "pass": true
+    },
+    {
+      "path": "/assets/products/responsive/bezelye-240w.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bytes": 148910,
+      "pass": true
+    },
+    {
+      "path": "/assets/products/responsive/biber-salcasi-240w.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bytes": 134358,
+      "pass": true
+    },
+    {
+      "path": "/assets/products/responsive/biber-salcasi-360w.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bytes": 283896,
+      "pass": true
+    },
+    {
+      "path": "/assets/products/responsive/domates-salcasi-240w.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bytes": 133044,
+      "pass": true
+    },
+    {
+      "path": "/assets/products/responsive/domates-salcasi-360w.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bytes": 282758,
+      "pass": true
+    },
+    {
+      "path": "/assets/products/responsive/haslanmis-nohut-240w.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bytes": 163760,
+      "pass": true
+    },
+    {
+      "path": "/assets/products/responsive/ketcap-240w.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bytes": 186650,
+      "pass": true
+    },
+    {
+      "path": "/assets/products/responsive/kozlenmis-biber-240w.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bytes": 161126,
+      "pass": true
+    },
+    {
+      "path": "/assets/products/responsive/kozlenmis-biber-360w.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bytes": 344324,
+      "pass": true
+    },
+    {
+      "path": "/assets/products/responsive/mayonez-240w.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bytes": 180076,
+      "pass": true
+    },
+    {
+      "path": "/assets/products/responsive/yaprak-sarma-240w.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bytes": 82398,
+      "pass": true
+    },
+    {
+      "path": "/assets/products/responsive/yaprak-sarma-360w.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bytes": 171868,
+      "pass": true
+    },
+    {
+      "path": "/assets/fonts/NotoSansArabic-web.woff2",
+      "status": 200,
+      "mime": "font/woff2",
+      "pass": true
+    }
+  ],
+  "passed": true
+}

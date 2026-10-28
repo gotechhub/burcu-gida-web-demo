@@ -1,0 +1,751 @@
+{
+  "schemaVersion": "1.0-native-lossless-product-webp",
+  "preparedAt": "2026-10-13T21:56:03.912Z",
+  "sourceInventoryPath": "source-inventory.json",
+  "sourceInventorySha256": "ab1291023fc8430b4dadce7a52bde126ee89e78801a8300bb5ae1f754ef40492",
+  "encoder": {
+    "sharp": "0.35.5",
+    "webp": "1.6.0",
+    "sharpSource": "sharp"
+  },
+  "originalPngsModified": false,
+  "nativeDimensionsRetained": true,
+  "generatedPackageDetail": false,
+  "scope": "Lossless codec-only derivatives for ten authentic native product cutouts and one official logo. No resampling, label redraw, AI generation or frontend change.",
+  "counts": {
+    "products": 10,
+    "logos": 1,
+    "derivatives": 11,
+    "sourceBytes": 4362554,
+    "derivativeBytes": 3167316,
+    "byteReduction": 1195238
+  },
+  "fontConversion": {
+    "status": "skipped-no-existing-fontTools-or-brotli",
+    "checkedRuntime": "C:/Users/SG/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/python.exe",
+    "moduleProbe": {
+      "fontTools": false,
+      "brotli": false,
+      "brotlicffi": false,
+      "woff2": false
+    },
+    "installedOrDownloadedDependencies": false,
+    "glyphCmapAxisComparison": "not-applicable-no-conversion",
+    "originalFontAndLicenseFiles": [
+      {
+        "path": "public/assets/fonts/Manrope.ttf",
+        "bytes": 164700,
+        "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6"
+      },
+      {
+        "path": "public/assets/fonts/NotoSansArabic.ttf",
+        "bytes": 844676,
+        "sha256": "63111b5b2e074dd48cc67692e0a2726d86ee94c1c37fe8598257b7b4e87e869e"
+      },
+      {
+        "path": "public/assets/fonts/OFL.txt",
+        "bytes": 4387,
+        "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b"
+      },
+      {
+        "path": "public/assets/fonts/OFL-NotoSansArabic.txt",
+        "bytes": 4382,
+        "sha256": "07fc70bfeb985cc1a87a8587d0a0c80bab11c86c9dc3fd95b6f0cb332f983e96"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "id": "P01",
+      "slug": "domates-salcasi",
+      "sourcePath": "public/assets/products/domates-salcasi.png",
+      "expectedSourceSha256": "f37b4965c3d326d678b6b09d4e38f31a32f632f5b9a9fff69b0cf21cf299defc",
+      "outputPath": "public/assets/products/domates-salcasi.webp",
+      "sourceKind": "authentic-existing-native-product-cutout",
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Domates-Salçasi.png",
+      "productIdentity": {
+        "productId": "P01",
+        "slug": "domates-salcasi",
+        "nameTR": "Domates Salçası",
+        "nameENReference": "tomato-paste",
+        "netWeightGrams": 320,
+        "weightEvidence": "Etiket",
+        "packaging": "Cam",
+        "categoryId": "C01",
+        "labelPolicy": "Keep logo, label typography, text, bottle/jar shape and net weight unchanged.",
+        "sourceVariation": "exact copied official packshot"
+      },
+      "source": {
+        "path": "public/assets/products/domates-salcasi.png",
+        "sha256": "f37b4965c3d326d678b6b09d4e38f31a32f632f5b9a9fff69b0cf21cf299defc",
+        "bytes": 486053,
+        "width": 412,
+        "height": 698,
+        "alpha": true
+      },
+      "derivative": {
+        "path": "public/assets/products/domates-salcasi.webp",
+        "sha256": "b0bf1857ad226a1161906820a85829854d7016a38af2f3cf5e59deb7bbbffb34",
+        "bytes": 351106,
+        "width": 412,
+        "height": 698,
+        "alpha": true,
+        "format": "webp"
+      },
+      "encoding": {
+        "lossless": true,
+        "nearLossless": false,
+        "exact": true,
+        "quality": 100,
+        "alphaQuality": 100,
+        "effort": 6
+      },
+      "resized": false,
+      "upscaleApplied": false,
+      "labelsModified": false,
+      "byteReduction": 134947,
+      "byteReductionPercent": 27.7638,
+      "comparison": {
+        "width": 412,
+        "height": 698,
+        "channels": 4,
+        "alphaExactlyEqualAllPixels": true,
+        "alphaPixelsChecked": 287576,
+        "visibleRgbExactlyEqual": true,
+        "visibleRgbPixelsChecked": 245203,
+        "rgbaExactlyEqualAllPixels": true,
+        "sourceDecodedRgbaSha256": "9a5dc955acab00e6945da7c1786f23b5bccc9d4bf78652ec2f0c271014fcf663",
+        "derivativeDecodedRgbaSha256": "9a5dc955acab00e6945da7c1786f23b5bccc9d4bf78652ec2f0c271014fcf663",
+        "method": "Sharp raw RGBA decode of original PNG and WebP; every alpha value and every RGB channel where original alpha > 0 compared exactly."
+      }
+    },
+    {
+      "id": "P02",
+      "slug": "biber-salcasi",
+      "sourcePath": "public/assets/products/biber-salcasi.png",
+      "expectedSourceSha256": "e651c31a380fb9964dfa217a346726c6c238f36af3afa18fc38ec75c492e83a4",
+      "outputPath": "public/assets/products/biber-salcasi.webp",
+      "sourceKind": "authentic-existing-native-product-cutout",
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Tatli-Biber-Salças.png",
+      "productIdentity": {
+        "productId": "P02",
+        "slug": "biber-salcasi",
+        "nameTR": "Tatlı Biber Salçası",
+        "nameENReference": "sweet-pepper-paste",
+        "netWeightGrams": 320,
+        "weightEvidence": "Etiket",
+        "packaging": "Cam",
+        "categoryId": "C01",
+        "labelPolicy": "Keep logo, label typography, text, bottle/jar shape and net weight unchanged.",
+        "sourceVariation": "exact copied official packshot"
+      },
+      "source": {
+        "path": "public/assets/products/biber-salcasi.png",
+        "sha256": "e651c31a380fb9964dfa217a346726c6c238f36af3afa18fc38ec75c492e83a4",
+        "bytes": 483622,
+        "width": 412,
+        "height": 697,
+        "alpha": true
+      },
+      "derivative": {
+        "path": "public/assets/products/biber-salcasi.webp",
+        "sha256": "cd5f82cfa44e651fc113dc4418815ca9d3009e3aaf34bc94cb033f4d75d72a5c",
+        "bytes": 352792,
+        "width": 412,
+        "height": 697,
+        "alpha": true,
+        "format": "webp"
+      },
+      "encoding": {
+        "lossless": true,
+        "nearLossless": false,
+        "exact": true,
+        "quality": 100,
+        "alphaQuality": 100,
+        "effort": 6
+      },
+      "resized": false,
+      "upscaleApplied": false,
+      "labelsModified": false,
+      "byteReduction": 130830,
+      "byteReductionPercent": 27.0521,
+      "comparison": {
+        "width": 412,
+        "height": 697,
+        "channels": 4,
+        "alphaExactlyEqualAllPixels": true,
+        "alphaPixelsChecked": 287164,
+        "visibleRgbExactlyEqual": true,
+        "visibleRgbPixelsChecked": 245164,
+        "rgbaExactlyEqualAllPixels": true,
+        "sourceDecodedRgbaSha256": "02e2e6381dcecf7e6112241afddf31dd55df1b3559a62957647eb381fbccf3ba",
+        "derivativeDecodedRgbaSha256": "02e2e6381dcecf7e6112241afddf31dd55df1b3559a62957647eb381fbccf3ba",
+        "method": "Sharp raw RGBA decode of original PNG and WebP; every alpha value and every RGB channel where original alpha > 0 compared exactly."
+      }
+    },
+    {
+      "id": "P03",
+      "slug": "2si1arada",
+      "sourcePath": "public/assets/products/2si1arada.png",
+      "expectedSourceSha256": "3ddf5b46b0afb13346995925bed0f4a05bba8b3bab98bfc9e626a9995385cfbe",
+      "outputPath": "public/assets/products/2si1arada.webp",
+      "sourceKind": "authentic-existing-native-product-cutout",
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Biber-Domates-Salçasi.png",
+      "productIdentity": {
+        "productId": "P03",
+        "slug": "2si1arada",
+        "nameTR": "Biber Domates Karışık Salça",
+        "nameENReference": "mixed-pepper-tomato-paste",
+        "netWeightGrams": 320,
+        "weightEvidence": "Etiket",
+        "packaging": "Cam",
+        "categoryId": "C01",
+        "labelPolicy": "Keep logo, label typography, text, bottle/jar shape and net weight unchanged.",
+        "sourceVariation": "exact copied official packshot"
+      },
+      "source": {
+        "path": "public/assets/products/2si1arada.png",
+        "sha256": "3ddf5b46b0afb13346995925bed0f4a05bba8b3bab98bfc9e626a9995385cfbe",
+        "bytes": 496802,
+        "width": 412,
+        "height": 697,
+        "alpha": true
+      },
+      "derivative": {
+        "path": "public/assets/products/2si1arada.webp",
+        "sha256": "bf0a47a09c7eeaf7388eb7821f23c134741ab8cb7f75583eef509a9a3eb13c15",
+        "bytes": 364026,
+        "width": 412,
+        "height": 697,
+        "alpha": true,
+        "format": "webp"
+      },
+      "encoding": {
+        "lossless": true,
+        "nearLossless": false,
+        "exact": true,
+        "quality": 100,
+        "alphaQuality": 100,
+        "effort": 6
+      },
+      "resized": false,
+      "upscaleApplied": false,
+      "labelsModified": false,
+      "byteReduction": 132776,
+      "byteReductionPercent": 26.7261,
+      "comparison": {
+        "width": 412,
+        "height": 697,
+        "channels": 4,
+        "alphaExactlyEqualAllPixels": true,
+        "alphaPixelsChecked": 287164,
+        "visibleRgbExactlyEqual": true,
+        "visibleRgbPixelsChecked": 245584,
+        "rgbaExactlyEqualAllPixels": true,
+        "sourceDecodedRgbaSha256": "2e34720af6f7e5f1cf35e8e90b9e1b6933a04f5ed697c7f771a1db07e2d7ab99",
+        "derivativeDecodedRgbaSha256": "2e34720af6f7e5f1cf35e8e90b9e1b6933a04f5ed697c7f771a1db07e2d7ab99",
+        "method": "Sharp raw RGBA decode of original PNG and WebP; every alpha value and every RGB channel where original alpha > 0 compared exactly."
+      }
+    },
+    {
+      "id": "P04",
+      "slug": "ketcap",
+      "sourcePath": "public/assets/products/ketcap.png",
+      "expectedSourceSha256": "e9b5c0edc59fadfd1b10f8a38c7f01580b2867260b2b67313f8acf261c3d1d6f",
+      "outputPath": "public/assets/products/ketcap.webp",
+      "sourceKind": "authentic-existing-native-product-cutout",
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/250gr-Ketçap.png",
+      "productIdentity": {
+        "productId": "P04",
+        "slug": "ketcap",
+        "nameTR": "Ketçap",
+        "nameENReference": "ketchup",
+        "netWeightGrams": 250,
+        "weightEvidence": "Resmî dosya adı ve katalog PDF s31",
+        "packaging": "PET",
+        "categoryId": "C02",
+        "labelPolicy": "Keep logo, label typography, text, bottle/jar shape and net weight unchanged.",
+        "sourceVariation": "exact copied official packshot"
+      },
+      "source": {
+        "path": "public/assets/products/ketcap.png",
+        "sha256": "e9b5c0edc59fadfd1b10f8a38c7f01580b2867260b2b67313f8acf261c3d1d6f",
+        "bytes": 395306,
+        "width": 301,
+        "height": 794,
+        "alpha": true
+      },
+      "derivative": {
+        "path": "public/assets/products/ketcap.webp",
+        "sha256": "0f90bced6589bb966161243ef755d9c9ff9b15d3ad08d7d0bc7d0e5b6c94cf05",
+        "bytes": 283906,
+        "width": 301,
+        "height": 794,
+        "alpha": true,
+        "format": "webp"
+      },
+      "encoding": {
+        "lossless": true,
+        "nearLossless": false,
+        "exact": true,
+        "quality": 100,
+        "alphaQuality": 100,
+        "effort": 6
+      },
+      "resized": false,
+      "upscaleApplied": false,
+      "labelsModified": false,
+      "byteReduction": 111400,
+      "byteReductionPercent": 28.1807,
+      "comparison": {
+        "width": 301,
+        "height": 794,
+        "channels": 4,
+        "alphaExactlyEqualAllPixels": true,
+        "alphaPixelsChecked": 238994,
+        "visibleRgbExactlyEqual": true,
+        "visibleRgbPixelsChecked": 217454,
+        "rgbaExactlyEqualAllPixels": true,
+        "sourceDecodedRgbaSha256": "958a05a8f3193f2df9afdacbb3881f44aa5b44a06ed2344f656d08af25e23219",
+        "derivativeDecodedRgbaSha256": "958a05a8f3193f2df9afdacbb3881f44aa5b44a06ed2344f656d08af25e23219",
+        "method": "Sharp raw RGBA decode of original PNG and WebP; every alpha value and every RGB channel where original alpha > 0 compared exactly."
+      }
+    },
+    {
+      "id": "P05",
+      "slug": "mayonez",
+      "sourcePath": "public/assets/products/mayonez.png",
+      "expectedSourceSha256": "47291d565678780240b8a9c2ed1585b91a5425500320db0f6c9020b4fab811e8",
+      "outputPath": "public/assets/products/mayonez.webp",
+      "sourceKind": "authentic-existing-native-product-cutout",
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/220gr-Mayonez-copy.png",
+      "productIdentity": {
+        "productId": "P05",
+        "slug": "mayonez",
+        "nameTR": "Mayonez",
+        "nameENReference": "mayonnaise",
+        "netWeightGrams": 220,
+        "weightEvidence": "Resmî kaynak dosya adı",
+        "packaging": "PET",
+        "categoryId": "C02",
+        "labelPolicy": "Keep logo, label typography, text, bottle/jar shape and net weight unchanged.",
+        "sourceVariation": "exact copied official packshot"
+      },
+      "source": {
+        "path": "public/assets/products/mayonez.png",
+        "sha256": "47291d565678780240b8a9c2ed1585b91a5425500320db0f6c9020b4fab811e8",
+        "bytes": 333922,
+        "width": 281,
+        "height": 734,
+        "alpha": true
+      },
+      "derivative": {
+        "path": "public/assets/products/mayonez.webp",
+        "sha256": "4fcc548c819c3df96517a084155abad4a2dc7fb0c60b0e0d0d319d9dad8feebb",
+        "bytes": 240534,
+        "width": 281,
+        "height": 734,
+        "alpha": true,
+        "format": "webp"
+      },
+      "encoding": {
+        "lossless": true,
+        "nearLossless": false,
+        "exact": true,
+        "quality": 100,
+        "alphaQuality": 100,
+        "effort": 6
+      },
+      "resized": false,
+      "upscaleApplied": false,
+      "labelsModified": false,
+      "byteReduction": 93388,
+      "byteReductionPercent": 27.967,
+      "comparison": {
+        "width": 281,
+        "height": 734,
+        "channels": 4,
+        "alphaExactlyEqualAllPixels": true,
+        "alphaPixelsChecked": 206254,
+        "visibleRgbExactlyEqual": true,
+        "visibleRgbPixelsChecked": 188420,
+        "rgbaExactlyEqualAllPixels": true,
+        "sourceDecodedRgbaSha256": "97d61b32c51a011d1465adf5fcc967caaf4a2dc5ef4d2123da58242189602bc5",
+        "derivativeDecodedRgbaSha256": "97d61b32c51a011d1465adf5fcc967caaf4a2dc5ef4d2123da58242189602bc5",
+        "method": "Sharp raw RGBA decode of original PNG and WebP; every alpha value and every RGB channel where original alpha > 0 compared exactly."
+      }
+    },
+    {
+      "id": "P06",
+      "slug": "barbunya-pilaki",
+      "sourcePath": "public/assets/products/barbunya-pilaki.png",
+      "expectedSourceSha256": "b99230ebe7125aae536bc96553e25762bed222cce80db55262eb9bafed01b18e",
+      "outputPath": "public/assets/products/barbunya-pilaki.webp",
+      "sourceKind": "authentic-existing-native-product-cutout",
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/400gr-Barbunya-Pilaki-Kapakli-copy.png",
+      "productIdentity": {
+        "productId": "P06",
+        "slug": "barbunya-pilaki",
+        "nameTR": "Barbunya Pilaki",
+        "nameENReference": "red-beans-in-tomato-sauce",
+        "netWeightGrams": 400,
+        "weightEvidence": "Resmî kaynak dosya adı",
+        "packaging": "Teneke",
+        "categoryId": "C03",
+        "labelPolicy": "Keep logo, label typography, text, bottle/jar shape and net weight unchanged.",
+        "sourceVariation": "exact copied official packshot"
+      },
+      "source": {
+        "path": "public/assets/products/barbunya-pilaki.png",
+        "sha256": "b99230ebe7125aae536bc96553e25762bed222cce80db55262eb9bafed01b18e",
+        "bytes": 448226,
+        "width": 514,
+        "height": 485,
+        "alpha": true
+      },
+      "derivative": {
+        "path": "public/assets/products/barbunya-pilaki.webp",
+        "sha256": "d737d15ff0c66cc8beb56109cd9c0c2971f658d4838ad968c121ea653b4b2e19",
+        "bytes": 327020,
+        "width": 514,
+        "height": 485,
+        "alpha": true,
+        "format": "webp"
+      },
+      "encoding": {
+        "lossless": true,
+        "nearLossless": false,
+        "exact": true,
+        "quality": 100,
+        "alphaQuality": 100,
+        "effort": 6
+      },
+      "resized": false,
+      "upscaleApplied": false,
+      "labelsModified": false,
+      "byteReduction": 121206,
+      "byteReductionPercent": 27.0413,
+      "comparison": {
+        "width": 514,
+        "height": 485,
+        "channels": 4,
+        "alphaExactlyEqualAllPixels": true,
+        "alphaPixelsChecked": 249290,
+        "visibleRgbExactlyEqual": true,
+        "visibleRgbPixelsChecked": 216275,
+        "rgbaExactlyEqualAllPixels": true,
+        "sourceDecodedRgbaSha256": "a33432adb51129ce2e17d13e684068f7d573f97e7def62469dd0348cd28d1c3a",
+        "derivativeDecodedRgbaSha256": "a33432adb51129ce2e17d13e684068f7d573f97e7def62469dd0348cd28d1c3a",
+        "method": "Sharp raw RGBA decode of original PNG and WebP; every alpha value and every RGB channel where original alpha > 0 compared exactly."
+      }
+    },
+    {
+      "id": "P07",
+      "slug": "yaprak-sarma",
+      "sourcePath": "public/assets/products/yaprak-sarma.png",
+      "expectedSourceSha256": "40bd7ad6d83e7ef046f96c52eeb3c676f1854cb6447a6cad0f36d3489a1c080c",
+      "outputPath": "public/assets/products/yaprak-sarma.webp",
+      "sourceKind": "authentic-existing-native-product-cutout",
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/400gr-Yaprak-Sarma-Kapakli-copy.png",
+      "productIdentity": {
+        "productId": "P07",
+        "slug": "yaprak-sarma",
+        "nameTR": "Yaprak Sarma",
+        "nameENReference": "stuffed-vine-leaves",
+        "netWeightGrams": 400,
+        "weightEvidence": "Resmî kaynak dosya adı",
+        "packaging": "Teneke",
+        "categoryId": "C03",
+        "labelPolicy": "Keep logo, label typography, text, bottle/jar shape and net weight unchanged.",
+        "sourceVariation": "exact copied official packshot"
+      },
+      "source": {
+        "path": "public/assets/products/yaprak-sarma.png",
+        "sha256": "40bd7ad6d83e7ef046f96c52eeb3c676f1854cb6447a6cad0f36d3489a1c080c",
+        "bytes": 462871,
+        "width": 517,
+        "height": 496,
+        "alpha": true
+      },
+      "derivative": {
+        "path": "public/assets/products/yaprak-sarma.webp",
+        "sha256": "f1b71ebcd42b15882e69db9e6dd7e73b9d57c53d42d947c35ce552af1570f627",
+        "bytes": 332356,
+        "width": 517,
+        "height": 496,
+        "alpha": true,
+        "format": "webp"
+      },
+      "encoding": {
+        "lossless": true,
+        "nearLossless": false,
+        "exact": true,
+        "quality": 100,
+        "alphaQuality": 100,
+        "effort": 6
+      },
+      "resized": false,
+      "upscaleApplied": false,
+      "labelsModified": false,
+      "byteReduction": 130515,
+      "byteReductionPercent": 28.1968,
+      "comparison": {
+        "width": 517,
+        "height": 496,
+        "channels": 4,
+        "alphaExactlyEqualAllPixels": true,
+        "alphaPixelsChecked": 256432,
+        "visibleRgbExactlyEqual": true,
+        "visibleRgbPixelsChecked": 222395,
+        "rgbaExactlyEqualAllPixels": true,
+        "sourceDecodedRgbaSha256": "e497f643856aa0700640ba0e87a6ea4d26ee27bd635bbbe41033f852e9001b9c",
+        "derivativeDecodedRgbaSha256": "e497f643856aa0700640ba0e87a6ea4d26ee27bd635bbbe41033f852e9001b9c",
+        "method": "Sharp raw RGBA decode of original PNG and WebP; every alpha value and every RGB channel where original alpha > 0 compared exactly."
+      }
+    },
+    {
+      "id": "P08",
+      "slug": "bezelye",
+      "sourcePath": "public/assets/products/bezelye.png",
+      "expectedSourceSha256": "806564d86ee826f9c788d92a4061eb6638b8a78fb4ca32c1c056591264ceb1df",
+      "outputPath": "public/assets/products/bezelye.webp",
+      "sourceKind": "authentic-existing-native-product-cutout",
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/310gr-Bezelye-Konservesi-copy.png",
+      "productIdentity": {
+        "productId": "P08",
+        "slug": "bezelye",
+        "nameTR": "Bezelye Konservesi",
+        "nameENReference": "canned-peas",
+        "netWeightGrams": 310,
+        "weightEvidence": "Etiket",
+        "packaging": "Cam",
+        "categoryId": "C04",
+        "labelPolicy": "Keep logo, label typography, text, bottle/jar shape and net weight unchanged.",
+        "sourceVariation": "exact copied official packshot"
+      },
+      "source": {
+        "path": "public/assets/products/bezelye.png",
+        "sha256": "806564d86ee826f9c788d92a4061eb6638b8a78fb4ca32c1c056591264ceb1df",
+        "bytes": 382362,
+        "width": 341,
+        "height": 579,
+        "alpha": true
+      },
+      "derivative": {
+        "path": "public/assets/products/bezelye.webp",
+        "sha256": "aecfe940934c3a5a3db3f766ab704227c934b0f89bae6ada5652337dcda554b7",
+        "bytes": 277584,
+        "width": 341,
+        "height": 579,
+        "alpha": true,
+        "format": "webp"
+      },
+      "encoding": {
+        "lossless": true,
+        "nearLossless": false,
+        "exact": true,
+        "quality": 100,
+        "alphaQuality": 100,
+        "effort": 6
+      },
+      "resized": false,
+      "upscaleApplied": false,
+      "labelsModified": false,
+      "byteReduction": 104778,
+      "byteReductionPercent": 27.4028,
+      "comparison": {
+        "width": 341,
+        "height": 579,
+        "channels": 4,
+        "alphaExactlyEqualAllPixels": true,
+        "alphaPixelsChecked": 197439,
+        "visibleRgbExactlyEqual": true,
+        "visibleRgbPixelsChecked": 170580,
+        "rgbaExactlyEqualAllPixels": true,
+        "sourceDecodedRgbaSha256": "1f91766b9378f9981559b998787f51f41d67af167a57b264a30d65b318720665",
+        "derivativeDecodedRgbaSha256": "1f91766b9378f9981559b998787f51f41d67af167a57b264a30d65b318720665",
+        "method": "Sharp raw RGBA decode of original PNG and WebP; every alpha value and every RGB channel where original alpha > 0 compared exactly."
+      }
+    },
+    {
+      "id": "P09",
+      "slug": "haslanmis-nohut",
+      "sourcePath": "public/assets/products/haslanmis-nohut.png",
+      "expectedSourceSha256": "8f4fbf97a955c554bb56754257218077c6356f10660b1f99f371d460c2282baa",
+      "outputPath": "public/assets/products/haslanmis-nohut.webp",
+      "sourceKind": "authentic-existing-native-product-cutout",
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/600gr-Haşlanmiş-Nohut-copy.png",
+      "productIdentity": {
+        "productId": "P09",
+        "slug": "haslanmis-nohut",
+        "nameTR": "Haşlanmış Nohut",
+        "nameENReference": "boiled-chickpeas",
+        "netWeightGrams": 600,
+        "weightEvidence": "Etiket; katalogda farklı kapaklı 600g referansı",
+        "packaging": "Cam",
+        "categoryId": "C05",
+        "labelPolicy": "Keep logo, label typography, text, bottle/jar shape and net weight unchanged.",
+        "sourceVariation": "600g green cap fixed for demo; do not substitute red-cap catalog version"
+      },
+      "source": {
+        "path": "public/assets/products/haslanmis-nohut.png",
+        "sha256": "8f4fbf97a955c554bb56754257218077c6356f10660b1f99f371d460c2282baa",
+        "bytes": 350555,
+        "width": 310,
+        "height": 609,
+        "alpha": true
+      },
+      "derivative": {
+        "path": "public/assets/products/haslanmis-nohut.webp",
+        "sha256": "9f25693159406d9aface23cb3e803787a4f88c66ff3199258e7684297d36cc9d",
+        "bytes": 259158,
+        "width": 310,
+        "height": 609,
+        "alpha": true,
+        "format": "webp"
+      },
+      "encoding": {
+        "lossless": true,
+        "nearLossless": false,
+        "exact": true,
+        "quality": 100,
+        "alphaQuality": 100,
+        "effort": 6
+      },
+      "resized": false,
+      "upscaleApplied": false,
+      "labelsModified": false,
+      "byteReduction": 91397,
+      "byteReductionPercent": 26.0721,
+      "comparison": {
+        "width": 310,
+        "height": 609,
+        "channels": 4,
+        "alphaExactlyEqualAllPixels": true,
+        "alphaPixelsChecked": 188790,
+        "visibleRgbExactlyEqual": true,
+        "visibleRgbPixelsChecked": 163601,
+        "rgbaExactlyEqualAllPixels": true,
+        "sourceDecodedRgbaSha256": "c75d0067002c9d7f2a89a86d9d54e1eb9e7827449a1b8896e50abeddc52e507f",
+        "derivativeDecodedRgbaSha256": "c75d0067002c9d7f2a89a86d9d54e1eb9e7827449a1b8896e50abeddc52e507f",
+        "method": "Sharp raw RGBA decode of original PNG and WebP; every alpha value and every RGB channel where original alpha > 0 compared exactly."
+      }
+    },
+    {
+      "id": "P10",
+      "slug": "kozlenmis-biber",
+      "sourcePath": "public/assets/products/kozlenmis-biber.png",
+      "expectedSourceSha256": "b4f1ef279fa015b85d0deb69d29188f1f24c93cf2230c3363f11701e3695d140",
+      "outputPath": "public/assets/products/kozlenmis-biber.webp",
+      "sourceKind": "authentic-existing-native-product-cutout",
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/560gr-Közlenmiş-Biber-copy.png",
+      "productIdentity": {
+        "productId": "P10",
+        "slug": "kozlenmis-biber",
+        "nameTR": "Közlenmiş Biber",
+        "nameENReference": "roasted-red-pepper",
+        "netWeightGrams": 560,
+        "weightEvidence": "Etiket",
+        "packaging": "Cam",
+        "categoryId": "C06",
+        "labelPolicy": "Keep logo, label typography, text, bottle/jar shape and net weight unchanged.",
+        "sourceVariation": "exact copied official packshot"
+      },
+      "source": {
+        "path": "public/assets/products/kozlenmis-biber.png",
+        "sha256": "b4f1ef279fa015b85d0deb69d29188f1f24c93cf2230c3363f11701e3695d140",
+        "bytes": 487641,
+        "width": 367,
+        "height": 731,
+        "alpha": true
+      },
+      "derivative": {
+        "path": "public/assets/products/kozlenmis-biber.webp",
+        "sha256": "3c40ffa0520858dd57e8599cd92aa37743a1d0ef545ef602546968b7ca0d5eb2",
+        "bytes": 357098,
+        "width": 367,
+        "height": 731,
+        "alpha": true,
+        "format": "webp"
+      },
+      "encoding": {
+        "lossless": true,
+        "nearLossless": false,
+        "exact": true,
+        "quality": 100,
+        "alphaQuality": 100,
+        "effort": 6
+      },
+      "resized": false,
+      "upscaleApplied": false,
+      "labelsModified": false,
+      "byteReduction": 130543,
+      "byteReductionPercent": 26.7703,
+      "comparison": {
+        "width": 367,
+        "height": 731,
+        "channels": 4,
+        "alphaExactlyEqualAllPixels": true,
+        "alphaPixelsChecked": 268277,
+        "visibleRgbExactlyEqual": true,
+        "visibleRgbPixelsChecked": 232950,
+        "rgbaExactlyEqualAllPixels": true,
+        "sourceDecodedRgbaSha256": "a8f3bf7f6745b23dac5ce589107f62b23b78e0b38ef03e894b6494a4fa1bd81a",
+        "derivativeDecodedRgbaSha256": "a8f3bf7f6745b23dac5ce589107f62b23b78e0b38ef03e894b6494a4fa1bd81a",
+        "method": "Sharp raw RGBA decode of original PNG and WebP; every alpha value and every RGB channel where original alpha > 0 compared exactly."
+      }
+    },
+    {
+      "id": "BR01",
+      "slug": "burcu-logo",
+      "sourcePath": "public/assets/brand/burcu-logo.png",
+      "expectedSourceSha256": "3c8843460b960e3da57bad349fc15915fb4e0c2df8b1712e5251f4a696d29bf1",
+      "outputPath": "public/assets/brand/burcu-logo.webp",
+      "sourceKind": "official-logo-PNG",
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/themes/burcu/images/burcu-logo-v2.png",
+      "source": {
+        "path": "public/assets/brand/burcu-logo.png",
+        "sha256": "3c8843460b960e3da57bad349fc15915fb4e0c2df8b1712e5251f4a696d29bf1",
+        "bytes": 35194,
+        "width": 395,
+        "height": 174,
+        "alpha": true
+      },
+      "derivative": {
+        "path": "public/assets/brand/burcu-logo.webp",
+        "sha256": "f0207e2b4bb4db3deb660185835ebbb0af65d4a93e9c7f0b2c80267f84c74031",
+        "bytes": 21736,
+        "width": 395,
+        "height": 174,
+        "alpha": true,
+        "format": "webp"
+      },
+      "encoding": {
+        "lossless": true,
+        "nearLossless": false,
+        "exact": true,
+        "quality": 100,
+        "alphaQuality": 100,
+        "effort": 6
+      },
+      "resized": false,
+      "upscaleApplied": false,
+      "labelsModified": false,
+      "byteReduction": 13458,
+      "byteReductionPercent": 38.2395,
+      "comparison": {
+        "width": 395,
+        "height": 174,
+        "channels": 4,
+        "alphaExactlyEqualAllPixels": true,
+        "alphaPixelsChecked": 68730,
+        "visibleRgbExactlyEqual": true,
+        "visibleRgbPixelsChecked": 60604,
+        "rgbaExactlyEqualAllPixels": true,
+        "sourceDecodedRgbaSha256": "9a59b91ef3c4f34020e289c3ee77650144e2a09546cae3df766d8de97c0c5f4f",
+        "derivativeDecodedRgbaSha256": "9a59b91ef3c4f34020e289c3ee77650144e2a09546cae3df766d8de97c0c5f4f",
+        "method": "Sharp raw RGBA decode of original PNG and WebP; every alpha value and every RGB channel where original alpha > 0 compared exactly."
+      }
+    }
+  ]
+}

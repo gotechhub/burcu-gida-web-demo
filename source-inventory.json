@@ -1,0 +1,1635 @@
+{
+  "schemaVersion": "2.0-source-inventory",
+  "preparedAt": "2026-10-13",
+  "sourceOnly": true,
+  "creativeAssetsProduced": 0,
+  "originalSourcesAndV1Preserved": true,
+  "preparedCopyCount": 51,
+  "uniqueProtectedInputCount": 34,
+  "products": [
+    {
+      "id": "P01",
+      "slug": "domates-salcasi",
+      "identity": {
+        "productId": "P01",
+        "slug": "domates-salcasi",
+        "nameTR": "Domates Salçası",
+        "nameENReference": "tomato-paste",
+        "netWeightGrams": 320,
+        "weightEvidence": "Etiket",
+        "packaging": "Cam",
+        "categoryId": "C01",
+        "labelPolicy": "Keep logo, label typography, text, bottle/jar shape and net weight unchanged.",
+        "sourceVariation": "exact copied official packshot"
+      },
+      "original": {
+        "path": "assets/source/products/originals/domates-salcasi.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\domates-salcasi.png",
+        "sha256": "16894f5bd90ab23749434ae5ffabb04786c69db3971a86a5b81da02b5226ae34",
+        "bytes": 617840,
+        "kind": "official-original-packshot",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Domates-Salçasi.png"
+      },
+      "native": {
+        "path": "assets/source/products/native/domates-salcasi.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\domates-salcasi.png",
+        "sha256": "f37b4965c3d326d678b6b09d4e38f31a32f632f5b9a9fff69b0cf21cf299defc",
+        "bytes": 486053,
+        "kind": "existing-registered-native-alpha-cutout",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Domates-Salçasi.png"
+      },
+      "runtime": {
+        "path": "public/assets/products/domates-salcasi.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\domates-salcasi.png",
+        "sha256": "f37b4965c3d326d678b6b09d4e38f31a32f632f5b9a9fff69b0cf21cf299defc",
+        "bytes": 486053,
+        "kind": "runtime-real-product-native-cutout",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Domates-Salçasi.png"
+      },
+      "originalProductOpaqueDimensions": [
+        412,
+        695
+      ],
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Domates-Salçasi.png",
+      "sourcePage": "https://www.burcu.com.tr/urunler/domates-salcasi/",
+      "liveSourceByteVerifiedAt": "2026-10-13",
+      "nativeDerivativeShaDiffersFromOriginal": true,
+      "nativeAlphaProvenance": {
+        "sourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\prepared\\domates-salcasi.png",
+        "sourceSha256": "7a5f5991654701d908d71518bb3899ce74501ec79181f9cbce7b006adcc1f92a",
+        "method": "reuse V1 registered silhouette only; original source RGB restored exactly"
+      },
+      "rgbComparison": {
+        "visibleRgbExactlyMatchesOriginalCrop": true,
+        "visiblePixelCountChecked": 245203,
+        "opaqueRgbExactlyMatchesOriginalCrop": true,
+        "opaquePixelCountChecked": 238944,
+        "nativeDimensions": [
+          412,
+          698
+        ],
+        "sourcePixelCrop": [
+          309,
+          166,
+          721,
+          864
+        ],
+        "labelRedrawn": false,
+        "resampled": false,
+        "comparison": "Direct pixel comparison of native RGB with the registered crop from the original official PNG; alpha/provenance separately preserved."
+      },
+      "nativeProvenanceEvidencePath": "assets/source/evidence/film-v2-asset-source-ledger.json"
+    },
+    {
+      "id": "P02",
+      "slug": "biber-salcasi",
+      "identity": {
+        "productId": "P02",
+        "slug": "biber-salcasi",
+        "nameTR": "Tatlı Biber Salçası",
+        "nameENReference": "sweet-pepper-paste",
+        "netWeightGrams": 320,
+        "weightEvidence": "Etiket",
+        "packaging": "Cam",
+        "categoryId": "C01",
+        "labelPolicy": "Keep logo, label typography, text, bottle/jar shape and net weight unchanged.",
+        "sourceVariation": "exact copied official packshot"
+      },
+      "original": {
+        "path": "assets/source/products/originals/biber-salcasi.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\biber-salcasi.png",
+        "sha256": "53b7e9f82d3545400e41e0b26734cfdacc3c229f55fd60518217966614e1f039",
+        "bytes": 614981,
+        "kind": "official-original-packshot",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Tatli-Biber-Salças.png"
+      },
+      "native": {
+        "path": "assets/source/products/native/biber-salcasi.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\biber-salcasi.png",
+        "sha256": "e651c31a380fb9964dfa217a346726c6c238f36af3afa18fc38ec75c492e83a4",
+        "bytes": 483622,
+        "kind": "existing-registered-native-alpha-cutout",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Tatli-Biber-Salças.png"
+      },
+      "runtime": {
+        "path": "public/assets/products/biber-salcasi.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\biber-salcasi.png",
+        "sha256": "e651c31a380fb9964dfa217a346726c6c238f36af3afa18fc38ec75c492e83a4",
+        "bytes": 483622,
+        "kind": "runtime-real-product-native-cutout",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Tatli-Biber-Salças.png"
+      },
+      "originalProductOpaqueDimensions": [
+        412,
+        695
+      ],
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Tatli-Biber-Salças.png",
+      "sourcePage": "https://www.burcu.com.tr/urunler/biber-salcasi/",
+      "liveSourceByteVerifiedAt": null,
+      "nativeDerivativeShaDiffersFromOriginal": true,
+      "nativeAlphaProvenance": {
+        "sourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\prepared\\biber-salcasi.png",
+        "sourceSha256": "82de4ab8c090c46b84d9589d4e7c934e42a31c7aec5107a167298eb917429364",
+        "method": "reuse V1 registered silhouette only; original source RGB restored exactly"
+      },
+      "rgbComparison": {
+        "visibleRgbExactlyMatchesOriginalCrop": true,
+        "visiblePixelCountChecked": 245164,
+        "opaqueRgbExactlyMatchesOriginalCrop": true,
+        "opaquePixelCountChecked": 239543,
+        "nativeDimensions": [
+          412,
+          697
+        ],
+        "sourcePixelCrop": [
+          309,
+          166,
+          721,
+          863
+        ],
+        "labelRedrawn": false,
+        "resampled": false,
+        "comparison": "Direct pixel comparison of native RGB with the registered crop from the original official PNG; alpha/provenance separately preserved."
+      },
+      "nativeProvenanceEvidencePath": "assets/source/evidence/film-v2-asset-source-ledger.json"
+    },
+    {
+      "id": "P03",
+      "slug": "2si1arada",
+      "identity": {
+        "productId": "P03",
+        "slug": "2si1arada",
+        "nameTR": "Biber Domates Karışık Salça",
+        "nameENReference": "mixed-pepper-tomato-paste",
+        "netWeightGrams": 320,
+        "weightEvidence": "Etiket",
+        "packaging": "Cam",
+        "categoryId": "C01",
+        "labelPolicy": "Keep logo, label typography, text, bottle/jar shape and net weight unchanged.",
+        "sourceVariation": "exact copied official packshot"
+      },
+      "original": {
+        "path": "assets/source/products/originals/2si1arada.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\2si1arada.png",
+        "sha256": "e25db6ec3c92b0c5d810edb7a979eee650829235dc51065f95c0556bcaf9572e",
+        "bytes": 637380,
+        "kind": "official-original-packshot",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Biber-Domates-Salçasi.png"
+      },
+      "native": {
+        "path": "assets/source/products/native/2si1arada.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\2si1arada.png",
+        "sha256": "3ddf5b46b0afb13346995925bed0f4a05bba8b3bab98bfc9e626a9995385cfbe",
+        "bytes": 496802,
+        "kind": "existing-registered-native-alpha-cutout",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Biber-Domates-Salçasi.png"
+      },
+      "runtime": {
+        "path": "public/assets/products/2si1arada.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\2si1arada.png",
+        "sha256": "3ddf5b46b0afb13346995925bed0f4a05bba8b3bab98bfc9e626a9995385cfbe",
+        "bytes": 496802,
+        "kind": "runtime-real-product-native-cutout",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Biber-Domates-Salçasi.png"
+      },
+      "originalProductOpaqueDimensions": [
+        412,
+        695
+      ],
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Biber-Domates-Salçasi.png",
+      "sourcePage": "https://www.burcu.com.tr/urunler/2si-1-arada-salca/",
+      "liveSourceByteVerifiedAt": null,
+      "nativeDerivativeShaDiffersFromOriginal": true,
+      "nativeAlphaProvenance": {
+        "sourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\prepared\\2si1arada.png",
+        "sourceSha256": "047f6330561ed2ec4f0a2e14abda0592e2be8679dd51ff7100a53722d791a42b",
+        "method": "reuse V1 registered silhouette only; original source RGB restored exactly"
+      },
+      "rgbComparison": {
+        "visibleRgbExactlyMatchesOriginalCrop": true,
+        "visiblePixelCountChecked": 245584,
+        "opaqueRgbExactlyMatchesOriginalCrop": true,
+        "opaquePixelCountChecked": 239903,
+        "nativeDimensions": [
+          412,
+          697
+        ],
+        "sourcePixelCrop": [
+          309,
+          166,
+          721,
+          863
+        ],
+        "labelRedrawn": false,
+        "resampled": false,
+        "comparison": "Direct pixel comparison of native RGB with the registered crop from the original official PNG; alpha/provenance separately preserved."
+      },
+      "nativeProvenanceEvidencePath": "assets/source/evidence/film-v2-asset-source-ledger.json"
+    },
+    {
+      "id": "P04",
+      "slug": "ketcap",
+      "identity": {
+        "productId": "P04",
+        "slug": "ketcap",
+        "nameTR": "Ketçap",
+        "nameENReference": "ketchup",
+        "netWeightGrams": 250,
+        "weightEvidence": "Resmî dosya adı ve katalog PDF s31",
+        "packaging": "PET",
+        "categoryId": "C02",
+        "labelPolicy": "Keep logo, label typography, text, bottle/jar shape and net weight unchanged.",
+        "sourceVariation": "exact copied official packshot"
+      },
+      "original": {
+        "path": "assets/source/products/originals/ketcap.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\ketcap.png",
+        "sha256": "b675078cdee425a9210c22b7b4e647ccfdabcc7e6dc4880f4fda28e119a86206",
+        "bytes": 507269,
+        "kind": "official-original-packshot",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/250gr-Ketçap.png"
+      },
+      "native": {
+        "path": "assets/source/products/native/ketcap.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\ketcap.png",
+        "sha256": "e9b5c0edc59fadfd1b10f8a38c7f01580b2867260b2b67313f8acf261c3d1d6f",
+        "bytes": 395306,
+        "kind": "existing-registered-native-alpha-cutout",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/250gr-Ketçap.png"
+      },
+      "runtime": {
+        "path": "public/assets/products/ketcap.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\ketcap.png",
+        "sha256": "e9b5c0edc59fadfd1b10f8a38c7f01580b2867260b2b67313f8acf261c3d1d6f",
+        "bytes": 395306,
+        "kind": "runtime-real-product-native-cutout",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/250gr-Ketçap.png"
+      },
+      "originalProductOpaqueDimensions": [
+        300,
+        786
+      ],
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/250gr-Ketçap.png",
+      "sourcePage": "https://www.burcu.com.tr/urunler/ketcap-mayonez/",
+      "liveSourceByteVerifiedAt": "2026-10-13",
+      "nativeDerivativeShaDiffersFromOriginal": true,
+      "nativeAlphaProvenance": {
+        "sourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\prepared\\ketcap.png",
+        "sourceSha256": "e1bcc6a7d2c05047590184106818ec469a0e9f09521af202c0f03066c75dafa8",
+        "method": "reuse V1 registered silhouette only; original source RGB restored exactly"
+      },
+      "rgbComparison": {
+        "visibleRgbExactlyMatchesOriginalCrop": true,
+        "visiblePixelCountChecked": 217454,
+        "opaqueRgbExactlyMatchesOriginalCrop": true,
+        "opaquePixelCountChecked": 210009,
+        "nativeDimensions": [
+          301,
+          794
+        ],
+        "sourcePixelCrop": [
+          362,
+          119,
+          663,
+          913
+        ],
+        "labelRedrawn": false,
+        "resampled": false,
+        "comparison": "Direct pixel comparison of native RGB with the registered crop from the original official PNG; alpha/provenance separately preserved."
+      },
+      "nativeProvenanceEvidencePath": "assets/source/evidence/film-v2-asset-source-ledger.json"
+    },
+    {
+      "id": "P05",
+      "slug": "mayonez",
+      "identity": {
+        "productId": "P05",
+        "slug": "mayonez",
+        "nameTR": "Mayonez",
+        "nameENReference": "mayonnaise",
+        "netWeightGrams": 220,
+        "weightEvidence": "Resmî kaynak dosya adı",
+        "packaging": "PET",
+        "categoryId": "C02",
+        "labelPolicy": "Keep logo, label typography, text, bottle/jar shape and net weight unchanged.",
+        "sourceVariation": "exact copied official packshot"
+      },
+      "original": {
+        "path": "assets/source/products/originals/mayonez.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\mayonez.png",
+        "sha256": "1f1df64d30fdcfbfd157e710b69a90af78e4c39734ec6f979d747dc1bf91901a",
+        "bytes": 441276,
+        "kind": "official-original-packshot",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/220gr-Mayonez-copy.png"
+      },
+      "native": {
+        "path": "assets/source/products/native/mayonez.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\mayonez.png",
+        "sha256": "47291d565678780240b8a9c2ed1585b91a5425500320db0f6c9020b4fab811e8",
+        "bytes": 333922,
+        "kind": "existing-registered-native-alpha-cutout",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/220gr-Mayonez-copy.png"
+      },
+      "runtime": {
+        "path": "public/assets/products/mayonez.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\mayonez.png",
+        "sha256": "47291d565678780240b8a9c2ed1585b91a5425500320db0f6c9020b4fab811e8",
+        "bytes": 333922,
+        "kind": "runtime-real-product-native-cutout",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/220gr-Mayonez-copy.png"
+      },
+      "originalProductOpaqueDimensions": [
+        280,
+        728
+      ],
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/220gr-Mayonez-copy.png",
+      "sourcePage": "https://www.burcu.com.tr/urunler/ketcap-mayonez/",
+      "liveSourceByteVerifiedAt": null,
+      "nativeDerivativeShaDiffersFromOriginal": true,
+      "nativeAlphaProvenance": {
+        "sourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\prepared\\mayonez.png",
+        "sourceSha256": "a14882db65c8ff9070fce2a9e7e02e8b2aaa2592a3ab0fddf57d8551ed1c0517",
+        "method": "reuse V1 registered silhouette only; original source RGB restored exactly"
+      },
+      "rgbComparison": {
+        "visibleRgbExactlyMatchesOriginalCrop": true,
+        "visiblePixelCountChecked": 188420,
+        "opaqueRgbExactlyMatchesOriginalCrop": true,
+        "opaquePixelCountChecked": 181988,
+        "nativeDimensions": [
+          281,
+          734
+        ],
+        "sourcePixelCrop": [
+          372,
+          148,
+          653,
+          882
+        ],
+        "labelRedrawn": false,
+        "resampled": false,
+        "comparison": "Direct pixel comparison of native RGB with the registered crop from the original official PNG; alpha/provenance separately preserved."
+      },
+      "nativeProvenanceEvidencePath": "assets/source/evidence/film-v2-asset-source-ledger.json"
+    },
+    {
+      "id": "P06",
+      "slug": "barbunya-pilaki",
+      "identity": {
+        "productId": "P06",
+        "slug": "barbunya-pilaki",
+        "nameTR": "Barbunya Pilaki",
+        "nameENReference": "red-beans-in-tomato-sauce",
+        "netWeightGrams": 400,
+        "weightEvidence": "Resmî kaynak dosya adı",
+        "packaging": "Teneke",
+        "categoryId": "C03",
+        "labelPolicy": "Keep logo, label typography, text, bottle/jar shape and net weight unchanged.",
+        "sourceVariation": "exact copied official packshot"
+      },
+      "original": {
+        "path": "assets/source/products/originals/barbunya-pilaki.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\barbunya-pilaki.png",
+        "sha256": "24ed535f6565daab658b1ea6020fcdecf4eb9ec7eeab68cc35c261e404067cee",
+        "bytes": 555941,
+        "kind": "official-original-packshot",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/400gr-Barbunya-Pilaki-Kapakli-copy.png"
+      },
+      "native": {
+        "path": "assets/source/products/native/barbunya-pilaki.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\barbunya-pilaki.png",
+        "sha256": "b99230ebe7125aae536bc96553e25762bed222cce80db55262eb9bafed01b18e",
+        "bytes": 448226,
+        "kind": "existing-registered-native-alpha-cutout",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/400gr-Barbunya-Pilaki-Kapakli-copy.png"
+      },
+      "runtime": {
+        "path": "public/assets/products/barbunya-pilaki.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\barbunya-pilaki.png",
+        "sha256": "b99230ebe7125aae536bc96553e25762bed222cce80db55262eb9bafed01b18e",
+        "bytes": 448226,
+        "kind": "runtime-real-product-native-cutout",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/400gr-Barbunya-Pilaki-Kapakli-copy.png"
+      },
+      "originalProductOpaqueDimensions": [
+        513,
+        484
+      ],
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/400gr-Barbunya-Pilaki-Kapakli-copy.png",
+      "sourcePage": "https://www.burcu.com.tr/urunler/hazir-yemekler/",
+      "liveSourceByteVerifiedAt": null,
+      "nativeDerivativeShaDiffersFromOriginal": true,
+      "nativeAlphaProvenance": {
+        "sourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\prepared\\barbunya-pilaki.png",
+        "sourceSha256": "d3bee65a514d7db8e956df13c14a5ad8bd16fc6fb114cbb092138310d9a8ba76",
+        "method": "reuse V1 registered silhouette only; original source RGB restored exactly"
+      },
+      "rgbComparison": {
+        "visibleRgbExactlyMatchesOriginalCrop": true,
+        "visiblePixelCountChecked": 216275,
+        "opaqueRgbExactlyMatchesOriginalCrop": true,
+        "opaquePixelCountChecked": 211354,
+        "nativeDimensions": [
+          514,
+          485
+        ],
+        "sourcePixelCrop": [
+          255,
+          270,
+          769,
+          755
+        ],
+        "labelRedrawn": false,
+        "resampled": false,
+        "comparison": "Direct pixel comparison of native RGB with the registered crop from the original official PNG; alpha/provenance separately preserved."
+      },
+      "nativeProvenanceEvidencePath": "assets/source/evidence/film-v2-asset-source-ledger.json"
+    },
+    {
+      "id": "P07",
+      "slug": "yaprak-sarma",
+      "identity": {
+        "productId": "P07",
+        "slug": "yaprak-sarma",
+        "nameTR": "Yaprak Sarma",
+        "nameENReference": "stuffed-vine-leaves",
+        "netWeightGrams": 400,
+        "weightEvidence": "Resmî kaynak dosya adı",
+        "packaging": "Teneke",
+        "categoryId": "C03",
+        "labelPolicy": "Keep logo, label typography, text, bottle/jar shape and net weight unchanged.",
+        "sourceVariation": "exact copied official packshot"
+      },
+      "original": {
+        "path": "assets/source/products/originals/yaprak-sarma.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\yaprak-sarma.png",
+        "sha256": "6804608876eb90863a1ee22ae7fd5d9047e9788b78d29ab53c1bfa546042e5a4",
+        "bytes": 578869,
+        "kind": "official-original-packshot",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/400gr-Yaprak-Sarma-Kapakli-copy.png"
+      },
+      "native": {
+        "path": "assets/source/products/native/yaprak-sarma.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\yaprak-sarma.png",
+        "sha256": "40bd7ad6d83e7ef046f96c52eeb3c676f1854cb6447a6cad0f36d3489a1c080c",
+        "bytes": 462871,
+        "kind": "existing-registered-native-alpha-cutout",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/400gr-Yaprak-Sarma-Kapakli-copy.png"
+      },
+      "runtime": {
+        "path": "public/assets/products/yaprak-sarma.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\yaprak-sarma.png",
+        "sha256": "40bd7ad6d83e7ef046f96c52eeb3c676f1854cb6447a6cad0f36d3489a1c080c",
+        "bytes": 462871,
+        "kind": "runtime-real-product-native-cutout",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/400gr-Yaprak-Sarma-Kapakli-copy.png"
+      },
+      "originalProductOpaqueDimensions": [
+        514,
+        494
+      ],
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/400gr-Yaprak-Sarma-Kapakli-copy.png",
+      "sourcePage": "https://www.burcu.com.tr/urunler/hazir-yemekler/",
+      "liveSourceByteVerifiedAt": null,
+      "nativeDerivativeShaDiffersFromOriginal": true,
+      "nativeAlphaProvenance": {
+        "sourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\prepared\\yaprak-sarma.png",
+        "sourceSha256": "52af80be8f8159eff3a6efeeade25b6c912bffbf021dc144b2f8e2ffeaa20ce9",
+        "method": "reuse V1 registered silhouette only; original source RGB restored exactly"
+      },
+      "rgbComparison": {
+        "visibleRgbExactlyMatchesOriginalCrop": true,
+        "visiblePixelCountChecked": 222395,
+        "opaqueRgbExactlyMatchesOriginalCrop": true,
+        "opaquePixelCountChecked": 216457,
+        "nativeDimensions": [
+          517,
+          496
+        ],
+        "sourcePixelCrop": [
+          256,
+          265,
+          773,
+          761
+        ],
+        "labelRedrawn": false,
+        "resampled": false,
+        "comparison": "Direct pixel comparison of native RGB with the registered crop from the original official PNG; alpha/provenance separately preserved."
+      },
+      "nativeProvenanceEvidencePath": "assets/source/evidence/film-v2-asset-source-ledger.json"
+    },
+    {
+      "id": "P08",
+      "slug": "bezelye",
+      "identity": {
+        "productId": "P08",
+        "slug": "bezelye",
+        "nameTR": "Bezelye Konservesi",
+        "nameENReference": "canned-peas",
+        "netWeightGrams": 310,
+        "weightEvidence": "Etiket",
+        "packaging": "Cam",
+        "categoryId": "C04",
+        "labelPolicy": "Keep logo, label typography, text, bottle/jar shape and net weight unchanged.",
+        "sourceVariation": "exact copied official packshot"
+      },
+      "original": {
+        "path": "assets/source/products/originals/bezelye.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\bezelye.png",
+        "sha256": "41faaf0fa3d2d68eb2f87c9141d435d46c76fec9fa3294b47cb95ae14e9b7a0c",
+        "bytes": 480395,
+        "kind": "official-original-packshot",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/310gr-Bezelye-Konservesi-copy.png"
+      },
+      "native": {
+        "path": "assets/source/products/native/bezelye.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\bezelye.png",
+        "sha256": "806564d86ee826f9c788d92a4061eb6638b8a78fb4ca32c1c056591264ceb1df",
+        "bytes": 382362,
+        "kind": "existing-registered-native-alpha-cutout",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/310gr-Bezelye-Konservesi-copy.png"
+      },
+      "runtime": {
+        "path": "public/assets/products/bezelye.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\bezelye.png",
+        "sha256": "806564d86ee826f9c788d92a4061eb6638b8a78fb4ca32c1c056591264ceb1df",
+        "bytes": 382362,
+        "kind": "runtime-real-product-native-cutout",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/310gr-Bezelye-Konservesi-copy.png"
+      },
+      "originalProductOpaqueDimensions": [
+        339,
+        578
+      ],
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/310gr-Bezelye-Konservesi-copy.png",
+      "sourcePage": "https://www.burcu.com.tr/urunler/konserveler/",
+      "liveSourceByteVerifiedAt": null,
+      "nativeDerivativeShaDiffersFromOriginal": true,
+      "nativeAlphaProvenance": {
+        "sourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\prepared\\bezelye.png",
+        "sourceSha256": "14d0c85a765ea354186c9a26c37eae43bd19f3c255fd7f36a1dfd90cc449756e",
+        "method": "reuse V1 registered silhouette only; original source RGB restored exactly"
+      },
+      "rgbComparison": {
+        "visibleRgbExactlyMatchesOriginalCrop": true,
+        "visiblePixelCountChecked": 170580,
+        "opaqueRgbExactlyMatchesOriginalCrop": true,
+        "opaquePixelCountChecked": 166155,
+        "nativeDimensions": [
+          341,
+          579
+        ],
+        "sourcePixelCrop": [
+          345,
+          223,
+          686,
+          802
+        ],
+        "labelRedrawn": false,
+        "resampled": false,
+        "comparison": "Direct pixel comparison of native RGB with the registered crop from the original official PNG; alpha/provenance separately preserved."
+      },
+      "nativeProvenanceEvidencePath": "assets/source/evidence/film-v2-asset-source-ledger.json"
+    },
+    {
+      "id": "P09",
+      "slug": "haslanmis-nohut",
+      "identity": {
+        "productId": "P09",
+        "slug": "haslanmis-nohut",
+        "nameTR": "Haşlanmış Nohut",
+        "nameENReference": "boiled-chickpeas",
+        "netWeightGrams": 600,
+        "weightEvidence": "Etiket; katalogda farklı kapaklı 600g referansı",
+        "packaging": "Cam",
+        "categoryId": "C05",
+        "labelPolicy": "Keep logo, label typography, text, bottle/jar shape and net weight unchanged.",
+        "sourceVariation": "600g green cap fixed for demo; do not substitute red-cap catalog version"
+      },
+      "original": {
+        "path": "assets/source/products/originals/haslanmis-nohut.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\haslanmis-nohut.png",
+        "sha256": "fd8e779c93e7680abddacdb312e034caf3890894218d512b5ceaf83e1439ccaa",
+        "bytes": 447806,
+        "kind": "official-original-packshot",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/600gr-Haşlanmiş-Nohut-copy.png"
+      },
+      "native": {
+        "path": "assets/source/products/native/haslanmis-nohut.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\haslanmis-nohut.png",
+        "sha256": "8f4fbf97a955c554bb56754257218077c6356f10660b1f99f371d460c2282baa",
+        "bytes": 350555,
+        "kind": "existing-registered-native-alpha-cutout",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/600gr-Haşlanmiş-Nohut-copy.png"
+      },
+      "runtime": {
+        "path": "public/assets/products/haslanmis-nohut.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\haslanmis-nohut.png",
+        "sha256": "8f4fbf97a955c554bb56754257218077c6356f10660b1f99f371d460c2282baa",
+        "bytes": 350555,
+        "kind": "runtime-real-product-native-cutout",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/600gr-Haşlanmiş-Nohut-copy.png"
+      },
+      "originalProductOpaqueDimensions": [
+        308,
+        608
+      ],
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/600gr-Haşlanmiş-Nohut-copy.png",
+      "sourcePage": "https://www.burcu.com.tr/urunler/haslanmis-urunler/",
+      "liveSourceByteVerifiedAt": "2026-10-13",
+      "nativeDerivativeShaDiffersFromOriginal": true,
+      "nativeAlphaProvenance": {
+        "sourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\prepared\\haslanmis-nohut.png",
+        "sourceSha256": "9e28036880484e54c699801b3e42dffee36642bfcc08ff61df053ef7fbd9c5e6",
+        "method": "reuse V1 registered silhouette only; original source RGB restored exactly"
+      },
+      "rgbComparison": {
+        "visibleRgbExactlyMatchesOriginalCrop": true,
+        "visiblePixelCountChecked": 163601,
+        "opaqueRgbExactlyMatchesOriginalCrop": true,
+        "opaquePixelCountChecked": 159817,
+        "nativeDimensions": [
+          310,
+          609
+        ],
+        "sourcePixelCrop": [
+          358,
+          208,
+          668,
+          817
+        ],
+        "labelRedrawn": false,
+        "resampled": false,
+        "comparison": "Direct pixel comparison of native RGB with the registered crop from the original official PNG; alpha/provenance separately preserved."
+      },
+      "nativeProvenanceEvidencePath": "assets/source/evidence/film-v2-asset-source-ledger.json"
+    },
+    {
+      "id": "P10",
+      "slug": "kozlenmis-biber",
+      "identity": {
+        "productId": "P10",
+        "slug": "kozlenmis-biber",
+        "nameTR": "Közlenmiş Biber",
+        "nameENReference": "roasted-red-pepper",
+        "netWeightGrams": 560,
+        "weightEvidence": "Etiket",
+        "packaging": "Cam",
+        "categoryId": "C06",
+        "labelPolicy": "Keep logo, label typography, text, bottle/jar shape and net weight unchanged.",
+        "sourceVariation": "exact copied official packshot"
+      },
+      "original": {
+        "path": "assets/source/products/originals/kozlenmis-biber.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\kozlenmis-biber.png",
+        "sha256": "c7218401bd8cb2933fe1b82ad50a926a2a07179bdb29682751362d62a834d40d",
+        "bytes": 596530,
+        "kind": "official-original-packshot",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/560gr-Közlenmiş-Biber-copy.png"
+      },
+      "native": {
+        "path": "assets/source/products/native/kozlenmis-biber.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\kozlenmis-biber.png",
+        "sha256": "b4f1ef279fa015b85d0deb69d29188f1f24c93cf2230c3363f11701e3695d140",
+        "bytes": 487641,
+        "kind": "existing-registered-native-alpha-cutout",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/560gr-Közlenmiş-Biber-copy.png"
+      },
+      "runtime": {
+        "path": "public/assets/products/kozlenmis-biber.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\kozlenmis-biber.png",
+        "sha256": "b4f1ef279fa015b85d0deb69d29188f1f24c93cf2230c3363f11701e3695d140",
+        "bytes": 487641,
+        "kind": "runtime-real-product-native-cutout",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/560gr-Közlenmiş-Biber-copy.png"
+      },
+      "originalProductOpaqueDimensions": [
+        365,
+        730
+      ],
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/560gr-Közlenmiş-Biber-copy.png",
+      "sourcePage": "https://www.burcu.com.tr/urunler/kozlenmis-urunler/",
+      "liveSourceByteVerifiedAt": null,
+      "nativeDerivativeShaDiffersFromOriginal": true,
+      "nativeAlphaProvenance": {
+        "sourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\prepared\\kozlenmis-biber.png",
+        "sourceSha256": "207dad41400516e08028686dd6eac872c1a32ca77d2a7945f61958280d170ef2",
+        "method": "reuse V1 registered silhouette only; original source RGB restored exactly"
+      },
+      "rgbComparison": {
+        "visibleRgbExactlyMatchesOriginalCrop": true,
+        "visiblePixelCountChecked": 232950,
+        "opaqueRgbExactlyMatchesOriginalCrop": true,
+        "opaquePixelCountChecked": 228626,
+        "nativeDimensions": [
+          367,
+          731
+        ],
+        "sourcePixelCrop": [
+          329,
+          147,
+          696,
+          878
+        ],
+        "labelRedrawn": false,
+        "resampled": false,
+        "comparison": "Direct pixel comparison of native RGB with the registered crop from the original official PNG; alpha/provenance separately preserved."
+      },
+      "nativeProvenanceEvidencePath": "assets/source/evidence/film-v2-asset-source-ledger.json"
+    }
+  ],
+  "facilities": [
+    {
+      "id": "F01",
+      "location": "burhaniye",
+      "archive": {
+        "path": "assets/source/facilities/F01-burhaniye.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\design\\approval-panels\\homepage-r02\\references\\F01-burhaniye-pdfium-render-visible.png",
+        "sha256": "82a6d0c4944ad6622a42c6cd1b60b574aa51facebda0586bfe9a6e1241a22488",
+        "bytes": 1053177,
+        "kind": "real-catalogue-facility-PDFium-decode",
+        "copiedByteForByte": true,
+        "sourceUrl": null
+      },
+      "runtime": {
+        "path": "public/assets/facilities/F01.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\design\\approval-panels\\homepage-r02\\references\\F01-burhaniye-pdfium-render-visible.png",
+        "sha256": "82a6d0c4944ad6622a42c6cd1b60b574aa51facebda0586bfe9a6e1241a22488",
+        "bytes": 1053177,
+        "kind": "runtime-real-catalogue-facility-photo",
+        "copiedByteForByte": true,
+        "sourceUrl": null
+      },
+      "dimensions": [
+        1029,
+        508
+      ],
+      "sourceType": "Actual archived catalogue photograph, not AI generation",
+      "captureDateKnown": false,
+      "decodeEvidence": "assets/source/evidence/factory-source-decode.json"
+    },
+    {
+      "id": "F02",
+      "location": "ovakoy",
+      "archive": {
+        "path": "assets/source/facilities/F02-ovakoy.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\design\\approval-panels\\homepage-r02\\references\\F02-ovakoy-pdfium-render-visible.png",
+        "sha256": "d00cc224eb1b7804ddf763e6743b73ec2064327a46099defd089cfebb60ef14e",
+        "bytes": 1180730,
+        "kind": "real-catalogue-facility-PDFium-decode",
+        "copiedByteForByte": true,
+        "sourceUrl": null
+      },
+      "runtime": {
+        "path": "public/assets/facilities/F02.png",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\design\\approval-panels\\homepage-r02\\references\\F02-ovakoy-pdfium-render-visible.png",
+        "sha256": "d00cc224eb1b7804ddf763e6743b73ec2064327a46099defd089cfebb60ef14e",
+        "bytes": 1180730,
+        "kind": "runtime-real-catalogue-facility-photo",
+        "copiedByteForByte": true,
+        "sourceUrl": null
+      },
+      "dimensions": [
+        1024,
+        507
+      ],
+      "sourceType": "Actual archived catalogue photograph, not AI generation",
+      "captureDateKnown": false,
+      "decodeEvidence": "assets/source/evidence/factory-source-decode.json"
+    }
+  ],
+  "brand": {
+    "archive": {
+      "path": "assets/source/brand/burcu-logo.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\brand\\burcu-logo.png",
+      "sha256": "3c8843460b960e3da57bad349fc15915fb4e0c2df8b1712e5251f4a696d29bf1",
+      "bytes": 35194,
+      "kind": "official-logo-PNG",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/themes/burcu/images/burcu-logo-v2.png"
+    },
+    "runtime": {
+      "path": "public/assets/brand/burcu-logo.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\brand\\burcu-logo.png",
+      "sha256": "3c8843460b960e3da57bad349fc15915fb4e0c2df8b1712e5251f4a696d29bf1",
+      "bytes": 35194,
+      "kind": "runtime-official-logo-PNG",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/themes/burcu/images/burcu-logo-v2.png"
+    },
+    "vectorCandidate": {
+      "path": "assets/source/brand/burcu-logo-catalogue.svg",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v3\\public\\brand\\burcu-logo.svg",
+      "sha256": "095e47b35c0db5f73ec5e51da85d74823a90837dff6e0eb4d97b9f10cac2bcb0",
+      "bytes": 246903,
+      "kind": "catalogue-vector-candidate-pending-visual-review",
+      "copiedByteForByte": true,
+      "sourceUrl": null
+    }
+  },
+  "fonts": [
+    {
+      "archive": {
+        "path": "assets/source/fonts/Manrope.ttf",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\fonts\\Manrope.ttf",
+        "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6",
+        "bytes": 164700,
+        "kind": "OFL-font-or-license",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/manrope"
+      },
+      "runtime": {
+        "path": "public/assets/fonts/Manrope.ttf",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\fonts\\Manrope.ttf",
+        "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6",
+        "bytes": 164700,
+        "kind": "runtime-OFL-font-or-license",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/manrope"
+      },
+      "license": "SIL-OFL-1.1"
+    },
+    {
+      "archive": {
+        "path": "assets/source/fonts/OFL.txt",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\fonts\\OFL.txt",
+        "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+        "bytes": 4387,
+        "kind": "OFL-font-or-license",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/manrope"
+      },
+      "runtime": {
+        "path": "public/assets/fonts/OFL.txt",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\fonts\\OFL.txt",
+        "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+        "bytes": 4387,
+        "kind": "runtime-OFL-font-or-license",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/manrope"
+      },
+      "license": "SIL-OFL-1.1"
+    },
+    {
+      "archive": {
+        "path": "assets/source/fonts/NotoSansArabic.ttf",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\brand\\NotoSansArabic.ttf",
+        "sha256": "63111b5b2e074dd48cc67692e0a2726d86ee94c1c37fe8598257b7b4e87e869e",
+        "bytes": 844676,
+        "kind": "OFL-font-or-license",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/notosansarabic"
+      },
+      "runtime": {
+        "path": "public/assets/fonts/NotoSansArabic.ttf",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\brand\\NotoSansArabic.ttf",
+        "sha256": "63111b5b2e074dd48cc67692e0a2726d86ee94c1c37fe8598257b7b4e87e869e",
+        "bytes": 844676,
+        "kind": "runtime-OFL-font-or-license",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/notosansarabic"
+      },
+      "license": "SIL-OFL-1.1"
+    },
+    {
+      "archive": {
+        "path": "assets/source/fonts/OFL-NotoSansArabic.txt",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\brand\\OFL-NotoSansArabic.txt",
+        "sha256": "07fc70bfeb985cc1a87a8587d0a0c80bab11c86c9dc3fd95b6f0cb332f983e96",
+        "bytes": 4382,
+        "kind": "OFL-font-or-license",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/notosansarabic"
+      },
+      "runtime": {
+        "path": "public/assets/fonts/OFL-NotoSansArabic.txt",
+        "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\brand\\OFL-NotoSansArabic.txt",
+        "sha256": "07fc70bfeb985cc1a87a8587d0a0c80bab11c86c9dc3fd95b6f0cb332f983e96",
+        "bytes": 4382,
+        "kind": "runtime-OFL-font-or-license",
+        "copiedByteForByte": true,
+        "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/notosansarabic"
+      },
+      "license": "SIL-OFL-1.1"
+    }
+  ],
+  "copies": [
+    {
+      "path": "assets/source/products/originals/domates-salcasi.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\domates-salcasi.png",
+      "sha256": "16894f5bd90ab23749434ae5ffabb04786c69db3971a86a5b81da02b5226ae34",
+      "bytes": 617840,
+      "kind": "official-original-packshot",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Domates-Salçasi.png"
+    },
+    {
+      "path": "assets/source/products/native/domates-salcasi.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\domates-salcasi.png",
+      "sha256": "f37b4965c3d326d678b6b09d4e38f31a32f632f5b9a9fff69b0cf21cf299defc",
+      "bytes": 486053,
+      "kind": "existing-registered-native-alpha-cutout",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Domates-Salçasi.png"
+    },
+    {
+      "path": "public/assets/products/domates-salcasi.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\domates-salcasi.png",
+      "sha256": "f37b4965c3d326d678b6b09d4e38f31a32f632f5b9a9fff69b0cf21cf299defc",
+      "bytes": 486053,
+      "kind": "runtime-real-product-native-cutout",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Domates-Salçasi.png"
+    },
+    {
+      "path": "assets/source/products/originals/biber-salcasi.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\biber-salcasi.png",
+      "sha256": "53b7e9f82d3545400e41e0b26734cfdacc3c229f55fd60518217966614e1f039",
+      "bytes": 614981,
+      "kind": "official-original-packshot",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Tatli-Biber-Salças.png"
+    },
+    {
+      "path": "assets/source/products/native/biber-salcasi.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\biber-salcasi.png",
+      "sha256": "e651c31a380fb9964dfa217a346726c6c238f36af3afa18fc38ec75c492e83a4",
+      "bytes": 483622,
+      "kind": "existing-registered-native-alpha-cutout",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Tatli-Biber-Salças.png"
+    },
+    {
+      "path": "public/assets/products/biber-salcasi.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\biber-salcasi.png",
+      "sha256": "e651c31a380fb9964dfa217a346726c6c238f36af3afa18fc38ec75c492e83a4",
+      "bytes": 483622,
+      "kind": "runtime-real-product-native-cutout",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Tatli-Biber-Salças.png"
+    },
+    {
+      "path": "assets/source/products/originals/2si1arada.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\2si1arada.png",
+      "sha256": "e25db6ec3c92b0c5d810edb7a979eee650829235dc51065f95c0556bcaf9572e",
+      "bytes": 637380,
+      "kind": "official-original-packshot",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Biber-Domates-Salçasi.png"
+    },
+    {
+      "path": "assets/source/products/native/2si1arada.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\2si1arada.png",
+      "sha256": "3ddf5b46b0afb13346995925bed0f4a05bba8b3bab98bfc9e626a9995385cfbe",
+      "bytes": 496802,
+      "kind": "existing-registered-native-alpha-cutout",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Biber-Domates-Salçasi.png"
+    },
+    {
+      "path": "public/assets/products/2si1arada.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\2si1arada.png",
+      "sha256": "3ddf5b46b0afb13346995925bed0f4a05bba8b3bab98bfc9e626a9995385cfbe",
+      "bytes": 496802,
+      "kind": "runtime-real-product-native-cutout",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Biber-Domates-Salçasi.png"
+    },
+    {
+      "path": "assets/source/products/originals/ketcap.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\ketcap.png",
+      "sha256": "b675078cdee425a9210c22b7b4e647ccfdabcc7e6dc4880f4fda28e119a86206",
+      "bytes": 507269,
+      "kind": "official-original-packshot",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/250gr-Ketçap.png"
+    },
+    {
+      "path": "assets/source/products/native/ketcap.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\ketcap.png",
+      "sha256": "e9b5c0edc59fadfd1b10f8a38c7f01580b2867260b2b67313f8acf261c3d1d6f",
+      "bytes": 395306,
+      "kind": "existing-registered-native-alpha-cutout",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/250gr-Ketçap.png"
+    },
+    {
+      "path": "public/assets/products/ketcap.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\ketcap.png",
+      "sha256": "e9b5c0edc59fadfd1b10f8a38c7f01580b2867260b2b67313f8acf261c3d1d6f",
+      "bytes": 395306,
+      "kind": "runtime-real-product-native-cutout",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/250gr-Ketçap.png"
+    },
+    {
+      "path": "assets/source/products/originals/mayonez.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\mayonez.png",
+      "sha256": "1f1df64d30fdcfbfd157e710b69a90af78e4c39734ec6f979d747dc1bf91901a",
+      "bytes": 441276,
+      "kind": "official-original-packshot",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/220gr-Mayonez-copy.png"
+    },
+    {
+      "path": "assets/source/products/native/mayonez.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\mayonez.png",
+      "sha256": "47291d565678780240b8a9c2ed1585b91a5425500320db0f6c9020b4fab811e8",
+      "bytes": 333922,
+      "kind": "existing-registered-native-alpha-cutout",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/220gr-Mayonez-copy.png"
+    },
+    {
+      "path": "public/assets/products/mayonez.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\mayonez.png",
+      "sha256": "47291d565678780240b8a9c2ed1585b91a5425500320db0f6c9020b4fab811e8",
+      "bytes": 333922,
+      "kind": "runtime-real-product-native-cutout",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/220gr-Mayonez-copy.png"
+    },
+    {
+      "path": "assets/source/products/originals/barbunya-pilaki.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\barbunya-pilaki.png",
+      "sha256": "24ed535f6565daab658b1ea6020fcdecf4eb9ec7eeab68cc35c261e404067cee",
+      "bytes": 555941,
+      "kind": "official-original-packshot",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/400gr-Barbunya-Pilaki-Kapakli-copy.png"
+    },
+    {
+      "path": "assets/source/products/native/barbunya-pilaki.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\barbunya-pilaki.png",
+      "sha256": "b99230ebe7125aae536bc96553e25762bed222cce80db55262eb9bafed01b18e",
+      "bytes": 448226,
+      "kind": "existing-registered-native-alpha-cutout",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/400gr-Barbunya-Pilaki-Kapakli-copy.png"
+    },
+    {
+      "path": "public/assets/products/barbunya-pilaki.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\barbunya-pilaki.png",
+      "sha256": "b99230ebe7125aae536bc96553e25762bed222cce80db55262eb9bafed01b18e",
+      "bytes": 448226,
+      "kind": "runtime-real-product-native-cutout",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/400gr-Barbunya-Pilaki-Kapakli-copy.png"
+    },
+    {
+      "path": "assets/source/products/originals/yaprak-sarma.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\yaprak-sarma.png",
+      "sha256": "6804608876eb90863a1ee22ae7fd5d9047e9788b78d29ab53c1bfa546042e5a4",
+      "bytes": 578869,
+      "kind": "official-original-packshot",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/400gr-Yaprak-Sarma-Kapakli-copy.png"
+    },
+    {
+      "path": "assets/source/products/native/yaprak-sarma.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\yaprak-sarma.png",
+      "sha256": "40bd7ad6d83e7ef046f96c52eeb3c676f1854cb6447a6cad0f36d3489a1c080c",
+      "bytes": 462871,
+      "kind": "existing-registered-native-alpha-cutout",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/400gr-Yaprak-Sarma-Kapakli-copy.png"
+    },
+    {
+      "path": "public/assets/products/yaprak-sarma.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\yaprak-sarma.png",
+      "sha256": "40bd7ad6d83e7ef046f96c52eeb3c676f1854cb6447a6cad0f36d3489a1c080c",
+      "bytes": 462871,
+      "kind": "runtime-real-product-native-cutout",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/400gr-Yaprak-Sarma-Kapakli-copy.png"
+    },
+    {
+      "path": "assets/source/products/originals/bezelye.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\bezelye.png",
+      "sha256": "41faaf0fa3d2d68eb2f87c9141d435d46c76fec9fa3294b47cb95ae14e9b7a0c",
+      "bytes": 480395,
+      "kind": "official-original-packshot",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/310gr-Bezelye-Konservesi-copy.png"
+    },
+    {
+      "path": "assets/source/products/native/bezelye.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\bezelye.png",
+      "sha256": "806564d86ee826f9c788d92a4061eb6638b8a78fb4ca32c1c056591264ceb1df",
+      "bytes": 382362,
+      "kind": "existing-registered-native-alpha-cutout",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/310gr-Bezelye-Konservesi-copy.png"
+    },
+    {
+      "path": "public/assets/products/bezelye.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\bezelye.png",
+      "sha256": "806564d86ee826f9c788d92a4061eb6638b8a78fb4ca32c1c056591264ceb1df",
+      "bytes": 382362,
+      "kind": "runtime-real-product-native-cutout",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/310gr-Bezelye-Konservesi-copy.png"
+    },
+    {
+      "path": "assets/source/products/originals/haslanmis-nohut.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\haslanmis-nohut.png",
+      "sha256": "fd8e779c93e7680abddacdb312e034caf3890894218d512b5ceaf83e1439ccaa",
+      "bytes": 447806,
+      "kind": "official-original-packshot",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/600gr-Haşlanmiş-Nohut-copy.png"
+    },
+    {
+      "path": "assets/source/products/native/haslanmis-nohut.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\haslanmis-nohut.png",
+      "sha256": "8f4fbf97a955c554bb56754257218077c6356f10660b1f99f371d460c2282baa",
+      "bytes": 350555,
+      "kind": "existing-registered-native-alpha-cutout",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/600gr-Haşlanmiş-Nohut-copy.png"
+    },
+    {
+      "path": "public/assets/products/haslanmis-nohut.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\haslanmis-nohut.png",
+      "sha256": "8f4fbf97a955c554bb56754257218077c6356f10660b1f99f371d460c2282baa",
+      "bytes": 350555,
+      "kind": "runtime-real-product-native-cutout",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/600gr-Haşlanmiş-Nohut-copy.png"
+    },
+    {
+      "path": "assets/source/products/originals/kozlenmis-biber.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\kozlenmis-biber.png",
+      "sha256": "c7218401bd8cb2933fe1b82ad50a926a2a07179bdb29682751362d62a834d40d",
+      "bytes": 596530,
+      "kind": "official-original-packshot",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/560gr-Közlenmiş-Biber-copy.png"
+    },
+    {
+      "path": "assets/source/products/native/kozlenmis-biber.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\kozlenmis-biber.png",
+      "sha256": "b4f1ef279fa015b85d0deb69d29188f1f24c93cf2230c3363f11701e3695d140",
+      "bytes": 487641,
+      "kind": "existing-registered-native-alpha-cutout",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/560gr-Közlenmiş-Biber-copy.png"
+    },
+    {
+      "path": "public/assets/products/kozlenmis-biber.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\kozlenmis-biber.png",
+      "sha256": "b4f1ef279fa015b85d0deb69d29188f1f24c93cf2230c3363f11701e3695d140",
+      "bytes": 487641,
+      "kind": "runtime-real-product-native-cutout",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/560gr-Közlenmiş-Biber-copy.png"
+    },
+    {
+      "path": "assets/source/facilities/F01-burhaniye.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\design\\approval-panels\\homepage-r02\\references\\F01-burhaniye-pdfium-render-visible.png",
+      "sha256": "82a6d0c4944ad6622a42c6cd1b60b574aa51facebda0586bfe9a6e1241a22488",
+      "bytes": 1053177,
+      "kind": "real-catalogue-facility-PDFium-decode",
+      "copiedByteForByte": true,
+      "sourceUrl": null
+    },
+    {
+      "path": "public/assets/facilities/F01.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\design\\approval-panels\\homepage-r02\\references\\F01-burhaniye-pdfium-render-visible.png",
+      "sha256": "82a6d0c4944ad6622a42c6cd1b60b574aa51facebda0586bfe9a6e1241a22488",
+      "bytes": 1053177,
+      "kind": "runtime-real-catalogue-facility-photo",
+      "copiedByteForByte": true,
+      "sourceUrl": null
+    },
+    {
+      "path": "assets/source/facilities/F02-ovakoy.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\design\\approval-panels\\homepage-r02\\references\\F02-ovakoy-pdfium-render-visible.png",
+      "sha256": "d00cc224eb1b7804ddf763e6743b73ec2064327a46099defd089cfebb60ef14e",
+      "bytes": 1180730,
+      "kind": "real-catalogue-facility-PDFium-decode",
+      "copiedByteForByte": true,
+      "sourceUrl": null
+    },
+    {
+      "path": "public/assets/facilities/F02.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\design\\approval-panels\\homepage-r02\\references\\F02-ovakoy-pdfium-render-visible.png",
+      "sha256": "d00cc224eb1b7804ddf763e6743b73ec2064327a46099defd089cfebb60ef14e",
+      "bytes": 1180730,
+      "kind": "runtime-real-catalogue-facility-photo",
+      "copiedByteForByte": true,
+      "sourceUrl": null
+    },
+    {
+      "path": "assets/source/evidence/factory-source-decode.json",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\design\\approval-panels\\homepage-r02\\references\\source-decode.json",
+      "sha256": "c7a7638cb4643f23f76ec6ba6e258bee849844c4f8bfb47f222fd46cd217bf27",
+      "bytes": 3201,
+      "kind": "PDF-decode-provenance",
+      "copiedByteForByte": true,
+      "sourceUrl": null
+    },
+    {
+      "path": "assets/source/brand/burcu-logo.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\brand\\burcu-logo.png",
+      "sha256": "3c8843460b960e3da57bad349fc15915fb4e0c2df8b1712e5251f4a696d29bf1",
+      "bytes": 35194,
+      "kind": "official-logo-PNG",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/themes/burcu/images/burcu-logo-v2.png"
+    },
+    {
+      "path": "public/assets/brand/burcu-logo.png",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\brand\\burcu-logo.png",
+      "sha256": "3c8843460b960e3da57bad349fc15915fb4e0c2df8b1712e5251f4a696d29bf1",
+      "bytes": 35194,
+      "kind": "runtime-official-logo-PNG",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/themes/burcu/images/burcu-logo-v2.png"
+    },
+    {
+      "path": "assets/source/brand/burcu-logo-catalogue.svg",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v3\\public\\brand\\burcu-logo.svg",
+      "sha256": "095e47b35c0db5f73ec5e51da85d74823a90837dff6e0eb4d97b9f10cac2bcb0",
+      "bytes": 246903,
+      "kind": "catalogue-vector-candidate-pending-visual-review",
+      "copiedByteForByte": true,
+      "sourceUrl": null
+    },
+    {
+      "path": "assets/source/fonts/Manrope.ttf",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\fonts\\Manrope.ttf",
+      "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6",
+      "bytes": 164700,
+      "kind": "OFL-font-or-license",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/manrope"
+    },
+    {
+      "path": "public/assets/fonts/Manrope.ttf",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\fonts\\Manrope.ttf",
+      "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6",
+      "bytes": 164700,
+      "kind": "runtime-OFL-font-or-license",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/manrope"
+    },
+    {
+      "path": "assets/source/fonts/OFL.txt",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\fonts\\OFL.txt",
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+      "bytes": 4387,
+      "kind": "OFL-font-or-license",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/manrope"
+    },
+    {
+      "path": "public/assets/fonts/OFL.txt",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\fonts\\OFL.txt",
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+      "bytes": 4387,
+      "kind": "runtime-OFL-font-or-license",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/manrope"
+    },
+    {
+      "path": "assets/source/fonts/NotoSansArabic.ttf",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\brand\\NotoSansArabic.ttf",
+      "sha256": "63111b5b2e074dd48cc67692e0a2726d86ee94c1c37fe8598257b7b4e87e869e",
+      "bytes": 844676,
+      "kind": "OFL-font-or-license",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/notosansarabic"
+    },
+    {
+      "path": "public/assets/fonts/NotoSansArabic.ttf",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\brand\\NotoSansArabic.ttf",
+      "sha256": "63111b5b2e074dd48cc67692e0a2726d86ee94c1c37fe8598257b7b4e87e869e",
+      "bytes": 844676,
+      "kind": "runtime-OFL-font-or-license",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/notosansarabic"
+    },
+    {
+      "path": "assets/source/fonts/OFL-NotoSansArabic.txt",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\brand\\OFL-NotoSansArabic.txt",
+      "sha256": "07fc70bfeb985cc1a87a8587d0a0c80bab11c86c9dc3fd95b6f0cb332f983e96",
+      "bytes": 4382,
+      "kind": "OFL-font-or-license",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/notosansarabic"
+    },
+    {
+      "path": "public/assets/fonts/OFL-NotoSansArabic.txt",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\brand\\OFL-NotoSansArabic.txt",
+      "sha256": "07fc70bfeb985cc1a87a8587d0a0c80bab11c86c9dc3fd95b6f0cb332f983e96",
+      "bytes": 4382,
+      "kind": "runtime-OFL-font-or-license",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/notosansarabic"
+    },
+    {
+      "path": "public/assets/video/burcu-concept.mp4",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v3\\out\\burcu-v3-tarladan-sofralara.mp4",
+      "sha256": "2d44602be651b7c570e4529b072befda41149ddf843b9146ffd480ddc05b2f67",
+      "bytes": 42605332,
+      "kind": "concept-brand-film; representative-photos-and-motion-graphics",
+      "copiedByteForByte": true,
+      "sourceUrl": null
+    },
+    {
+      "path": "assets/source/evidence/film-v3-delivery-summary.json",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v3\\qa\\delivery-summary.json",
+      "sha256": "98ceceac2a25bddeb56d14bec3368492e60953fc5834fd5c85d92356f674e5c3",
+      "bytes": 1231,
+      "kind": "existing-internal-technical-QA",
+      "copiedByteForByte": true,
+      "sourceUrl": null
+    },
+    {
+      "path": "assets/source/evidence/film-v3-full-film-qa.json",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v3\\qa\\full-film-qa.json",
+      "sha256": "06302833d27dec1f7565560445b50176309682453c64283676d0c71d15c3f44f",
+      "bytes": 11111,
+      "kind": "existing-internal-technical-QA",
+      "copiedByteForByte": true,
+      "sourceUrl": null
+    },
+    {
+      "path": "assets/source/evidence/film-v3-products-authenticity.json",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v3\\qa\\products-authenticity.json",
+      "sha256": "33c63c941b64744319011605aa4114263953d7cdef878c9072b7f8a283697052",
+      "bytes": 4971,
+      "kind": "existing-internal-technical-QA",
+      "copiedByteForByte": true,
+      "sourceUrl": null
+    },
+    {
+      "path": "assets/source/evidence/film-v2-asset-source-ledger.json",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\production\\asset-source-ledger.json",
+      "sha256": "3e96eb01567e1a1c850a2b4745b72e90dee35dad8215adb6159f81896e564b32",
+      "bytes": 51635,
+      "kind": "registered-native-alpha-and-RGB-provenance",
+      "copiedByteForByte": true,
+      "sourceUrl": null
+    }
+  ],
+  "protectedInputs": [
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\production\\asset-source-ledger.json",
+      "sha256": "3e96eb01567e1a1c850a2b4745b72e90dee35dad8215adb6159f81896e564b32"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\2si1arada.png",
+      "sha256": "3ddf5b46b0afb13346995925bed0f4a05bba8b3bab98bfc9e626a9995385cfbe"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\barbunya-pilaki.png",
+      "sha256": "b99230ebe7125aae536bc96553e25762bed222cce80db55262eb9bafed01b18e"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\bezelye.png",
+      "sha256": "806564d86ee826f9c788d92a4061eb6638b8a78fb4ca32c1c056591264ceb1df"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\biber-salcasi.png",
+      "sha256": "e651c31a380fb9964dfa217a346726c6c238f36af3afa18fc38ec75c492e83a4"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\domates-salcasi.png",
+      "sha256": "f37b4965c3d326d678b6b09d4e38f31a32f632f5b9a9fff69b0cf21cf299defc"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\haslanmis-nohut.png",
+      "sha256": "8f4fbf97a955c554bb56754257218077c6356f10660b1f99f371d460c2282baa"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\ketcap.png",
+      "sha256": "e9b5c0edc59fadfd1b10f8a38c7f01580b2867260b2b67313f8acf261c3d1d6f"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\kozlenmis-biber.png",
+      "sha256": "b4f1ef279fa015b85d0deb69d29188f1f24c93cf2230c3363f11701e3695d140"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\mayonez.png",
+      "sha256": "47291d565678780240b8a9c2ed1585b91a5425500320db0f6c9020b4fab811e8"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\public\\products\\native\\yaprak-sarma.png",
+      "sha256": "40bd7ad6d83e7ef046f96c52eeb3c676f1854cb6447a6cad0f36d3489a1c080c"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v3\\out\\burcu-v3-tarladan-sofralara.mp4",
+      "sha256": "2d44602be651b7c570e4529b072befda41149ddf843b9146ffd480ddc05b2f67"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v3\\public\\brand\\burcu-logo.svg",
+      "sha256": "095e47b35c0db5f73ec5e51da85d74823a90837dff6e0eb4d97b9f10cac2bcb0"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v3\\qa\\delivery-summary.json",
+      "sha256": "98ceceac2a25bddeb56d14bec3368492e60953fc5834fd5c85d92356f674e5c3"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v3\\qa\\full-film-qa.json",
+      "sha256": "06302833d27dec1f7565560445b50176309682453c64283676d0c71d15c3f44f"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v3\\qa\\products-authenticity.json",
+      "sha256": "33c63c941b64744319011605aa4114263953d7cdef878c9072b7f8a283697052"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\brand\\NotoSansArabic.ttf",
+      "sha256": "63111b5b2e074dd48cc67692e0a2726d86ee94c1c37fe8598257b7b4e87e869e"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\brand\\OFL-NotoSansArabic.txt",
+      "sha256": "07fc70bfeb985cc1a87a8587d0a0c80bab11c86c9dc3fd95b6f0cb332f983e96"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\brand\\burcu-logo.png",
+      "sha256": "3c8843460b960e3da57bad349fc15915fb4e0c2df8b1712e5251f4a696d29bf1"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\fonts\\Manrope.ttf",
+      "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\fonts\\OFL.txt",
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\2si1arada.png",
+      "sha256": "e25db6ec3c92b0c5d810edb7a979eee650829235dc51065f95c0556bcaf9572e"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\barbunya-pilaki.png",
+      "sha256": "24ed535f6565daab658b1ea6020fcdecf4eb9ec7eeab68cc35c261e404067cee"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\bezelye.png",
+      "sha256": "41faaf0fa3d2d68eb2f87c9141d435d46c76fec9fa3294b47cb95ae14e9b7a0c"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\biber-salcasi.png",
+      "sha256": "53b7e9f82d3545400e41e0b26734cfdacc3c229f55fd60518217966614e1f039"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\domates-salcasi.png",
+      "sha256": "16894f5bd90ab23749434ae5ffabb04786c69db3971a86a5b81da02b5226ae34"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\haslanmis-nohut.png",
+      "sha256": "fd8e779c93e7680abddacdb312e034caf3890894218d512b5ceaf83e1439ccaa"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\ketcap.png",
+      "sha256": "b675078cdee425a9210c22b7b4e647ccfdabcc7e6dc4880f4fda28e119a86206"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\kozlenmis-biber.png",
+      "sha256": "c7218401bd8cb2933fe1b82ad50a926a2a07179bdb29682751362d62a834d40d"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\mayonez.png",
+      "sha256": "1f1df64d30fdcfbfd157e710b69a90af78e4c39734ec6f979d747dc1bf91901a"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\products\\yaprak-sarma.png",
+      "sha256": "6804608876eb90863a1ee22ae7fd5d9047e9788b78d29ab53c1bfa546042e5a4"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\design\\approval-panels\\homepage-r02\\references\\F01-burhaniye-pdfium-render-visible.png",
+      "sha256": "82a6d0c4944ad6622a42c6cd1b60b574aa51facebda0586bfe9a6e1241a22488"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\design\\approval-panels\\homepage-r02\\references\\F02-ovakoy-pdfium-render-visible.png",
+      "sha256": "d00cc224eb1b7804ddf763e6743b73ec2064327a46099defd089cfebb60ef14e"
+    },
+    {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\design\\approval-panels\\homepage-r02\\references\\source-decode.json",
+      "sha256": "c7a7638cb4643f23f76ec6ba6e258bee849844c4f8bfb47f222fd46cd217bf27"
+    }
+  ],
+  "sameSkuHigherResolutionAudit": {
+    "verifiedAt": "2026-10-13",
+    "livePrimaryPages": [
+      "https://www.burcu.com.tr/urunler/ketcap-mayonez/",
+      "https://www.burcu.com.tr/urunler/haslanmis-urunler/",
+      "https://www.burcu.com.tr/urunler/domates-salcasi/"
+    ],
+    "maxAdvertisedSrcsetCanvas": 1024,
+    "threeLivePngHashesMatchLocalOriginals": true,
+    "sameSkuHigherResolutionFound": false,
+    "scope": "Inspected primary pages and known local asset folders only; not a claim that no private print master exists."
+  },
+  "packagingLocks": {
+    "P04": "Actual 250g long red bottle; no invented back label or full 3D turn",
+    "P09": "Actual 600g green-cap jar; red-cap catalogue variant not substituted"
+  },
+  "qualityLimit": "Canvas size is not label detail. Original opaque widths P04=300,P09=308,P01=412px. Native cutouts preserve source RGB and add no new detail. No native 4K/retina label claim or hypothetical upscale.",
+  "retinaCapacity": {
+    "formula": "maximum CSS width without enlargement = effective source width / devicePixelRatio",
+    "dpr2MaxCssWidths": {
+      "P04": 150,
+      "P09": 154,
+      "P01": 206
+    }
+  },
+  "facilityPolicy": "F01/F02 are actual archived catalogue photos decoded via PDFium. Generated representative factory interiors do not belong in actual-facility proof. Photo count never proves operating facility count.",
+  "film": {
+    "runtime": {
+      "path": "public/assets/video/burcu-concept.mp4",
+      "originalSourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v3\\out\\burcu-v3-tarladan-sofralara.mp4",
+      "sha256": "2d44602be651b7c570e4529b072befda41149ddf843b9146ffd480ddc05b2f67",
+      "bytes": 42605332,
+      "kind": "concept-brand-film; representative-photos-and-motion-graphics",
+      "copiedByteForByte": true,
+      "sourceUrl": null
+    },
+    "width": 1920,
+    "height": 1080,
+    "fps": 25,
+    "frames": 3750,
+    "videoDurationSeconds": 150,
+    "containerDurationSeconds": 150.016,
+    "technicalDeliveryComplete": true,
+    "humanFilmAccepted": false,
+    "customerReady": false,
+    "shots": 30,
+    "authenticPackages": 24,
+    "portfolioFamilies": 19,
+    "filmSourceType": "Concept film: user-authorised generated representative photography, authored motion graphics and real product pixels; not documentary footage of actual Burcu interiors.",
+    "knownException": "Intentional 40ms plain-cream first sample frame3650 at closing fade",
+    "loadingPolicy": "preload none; user clicks Play before metadata/media request; never a heavy startup hero request"
+  },
+  "otherExistingSources": {
+    "filmV2Pilot": {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v2\\out\\burcu-v2-quality-pilot.mp4",
+      "videoDurationSeconds": 20,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 10719584,
+      "type": "Representative generated commercial pilot; not real-factory proof"
+    },
+    "filmV3Products": {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v3\\public\\products",
+      "count": 24,
+      "families": 19,
+      "type": "Authentic un-upscaled native cutouts; source selection differs from 10-SKU web demo and omits yaprak-sarma"
+    },
+    "filmV3NativeLookdev": {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v3\\public\\lookdev\\native",
+      "count": 3,
+      "dimensions": [
+        5504,
+        3072
+      ],
+      "type": "Generated representative photographic inputs, not actual company photos; not copied into the actual-facility pool"
+    },
+    "educationV2": {
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\egitim-demo\\v2",
+      "productFileCount": 10,
+      "productHashesMatchV1": true,
+      "type": "Same PNG packshots; cartoon learning scenes excluded from corporate photograph pool"
+    }
+  },
+  "officialBurcuTv": {
+    "url": "https://www.burcu.com.tr/burcu-tv/",
+    "verifiedAt": "2026-10-13",
+    "iframeOrVideoEmbedFound": false,
+    "localActualFactoryDocumentaryVideoFound": false
+  },
+  "publicationRights": "User-authorised private demo use; public rights and final publishing acceptance remain separate."
+}

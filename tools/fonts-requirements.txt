@@ -1,0 +1,3 @@
+# Exact project-local WOFF2 codec dependencies resolved from official PyPI.
+fonttools==4.66.1
+Brotli==1.2.0

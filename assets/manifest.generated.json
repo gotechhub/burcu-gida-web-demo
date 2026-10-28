@@ -1,0 +1,1598 @@
+{
+  "schemaVersion": "1.0-web-derivatives",
+  "preparedAt": "2026-10-14T03:26:39.105Z",
+  "sourceOnlyEncoding": true,
+  "originalMastersModified": false,
+  "originalFacilityPngsPreserved": true,
+  "sourceDetailPolicy": "Record measured native dimensions. No true 8K/4K source-resolution claim, label redraw or imaginary product detail.",
+  "encoder": {
+    "sharp": "0.35.5",
+    "webp": "1.6.0",
+    "sharpSource": "sharp",
+    "desktopQuality": 85,
+    "mobileQuality": 85,
+    "ingredientsLosslessEncoding": true,
+    "stripMetadata": true
+  },
+  "mobilePolicy": "Exact 720x960 centre cover. A 1672x941 source entails ~2% mechanical enlargement in mobile only; explicitly recorded per derivative, without added source detail.",
+  "counts": {
+    "expectedPhotographicMasters": 17,
+    "availablePhotographicMasters": 17,
+    "expectedNewGeneratedMasters": 17,
+    "availableNewGeneratedMasters": 17,
+    "expectedReusedPhotographicMasters": 1,
+    "availableReusedPhotographicMasters": 1,
+    "expectedIngredientMasters": 1,
+    "availableIngredientMasters": 1,
+    "photographicDerivatives": 34,
+    "ingredientDerivatives": 1,
+    "facilityDerivatives": 2,
+    "totalDerivatives": 37
+  },
+  "pendingMasters": [],
+  "sources": [
+    {
+      "path": "assets/masters/ketchup.png",
+      "sourceType": "root-generated-photographic-scene-without-product-label",
+      "sha256": "100bed8769c54a3a9a02570b31c288904ab371f1e8d160ed9bac4c545aca6bea",
+      "bytes": 2136627,
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "channels": 3,
+      "format": "png"
+    },
+    {
+      "path": "assets/masters/chickpea.png",
+      "sourceType": "root-generated-photographic-scene-without-product-label",
+      "sha256": "f655853e667bd81e6d5558f5ec865d8b78844196f63a752fa047f664f07e875a",
+      "bytes": 2218378,
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "channels": 3,
+      "format": "png"
+    },
+    {
+      "path": "assets/masters/paste.png",
+      "sourceType": "root-generated-photographic-scene-without-product-label",
+      "sha256": "afe3deaca08e6b662bf77a2fe5cac194711e7ac34be695f9de2bfaf6612324ed",
+      "bytes": 2354176,
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "channels": 3,
+      "format": "png"
+    },
+    {
+      "path": "assets/masters/table.png",
+      "sourceType": "root-generated-photographic-scene-without-product-label",
+      "sha256": "c25dbde113c9b26db8765f45391a0379aebc6c1f6ceeceb3d1eedcd24165b2c2",
+      "bytes": 2308214,
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "channels": 3,
+      "format": "png"
+    },
+    {
+      "path": "assets/masters/peas.png",
+      "sourceType": "root-generated-photographic-scene-without-product-label",
+      "sha256": "91289722ebda697470a368b863b76e7fb8f2d810fb2dcf4e5324de3709351f46",
+      "bytes": 2104566,
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "channels": 3,
+      "format": "png"
+    },
+    {
+      "path": "assets/masters/roasted.png",
+      "sourceType": "root-generated-photographic-scene-without-product-label",
+      "sha256": "9179c13f60822214d38a6f9b11242214714a4572f43b7760dc5f784272cc786d",
+      "bytes": 2379809,
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "channels": 3,
+      "format": "png"
+    },
+    {
+      "path": "assets/masters/meals.png",
+      "sourceType": "root-generated-photographic-scene-without-product-label",
+      "sha256": "91478dfabd5d8abbba63ffbb09098c7485d4a47b68210166b50ed8e1da6b8a57",
+      "bytes": 2299087,
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "channels": 3,
+      "format": "png"
+    },
+    {
+      "path": "assets/masters/ketchup-serving.png",
+      "sourceType": "reused-V1-generated-photographic-scene-without-product-label",
+      "sha256": "83f0e15a73eb0c67ce91ec8053e669671d51e095d882742e3701def45cb16fc9",
+      "bytes": 2457326,
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "channels": 3,
+      "format": "png",
+      "reusedFrom": {
+        "sourcePath": "../v1/design/approval-panels/4k/scenes/table-world.png",
+        "sourceLedgerPath": "../v1/design/approval-panels/4k/delivery-manifest.json",
+        "sourcePromptPath": "../v1/design/approval-panels/4k/imagegen-scene-prompts.json",
+        "sourcePromptKey": "serving",
+        "sourceCreatedAt": "2026-10-12",
+        "policy": "Existing V1 generated photographic serving suggestion, copied unchanged; not a new V2 generation or documentary company photograph.",
+        "sha256": "83f0e15a73eb0c67ce91ec8053e669671d51e095d882742e3701def45cb16fc9",
+        "copiedByteForByte": true
+      }
+    },
+    {
+      "path": "assets/masters/mayonnaise.png",
+      "sourceType": "root-generated-photographic-scene-without-product-label",
+      "sha256": "2f2ed226b94853e7c6592ac9bbe7cb1a95a967d9b6e5bf1a15c81566dc71df82",
+      "bytes": 1808821,
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "channels": 3,
+      "format": "png"
+    },
+    {
+      "path": "assets/masters/brand-field.png",
+      "sourceType": "root-generated-photographic-scene-without-product-label",
+      "sha256": "32ee014d0998c14110dc0242c23397fbec75c8791069152cdae1da6c7414d711",
+      "bytes": 2271755,
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "channels": 3,
+      "format": "png"
+    },
+    {
+      "path": "assets/masters/about-harvest.png",
+      "sourceType": "root-generated-photographic-scene-without-product-label",
+      "sha256": "769bd503e573cfe81eb8402ab1059161fa5214c818d502be3f408e89ae921190",
+      "bytes": 2318984,
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "channels": 3,
+      "format": "png"
+    },
+    {
+      "path": "assets/masters/table-corrected.png",
+      "sourceType": "root-generated-photographic-scene-without-product-label",
+      "sha256": "3da2429b4c0ba1804843e38912f91f88104ae7faa6d740f2e77a48e2308b063c",
+      "bytes": 2374576,
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "channels": 3,
+      "format": "png"
+    },
+    {
+      "path": "assets/masters/store-pantry.png",
+      "sourceType": "root-generated-photographic-scene-without-product-label",
+      "sha256": "7e1d9680dc5c7dbbbb1390f80f72485a1adb50ed16f984446a0816c20031dd72",
+      "bytes": 2308635,
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "channels": 3,
+      "format": "png"
+    },
+    {
+      "path": "assets/masters/media-table.png",
+      "sourceType": "root-generated-photographic-scene-without-product-label",
+      "sha256": "c581dfdc5e41751451150a7698ee83adad7ed078c95ae5f359e82f2fd2bf1b10",
+      "bytes": 2957320,
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "channels": 3,
+      "format": "png"
+    },
+    {
+      "path": "assets/masters/pepper-paste.png",
+      "sourceType": "root-generated-photographic-scene-without-product-label",
+      "sha256": "4a3e55cc345f00775fade68d5be11ea4ac5bb1fa020d184c20aef3d2cdf611af",
+      "bytes": 2165684,
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "channels": 3,
+      "format": "png"
+    },
+    {
+      "path": "assets/masters/mixed-paste.png",
+      "sourceType": "root-generated-photographic-scene-without-product-label",
+      "sha256": "d64da6ade9f7ef45c28292cda7f80ee89dcc769bfa39e9896ac7afe770344a6c",
+      "bytes": 2381152,
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "channels": 3,
+      "format": "png"
+    },
+    {
+      "path": "assets/masters/vine-leaves.png",
+      "sourceType": "root-generated-photographic-scene-without-product-label",
+      "sha256": "de282943b792a0c493231aab03103d9d18656c82a041f8901e4eb46a557f7d4c",
+      "bytes": 2073556,
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "channels": 3,
+      "format": "png"
+    },
+    {
+      "path": "assets/masters/ingredients.png",
+      "sourceType": "root-generated-transparent-ingredient-foreground",
+      "sha256": "487c3aa87520dc45ab94914f8f7cc474ed8cf1ff12d9488f7a2e20ce9e35d285",
+      "bytes": 2177897,
+      "width": 1360,
+      "height": 1156,
+      "alpha": true,
+      "channels": 4,
+      "format": "png"
+    },
+    {
+      "path": "public/assets/facilities/F01.png",
+      "sourceType": "actual-archived-catalogue-facility-photo-PDFium-colour-decode",
+      "sha256": "82a6d0c4944ad6622a42c6cd1b60b574aa51facebda0586bfe9a6e1241a22488",
+      "bytes": 1053177,
+      "width": 1029,
+      "height": 508,
+      "alpha": true,
+      "channels": 4,
+      "format": "png"
+    },
+    {
+      "path": "public/assets/facilities/F02.png",
+      "sourceType": "actual-archived-catalogue-facility-photo-PDFium-colour-decode",
+      "sha256": "d00cc224eb1b7804ddf763e6743b73ec2064327a46099defd089cfebb60ef14e",
+      "bytes": 1180730,
+      "width": 1024,
+      "height": 507,
+      "alpha": true,
+      "channels": 4,
+      "format": "png"
+    }
+  ],
+  "derivatives": [
+    {
+      "key": "ketchup",
+      "variant": "desktop",
+      "path": "public/assets/scenes/ketchup-desktop.webp",
+      "sourcePath": "assets/masters/ketchup.png",
+      "sourceSha256": "100bed8769c54a3a9a02570b31c288904ab371f1e8d160ed9bac4c545aca6bea",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 1672,
+      "height": 941,
+      "bytes": 184888,
+      "sha256": "4a248dacbeabb5785116d64350a1c365d8bd21a591f1d43c6b18773eb128f366",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "withoutEnlargement": true,
+        "nativeDimensionsRetained": true
+      },
+      "crop": null,
+      "upscaleApplied": false,
+      "geometricScaleFactor": 1,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "ketchup",
+      "variant": "mobile",
+      "path": "public/assets/scenes/ketchup-mobile.webp",
+      "sourcePath": "assets/masters/ketchup.png",
+      "sourceSha256": "100bed8769c54a3a9a02570b31c288904ab371f1e8d160ed9bac4c545aca6bea",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 720,
+      "height": 960,
+      "bytes": 32064,
+      "sha256": "a5a00eb63b9dc3b6d76591233e404b0405095d20d843cdbec4a15016a2f37370",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "kernel": "lanczos3",
+        "exactTarget": [
+          720,
+          960
+        ]
+      },
+      "crop": {
+        "fit": "cover",
+        "focal": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "position": "centre",
+        "sourceWindowGeometric": {
+          "x": 483.125,
+          "y": 0,
+          "width": 705.75,
+          "height": 941
+        },
+        "policy": "Centre insertion/negative-space zone; outer ingredient material may be cropped. Actual product cutouts are separate immutable layers."
+      },
+      "upscaleApplied": true,
+      "geometricScaleFactor": 1.02019129,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "chickpea",
+      "variant": "desktop",
+      "path": "public/assets/scenes/chickpea-desktop.webp",
+      "sourcePath": "assets/masters/chickpea.png",
+      "sourceSha256": "f655853e667bd81e6d5558f5ec865d8b78844196f63a752fa047f664f07e875a",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 1672,
+      "height": 941,
+      "bytes": 175290,
+      "sha256": "53fa6721da70caa57c71c35f25ca69bafd2a84cdf1a77cd7dc54b122439d6a20",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "withoutEnlargement": true,
+        "nativeDimensionsRetained": true
+      },
+      "crop": null,
+      "upscaleApplied": false,
+      "geometricScaleFactor": 1,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "chickpea",
+      "variant": "mobile",
+      "path": "public/assets/scenes/chickpea-mobile.webp",
+      "sourcePath": "assets/masters/chickpea.png",
+      "sourceSha256": "f655853e667bd81e6d5558f5ec865d8b78844196f63a752fa047f664f07e875a",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 720,
+      "height": 960,
+      "bytes": 39728,
+      "sha256": "d0fdf98e308020c1108ae2bbbb0e8c39021eb9d17a5e3b655d8098f4fe4acf36",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "kernel": "lanczos3",
+        "exactTarget": [
+          720,
+          960
+        ]
+      },
+      "crop": {
+        "fit": "cover",
+        "focal": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "position": "centre",
+        "sourceWindowGeometric": {
+          "x": 483.125,
+          "y": 0,
+          "width": 705.75,
+          "height": 941
+        },
+        "policy": "Centre insertion/negative-space zone; outer ingredient material may be cropped. Actual product cutouts are separate immutable layers."
+      },
+      "upscaleApplied": true,
+      "geometricScaleFactor": 1.02019129,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "paste",
+      "variant": "desktop",
+      "path": "public/assets/scenes/paste-desktop.webp",
+      "sourcePath": "assets/masters/paste.png",
+      "sourceSha256": "afe3deaca08e6b662bf77a2fe5cac194711e7ac34be695f9de2bfaf6612324ed",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 1672,
+      "height": 941,
+      "bytes": 221590,
+      "sha256": "2b3fa6f914f479619531d76384ae1007ca07b41a14726a5e8ce05216d144d5f5",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "withoutEnlargement": true,
+        "nativeDimensionsRetained": true
+      },
+      "crop": null,
+      "upscaleApplied": false,
+      "geometricScaleFactor": 1,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "paste",
+      "variant": "mobile",
+      "path": "public/assets/scenes/paste-mobile.webp",
+      "sourcePath": "assets/masters/paste.png",
+      "sourceSha256": "afe3deaca08e6b662bf77a2fe5cac194711e7ac34be695f9de2bfaf6612324ed",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 720,
+      "height": 960,
+      "bytes": 55704,
+      "sha256": "1a04df0ba9c9a94a186025b404f144a538c29295158323980af095f8e474ef0d",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "kernel": "lanczos3",
+        "exactTarget": [
+          720,
+          960
+        ]
+      },
+      "crop": {
+        "fit": "cover",
+        "focal": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "position": "centre",
+        "sourceWindowGeometric": {
+          "x": 483.125,
+          "y": 0,
+          "width": 705.75,
+          "height": 941
+        },
+        "policy": "Centre insertion/negative-space zone; outer ingredient material may be cropped. Actual product cutouts are separate immutable layers."
+      },
+      "upscaleApplied": true,
+      "geometricScaleFactor": 1.02019129,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "table",
+      "variant": "desktop",
+      "path": "public/assets/scenes/table-desktop.webp",
+      "sourcePath": "assets/masters/table.png",
+      "sourceSha256": "c25dbde113c9b26db8765f45391a0379aebc6c1f6ceeceb3d1eedcd24165b2c2",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 1672,
+      "height": 941,
+      "bytes": 189760,
+      "sha256": "298b763e9637877b82ccadb1932fde7117b2b58eaebf40c03c165f1b5b208f59",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "withoutEnlargement": true,
+        "nativeDimensionsRetained": true
+      },
+      "crop": null,
+      "upscaleApplied": false,
+      "geometricScaleFactor": 1,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "table",
+      "variant": "mobile",
+      "path": "public/assets/scenes/table-mobile.webp",
+      "sourcePath": "assets/masters/table.png",
+      "sourceSha256": "c25dbde113c9b26db8765f45391a0379aebc6c1f6ceeceb3d1eedcd24165b2c2",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 720,
+      "height": 960,
+      "bytes": 53496,
+      "sha256": "89028adb3efff8d902fd205be47653cd7d7bf04306b096d4df3020c43c3749bc",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "kernel": "lanczos3",
+        "exactTarget": [
+          720,
+          960
+        ]
+      },
+      "crop": {
+        "fit": "cover",
+        "focal": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "position": "centre",
+        "sourceWindowGeometric": {
+          "x": 483.125,
+          "y": 0,
+          "width": 705.75,
+          "height": 941
+        },
+        "policy": "Centre insertion/negative-space zone; outer ingredient material may be cropped. Actual product cutouts are separate immutable layers."
+      },
+      "upscaleApplied": true,
+      "geometricScaleFactor": 1.02019129,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "peas",
+      "variant": "desktop",
+      "path": "public/assets/scenes/peas-desktop.webp",
+      "sourcePath": "assets/masters/peas.png",
+      "sourceSha256": "91289722ebda697470a368b863b76e7fb8f2d810fb2dcf4e5324de3709351f46",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 1672,
+      "height": 941,
+      "bytes": 147726,
+      "sha256": "dcc550bb72a20032e888dce048baf8b3d410c8206c139ef9a316471cfdc96604",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "withoutEnlargement": true,
+        "nativeDimensionsRetained": true
+      },
+      "crop": null,
+      "upscaleApplied": false,
+      "geometricScaleFactor": 1,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "peas",
+      "variant": "mobile",
+      "path": "public/assets/scenes/peas-mobile.webp",
+      "sourcePath": "assets/masters/peas.png",
+      "sourceSha256": "91289722ebda697470a368b863b76e7fb8f2d810fb2dcf4e5324de3709351f46",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 720,
+      "height": 960,
+      "bytes": 28080,
+      "sha256": "b5551eb79cdf69825f54a1455920aa11095629a9415214dbc1a71779745f0e96",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "kernel": "lanczos3",
+        "exactTarget": [
+          720,
+          960
+        ]
+      },
+      "crop": {
+        "fit": "cover",
+        "focal": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "position": "centre",
+        "sourceWindowGeometric": {
+          "x": 483.125,
+          "y": 0,
+          "width": 705.75,
+          "height": 941
+        },
+        "policy": "Centre insertion/negative-space zone; outer ingredient material may be cropped. Actual product cutouts are separate immutable layers."
+      },
+      "upscaleApplied": true,
+      "geometricScaleFactor": 1.02019129,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "roasted",
+      "variant": "desktop",
+      "path": "public/assets/scenes/roasted-desktop.webp",
+      "sourcePath": "assets/masters/roasted.png",
+      "sourceSha256": "9179c13f60822214d38a6f9b11242214714a4572f43b7760dc5f784272cc786d",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 1672,
+      "height": 941,
+      "bytes": 228808,
+      "sha256": "5f42955ddaacfddc3215b944e9d6ebc36792c99076b0ab9e9c286f1883f5581a",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "withoutEnlargement": true,
+        "nativeDimensionsRetained": true
+      },
+      "crop": null,
+      "upscaleApplied": false,
+      "geometricScaleFactor": 1,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "roasted",
+      "variant": "mobile",
+      "path": "public/assets/scenes/roasted-mobile.webp",
+      "sourcePath": "assets/masters/roasted.png",
+      "sourceSha256": "9179c13f60822214d38a6f9b11242214714a4572f43b7760dc5f784272cc786d",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 720,
+      "height": 960,
+      "bytes": 73740,
+      "sha256": "aff90438d34fea20b8ab298a595881681eacf2b925dd00a50d6dc0ace283c3f8",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "kernel": "lanczos3",
+        "exactTarget": [
+          720,
+          960
+        ]
+      },
+      "crop": {
+        "fit": "cover",
+        "focal": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "position": "centre",
+        "sourceWindowGeometric": {
+          "x": 483.125,
+          "y": 0,
+          "width": 705.75,
+          "height": 941
+        },
+        "policy": "Centre insertion/negative-space zone; outer ingredient material may be cropped. Actual product cutouts are separate immutable layers."
+      },
+      "upscaleApplied": true,
+      "geometricScaleFactor": 1.02019129,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "meals",
+      "variant": "desktop",
+      "path": "public/assets/scenes/meals-desktop.webp",
+      "sourcePath": "assets/masters/meals.png",
+      "sourceSha256": "91478dfabd5d8abbba63ffbb09098c7485d4a47b68210166b50ed8e1da6b8a57",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 1672,
+      "height": 941,
+      "bytes": 189138,
+      "sha256": "f2d6a570b83f02cdef5eaf0fda21237089553bf5314a4d1f2c38d061ffb4b3ee",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "withoutEnlargement": true,
+        "nativeDimensionsRetained": true
+      },
+      "crop": null,
+      "upscaleApplied": false,
+      "geometricScaleFactor": 1,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "meals",
+      "variant": "mobile",
+      "path": "public/assets/scenes/meals-mobile.webp",
+      "sourcePath": "assets/masters/meals.png",
+      "sourceSha256": "91478dfabd5d8abbba63ffbb09098c7485d4a47b68210166b50ed8e1da6b8a57",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 720,
+      "height": 960,
+      "bytes": 41904,
+      "sha256": "5ea0bed242b0a1bab446f2a9bee28aa9b92e977b09fa3cec35400feccec24b67",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "kernel": "lanczos3",
+        "exactTarget": [
+          720,
+          960
+        ]
+      },
+      "crop": {
+        "fit": "cover",
+        "focal": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "position": "centre",
+        "sourceWindowGeometric": {
+          "x": 483.125,
+          "y": 0,
+          "width": 705.75,
+          "height": 941
+        },
+        "policy": "Centre insertion/negative-space zone; outer ingredient material may be cropped. Actual product cutouts are separate immutable layers."
+      },
+      "upscaleApplied": true,
+      "geometricScaleFactor": 1.02019129,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "ketchup-serving",
+      "variant": "desktop",
+      "path": "public/assets/scenes/ketchup-serving-desktop.webp",
+      "sourcePath": "assets/masters/ketchup-serving.png",
+      "sourceSha256": "83f0e15a73eb0c67ce91ec8053e669671d51e095d882742e3701def45cb16fc9",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 1672,
+      "height": 941,
+      "bytes": 210088,
+      "sha256": "9ecc1a757596ee6f512851993e54a2e382d26604c3bab648723d6eca03932064",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "withoutEnlargement": true,
+        "nativeDimensionsRetained": true
+      },
+      "crop": null,
+      "upscaleApplied": false,
+      "geometricScaleFactor": 1,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "ketchup-serving",
+      "variant": "mobile",
+      "path": "public/assets/scenes/ketchup-serving-mobile.webp",
+      "sourcePath": "assets/masters/ketchup-serving.png",
+      "sourceSha256": "83f0e15a73eb0c67ce91ec8053e669671d51e095d882742e3701def45cb16fc9",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 720,
+      "height": 960,
+      "bytes": 84606,
+      "sha256": "107361541c9faec2ff44e0451845d4bc706ca38b0bc3e33d0bd46475d6c5d129",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "kernel": "lanczos3",
+        "exactTarget": [
+          720,
+          960
+        ]
+      },
+      "crop": {
+        "fit": "cover",
+        "focal": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "position": "centre",
+        "sourceWindowGeometric": {
+          "x": 483.125,
+          "y": 0,
+          "width": 705.75,
+          "height": 941
+        },
+        "policy": "Centre insertion/negative-space zone; outer ingredient material may be cropped. Actual product cutouts are separate immutable layers."
+      },
+      "upscaleApplied": true,
+      "geometricScaleFactor": 1.02019129,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "mayonnaise",
+      "variant": "desktop",
+      "path": "public/assets/scenes/mayonnaise-desktop.webp",
+      "sourcePath": "assets/masters/mayonnaise.png",
+      "sourceSha256": "2f2ed226b94853e7c6592ac9bbe7cb1a95a967d9b6e5bf1a15c81566dc71df82",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 1672,
+      "height": 941,
+      "bytes": 82104,
+      "sha256": "5e52f0a2a2f7bd17322d6c0962af44e44ca8e7d0c7548a1ad57794ed413c1c86",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "withoutEnlargement": true,
+        "nativeDimensionsRetained": true
+      },
+      "crop": null,
+      "upscaleApplied": false,
+      "geometricScaleFactor": 1,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "mayonnaise",
+      "variant": "mobile",
+      "path": "public/assets/scenes/mayonnaise-mobile.webp",
+      "sourcePath": "assets/masters/mayonnaise.png",
+      "sourceSha256": "2f2ed226b94853e7c6592ac9bbe7cb1a95a967d9b6e5bf1a15c81566dc71df82",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 720,
+      "height": 960,
+      "bytes": 16300,
+      "sha256": "ef712d2e0e1307d69ee2cde52badec0aeeb1724a8e6eec0a243d3d94d184fdb8",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "kernel": "lanczos3",
+        "exactTarget": [
+          720,
+          960
+        ]
+      },
+      "crop": {
+        "fit": "cover",
+        "focal": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "position": "centre",
+        "sourceWindowGeometric": {
+          "x": 483.125,
+          "y": 0,
+          "width": 705.75,
+          "height": 941
+        },
+        "policy": "Centre insertion/negative-space zone; outer ingredient material may be cropped. Actual product cutouts are separate immutable layers."
+      },
+      "upscaleApplied": true,
+      "geometricScaleFactor": 1.02019129,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "brand-field",
+      "variant": "desktop",
+      "path": "public/assets/scenes/brand-field-desktop.webp",
+      "sourcePath": "assets/masters/brand-field.png",
+      "sourceSha256": "32ee014d0998c14110dc0242c23397fbec75c8791069152cdae1da6c7414d711",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 1672,
+      "height": 941,
+      "bytes": 200318,
+      "sha256": "6d4da31e4b5734a678332b5ee324996e32b3a43a8fbdf7ae72aef441b729ca06",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "withoutEnlargement": true,
+        "nativeDimensionsRetained": true
+      },
+      "crop": null,
+      "upscaleApplied": false,
+      "geometricScaleFactor": 1,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "brand-field",
+      "variant": "mobile",
+      "path": "public/assets/scenes/brand-field-mobile.webp",
+      "sourcePath": "assets/masters/brand-field.png",
+      "sourceSha256": "32ee014d0998c14110dc0242c23397fbec75c8791069152cdae1da6c7414d711",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 720,
+      "height": 960,
+      "bytes": 86176,
+      "sha256": "846878157902a9bb955c503f880a4f24ad9f0db189a666111214ea38aab03293",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "kernel": "lanczos3",
+        "exactTarget": [
+          720,
+          960
+        ]
+      },
+      "crop": {
+        "fit": "cover",
+        "focal": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "position": "centre",
+        "sourceWindowGeometric": {
+          "x": 483.125,
+          "y": 0,
+          "width": 705.75,
+          "height": 941
+        },
+        "policy": "Centre insertion/negative-space zone; outer ingredient material may be cropped. Actual product cutouts are separate immutable layers."
+      },
+      "upscaleApplied": true,
+      "geometricScaleFactor": 1.02019129,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "about-harvest",
+      "variant": "desktop",
+      "path": "public/assets/scenes/about-harvest-desktop.webp",
+      "sourcePath": "assets/masters/about-harvest.png",
+      "sourceSha256": "769bd503e573cfe81eb8402ab1059161fa5214c818d502be3f408e89ae921190",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 1672,
+      "height": 941,
+      "bytes": 189714,
+      "sha256": "d103d95311f50de4b5bd1e3cb94af61ffab9d6afed6b9c0789c66d0affa17d0f",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "withoutEnlargement": true,
+        "nativeDimensionsRetained": true
+      },
+      "crop": null,
+      "upscaleApplied": false,
+      "geometricScaleFactor": 1,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "about-harvest",
+      "variant": "mobile",
+      "path": "public/assets/scenes/about-harvest-mobile.webp",
+      "sourcePath": "assets/masters/about-harvest.png",
+      "sourceSha256": "769bd503e573cfe81eb8402ab1059161fa5214c818d502be3f408e89ae921190",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 720,
+      "height": 960,
+      "bytes": 82734,
+      "sha256": "822408c6e321287c750f87ef96e43cc39bd5d8d991e7652a61bf306c8d5405c9",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "kernel": "lanczos3",
+        "exactTarget": [
+          720,
+          960
+        ]
+      },
+      "crop": {
+        "fit": "cover",
+        "focal": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "position": "centre",
+        "sourceWindowGeometric": {
+          "x": 483.125,
+          "y": 0,
+          "width": 705.75,
+          "height": 941
+        },
+        "policy": "Centre insertion/negative-space zone; outer ingredient material may be cropped. Actual product cutouts are separate immutable layers."
+      },
+      "upscaleApplied": true,
+      "geometricScaleFactor": 1.02019129,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "table-corrected",
+      "variant": "desktop",
+      "path": "public/assets/scenes/table-corrected-desktop.webp",
+      "sourcePath": "assets/masters/table-corrected.png",
+      "sourceSha256": "3da2429b4c0ba1804843e38912f91f88104ae7faa6d740f2e77a48e2308b063c",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 1672,
+      "height": 941,
+      "bytes": 190026,
+      "sha256": "057300b36c4a223671e49c5133afd4ebec9bb9976df07628585651eaf62c20de",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "withoutEnlargement": true,
+        "nativeDimensionsRetained": true
+      },
+      "crop": null,
+      "upscaleApplied": false,
+      "geometricScaleFactor": 1,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "table-corrected",
+      "variant": "mobile",
+      "path": "public/assets/scenes/table-corrected-mobile.webp",
+      "sourcePath": "assets/masters/table-corrected.png",
+      "sourceSha256": "3da2429b4c0ba1804843e38912f91f88104ae7faa6d740f2e77a48e2308b063c",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 720,
+      "height": 960,
+      "bytes": 76910,
+      "sha256": "fd0a551f7aaccd3ee8dfcd93bf9d5456ec058cbfe8c9428be39d628bff4cce4d",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "kernel": "lanczos3",
+        "exactTarget": [
+          720,
+          960
+        ]
+      },
+      "crop": {
+        "fit": "cover",
+        "focal": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "position": "centre",
+        "sourceWindowGeometric": {
+          "x": 483.125,
+          "y": 0,
+          "width": 705.75,
+          "height": 941
+        },
+        "policy": "Centre insertion/negative-space zone; outer ingredient material may be cropped. Actual product cutouts are separate immutable layers."
+      },
+      "upscaleApplied": true,
+      "geometricScaleFactor": 1.02019129,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "store-pantry",
+      "variant": "desktop",
+      "path": "public/assets/scenes/store-pantry-desktop.webp",
+      "sourcePath": "assets/masters/store-pantry.png",
+      "sourceSha256": "7e1d9680dc5c7dbbbb1390f80f72485a1adb50ed16f984446a0816c20031dd72",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 1672,
+      "height": 941,
+      "bytes": 176440,
+      "sha256": "a4b518fce0dd48beb19e38bef5ef907729bb3b705543a2122ce3164e671309f7",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "withoutEnlargement": true,
+        "nativeDimensionsRetained": true
+      },
+      "crop": null,
+      "upscaleApplied": false,
+      "geometricScaleFactor": 1,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "store-pantry",
+      "variant": "mobile",
+      "path": "public/assets/scenes/store-pantry-mobile.webp",
+      "sourcePath": "assets/masters/store-pantry.png",
+      "sourceSha256": "7e1d9680dc5c7dbbbb1390f80f72485a1adb50ed16f984446a0816c20031dd72",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 720,
+      "height": 960,
+      "bytes": 59140,
+      "sha256": "6ce6bf4adf15d72160f2a1444665e030a998add3b54f9cb2ed24e362956b8410",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "kernel": "lanczos3",
+        "exactTarget": [
+          720,
+          960
+        ]
+      },
+      "crop": {
+        "fit": "cover",
+        "focal": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "position": "centre",
+        "sourceWindowGeometric": {
+          "x": 483.125,
+          "y": 0,
+          "width": 705.75,
+          "height": 941
+        },
+        "policy": "Centre insertion/negative-space zone; outer ingredient material may be cropped. Actual product cutouts are separate immutable layers."
+      },
+      "upscaleApplied": true,
+      "geometricScaleFactor": 1.02019129,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "media-table",
+      "variant": "desktop",
+      "path": "public/assets/scenes/media-table-desktop.webp",
+      "sourcePath": "assets/masters/media-table.png",
+      "sourceSha256": "c581dfdc5e41751451150a7698ee83adad7ed078c95ae5f359e82f2fd2bf1b10",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 1672,
+      "height": 941,
+      "bytes": 304550,
+      "sha256": "db82402c645f6b1b8fd171535f6448b406d038ee6976affc6ecdc95e63670d9e",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "withoutEnlargement": true,
+        "nativeDimensionsRetained": true
+      },
+      "crop": null,
+      "upscaleApplied": false,
+      "geometricScaleFactor": 1,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "media-table",
+      "variant": "mobile",
+      "path": "public/assets/scenes/media-table-mobile.webp",
+      "sourcePath": "assets/masters/media-table.png",
+      "sourceSha256": "c581dfdc5e41751451150a7698ee83adad7ed078c95ae5f359e82f2fd2bf1b10",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 720,
+      "height": 960,
+      "bytes": 100702,
+      "sha256": "69cfe645ca54da5c9931f0ad0475f2a3de060365e0de0fc31fd1d5e2577c721e",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "kernel": "lanczos3",
+        "exactTarget": [
+          720,
+          960
+        ]
+      },
+      "crop": {
+        "fit": "cover",
+        "focal": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "position": "centre",
+        "sourceWindowGeometric": {
+          "x": 483.125,
+          "y": 0,
+          "width": 705.75,
+          "height": 941
+        },
+        "policy": "Centre insertion/negative-space zone; outer ingredient material may be cropped. Actual product cutouts are separate immutable layers."
+      },
+      "upscaleApplied": true,
+      "geometricScaleFactor": 1.02019129,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "pepper-paste",
+      "variant": "desktop",
+      "path": "public/assets/scenes/pepper-paste-desktop.webp",
+      "sourcePath": "assets/masters/pepper-paste.png",
+      "sourceSha256": "4a3e55cc345f00775fade68d5be11ea4ac5bb1fa020d184c20aef3d2cdf611af",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 1672,
+      "height": 941,
+      "bytes": 163180,
+      "sha256": "cb22adacff73c52ece89c9d764af04203ccdd441e0b40fb7a3e57203daea62e2",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "withoutEnlargement": true,
+        "nativeDimensionsRetained": true
+      },
+      "crop": null,
+      "upscaleApplied": false,
+      "geometricScaleFactor": 1,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "pepper-paste",
+      "variant": "mobile",
+      "path": "public/assets/scenes/pepper-paste-mobile.webp",
+      "sourcePath": "assets/masters/pepper-paste.png",
+      "sourceSha256": "4a3e55cc345f00775fade68d5be11ea4ac5bb1fa020d184c20aef3d2cdf611af",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 720,
+      "height": 960,
+      "bytes": 46998,
+      "sha256": "20236e1d8b398ffe65a9747d87abc50aaa3b2dd58ad366cbe38646debecaf1de",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "kernel": "lanczos3",
+        "exactTarget": [
+          720,
+          960
+        ]
+      },
+      "crop": {
+        "fit": "cover",
+        "focal": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "position": "centre",
+        "sourceWindowGeometric": {
+          "x": 483.125,
+          "y": 0,
+          "width": 705.75,
+          "height": 941
+        },
+        "policy": "Centre insertion/negative-space zone; outer ingredient material may be cropped. Actual product cutouts are separate immutable layers."
+      },
+      "upscaleApplied": true,
+      "geometricScaleFactor": 1.02019129,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "mixed-paste",
+      "variant": "desktop",
+      "path": "public/assets/scenes/mixed-paste-desktop.webp",
+      "sourcePath": "assets/masters/mixed-paste.png",
+      "sourceSha256": "d64da6ade9f7ef45c28292cda7f80ee89dcc769bfa39e9896ac7afe770344a6c",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 1672,
+      "height": 941,
+      "bytes": 201146,
+      "sha256": "f0ee999a040100e07b3885829fed10c796a284dd8edf0ecedf3a693a72da2115",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "withoutEnlargement": true,
+        "nativeDimensionsRetained": true
+      },
+      "crop": null,
+      "upscaleApplied": false,
+      "geometricScaleFactor": 1,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "mixed-paste",
+      "variant": "mobile",
+      "path": "public/assets/scenes/mixed-paste-mobile.webp",
+      "sourcePath": "assets/masters/mixed-paste.png",
+      "sourceSha256": "d64da6ade9f7ef45c28292cda7f80ee89dcc769bfa39e9896ac7afe770344a6c",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 720,
+      "height": 960,
+      "bytes": 64468,
+      "sha256": "2c661d90d37f7cce90662e74245eb010782c790e62edd8e77a52e15f83c48e97",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "kernel": "lanczos3",
+        "exactTarget": [
+          720,
+          960
+        ]
+      },
+      "crop": {
+        "fit": "cover",
+        "focal": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "position": "centre",
+        "sourceWindowGeometric": {
+          "x": 483.125,
+          "y": 0,
+          "width": 705.75,
+          "height": 941
+        },
+        "policy": "Centre insertion/negative-space zone; outer ingredient material may be cropped. Actual product cutouts are separate immutable layers."
+      },
+      "upscaleApplied": true,
+      "geometricScaleFactor": 1.02019129,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "vine-leaves",
+      "variant": "desktop",
+      "path": "public/assets/scenes/vine-leaves-desktop.webp",
+      "sourcePath": "assets/masters/vine-leaves.png",
+      "sourceSha256": "de282943b792a0c493231aab03103d9d18656c82a041f8901e4eb46a557f7d4c",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 1672,
+      "height": 941,
+      "bytes": 131264,
+      "sha256": "1653bed6182a12a5dd87fcdc81abe8b553a4cd8873b8f0eb4a70c303b3923754",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "withoutEnlargement": true,
+        "nativeDimensionsRetained": true
+      },
+      "crop": null,
+      "upscaleApplied": false,
+      "geometricScaleFactor": 1,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "vine-leaves",
+      "variant": "mobile",
+      "path": "public/assets/scenes/vine-leaves-mobile.webp",
+      "sourcePath": "assets/masters/vine-leaves.png",
+      "sourceSha256": "de282943b792a0c493231aab03103d9d18656c82a041f8901e4eb46a557f7d4c",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "sourceAlpha": false,
+      "width": 720,
+      "height": 960,
+      "bytes": 32172,
+      "sha256": "4ec78bf5a1b4c2a2abf0daadf37c16b964c578824d5c860e103ec3598e26cc4e",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "kernel": "lanczos3",
+        "exactTarget": [
+          720,
+          960
+        ]
+      },
+      "crop": {
+        "fit": "cover",
+        "focal": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "position": "centre",
+        "sourceWindowGeometric": {
+          "x": 483.125,
+          "y": 0,
+          "width": 705.75,
+          "height": 941
+        },
+        "policy": "Centre insertion/negative-space zone; outer ingredient material may be cropped. Actual product cutouts are separate immutable layers."
+      },
+      "upscaleApplied": true,
+      "geometricScaleFactor": 1.02019129,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "ingredients",
+      "variant": "foreground",
+      "path": "public/assets/scenes/ingredients.webp",
+      "sourcePath": "assets/masters/ingredients.png",
+      "sourceSha256": "487c3aa87520dc45ab94914f8f7cc474ed8cf1ff12d9488f7a2e20ce9e35d285",
+      "sourceWidth": 1360,
+      "sourceHeight": 1156,
+      "sourceAlpha": true,
+      "width": 720,
+      "height": 612,
+      "bytes": 470010,
+      "sha256": "3d2cbdcd0e1a8e85f54a461fa63407d930d5462ef20c94bd57aeaf8f79348f10",
+      "format": "webp",
+      "alpha": true,
+      "encoding": {
+        "lossless": true,
+        "effort": 6,
+        "alphaQuality": 100,
+        "maxWidth": 720,
+        "maxHeight": 720,
+        "fit": "inside",
+        "withoutEnlargement": true,
+        "kernel": "lanczos3"
+      },
+      "crop": null,
+      "upscaleApplied": false,
+      "geometricScaleFactor": 0.5294117647058824,
+      "sourceDetailNotInvented": true
+    },
+    {
+      "key": "F01",
+      "variant": "facility",
+      "path": "public/assets/facilities/F01.webp",
+      "sourcePath": "public/assets/facilities/F01.png",
+      "sourceSha256": "82a6d0c4944ad6622a42c6cd1b60b574aa51facebda0586bfe9a6e1241a22488",
+      "sourceWidth": 1029,
+      "sourceHeight": 508,
+      "sourceAlpha": true,
+      "width": 1029,
+      "height": 508,
+      "bytes": 122156,
+      "sha256": "c81eaca803fc232f65319eae182b509b7488563bba02829027fdcb4065b2478a",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "withoutEnlargement": true,
+        "nativeDimensionsRetained": true
+      },
+      "crop": null,
+      "upscaleApplied": false,
+      "geometricScaleFactor": 1,
+      "sourceDetailNotInvented": true,
+      "posterTargetBytes": 716800,
+      "meetsPosterByteTarget": true
+    },
+    {
+      "key": "F02",
+      "variant": "facility",
+      "path": "public/assets/facilities/F02.webp",
+      "sourcePath": "public/assets/facilities/F02.png",
+      "sourceSha256": "d00cc224eb1b7804ddf763e6743b73ec2064327a46099defd089cfebb60ef14e",
+      "sourceWidth": 1024,
+      "sourceHeight": 507,
+      "sourceAlpha": true,
+      "width": 1024,
+      "height": 507,
+      "bytes": 153152,
+      "sha256": "f9b934648c25f343c245286ca42d33f3df42506fc06cb6b3fc682602505f1cdf",
+      "format": "webp",
+      "alpha": false,
+      "encoding": {
+        "quality": 85,
+        "effort": 6,
+        "alphaQuality": 100,
+        "smartSubsample": true,
+        "withoutEnlargement": true,
+        "nativeDimensionsRetained": true
+      },
+      "crop": null,
+      "upscaleApplied": false,
+      "geometricScaleFactor": 1,
+      "sourceDetailNotInvented": true,
+      "posterTargetBytes": 716800,
+      "meetsPosterByteTarget": true
+    }
+  ]
+}

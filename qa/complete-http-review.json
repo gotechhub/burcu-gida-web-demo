@@ -1,0 +1,1872 @@
+{
+  "checkedAt": "2026-10-14T08:59:41.723Z",
+  "passed": true,
+  "pageCount": 99,
+  "flightCount": 101,
+  "sitemapCount": 99,
+  "results": [
+    {
+      "kind": "page",
+      "path": "/tr/products/",
+      "status": 200,
+      "bytes": 39744,
+      "sha256": "33c1c01b06b6108bba5f85ad085645acfbad4c13a3d138d6896f964678e1f69d",
+      "expectedHash": "33c1c01b06b6108bba5f85ad085645acfbad4c13a3d138d6896f964678e1f69d",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/",
+      "status": 200,
+      "bytes": 56770,
+      "sha256": "d559c92f64cfafb09193bae2ce684fb42e5d0ae44db4fac950ab8260c1c943d6",
+      "expectedHash": "d559c92f64cfafb09193bae2ce684fb42e5d0ae44db4fac950ab8260c1c943d6",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/about/",
+      "status": 200,
+      "bytes": 42258,
+      "sha256": "fbcb815fc9516a4d2e37923f5d83d26e33bea1e1f7125604d6a96cf69ce0aae3",
+      "expectedHash": "fbcb815fc9516a4d2e37923f5d83d26e33bea1e1f7125604d6a96cf69ce0aae3",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/facilities/",
+      "status": 200,
+      "bytes": 39683,
+      "sha256": "28a04cb8f8f1895de07398d7caa17b3705ecc8a64222b558517ecd4bff36d1b9",
+      "expectedHash": "28a04cb8f8f1895de07398d7caa17b3705ecc8a64222b558517ecd4bff36d1b9",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/quality/",
+      "status": 200,
+      "bytes": 37646,
+      "sha256": "0c1d6f65c11c08d4962d2432d17d638f5c46a1955fc485224f4472f3039e2f16",
+      "expectedHash": "0c1d6f65c11c08d4962d2432d17d638f5c46a1955fc485224f4472f3039e2f16",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/food-safety/",
+      "status": 200,
+      "bytes": 37313,
+      "sha256": "738d6db0b71bfbc85a1a3ce68925b316ad2101fdd4118fe188784a0a7d0815b7",
+      "expectedHash": "738d6db0b71bfbc85a1a3ce68925b316ad2101fdd4118fe188784a0a7d0815b7",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/certificates/",
+      "status": 200,
+      "bytes": 43597,
+      "sha256": "ece6b01055564aa88adab6c25dd5517b45b4c0f63998294817804f7623902564",
+      "expectedHash": "ece6b01055564aa88adab6c25dd5517b45b4c0f63998294817804f7623902564",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/careers/",
+      "status": 200,
+      "bytes": 35322,
+      "sha256": "46dad4800302d39c3730e570d82c5b4bcd0e819243935aa7869399271e6f18dc",
+      "expectedHash": "46dad4800302d39c3730e570d82c5b4bcd0e819243935aa7869399271e6f18dc",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/corporate-sales/",
+      "status": 200,
+      "bytes": 41694,
+      "sha256": "a8fb4d84dfaea3cd52f5372282cb9210c6fa35016e90f134f0faed1cb0938ac8",
+      "expectedHash": "a8fb4d84dfaea3cd52f5372282cb9210c6fa35016e90f134f0faed1cb0938ac8",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/global/",
+      "status": 200,
+      "bytes": 41796,
+      "sha256": "db675af22def6dc5714c99b785aa1b7bc1f6ca2ed08907900634bbdfeb7dba26",
+      "expectedHash": "db675af22def6dc5714c99b785aa1b7bc1f6ca2ed08907900634bbdfeb7dba26",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/kitchen/",
+      "status": 200,
+      "bytes": 41482,
+      "sha256": "65acc544e3ead0c407668e74e81b4cbbf2725bc9d3554102bad9421c1c11e4c8",
+      "expectedHash": "65acc544e3ead0c407668e74e81b4cbbf2725bc9d3554102bad9421c1c11e4c8",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/media/",
+      "status": 200,
+      "bytes": 37110,
+      "sha256": "a219c517f48b0545797434217a7d041d8ea75e72a800aa60107f9dc7af3f19d3",
+      "expectedHash": "a219c517f48b0545797434217a7d041d8ea75e72a800aa60107f9dc7af3f19d3",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/contact/",
+      "status": 200,
+      "bytes": 32355,
+      "sha256": "99d44fe3e90fe7a073e9c18a591373fc1180d434b37269b16d936e7ba6be6dc5",
+      "expectedHash": "99d44fe3e90fe7a073e9c18a591373fc1180d434b37269b16d936e7ba6be6dc5",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/privacy/",
+      "status": 200,
+      "bytes": 31847,
+      "sha256": "42e9783d40706b005f003158ff936f1defe0d5a6fcd691ab942479caff5231c5",
+      "expectedHash": "42e9783d40706b005f003158ff936f1defe0d5a6fcd691ab942479caff5231c5",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/kvkk/",
+      "status": 200,
+      "bytes": 31118,
+      "sha256": "9c413270f008b934a2fab9ff70eeb241e50532d2b3dc4854cf86209c70224cc3",
+      "expectedHash": "9c413270f008b934a2fab9ff70eeb241e50532d2b3dc4854cf86209c70224cc3",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/sitemap/",
+      "status": 200,
+      "bytes": 51059,
+      "sha256": "daedd3a1b01e05257207ebc8fa17690a653786c81c8e00364618c0f1cbdc45ff",
+      "expectedHash": "daedd3a1b01e05257207ebc8fa17690a653786c81c8e00364618c0f1cbdc45ff",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/cookies/",
+      "status": 200,
+      "bytes": 31070,
+      "sha256": "733e6dc6e35ac9f3dbb4d69e954054e598eced45a3fcfce42847dd7a4127fb2a",
+      "expectedHash": "733e6dc6e35ac9f3dbb4d69e954054e598eced45a3fcfce42847dd7a4127fb2a",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/products/domates-salcasi/",
+      "status": 200,
+      "bytes": 74979,
+      "sha256": "384bfbdf8bac6be9080180d14a1f419f820f0e04c2f54b07b02e3c2bc8249e29",
+      "expectedHash": "384bfbdf8bac6be9080180d14a1f419f820f0e04c2f54b07b02e3c2bc8249e29",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/products/biber-salcasi/",
+      "status": 200,
+      "bytes": 79400,
+      "sha256": "f3f037b1bcfdd8272fe8dbd6efb1e24ad07bfd0a8c51e88369a28887b16edbe2",
+      "expectedHash": "f3f037b1bcfdd8272fe8dbd6efb1e24ad07bfd0a8c51e88369a28887b16edbe2",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/products/2si1arada/",
+      "status": 200,
+      "bytes": 65898,
+      "sha256": "085a426d7b292bf85d9633b19e7884cf0878f933aa68928f107430595ca3c439",
+      "expectedHash": "085a426d7b292bf85d9633b19e7884cf0878f933aa68928f107430595ca3c439",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/products/ketcap/",
+      "status": 200,
+      "bytes": 68799,
+      "sha256": "b94b6c3d41f82fb784ab56989d3aca888a8a396bc283c6ed3e343df6bbc672e0",
+      "expectedHash": "b94b6c3d41f82fb784ab56989d3aca888a8a396bc283c6ed3e343df6bbc672e0",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/products/mayonez/",
+      "status": 200,
+      "bytes": 65491,
+      "sha256": "8107226da10b012062a6d367306e3ce1abb6ea047043ab5d4be5f1558ff93cab",
+      "expectedHash": "8107226da10b012062a6d367306e3ce1abb6ea047043ab5d4be5f1558ff93cab",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/products/barbunya-pilaki/",
+      "status": 200,
+      "bytes": 56630,
+      "sha256": "eebb3a9e853ba1b8b802a69c26c273537243a456944fa751980f858a3d5ef236",
+      "expectedHash": "eebb3a9e853ba1b8b802a69c26c273537243a456944fa751980f858a3d5ef236",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/products/yaprak-sarma/",
+      "status": 200,
+      "bytes": 57870,
+      "sha256": "77363d8a91aa204016b46b9ad41040adcb6f195ac45408f51091b389658f8765",
+      "expectedHash": "77363d8a91aa204016b46b9ad41040adcb6f195ac45408f51091b389658f8765",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/products/bezelye/",
+      "status": 200,
+      "bytes": 57299,
+      "sha256": "ad38136c2582d505d9296513051f1df52c3f7a60cf30cdfe08f97595c4dc4b82",
+      "expectedHash": "ad38136c2582d505d9296513051f1df52c3f7a60cf30cdfe08f97595c4dc4b82",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/products/haslanmis-nohut/",
+      "status": 200,
+      "bytes": 56409,
+      "sha256": "271b7893da9697c62dd6325edc81b52631d0f8d010eb9722e17dc71befc4a2c3",
+      "expectedHash": "271b7893da9697c62dd6325edc81b52631d0f8d010eb9722e17dc71befc4a2c3",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/products/kozlenmis-biber/",
+      "status": 200,
+      "bytes": 55260,
+      "sha256": "95dc0ff39a0ec5161b19ed16fc9ab1c24669eab7a415e85a207050d85f582963",
+      "expectedHash": "95dc0ff39a0ec5161b19ed16fc9ab1c24669eab7a415e85a207050d85f582963",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/products/family/paste/",
+      "status": 200,
+      "bytes": 33330,
+      "sha256": "02db423e3a40e29ac510d7e3e58c2058af5ca4660c9d038e2cfe950c7769e1da",
+      "expectedHash": "02db423e3a40e29ac510d7e3e58c2058af5ca4660c9d038e2cfe950c7769e1da",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/products/family/vegetables/",
+      "status": 200,
+      "bytes": 30921,
+      "sha256": "f81f88af8bf31cb4afff7a988dcfc7fd079c09622dbc65ef786bf4c9f5ea3fb6",
+      "expectedHash": "f81f88af8bf31cb4afff7a988dcfc7fd079c09622dbc65ef786bf4c9f5ea3fb6",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/products/family/sauce/",
+      "status": 200,
+      "bytes": 31541,
+      "sha256": "db7c0061724f6bc7c90e04b1f3799dabaf86139e48c583b92e509dfb1a7e0d40",
+      "expectedHash": "db7c0061724f6bc7c90e04b1f3799dabaf86139e48c583b92e509dfb1a7e0d40",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/products/family/pulses/",
+      "status": 200,
+      "bytes": 31077,
+      "sha256": "6bad44cf258e3d03bd4115c78585d5d6685b5aea00f673d90525faaca3f4902b",
+      "expectedHash": "6bad44cf258e3d03bd4115c78585d5d6685b5aea00f673d90525faaca3f4902b",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/products/family/meals/",
+      "status": 200,
+      "bytes": 32213,
+      "sha256": "6ebb87b23780be8b5fa1927b2f3a66ef773f7743ec64de592d36d1214163e1ef",
+      "expectedHash": "6ebb87b23780be8b5fa1927b2f3a66ef773f7743ec64de592d36d1214163e1ef",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/tr/products/family/roasted/",
+      "status": 200,
+      "bytes": 31326,
+      "sha256": "d7b61d2b75a55462159bb0913072b6de0d80c82c5bbff90892857d97542b7caa",
+      "expectedHash": "d7b61d2b75a55462159bb0913072b6de0d80c82c5bbff90892857d97542b7caa",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/",
+      "status": 200,
+      "bytes": 56746,
+      "sha256": "c766a4c54adbaf8245e6540ad69d48a544702e34851877a90f47e76692008c1d",
+      "expectedHash": "c766a4c54adbaf8245e6540ad69d48a544702e34851877a90f47e76692008c1d",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/products/",
+      "status": 200,
+      "bytes": 39904,
+      "sha256": "62b4d308980c2d82dd98aee2b449925cd075fd39bf25d81df849253975f7e71f",
+      "expectedHash": "62b4d308980c2d82dd98aee2b449925cd075fd39bf25d81df849253975f7e71f",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/about/",
+      "status": 200,
+      "bytes": 41897,
+      "sha256": "e44a5e16888c990d915d7c7a6a6c8b748ecd429e295f173b84f152870e95e6eb",
+      "expectedHash": "e44a5e16888c990d915d7c7a6a6c8b748ecd429e295f173b84f152870e95e6eb",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/facilities/",
+      "status": 200,
+      "bytes": 39790,
+      "sha256": "7c36749f59731789d51815dc711679cfed12aad22253bf5dfb3141a00947f14e",
+      "expectedHash": "7c36749f59731789d51815dc711679cfed12aad22253bf5dfb3141a00947f14e",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/quality/",
+      "status": 200,
+      "bytes": 37209,
+      "sha256": "263d09862a2d25d84c98d4584c72cbac72c9fe0f8c53b685498604f6ba567433",
+      "expectedHash": "263d09862a2d25d84c98d4584c72cbac72c9fe0f8c53b685498604f6ba567433",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/food-safety/",
+      "status": 200,
+      "bytes": 36832,
+      "sha256": "d2db5fbc7690df7ab2700d5f433b3583e1b6114650abbddc36decc407cd19305",
+      "expectedHash": "d2db5fbc7690df7ab2700d5f433b3583e1b6114650abbddc36decc407cd19305",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/certificates/",
+      "status": 200,
+      "bytes": 43701,
+      "sha256": "8e3efbfb3491d16b18e83c4e0d80a2c6e9dc23b39968ad62df4edb76705ae3f8",
+      "expectedHash": "8e3efbfb3491d16b18e83c4e0d80a2c6e9dc23b39968ad62df4edb76705ae3f8",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/careers/",
+      "status": 200,
+      "bytes": 35031,
+      "sha256": "dfd679f30bc5599c84055db34f5cbdecb1c1a840f0b0dbf8d4aed59ae04fdc0f",
+      "expectedHash": "dfd679f30bc5599c84055db34f5cbdecb1c1a840f0b0dbf8d4aed59ae04fdc0f",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/corporate-sales/",
+      "status": 200,
+      "bytes": 41286,
+      "sha256": "df1881af673afe7824c54dbdc98759a4f09933d6d8e3fc8ef661fc4e03d59e2b",
+      "expectedHash": "df1881af673afe7824c54dbdc98759a4f09933d6d8e3fc8ef661fc4e03d59e2b",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/global/",
+      "status": 200,
+      "bytes": 41489,
+      "sha256": "d0898e2549c4fbbccd61f6cdebed8973a955048bfc4d72a447e1300435155e94",
+      "expectedHash": "d0898e2549c4fbbccd61f6cdebed8973a955048bfc4d72a447e1300435155e94",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/kitchen/",
+      "status": 200,
+      "bytes": 41239,
+      "sha256": "ca4a94abfc62c6f064c9e5719c5ebbfc85687b5d7613f2ba2bc2a41157b5aa55",
+      "expectedHash": "ca4a94abfc62c6f064c9e5719c5ebbfc85687b5d7613f2ba2bc2a41157b5aa55",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/media/",
+      "status": 200,
+      "bytes": 37329,
+      "sha256": "cdcbe555830be42f1aa0439fc75fd0057b572c704b1e09ac05272e6b3887ce39",
+      "expectedHash": "cdcbe555830be42f1aa0439fc75fd0057b572c704b1e09ac05272e6b3887ce39",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/contact/",
+      "status": 200,
+      "bytes": 32317,
+      "sha256": "c134883f36d696b231db61ab63470dd4640bd1eff70524b8fd4ae039bc5f9523",
+      "expectedHash": "c134883f36d696b231db61ab63470dd4640bd1eff70524b8fd4ae039bc5f9523",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/sitemap/",
+      "status": 200,
+      "bytes": 50920,
+      "sha256": "aece22ae6a6a6f2d1a59d0b5e766b100c3c6fc859275492db27ce37f96fb9011",
+      "expectedHash": "aece22ae6a6a6f2d1a59d0b5e766b100c3c6fc859275492db27ce37f96fb9011",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/privacy/",
+      "status": 200,
+      "bytes": 31871,
+      "sha256": "f9abb884142703600ad1b13b4639192bc36b771cebda4c98b34fac261d019626",
+      "expectedHash": "f9abb884142703600ad1b13b4639192bc36b771cebda4c98b34fac261d019626",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/kvkk/",
+      "status": 200,
+      "bytes": 31029,
+      "sha256": "98269e57551c6a2020eb570d716a0d22a62906a087886ec8e787eeb0ef5b7422",
+      "expectedHash": "98269e57551c6a2020eb570d716a0d22a62906a087886ec8e787eeb0ef5b7422",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/cookies/",
+      "status": 200,
+      "bytes": 30806,
+      "sha256": "7a92522711631a08bdf5fd78e825cd4ce60bf3f72c2d9366100eb3cab30ec73a",
+      "expectedHash": "7a92522711631a08bdf5fd78e825cd4ce60bf3f72c2d9366100eb3cab30ec73a",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/products/domates-salcasi/",
+      "status": 200,
+      "bytes": 74349,
+      "sha256": "5fecf3f339896acaf05ca28b3568f2b07a434bc732091d4419c0af012820663e",
+      "expectedHash": "5fecf3f339896acaf05ca28b3568f2b07a434bc732091d4419c0af012820663e",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/products/biber-salcasi/",
+      "status": 200,
+      "bytes": 78942,
+      "sha256": "4235e8ce3f03cc9b78483bd4a2f2dd2903d89bd44f233b736926334a0af8fa70",
+      "expectedHash": "4235e8ce3f03cc9b78483bd4a2f2dd2903d89bd44f233b736926334a0af8fa70",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/products/2si1arada/",
+      "status": 200,
+      "bytes": 65711,
+      "sha256": "97fed2684759874a56ad38f33c66249581512d757d837c868a907a41028c2fc6",
+      "expectedHash": "97fed2684759874a56ad38f33c66249581512d757d837c868a907a41028c2fc6",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/products/ketcap/",
+      "status": 200,
+      "bytes": 68748,
+      "sha256": "30d8d52566795335319fc1493b5a429aa6670702d7fdd42ede838f9811b06235",
+      "expectedHash": "30d8d52566795335319fc1493b5a429aa6670702d7fdd42ede838f9811b06235",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/products/mayonez/",
+      "status": 200,
+      "bytes": 65741,
+      "sha256": "d9790d145daf5f261c8d0f95dd792c55d386aec17268055135600a152cea8384",
+      "expectedHash": "d9790d145daf5f261c8d0f95dd792c55d386aec17268055135600a152cea8384",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/products/barbunya-pilaki/",
+      "status": 200,
+      "bytes": 56627,
+      "sha256": "ed5af6c76f99ecd89836e3198f05605cc99bcd81057edb40f736ec8d4e2b88b7",
+      "expectedHash": "ed5af6c76f99ecd89836e3198f05605cc99bcd81057edb40f736ec8d4e2b88b7",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/products/yaprak-sarma/",
+      "status": 200,
+      "bytes": 58143,
+      "sha256": "8ca69770454e36d6ede219c61eeabf8b91084c356a011d796d9db2c636d197e4",
+      "expectedHash": "8ca69770454e36d6ede219c61eeabf8b91084c356a011d796d9db2c636d197e4",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/products/bezelye/",
+      "status": 200,
+      "bytes": 56720,
+      "sha256": "3dbd11146d072d4793aac7e552bcb8cfccbcd81788f31d3775f2f301964b41b5",
+      "expectedHash": "3dbd11146d072d4793aac7e552bcb8cfccbcd81788f31d3775f2f301964b41b5",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/products/haslanmis-nohut/",
+      "status": 200,
+      "bytes": 56169,
+      "sha256": "0710cbf1bb6e8a0375fd56838718a7c289d4287b12279a483e3000548ed817f8",
+      "expectedHash": "0710cbf1bb6e8a0375fd56838718a7c289d4287b12279a483e3000548ed817f8",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/products/kozlenmis-biber/",
+      "status": 200,
+      "bytes": 55221,
+      "sha256": "4853c6fc6d5302e47132a77cfa9e8666f091c4fa141659b6483c456bd769206f",
+      "expectedHash": "4853c6fc6d5302e47132a77cfa9e8666f091c4fa141659b6483c456bd769206f",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/products/family/paste/",
+      "status": 200,
+      "bytes": 33420,
+      "sha256": "d59952329e7b72d612b3c23d6675b5033405191096293f775e7affedde39a4b7",
+      "expectedHash": "d59952329e7b72d612b3c23d6675b5033405191096293f775e7affedde39a4b7",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/products/family/sauce/",
+      "status": 200,
+      "bytes": 31547,
+      "sha256": "8ac8287de212e85990266ed0c4a07d89934467dfbce052741b1147cb6b6f166f",
+      "expectedHash": "8ac8287de212e85990266ed0c4a07d89934467dfbce052741b1147cb6b6f166f",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/products/family/vegetables/",
+      "status": 200,
+      "bytes": 30907,
+      "sha256": "ae55028fea82d5e4103d12ddaf2639426a039ce08ad9e9c46b218d7e06eea736",
+      "expectedHash": "ae55028fea82d5e4103d12ddaf2639426a039ce08ad9e9c46b218d7e06eea736",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/products/family/pulses/",
+      "status": 200,
+      "bytes": 31113,
+      "sha256": "0d51eec756031767fd3abde81ce646318aea13aa6e204e50f1d376b129746288",
+      "expectedHash": "0d51eec756031767fd3abde81ce646318aea13aa6e204e50f1d376b129746288",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/products/family/meals/",
+      "status": 200,
+      "bytes": 32263,
+      "sha256": "37046a52a7f502ad50d895838f4d1202627b1e8185b10c8dbd22a4af85d1a437",
+      "expectedHash": "37046a52a7f502ad50d895838f4d1202627b1e8185b10c8dbd22a4af85d1a437",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/en/products/family/roasted/",
+      "status": 200,
+      "bytes": 31404,
+      "sha256": "e9726cf6fbcda598f3c6489489813faaa1e3c630364ae0f6982d18858a790154",
+      "expectedHash": "e9726cf6fbcda598f3c6489489813faaa1e3c630364ae0f6982d18858a790154",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/",
+      "status": 200,
+      "bytes": 61569,
+      "sha256": "56ef7026e297af25adee8be5eae6beecd4c49ac69aff733e21ba0434e9ba79c8",
+      "expectedHash": "56ef7026e297af25adee8be5eae6beecd4c49ac69aff733e21ba0434e9ba79c8",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/products/",
+      "status": 200,
+      "bytes": 44085,
+      "sha256": "ab03a748c2f4234caf646b90490317521136cb282f396a9c624854c74b83bdb7",
+      "expectedHash": "ab03a748c2f4234caf646b90490317521136cb282f396a9c624854c74b83bdb7",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/about/",
+      "status": 200,
+      "bytes": 46462,
+      "sha256": "4759bcb0bb29533c448b3a43f0375a3b293df694d2745ed22680ab0c63f5cc4b",
+      "expectedHash": "4759bcb0bb29533c448b3a43f0375a3b293df694d2745ed22680ab0c63f5cc4b",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/facilities/",
+      "status": 200,
+      "bytes": 44026,
+      "sha256": "86df4149badbbe19f30db7b6405472a505d2d811ed16385b8daf9598f62330b0",
+      "expectedHash": "86df4149badbbe19f30db7b6405472a505d2d811ed16385b8daf9598f62330b0",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/quality/",
+      "status": 200,
+      "bytes": 41063,
+      "sha256": "8a216a792bb556928b0d6e897aa0cebbb2dfd082ed67d82847b39127cab00c64",
+      "expectedHash": "8a216a792bb556928b0d6e897aa0cebbb2dfd082ed67d82847b39127cab00c64",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/food-safety/",
+      "status": 200,
+      "bytes": 40759,
+      "sha256": "b1ee929b7e40576b9d38ab4a675c295092a4da7cb05c2925f62b20aed4a5e406",
+      "expectedHash": "b1ee929b7e40576b9d38ab4a675c295092a4da7cb05c2925f62b20aed4a5e406",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/certificates/",
+      "status": 200,
+      "bytes": 48635,
+      "sha256": "759fd08213c3642d1e141aecb0c41e548314760541cb73652072a378c60adcc1",
+      "expectedHash": "759fd08213c3642d1e141aecb0c41e548314760541cb73652072a378c60adcc1",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/careers/",
+      "status": 200,
+      "bytes": 39043,
+      "sha256": "3a799c283cccde1d40e0184fc5ffa3b3e52fa3f98a90b5a8e1abcc4dc5877770",
+      "expectedHash": "3a799c283cccde1d40e0184fc5ffa3b3e52fa3f98a90b5a8e1abcc4dc5877770",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/corporate-sales/",
+      "status": 200,
+      "bytes": 45556,
+      "sha256": "efcc558120643a05c7ecc7956ba3d6fd9296bbfbae60863dc7a0746ec9aa8a40",
+      "expectedHash": "efcc558120643a05c7ecc7956ba3d6fd9296bbfbae60863dc7a0746ec9aa8a40",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/global/",
+      "status": 200,
+      "bytes": 45629,
+      "sha256": "5eb6aa2784bf57c6a5de4a47ce15e85399a9e19c0f8eefca8b95a63169bb6dcc",
+      "expectedHash": "5eb6aa2784bf57c6a5de4a47ce15e85399a9e19c0f8eefca8b95a63169bb6dcc",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/kitchen/",
+      "status": 200,
+      "bytes": 45352,
+      "sha256": "8d2df1b56ffb4bc3919ba2d47946c1a4c5d8a13e293433e868dfdf679734c299",
+      "expectedHash": "8d2df1b56ffb4bc3919ba2d47946c1a4c5d8a13e293433e868dfdf679734c299",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/media/",
+      "status": 200,
+      "bytes": 41237,
+      "sha256": "5e5cd41b4ed037dcc29ef7d7cd1dd51ff4c8ba276646f88755f0a2bc49338b7b",
+      "expectedHash": "5e5cd41b4ed037dcc29ef7d7cd1dd51ff4c8ba276646f88755f0a2bc49338b7b",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/contact/",
+      "status": 200,
+      "bytes": 36184,
+      "sha256": "a274ed4b8d4ae0027393c25cea0926ff81c7ddd72f035955e115744f40e79abd",
+      "expectedHash": "a274ed4b8d4ae0027393c25cea0926ff81c7ddd72f035955e115744f40e79abd",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/sitemap/",
+      "status": 200,
+      "bytes": 54869,
+      "sha256": "5a14a68a3c3bc916f730fce3e9eb392d8b648a9a4a6214e24ee3e0de50a184e8",
+      "expectedHash": "5a14a68a3c3bc916f730fce3e9eb392d8b648a9a4a6214e24ee3e0de50a184e8",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/privacy/",
+      "status": 200,
+      "bytes": 35979,
+      "sha256": "86305a2246e6c77d8d4f9e7c5f747b35a5db2b01a36b1194db729de1d125a1f3",
+      "expectedHash": "86305a2246e6c77d8d4f9e7c5f747b35a5db2b01a36b1194db729de1d125a1f3",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/kvkk/",
+      "status": 200,
+      "bytes": 35238,
+      "sha256": "4d12ba9be599ee531d469badc1524f1e84afc409112b36cda246929b0b55f4a0",
+      "expectedHash": "4d12ba9be599ee531d469badc1524f1e84afc409112b36cda246929b0b55f4a0",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/cookies/",
+      "status": 200,
+      "bytes": 34840,
+      "sha256": "8adcc02d00679f53ac9a6c3760762024c49dec00dd584fc43e580372cd6ca785",
+      "expectedHash": "8adcc02d00679f53ac9a6c3760762024c49dec00dd584fc43e580372cd6ca785",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/products/domates-salcasi/",
+      "status": 200,
+      "bytes": 80645,
+      "sha256": "71761534e39bbbdd4f054d1b201a47f60fc0bd15d058003ade41eeb2c47abe2a",
+      "expectedHash": "71761534e39bbbdd4f054d1b201a47f60fc0bd15d058003ade41eeb2c47abe2a",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/products/biber-salcasi/",
+      "status": 200,
+      "bytes": 85019,
+      "sha256": "f8b55c8c8f3597814a5bf46fcd87b5bf91debe1ccc6508a050c56ee1457f4b39",
+      "expectedHash": "f8b55c8c8f3597814a5bf46fcd87b5bf91debe1ccc6508a050c56ee1457f4b39",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/products/2si1arada/",
+      "status": 200,
+      "bytes": 71588,
+      "sha256": "8b0b7606a04fe5217799e7faafbd9b247909e341a74145a1e8486ee7da6a170f",
+      "expectedHash": "8b0b7606a04fe5217799e7faafbd9b247909e341a74145a1e8486ee7da6a170f",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/products/ketcap/",
+      "status": 200,
+      "bytes": 74296,
+      "sha256": "dd9b5af5dc069b62feae3d637651f2139215718c1a64148d06a79dab1f26bf04",
+      "expectedHash": "dd9b5af5dc069b62feae3d637651f2139215718c1a64148d06a79dab1f26bf04",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/products/mayonez/",
+      "status": 200,
+      "bytes": 71044,
+      "sha256": "227aa64dff862fc78fcb5e1c7c2b4815f58d507106f3eca6e811e32780d15c85",
+      "expectedHash": "227aa64dff862fc78fcb5e1c7c2b4815f58d507106f3eca6e811e32780d15c85",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/products/barbunya-pilaki/",
+      "status": 200,
+      "bytes": 62123,
+      "sha256": "da2f8755cb227c25297194acdad1efd80b24d417a109a4321b7c67aef9d5e27f",
+      "expectedHash": "da2f8755cb227c25297194acdad1efd80b24d417a109a4321b7c67aef9d5e27f",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/products/yaprak-sarma/",
+      "status": 200,
+      "bytes": 63546,
+      "sha256": "2a9fc9e8643fe4579a536285fa7b00aca18e330eaf674d08b519de34f1ecf253",
+      "expectedHash": "2a9fc9e8643fe4579a536285fa7b00aca18e330eaf674d08b519de34f1ecf253",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/products/bezelye/",
+      "status": 200,
+      "bytes": 62303,
+      "sha256": "2d08c809029f42010d03187474a1e96c38469b84c631244c55c0ba2b0a9fda26",
+      "expectedHash": "2d08c809029f42010d03187474a1e96c38469b84c631244c55c0ba2b0a9fda26",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/products/haslanmis-nohut/",
+      "status": 200,
+      "bytes": 61335,
+      "sha256": "04d8324f89a87ced3ea77609e52bade5c6d39aa629bce2b521aa88ef25cb523f",
+      "expectedHash": "04d8324f89a87ced3ea77609e52bade5c6d39aa629bce2b521aa88ef25cb523f",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/products/kozlenmis-biber/",
+      "status": 200,
+      "bytes": 60585,
+      "sha256": "2a2fa5ffd49e0bd5624583cbaa1eba59be89c1137f390f28454c429e0a7a210a",
+      "expectedHash": "2a2fa5ffd49e0bd5624583cbaa1eba59be89c1137f390f28454c429e0a7a210a",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/products/family/paste/",
+      "status": 200,
+      "bytes": 36866,
+      "sha256": "d3c31ff6a7d4d9fa508dcd8bc7c0694243f09cae01bb9bd41fa858f79cf4b9a4",
+      "expectedHash": "d3c31ff6a7d4d9fa508dcd8bc7c0694243f09cae01bb9bd41fa858f79cf4b9a4",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/products/family/sauce/",
+      "status": 200,
+      "bytes": 34795,
+      "sha256": "fb5f7574e5368099009d8c78640144f530733882921c25cfc5e0037104829fe5",
+      "expectedHash": "fb5f7574e5368099009d8c78640144f530733882921c25cfc5e0037104829fe5",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/products/family/vegetables/",
+      "status": 200,
+      "bytes": 34197,
+      "sha256": "f6552895bbb483fa2e8e820abb8fce573148326b70b50935a905ea19ac660e10",
+      "expectedHash": "f6552895bbb483fa2e8e820abb8fce573148326b70b50935a905ea19ac660e10",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/products/family/pulses/",
+      "status": 200,
+      "bytes": 34447,
+      "sha256": "4c5c6510c6fcc87da057474b6c802619d2e990622bda641d78210352c285dba4",
+      "expectedHash": "4c5c6510c6fcc87da057474b6c802619d2e990622bda641d78210352c285dba4",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/products/family/meals/",
+      "status": 200,
+      "bytes": 35769,
+      "sha256": "bf7c649c9b8af2d9686faaff5466fba0fd25cbbb555a837b6e70774a7b01d53b",
+      "expectedHash": "bf7c649c9b8af2d9686faaff5466fba0fd25cbbb555a837b6e70774a7b01d53b",
+      "hashMatches": true
+    },
+    {
+      "kind": "page",
+      "path": "/ar/products/family/roasted/",
+      "status": 200,
+      "bytes": 34901,
+      "sha256": "ef73902041a8500c8e5c896916a789d063444b9cdbdf41ab59805aae4d3a1e79",
+      "expectedHash": "ef73902041a8500c8e5c896916a789d063444b9cdbdf41ab59805aae4d3a1e79",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/__next.!KGVudHJ5KQ.__PAGE__.txt",
+      "status": 200,
+      "bytes": 4745,
+      "sha256": "52960b78a396f3cc9fbefb7f7888e66e453613de18ec918ef44f8db59038ada4",
+      "expectedHash": "52960b78a396f3cc9fbefb7f7888e66e453613de18ec918ef44f8db59038ada4",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/_not-found/__next._not-found.__PAGE__.txt",
+      "status": 200,
+      "bytes": 2506,
+      "sha256": "34ee09c9bc8c552c514f79bc62bcd29ba2162b722bf75b357f5cd0a3410fa6a1",
+      "expectedHash": "34ee09c9bc8c552c514f79bc62bcd29ba2162b722bf75b357f5cd0a3410fa6a1",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/__next.$d$locale.__PAGE__.txt",
+      "status": 200,
+      "bytes": 24392,
+      "sha256": "59202e16e47298966a0f57131338c3f923a504a8dcbc10cc681656bf859f7d98",
+      "expectedHash": "59202e16e47298966a0f57131338c3f923a504a8dcbc10cc681656bf859f7d98",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/about/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 13928,
+      "sha256": "c60f1a55202bd6859e0c92143f99e3a4b337362861cef1f806594e95eda994be",
+      "expectedHash": "c60f1a55202bd6859e0c92143f99e3a4b337362861cef1f806594e95eda994be",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/careers/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 9871,
+      "sha256": "32f32f92f0fd4b1f827fd5f95ca49837b78a39682ebcc5a2f7d21eadfdce4197",
+      "expectedHash": "32f32f92f0fd4b1f827fd5f95ca49837b78a39682ebcc5a2f7d21eadfdce4197",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/certificates/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 14787,
+      "sha256": "cf8a950faffc86d505265dcd264288b3f619a912fedd45a3c9c381c94c04fc5f",
+      "expectedHash": "cf8a950faffc86d505265dcd264288b3f619a912fedd45a3c9c381c94c04fc5f",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/contact/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 8129,
+      "sha256": "da3e0d279e828e72ec7948d3f059cea379a273fcee73e7630497299c8de3d954",
+      "expectedHash": "da3e0d279e828e72ec7948d3f059cea379a273fcee73e7630497299c8de3d954",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/cookies/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 7540,
+      "sha256": "7033703d18eb5bbc1c22eb8e7e656a0c6488b080581743c45c9d31a476c3206e",
+      "expectedHash": "7033703d18eb5bbc1c22eb8e7e656a0c6488b080581743c45c9d31a476c3206e",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/corporate-sales/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 13297,
+      "sha256": "47a2b74ed6bf613bd2e72f5a628f01a4beee9c6d3f762470b56d9984ffef7498",
+      "expectedHash": "47a2b74ed6bf613bd2e72f5a628f01a4beee9c6d3f762470b56d9984ffef7498",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/facilities/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 12418,
+      "sha256": "b18e39b40ef1471f52d91d2084555313d93a28fbde5e79b772c98a8c57c05144",
+      "expectedHash": "b18e39b40ef1471f52d91d2084555313d93a28fbde5e79b772c98a8c57c05144",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/food-safety/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 10731,
+      "sha256": "fabdfd92cde1ca7d78c2b97f4b5284696e4bf01249e31a5b316c62fe3b701551",
+      "expectedHash": "fabdfd92cde1ca7d78c2b97f4b5284696e4bf01249e31a5b316c62fe3b701551",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/global/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 13445,
+      "sha256": "64a8405a90a8c47c0fb92c99d6d544f0a2faafd14c6b9a2220fc78a58a46be1f",
+      "expectedHash": "64a8405a90a8c47c0fb92c99d6d544f0a2faafd14c6b9a2220fc78a58a46be1f",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/kitchen/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 12779,
+      "sha256": "4ce174cebb06e8a6ae9881f23cc049035d8c62ef44c63443bb25a6a7fb62903e",
+      "expectedHash": "4ce174cebb06e8a6ae9881f23cc049035d8c62ef44c63443bb25a6a7fb62903e",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/kvkk/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 7762,
+      "sha256": "27935b35bc051a3bd9fb728598236cf883d5bcd519943613dfa0fbc2dd361ea2",
+      "expectedHash": "27935b35bc051a3bd9fb728598236cf883d5bcd519943613dfa0fbc2dd361ea2",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/media/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 10695,
+      "sha256": "0f8da33ae9169b294e35e3c010d6a76405cf35d4b4fc2efdbdc20ed5102735b7",
+      "expectedHash": "0f8da33ae9169b294e35e3c010d6a76405cf35d4b4fc2efdbdc20ed5102735b7",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/privacy/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 8242,
+      "sha256": "703fbee44639fcc15f51937a86cfcb7c9d1ccef41a991044f5fb0e2cec1d50ca",
+      "expectedHash": "703fbee44639fcc15f51937a86cfcb7c9d1ccef41a991044f5fb0e2cec1d50ca",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/products/__next.$d$locale.products.__PAGE__.txt",
+      "status": 200,
+      "bytes": 12142,
+      "sha256": "e360d64c5d5e189179edf433d2ddaed3b28fed182981f95e3c9548946c74e2f5",
+      "expectedHash": "e360d64c5d5e189179edf433d2ddaed3b28fed182981f95e3c9548946c74e2f5",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/products/2si1arada/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 27320,
+      "sha256": "64285c625d6f4594d2979d2b46b7fe0be300fd3bdc4c7bd3687e225c968c9d36",
+      "expectedHash": "64285c625d6f4594d2979d2b46b7fe0be300fd3bdc4c7bd3687e225c968c9d36",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/products/barbunya-pilaki/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 21857,
+      "sha256": "cbcd1a9b9a4fba30af4e4c4629fe46b5f6ea3f6c9fb2ccec86f0f8d23dca6628",
+      "expectedHash": "cbcd1a9b9a4fba30af4e4c4629fe46b5f6ea3f6c9fb2ccec86f0f8d23dca6628",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/products/bezelye/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 22048,
+      "sha256": "b063a51269db5e11d646828cd303e9a6c01a3eb0cd1d9291f7566d429219f38e",
+      "expectedHash": "b063a51269db5e11d646828cd303e9a6c01a3eb0cd1d9291f7566d429219f38e",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/products/biber-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 35118,
+      "sha256": "282bf52aa47b0c7caf283d78bcc7604021f5077feae3565e6f97150131092f58",
+      "expectedHash": "282bf52aa47b0c7caf283d78bcc7604021f5077feae3565e6f97150131092f58",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/products/domates-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 32471,
+      "sha256": "e7d9611985c7652efb38e235078491826a420b4add2a8104b92d825cbc486a6a",
+      "expectedHash": "e7d9611985c7652efb38e235078491826a420b4add2a8104b92d825cbc486a6a",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/products/family/meals/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "status": 200,
+      "bytes": 12048,
+      "sha256": "6d714d6ee8595f67a036c685ae99a6574ed9ee49cada40a7393cc072c9744573",
+      "expectedHash": "6d714d6ee8595f67a036c685ae99a6574ed9ee49cada40a7393cc072c9744573",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/products/family/paste/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "status": 200,
+      "bytes": 12051,
+      "sha256": "09ab10b959fd5a2751d9a04114780dc10a1707c05cee80faa4965541fa39bd3b",
+      "expectedHash": "09ab10b959fd5a2751d9a04114780dc10a1707c05cee80faa4965541fa39bd3b",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/products/family/pulses/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "status": 200,
+      "bytes": 11924,
+      "sha256": "d7daf4a1ea2ee280e6aade17d3fec363d285f96bb739438349ed41377da0e1ed",
+      "expectedHash": "d7daf4a1ea2ee280e6aade17d3fec363d285f96bb739438349ed41377da0e1ed",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/products/family/roasted/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "status": 200,
+      "bytes": 12111,
+      "sha256": "b1361e8de0dadd297191310ea173e2c04ee5f0489b9319a91a29d058a50dec4b",
+      "expectedHash": "b1361e8de0dadd297191310ea173e2c04ee5f0489b9319a91a29d058a50dec4b",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/products/family/sauce/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "status": 200,
+      "bytes": 11670,
+      "sha256": "1501ecfaceac8d9e3f4928d6cb2339eb15fb87192c6b5e3a83247e95d525e502",
+      "expectedHash": "1501ecfaceac8d9e3f4928d6cb2339eb15fb87192c6b5e3a83247e95d525e502",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/products/family/vegetables/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "status": 200,
+      "bytes": 11808,
+      "sha256": "db39d06237a8d22e34da9b9d7deecff12612e8c7f9a99d1f5b7688e5aa67b2bb",
+      "expectedHash": "db39d06237a8d22e34da9b9d7deecff12612e8c7f9a99d1f5b7688e5aa67b2bb",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/products/haslanmis-nohut/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 21455,
+      "sha256": "8ac7d0aee0a1fe32d1809b4be49a638d3e6c3f32cf6b66f80d38850d41021767",
+      "expectedHash": "8ac7d0aee0a1fe32d1809b4be49a638d3e6c3f32cf6b66f80d38850d41021767",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/products/ketcap/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 28957,
+      "sha256": "a183cdb5ba76aa1aba63bc1367750d3c51d7ac3934d3abdd4897963b5e8b5efc",
+      "expectedHash": "a183cdb5ba76aa1aba63bc1367750d3c51d7ac3934d3abdd4897963b5e8b5efc",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/products/kozlenmis-biber/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 20980,
+      "sha256": "c5e35c7574278a291dd1cbef204d2d7019e2dbfad6acbe57ba85171857f8db4c",
+      "expectedHash": "c5e35c7574278a291dd1cbef204d2d7019e2dbfad6acbe57ba85171857f8db4c",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/products/mayonez/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 27064,
+      "sha256": "e7a2f79f1d407b4a707ec5f30c467757f8ee5357c6aa22cceb1dfa375f14abed",
+      "expectedHash": "e7a2f79f1d407b4a707ec5f30c467757f8ee5357c6aa22cceb1dfa375f14abed",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/products/yaprak-sarma/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 22683,
+      "sha256": "78d9573a494e1fe9ceba80d7bd47549a3349c956aaa15915e1fa8b3e5ccfb79f",
+      "expectedHash": "78d9573a494e1fe9ceba80d7bd47549a3349c956aaa15915e1fa8b3e5ccfb79f",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/quality/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 10890,
+      "sha256": "75cbadd89a6c9327fbfdf681ad8285d887621ab62ddd34cb511b4bbc44f6bcd9",
+      "expectedHash": "75cbadd89a6c9327fbfdf681ad8285d887621ab62ddd34cb511b4bbc44f6bcd9",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/ar/sitemap/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 18060,
+      "sha256": "58921ccf3ef4c0b69e56076db1fae8254ef8990a5d7ab605c8a9dc9e3c2b064c",
+      "expectedHash": "58921ccf3ef4c0b69e56076db1fae8254ef8990a5d7ab605c8a9dc9e3c2b064c",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/__next.$d$locale.__PAGE__.txt",
+      "status": 200,
+      "bytes": 22049,
+      "sha256": "8ae2c5ecf226c14b92f1ac0ed6d5dff01eacf4df480f2cec8fc9425223647f22",
+      "expectedHash": "8ae2c5ecf226c14b92f1ac0ed6d5dff01eacf4df480f2cec8fc9425223647f22",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/about/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 12740,
+      "sha256": "f091d2cd2c8afea2237124956fed0aca16c8949be7b7ec9396b9817660354647",
+      "expectedHash": "f091d2cd2c8afea2237124956fed0aca16c8949be7b7ec9396b9817660354647",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/careers/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 9069,
+      "sha256": "3ca102e99fa0813d5dc957f96740882d8f3acbfdc0ccb4703c9c5c75632bfd70",
+      "expectedHash": "3ca102e99fa0813d5dc957f96740882d8f3acbfdc0ccb4703c9c5c75632bfd70",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/certificates/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 13513,
+      "sha256": "5a8bdec3b9cf6de3235c690e78cefdf028802b7bc0402a10e35c3c897c04c603",
+      "expectedHash": "5a8bdec3b9cf6de3235c690e78cefdf028802b7bc0402a10e35c3c897c04c603",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/contact/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 7457,
+      "sha256": "24df0308ffa9d693cf57d3180a2758bec368bcaac099f6022fa2faffdf95ca1e",
+      "expectedHash": "24df0308ffa9d693cf57d3180a2758bec368bcaac099f6022fa2faffdf95ca1e",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/cookies/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 6682,
+      "sha256": "cc6172be40183006ef32e2f9d589ee95984ffc1abdc727dc4f7a7326bca12322",
+      "expectedHash": "cc6172be40183006ef32e2f9d589ee95984ffc1abdc727dc4f7a7326bca12322",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/corporate-sales/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 12375,
+      "sha256": "75c1408fab0098594055e691e0ded71ef84f7455df0a385613a70aa6671684eb",
+      "expectedHash": "75c1408fab0098594055e691e0ded71ef84f7455df0a385613a70aa6671684eb",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/facilities/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 11522,
+      "sha256": "b7b7d6199e415197b266fd78a287a08ecd9d9858d41958a1ab254d597b9d49db",
+      "expectedHash": "b7b7d6199e415197b266fd78a287a08ecd9d9858d41958a1ab254d597b9d49db",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/food-safety/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 9959,
+      "sha256": "52f8c0d0ac8a0a548d23d043fafc1efb210aeaac5846b8e17cfe0214b6e0d62c",
+      "expectedHash": "52f8c0d0ac8a0a548d23d043fafc1efb210aeaac5846b8e17cfe0214b6e0d62c",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/global/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 12474,
+      "sha256": "dcdabc1507a90f399537a66c1d074408ae834bfc7f9b1e5e1f3f6d96417a91d5",
+      "expectedHash": "dcdabc1507a90f399537a66c1d074408ae834bfc7f9b1e5e1f3f6d96417a91d5",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/kitchen/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 12030,
+      "sha256": "42150bec388808f17c255f86172d458ef53899cf53b3dad9061cc13322b50aef",
+      "expectedHash": "42150bec388808f17c255f86172d458ef53899cf53b3dad9061cc13322b50aef",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/kvkk/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 6803,
+      "sha256": "e08c6edfb3d3ad21cc56ebec74b68268cafa32ac7fb8056130d120f41a35c202",
+      "expectedHash": "e08c6edfb3d3ad21cc56ebec74b68268cafa32ac7fb8056130d120f41a35c202",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/media/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 9996,
+      "sha256": "b2ef76c9fe79344b172cae15315887098971585a38266fb0026975ea7c8aa6df",
+      "expectedHash": "b2ef76c9fe79344b172cae15315887098971585a38266fb0026975ea7c8aa6df",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/privacy/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 7334,
+      "sha256": "295308995b0782043ee5077a4d1d4b75aea7c6dd6bedb129666fce69eef8c53a",
+      "expectedHash": "295308995b0782043ee5077a4d1d4b75aea7c6dd6bedb129666fce69eef8c53a",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/products/__next.$d$locale.products.__PAGE__.txt",
+      "status": 200,
+      "bytes": 10169,
+      "sha256": "aa6c3412445f89513a27b044f42397d854c23d94498da7e0f1221a677ae6b9e0",
+      "expectedHash": "aa6c3412445f89513a27b044f42397d854c23d94498da7e0f1221a677ae6b9e0",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/products/2si1arada/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 25494,
+      "sha256": "f4a8f6cec7a7040317051413caaa0f7ddfbd1d27ae5a00e2d98e2475b9194294",
+      "expectedHash": "f4a8f6cec7a7040317051413caaa0f7ddfbd1d27ae5a00e2d98e2475b9194294",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/products/barbunya-pilaki/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 20241,
+      "sha256": "04ef90b977457d8c3612702b88e323f3998bdbeb50810eba8ec55cb77cfd528b",
+      "expectedHash": "04ef90b977457d8c3612702b88e323f3998bdbeb50810eba8ec55cb77cfd528b",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/products/bezelye/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 20471,
+      "sha256": "04f5b086c0df29f6cecd6c0279a01addfdc5d355755591e0f2bcb20ade0f23d7",
+      "expectedHash": "04f5b086c0df29f6cecd6c0279a01addfdc5d355755591e0f2bcb20ade0f23d7",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/products/biber-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 33148,
+      "sha256": "378bbcb556d0b8bf6f0020d0dedcd1878eadd2b701098f84ecefa0d8adbf78ea",
+      "expectedHash": "378bbcb556d0b8bf6f0020d0dedcd1878eadd2b701098f84ecefa0d8adbf78ea",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/products/domates-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 30472,
+      "sha256": "798b05ab3919f8bde1b5b2afee4569130c312ac9386a77d3a569bf4ad30a9005",
+      "expectedHash": "798b05ab3919f8bde1b5b2afee4569130c312ac9386a77d3a569bf4ad30a9005",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/products/family/meals/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "status": 200,
+      "bytes": 10193,
+      "sha256": "fe6eda1f2d285fa980c35ddf9c71af25694cd54f0f50274e4db893d7398554c7",
+      "expectedHash": "fe6eda1f2d285fa980c35ddf9c71af25694cd54f0f50274e4db893d7398554c7",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/products/family/paste/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "status": 200,
+      "bytes": 10267,
+      "sha256": "7a1c3f13e69213939f8c6ffb6e03f01cad450458876c677abcdde1eb7188d1ca",
+      "expectedHash": "7a1c3f13e69213939f8c6ffb6e03f01cad450458876c677abcdde1eb7188d1ca",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/products/family/pulses/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "status": 200,
+      "bytes": 10126,
+      "sha256": "db444296dec1b81857937d6578a1e93db5b16583a8395581c876f74c55176977",
+      "expectedHash": "db444296dec1b81857937d6578a1e93db5b16583a8395581c876f74c55176977",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/products/family/roasted/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "status": 200,
+      "bytes": 10237,
+      "sha256": "30f2f5020e709dc310d0548bfd5c5d6d47d904070e29d434ac63d3ba465f2a3a",
+      "expectedHash": "30f2f5020e709dc310d0548bfd5c5d6d47d904070e29d434ac63d3ba465f2a3a",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/products/family/sauce/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "status": 200,
+      "bytes": 9930,
+      "sha256": "98cb1a3c6ce67a4568edf5bf393dece294c3d5bde448601c6dde95d93bd08c58",
+      "expectedHash": "98cb1a3c6ce67a4568edf5bf393dece294c3d5bde448601c6dde95d93bd08c58",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/products/family/vegetables/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "status": 200,
+      "bytes": 10039,
+      "sha256": "e72dd4f4f7ba6db7ebfd4442175c0882d3fd92fb114b14221e7361e1cc36bd8c",
+      "expectedHash": "e72dd4f4f7ba6db7ebfd4442175c0882d3fd92fb114b14221e7361e1cc36bd8c",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/products/haslanmis-nohut/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 20094,
+      "sha256": "114cdb48c615cb1a34fdfa8fa9aafbabcb294716a8f2f193220180215c88acc1",
+      "expectedHash": "114cdb48c615cb1a34fdfa8fa9aafbabcb294716a8f2f193220180215c88acc1",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/products/ketcap/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 27400,
+      "sha256": "3644b888c90fe854a47957381f0316124b3dd9eea8f8b008f1c1a4be05b4c85c",
+      "expectedHash": "3644b888c90fe854a47957381f0316124b3dd9eea8f8b008f1c1a4be05b4c85c",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/products/kozlenmis-biber/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 19434,
+      "sha256": "8fd76f0f3143dfb2cbde813d04f694e11d5bf6cce195d5713d8cc0bb9aa3c7f7",
+      "expectedHash": "8fd76f0f3143dfb2cbde813d04f694e11d5bf6cce195d5713d8cc0bb9aa3c7f7",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/products/mayonez/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 25638,
+      "sha256": "f5408ae890e543d57c59c596f5027d5ff24d3376ac214edc4d683d174705bc38",
+      "expectedHash": "f5408ae890e543d57c59c596f5027d5ff24d3376ac214edc4d683d174705bc38",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/products/yaprak-sarma/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 21112,
+      "sha256": "b6e2f79359e0112602ad216060386587af1c0acd635a3f7e645a9b45ee0ee34c",
+      "expectedHash": "b6e2f79359e0112602ad216060386587af1c0acd635a3f7e645a9b45ee0ee34c",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/quality/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 10177,
+      "sha256": "194cd740bdcbd5891673577d7bf48ea78cd26f1fcaad7954c9e61ebc435a741a",
+      "expectedHash": "194cd740bdcbd5891673577d7bf48ea78cd26f1fcaad7954c9e61ebc435a741a",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/en/sitemap/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 17399,
+      "sha256": "e6801c84f89e2d824f18ffd8ba14a3e04d32a9ed7aa1beb7c90c7da9c26081a1",
+      "expectedHash": "e6801c84f89e2d824f18ffd8ba14a3e04d32a9ed7aa1beb7c90c7da9c26081a1",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/__next.$d$locale.__PAGE__.txt",
+      "status": 200,
+      "bytes": 22011,
+      "sha256": "e776e21813e8bfe357b40e2a685d421b8451964ff6b2b79c5b94f2040eba905d",
+      "expectedHash": "e776e21813e8bfe357b40e2a685d421b8451964ff6b2b79c5b94f2040eba905d",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/about/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 13007,
+      "sha256": "969385ced76b49a5e5bf8f8224ea11c9c46813a3a024c57a8bf3238a8540a797",
+      "expectedHash": "969385ced76b49a5e5bf8f8224ea11c9c46813a3a024c57a8bf3238a8540a797",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/careers/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 9219,
+      "sha256": "1d0c11b95b8b787a4885600b32bd13ac8db7908bd8d90ff45933bac88a99874b",
+      "expectedHash": "1d0c11b95b8b787a4885600b32bd13ac8db7908bd8d90ff45933bac88a99874b",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/certificates/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 13498,
+      "sha256": "ecc4b2114666b6fef83ed788a64ec2fb2b50e9dd45cb6f82aa5a447921483e5e",
+      "expectedHash": "ecc4b2114666b6fef83ed788a64ec2fb2b50e9dd45cb6f82aa5a447921483e5e",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/contact/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 7502,
+      "sha256": "892b08a0386d4dce09a57cbd23a8383aeb1fe81b2feb158f538fbfa0949f9e07",
+      "expectedHash": "892b08a0386d4dce09a57cbd23a8383aeb1fe81b2feb158f538fbfa0949f9e07",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/cookies/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 6865,
+      "sha256": "dd6270c95064ebdd3ca38f3cfd45a9662192a42f3b77c90e0727b5464c2dacc8",
+      "expectedHash": "dd6270c95064ebdd3ca38f3cfd45a9662192a42f3b77c90e0727b5464c2dacc8",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/corporate-sales/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 12640,
+      "sha256": "feac6deafcd6948885b0cfd39b4319e1ca72397c57de43b78e25d8d41e6bc90b",
+      "expectedHash": "feac6deafcd6948885b0cfd39b4319e1ca72397c57de43b78e25d8d41e6bc90b",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/facilities/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 11486,
+      "sha256": "e017e20590f9d978eafdde4d19cd5db93b62e19597504e9a03512dee98960fbf",
+      "expectedHash": "e017e20590f9d978eafdde4d19cd5db93b62e19597504e9a03512dee98960fbf",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/food-safety/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 10269,
+      "sha256": "0e378b134fb609fd119253d0a1fbdfb7ec5851d279757e1f33646431ac1a8403",
+      "expectedHash": "0e378b134fb609fd119253d0a1fbdfb7ec5851d279757e1f33646431ac1a8403",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/global/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 12688,
+      "sha256": "991f6917ffd84928e6f497f275b513c46f8f9c004a4fd5b3939ad01222f908f4",
+      "expectedHash": "991f6917ffd84928e6f497f275b513c46f8f9c004a4fd5b3939ad01222f908f4",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/kitchen/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 12170,
+      "sha256": "b0b67552e8bc71f7c2ee560676d88fa6b7fee3ad97c4dc51a227ea4798709aa5",
+      "expectedHash": "b0b67552e8bc71f7c2ee560676d88fa6b7fee3ad97c4dc51a227ea4798709aa5",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/kvkk/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 6902,
+      "sha256": "ad978ff34421fc6a1fe93db44c83b2144849c751f28644b5cf6ad90cb3d00e90",
+      "expectedHash": "ad978ff34421fc6a1fe93db44c83b2144849c751f28644b5cf6ad90cb3d00e90",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/media/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 9909,
+      "sha256": "a08a2a36cbfce323698dac63db5055b56a42045df30015191f80268b32392a65",
+      "expectedHash": "a08a2a36cbfce323698dac63db5055b56a42045df30015191f80268b32392a65",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/privacy/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 7377,
+      "sha256": "b74755299cfc7e4248c898448d2c1be16770e16330d8b958f55a052f4e8e7088",
+      "expectedHash": "b74755299cfc7e4248c898448d2c1be16770e16330d8b958f55a052f4e8e7088",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/products/__next.$d$locale.products.__PAGE__.txt",
+      "status": 200,
+      "bytes": 10076,
+      "sha256": "2cfbcd3e93f88714b75c7aeea779d59dd2ceefda081c88984a48bd534a6e6912",
+      "expectedHash": "2cfbcd3e93f88714b75c7aeea779d59dd2ceefda081c88984a48bd534a6e6912",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/products/2si1arada/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 25615,
+      "sha256": "06bfef2aaccc0e4584b2b2b1967f2caa4c3b646e8aa72dc13786e037293d32cb",
+      "expectedHash": "06bfef2aaccc0e4584b2b2b1967f2caa4c3b646e8aa72dc13786e037293d32cb",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/products/barbunya-pilaki/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 20302,
+      "sha256": "e3dab56d81260a437f49ad0d057eca787ce8e70da53015107a894b85bb41146f",
+      "expectedHash": "e3dab56d81260a437f49ad0d057eca787ce8e70da53015107a894b85bb41146f",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/products/bezelye/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 20781,
+      "sha256": "630ae61fbd97bb1a6da0d0a5758bfd667ed80947bbeb9a58bf0e257c885fd0c8",
+      "expectedHash": "630ae61fbd97bb1a6da0d0a5758bfd667ed80947bbeb9a58bf0e257c885fd0c8",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/products/biber-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 33398,
+      "sha256": "002ffe0ec35ff7a0d74e9c417cf4839e908dfa28c48c90feb4edbef34d06cd8c",
+      "expectedHash": "002ffe0ec35ff7a0d74e9c417cf4839e908dfa28c48c90feb4edbef34d06cd8c",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/products/domates-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 30811,
+      "sha256": "1245a1144d8272cc382902978ef9f1bf68415cbbe02a274700f6d3be3b134fea",
+      "expectedHash": "1245a1144d8272cc382902978ef9f1bf68415cbbe02a274700f6d3be3b134fea",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/products/family/meals/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "status": 200,
+      "bytes": 10133,
+      "sha256": "1cde7fe29a96c281575772131176b389076cc388ee8930125ddbd211c1da6c1a",
+      "expectedHash": "1cde7fe29a96c281575772131176b389076cc388ee8930125ddbd211c1da6c1a",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/products/family/paste/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "status": 200,
+      "bytes": 10205,
+      "sha256": "2187efa25b23bb3f1399a9395fc84d56cc2600a91143b465ab72a52f65eec1c3",
+      "expectedHash": "2187efa25b23bb3f1399a9395fc84d56cc2600a91143b465ab72a52f65eec1c3",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/products/family/pulses/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "status": 200,
+      "bytes": 10063,
+      "sha256": "092e339b72475615d3a0c86eeee9f4c5d65f830a3d29a3760fb0b206537d49da",
+      "expectedHash": "092e339b72475615d3a0c86eeee9f4c5d65f830a3d29a3760fb0b206537d49da",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/products/family/roasted/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "status": 200,
+      "bytes": 10157,
+      "sha256": "5e37a319bc30e7f7d998f61798237e8d615d42f1d5824c24da5ea8b998750d53",
+      "expectedHash": "5e37a319bc30e7f7d998f61798237e8d615d42f1d5824c24da5ea8b998750d53",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/products/family/sauce/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "status": 200,
+      "bytes": 9895,
+      "sha256": "91eb0e9de1195a84badc248f38ed155e8219669f773ce472bdfc4edce49ca5e4",
+      "expectedHash": "91eb0e9de1195a84badc248f38ed155e8219669f773ce472bdfc4edce49ca5e4",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/products/family/vegetables/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "status": 200,
+      "bytes": 9999,
+      "sha256": "a6e3ba8ffb934af44f772a7e9e5b8e0c97723cdcf12d5cc71768439ea9fc527b",
+      "expectedHash": "a6e3ba8ffb934af44f772a7e9e5b8e0c97723cdcf12d5cc71768439ea9fc527b",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/products/haslanmis-nohut/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 20235,
+      "sha256": "60e93b4a2bf01c3af6a49ace0b99a9c582601c1c24303a68fa2d4248093a7de7",
+      "expectedHash": "60e93b4a2bf01c3af6a49ace0b99a9c582601c1c24303a68fa2d4248093a7de7",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/products/ketcap/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 27450,
+      "sha256": "5de7e0418cf35146b0b32973d26ebbb2f469bcb9c76715833c42ddb2dcdd2745",
+      "expectedHash": "5de7e0418cf35146b0b32973d26ebbb2f469bcb9c76715833c42ddb2dcdd2745",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/products/kozlenmis-biber/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 19493,
+      "sha256": "7228f78a729e44354948b347d9f51767f359071dfd17ff88b828163e81467bac",
+      "expectedHash": "7228f78a729e44354948b347d9f51767f359071dfd17ff88b828163e81467bac",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/products/mayonez/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 25536,
+      "sha256": "cf08a9c78ff8b9f6c10e393d09a88e43f991f21509731437230fe5efbc292c44",
+      "expectedHash": "cf08a9c78ff8b9f6c10e393d09a88e43f991f21509731437230fe5efbc292c44",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/products/yaprak-sarma/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 21080,
+      "sha256": "77d1ae67e6ee417b27d3b18c06ff642e7ade86e57e6a4dc3a7d7ff49182f21d0",
+      "expectedHash": "77d1ae67e6ee417b27d3b18c06ff642e7ade86e57e6a4dc3a7d7ff49182f21d0",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/quality/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 10455,
+      "sha256": "4bda12979d00c7f30003516421d226c3465e244eb622f7dae9e6fb0807c255f5",
+      "expectedHash": "4bda12979d00c7f30003516421d226c3465e244eb622f7dae9e6fb0807c255f5",
+      "hashMatches": true
+    },
+    {
+      "kind": "flight",
+      "path": "/tr/sitemap/__next.$d$locale.$d$section.__PAGE__.txt",
+      "status": 200,
+      "bytes": 17497,
+      "sha256": "ea916a8e1d08e692aa615bd92d974dc51cf0b8fd3ddd515cabaa5b3b2da88b92",
+      "expectedHash": "ea916a8e1d08e692aa615bd92d974dc51cf0b8fd3ddd515cabaa5b3b2da88b92",
+      "hashMatches": true
+    },
+    {
+      "kind": "index-utility",
+      "path": "/robots.txt",
+      "status": 200,
+      "bytes": 70,
+      "sha256": "4d0067e498719d99786a4ae40ec32d770e0664d699ee3d2ae20e578c7363fe0d"
+    },
+    {
+      "kind": "index-utility",
+      "path": "/sitemap.xml",
+      "status": 200,
+      "bytes": 34209,
+      "sha256": "9f04760fdeb09a9a75c6b84eac466249c786b9bc14dfe79234777933c99533e1"
+    },
+    {
+      "kind": "disabled-or-invalid",
+      "path": "/de/",
+      "status": 404
+    },
+    {
+      "kind": "disabled-or-invalid",
+      "path": "/fr/",
+      "status": 404
+    },
+    {
+      "kind": "disabled-or-invalid",
+      "path": "/es/",
+      "status": 404
+    },
+    {
+      "kind": "disabled-or-invalid",
+      "path": "/tr/products/unknown/",
+      "status": 404
+    },
+    {
+      "kind": "asset-head",
+      "path": "/assets/documents/burcu-catalogue-web.pdf",
+      "status": 200,
+      "contentType": "application/octet-stream",
+      "contentLength": "14775912"
+    },
+    {
+      "kind": "asset-head",
+      "path": "/assets/scenes/mayonnaise-desktop.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLength": "82104"
+    },
+    {
+      "kind": "asset-head",
+      "path": "/assets/icons/sprite.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "contentLength": "1270"
+    },
+    {
+      "kind": "video-range",
+      "status": 206,
+      "bytes": 1024,
+      "contentRange": "bytes 0-1023/42605332"
+    }
+  ],
+  "errors": [],
+  "boundary": "Local static server HTTP only; no production deployment or Lighthouse claim."
+}

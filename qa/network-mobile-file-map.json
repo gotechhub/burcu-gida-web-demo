@@ -1,0 +1,544 @@
+{
+  "schemaVersion": "1.0-local-request-log-file-analysis",
+  "reviewedAt": "2026-10-14",
+  "status": "absence-checks-pass; one directly-unmapped Flight request requires server review",
+  "sourceType": "Local static server request log; not a HAR or browser transfer measurement",
+  "snapshotPath": "qa/network-mobile-startup.json",
+  "snapshotSha256": "ea2efebf9a2c0f9f3585302d4ddf1187e798215c8b45e9fb9691b2b59a43dc15",
+  "contextProvidedByOperator": {
+    "route": "/tr/",
+    "viewportWidthCssPx": 390,
+    "freshMobileLoad": true,
+    "deviceEmulationOnly": true
+  },
+  "window": {
+    "recordCount": 20,
+    "firstAt": "2026-10-13T21:39:06.451Z",
+    "lastAt": "2026-10-13T21:39:07.878Z",
+    "laterRequestsIncluded": false
+  },
+  "mappingMethod": "decodeURIComponent equivalent, out path, directory to index.html; direct mapping in tools/serve-export.mjs as inspected for this capture",
+  "requests": [
+    {
+      "index": 1,
+      "record": {
+        "at": "2026-10-13T21:39:06.451Z",
+        "method": "GET",
+        "path": "/tr/",
+        "range": false
+      },
+      "decodedRequestPath": "/tr/",
+      "finalExportFile": "out/tr/index.html",
+      "directMappingExists": true,
+      "fileBytes": 31827,
+      "sha256": "7057e801e7a180e928f29db05838837f01c9f06a3fff6bac3a82fbcef3b7cf19",
+      "classification": "html",
+      "diskBytesForGetReferenceSum": 31827
+    },
+    {
+      "index": 2,
+      "record": {
+        "at": "2026-10-13T21:39:06.517Z",
+        "method": "GET",
+        "path": "/assets/products/ketcap.png",
+        "range": false
+      },
+      "decodedRequestPath": "/assets/products/ketcap.png",
+      "finalExportFile": "out/assets/products/ketcap.png",
+      "directMappingExists": true,
+      "fileBytes": 395306,
+      "sha256": "e9b5c0edc59fadfd1b10f8a38c7f01580b2867260b2b67313f8acf261c3d1d6f",
+      "classification": "actual-product-png",
+      "diskBytesForGetReferenceSum": 395306
+    },
+    {
+      "index": 3,
+      "record": {
+        "at": "2026-10-13T21:39:06.536Z",
+        "method": "GET",
+        "path": "/assets/brand/burcu-logo.png",
+        "range": false
+      },
+      "decodedRequestPath": "/assets/brand/burcu-logo.png",
+      "finalExportFile": "out/assets/brand/burcu-logo.png",
+      "directMappingExists": true,
+      "fileBytes": 35194,
+      "sha256": "3c8843460b960e3da57bad349fc15915fb4e0c2df8b1712e5251f4a696d29bf1",
+      "classification": "actual-brand-png",
+      "diskBytesForGetReferenceSum": 35194
+    },
+    {
+      "index": 4,
+      "record": {
+        "at": "2026-10-13T21:39:06.541Z",
+        "method": "GET",
+        "path": "/_next/static/css/19c48d0e0e3ea32e.css",
+        "range": false
+      },
+      "decodedRequestPath": "/_next/static/css/19c48d0e0e3ea32e.css",
+      "finalExportFile": "out/_next/static/css/19c48d0e0e3ea32e.css",
+      "directMappingExists": true,
+      "fileBytes": 42061,
+      "sha256": "2bf7e956106b0e01b4bb181794a157171fc868a6c5419a92dec3148804f8824a",
+      "classification": "initial-css",
+      "diskBytesForGetReferenceSum": 42061
+    },
+    {
+      "index": 5,
+      "record": {
+        "at": "2026-10-13T21:39:06.575Z",
+        "method": "GET",
+        "path": "/_next/static/chunks/webpack-9fea46c6e123f5c2.js",
+        "range": false
+      },
+      "decodedRequestPath": "/_next/static/chunks/webpack-9fea46c6e123f5c2.js",
+      "finalExportFile": "out/_next/static/chunks/webpack-9fea46c6e123f5c2.js",
+      "directMappingExists": true,
+      "fileBytes": 4863,
+      "sha256": "82f598b7d68fc2802a2f7c2e75cf9903ba4d2cdec8a3c78006dc193642434a65",
+      "classification": "initial-javascript",
+      "diskBytesForGetReferenceSum": 4863
+    },
+    {
+      "index": 6,
+      "record": {
+        "at": "2026-10-13T21:39:06.578Z",
+        "method": "GET",
+        "path": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+        "range": false
+      },
+      "decodedRequestPath": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+      "finalExportFile": "out/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+      "directMappingExists": true,
+      "fileBytes": 203721,
+      "sha256": "7d5ccf185a6f85ab38ce400a7f10aa0a3496eb4e9aee1e500a85e01c4222fcec",
+      "classification": "initial-javascript",
+      "diskBytesForGetReferenceSum": 203721
+    },
+    {
+      "index": 7,
+      "record": {
+        "at": "2026-10-13T21:39:06.607Z",
+        "method": "GET",
+        "path": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+        "range": false
+      },
+      "decodedRequestPath": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+      "finalExportFile": "out/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+      "directMappingExists": true,
+      "fileBytes": 242917,
+      "sha256": "2fe157ee446df605229c98bc4509a8017d1028e6c887315e59f3bf1032dc0a4b",
+      "classification": "initial-javascript",
+      "diskBytesForGetReferenceSum": 242917
+    },
+    {
+      "index": 8,
+      "record": {
+        "at": "2026-10-13T21:39:06.610Z",
+        "method": "GET",
+        "path": "/_next/static/chunks/main-app-53fb55aaedf99428.js",
+        "range": false
+      },
+      "decodedRequestPath": "/_next/static/chunks/main-app-53fb55aaedf99428.js",
+      "finalExportFile": "out/_next/static/chunks/main-app-53fb55aaedf99428.js",
+      "directMappingExists": true,
+      "fileBytes": 513,
+      "sha256": "d6e9b7217b56632811ba713733ef38f037fbf228603eecde896777cd06a43065",
+      "classification": "initial-javascript",
+      "diskBytesForGetReferenceSum": 513
+    },
+    {
+      "index": 9,
+      "record": {
+        "at": "2026-10-13T21:39:06.615Z",
+        "method": "GET",
+        "path": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+        "range": false
+      },
+      "decodedRequestPath": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+      "finalExportFile": "out/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+      "directMappingExists": true,
+      "fileBytes": 7642,
+      "sha256": "905bc34977bb55dd8fda0041a3dbe144347dc46e9cd747d71e6b326deb234d7d",
+      "classification": "initial-javascript",
+      "diskBytesForGetReferenceSum": 7642
+    },
+    {
+      "index": 10,
+      "record": {
+        "at": "2026-10-13T21:39:06.617Z",
+        "method": "GET",
+        "path": "/_next/static/chunks/319-45a3cb27b026032c.js",
+        "range": false
+      },
+      "decodedRequestPath": "/_next/static/chunks/319-45a3cb27b026032c.js",
+      "finalExportFile": "out/_next/static/chunks/319-45a3cb27b026032c.js",
+      "directMappingExists": true,
+      "fileBytes": 20153,
+      "sha256": "e0646606019085cee568af09bdf122e0a046d4d4a7055e8e456cc034d2604595",
+      "classification": "initial-javascript",
+      "diskBytesForGetReferenceSum": 20153
+    },
+    {
+      "index": 11,
+      "record": {
+        "at": "2026-10-13T21:39:06.622Z",
+        "method": "GET",
+        "path": "/_next/static/chunks/app/%5Blocale%5D/layout-fc0309768ba79743.js",
+        "range": false
+      },
+      "decodedRequestPath": "/_next/static/chunks/app/[locale]/layout-fc0309768ba79743.js",
+      "finalExportFile": "out/_next/static/chunks/app/[locale]/layout-fc0309768ba79743.js",
+      "directMappingExists": true,
+      "fileBytes": 17881,
+      "sha256": "7d9fc9a134608b1c84e85f88458d9e47134b4305ca47c3393b84e43a942c5f3a",
+      "classification": "initial-javascript",
+      "diskBytesForGetReferenceSum": 17881
+    },
+    {
+      "index": 12,
+      "record": {
+        "at": "2026-10-13T21:39:06.675Z",
+        "method": "GET",
+        "path": "/_next/static/chunks/app/%5Blocale%5D/page-efad517d4cacec8b.js",
+        "range": false
+      },
+      "decodedRequestPath": "/_next/static/chunks/app/[locale]/page-efad517d4cacec8b.js",
+      "finalExportFile": "out/_next/static/chunks/app/[locale]/page-efad517d4cacec8b.js",
+      "directMappingExists": true,
+      "fileBytes": 7579,
+      "sha256": "96b20f1966ba1341ba7c911e99dabf118fcfb95e557a7ee1debf6c4517fbcf79",
+      "classification": "initial-javascript",
+      "diskBytesForGetReferenceSum": 7579
+    },
+    {
+      "index": 13,
+      "record": {
+        "at": "2026-10-13T21:39:06.737Z",
+        "method": "GET",
+        "path": "/assets/products/domates-salcasi.png",
+        "range": false
+      },
+      "decodedRequestPath": "/assets/products/domates-salcasi.png",
+      "finalExportFile": "out/assets/products/domates-salcasi.png",
+      "directMappingExists": true,
+      "fileBytes": 486053,
+      "sha256": "f37b4965c3d326d678b6b09d4e38f31a32f632f5b9a9fff69b0cf21cf299defc",
+      "classification": "actual-product-png",
+      "diskBytesForGetReferenceSum": 486053
+    },
+    {
+      "index": 14,
+      "record": {
+        "at": "2026-10-13T21:39:06.739Z",
+        "method": "GET",
+        "path": "/assets/facilities/F01.webp",
+        "range": false
+      },
+      "decodedRequestPath": "/assets/facilities/F01.webp",
+      "finalExportFile": "out/assets/facilities/F01.webp",
+      "directMappingExists": true,
+      "fileBytes": 122156,
+      "sha256": "c81eaca803fc232f65319eae182b509b7488563bba02829027fdcb4065b2478a",
+      "classification": "actual-archival-facility-webp",
+      "diskBytesForGetReferenceSum": 122156
+    },
+    {
+      "index": 15,
+      "record": {
+        "at": "2026-10-13T21:39:06.741Z",
+        "method": "GET",
+        "path": "/assets/scenes/ketchup-mobile.webp",
+        "range": false
+      },
+      "decodedRequestPath": "/assets/scenes/ketchup-mobile.webp",
+      "finalExportFile": "out/assets/scenes/ketchup-mobile.webp",
+      "directMappingExists": true,
+      "fileBytes": 32064,
+      "sha256": "a5a00eb63b9dc3b6d76591233e404b0405095d20d843cdbec4a15016a2f37370",
+      "classification": "mobile-scene-webp",
+      "diskBytesForGetReferenceSum": 32064
+    },
+    {
+      "index": 16,
+      "record": {
+        "at": "2026-10-13T21:39:06.743Z",
+        "method": "GET",
+        "path": "/assets/scenes/paste-mobile.webp",
+        "range": false
+      },
+      "decodedRequestPath": "/assets/scenes/paste-mobile.webp",
+      "finalExportFile": "out/assets/scenes/paste-mobile.webp",
+      "directMappingExists": true,
+      "fileBytes": 55704,
+      "sha256": "1a04df0ba9c9a94a186025b404f144a538c29295158323980af095f8e474ef0d",
+      "classification": "mobile-scene-webp",
+      "diskBytesForGetReferenceSum": 55704
+    },
+    {
+      "index": 17,
+      "record": {
+        "at": "2026-10-13T21:39:06.761Z",
+        "method": "GET",
+        "path": "/_next/static/media/5d7fa19dd58d4d1a-s.p.ttf",
+        "range": false
+      },
+      "decodedRequestPath": "/_next/static/media/5d7fa19dd58d4d1a-s.p.ttf",
+      "finalExportFile": "out/_next/static/media/5d7fa19dd58d4d1a-s.p.ttf",
+      "directMappingExists": true,
+      "fileBytes": 164700,
+      "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6",
+      "classification": "font",
+      "diskBytesForGetReferenceSum": 164700
+    },
+    {
+      "index": 18,
+      "record": {
+        "at": "2026-10-13T21:39:07.853Z",
+        "method": "HEAD",
+        "path": "/tr/",
+        "range": false
+      },
+      "decodedRequestPath": "/tr/",
+      "finalExportFile": "out/tr/index.html",
+      "directMappingExists": true,
+      "fileBytes": 31827,
+      "sha256": "7057e801e7a180e928f29db05838837f01c9f06a3fff6bac3a82fbcef3b7cf19",
+      "classification": "html",
+      "diskBytesForGetReferenceSum": 0
+    },
+    {
+      "index": 19,
+      "record": {
+        "at": "2026-10-13T21:39:07.864Z",
+        "method": "GET",
+        "path": "/tr/__next._tree.txt",
+        "range": false
+      },
+      "decodedRequestPath": "/tr/__next._tree.txt",
+      "finalExportFile": "out/tr/__next._tree.txt",
+      "directMappingExists": true,
+      "fileBytes": 359,
+      "sha256": "03041e780215f8e08d24dd96217c73a216aad10cdccc69b457b5e553ebe0ad6c",
+      "classification": "next-flight-text",
+      "diskBytesForGetReferenceSum": 359
+    },
+    {
+      "index": 20,
+      "record": {
+        "at": "2026-10-13T21:39:07.878Z",
+        "method": "GET",
+        "path": "/tr/__next.$d$locale.__PAGE__.txt",
+        "range": false
+      },
+      "decodedRequestPath": "/tr/__next.$d$locale.__PAGE__.txt",
+      "finalExportFile": null,
+      "requestedDiskPath": "out/tr/__next.$d$locale.__PAGE__.txt",
+      "directMappingExists": false,
+      "classification": "unresolved-next-flight-text",
+      "diskBytesForGetReferenceSum": 0,
+      "correspondingNestedExportFile": "out/tr/__next.$d$locale/__PAGE__.txt",
+      "correspondingNestedFileBytes": 11679,
+      "correspondingNestedFileSha256": "cf069083709b22c912a678c89c522f83a96e00da7cbe9ac1ca36d2c4b9f9aea5",
+      "currentSimpleServerFallback": {
+        "file": "out/404.html",
+        "fileBytes": 5281,
+        "sha256": "9a40501e8567579d899c0263dda19ab1b7ebd9029e101ef18611962934ff004d",
+        "expectedStatusFromSourceCode": 404,
+        "observedResponseStatus": null
+      }
+    }
+  ],
+  "desktopSplitAssets": [
+    {
+      "classification": "FluidBackdrop",
+      "chunkIds": [
+        471
+      ],
+      "requestPath": "/_next/static/chunks/471.d7264bcd7210cf04.js",
+      "finalExportFile": "out/_next/static/chunks/471.d7264bcd7210cf04.js",
+      "compiledMarkers": [
+        "uPhoto",
+        "uVisibleUv",
+        "uReveal"
+      ],
+      "fileBytes": 20959,
+      "sha256": "644358a805455faaeb33f0fee3407924d002cade7bd2a6af19f4f0fea93f453e",
+      "requestedInFrozenFirst20": false
+    },
+    {
+      "classification": "Three WebGL renderer",
+      "chunkIds": [
+        367
+      ],
+      "requestPath": "/_next/static/chunks/b536a0f1.8b5c649a3f5349db.js",
+      "finalExportFile": "out/_next/static/chunks/b536a0f1.8b5c649a3f5349db.js",
+      "compiledMarkers": [
+        "THREE.WebGLRenderer",
+        "WebGLProgram"
+      ],
+      "fileBytes": 367908,
+      "sha256": "2e3846f7358e16b5e47cd5ac0c478845ace5300adcfa0727f02cdd2802973c61",
+      "requestedInFrozenFirst20": false
+    },
+    {
+      "classification": "Three core",
+      "chunkIds": [
+        831
+      ],
+      "requestPath": "/_next/static/chunks/bd904a5c.b9f5781b322e5178.js",
+      "finalExportFile": "out/_next/static/chunks/bd904a5c.b9f5781b322e5178.js",
+      "compiledMarkers": [
+        "isWebGLRenderer",
+        "fragmentShader"
+      ],
+      "fileBytes": 379578,
+      "sha256": "6a93addad715839d425e6b5a0ae1d361a24d18cb708803539530d6ce3e7f1572",
+      "requestedInFrozenFirst20": false
+    },
+    {
+      "classification": "React Three Fiber",
+      "chunkIds": [
+        603
+      ],
+      "requestPath": "/_next/static/chunks/f5ef5e1c.8ae3f762d4de6d3c.js",
+      "finalExportFile": "out/_next/static/chunks/f5ef5e1c.8ae3f762d4de6d3c.js",
+      "compiledMarkers": [
+        "R3F",
+        "react-three-fiber"
+      ],
+      "fileBytes": 162725,
+      "sha256": "ad787e015fa3238595e6440344eb57e6660daf88c1d47702f0872703b6ac87c4",
+      "requestedInFrozenFirst20": false
+    },
+    {
+      "classification": "GSAP core",
+      "chunkIds": [
+        592
+      ],
+      "requestPath": "/_next/static/chunks/c15bf2b0.182b384b62e205ff.js",
+      "finalExportFile": "out/_next/static/chunks/c15bf2b0.182b384b62e205ff.js",
+      "compiledMarkers": [
+        "gsap",
+        "ScrollTrigger"
+      ],
+      "fileBytes": 51569,
+      "sha256": "c7e182337a998726b81ad7230e535ab270ca06dc8590438e14de291ed9939a1d",
+      "requestedInFrozenFirst20": false
+    },
+    {
+      "classification": "GSAP plugins and Lenis",
+      "chunkIds": [
+        523
+      ],
+      "requestPath": "/_next/static/chunks/523.2dbd31648f81e2e6.js",
+      "finalExportFile": "out/_next/static/chunks/523.2dbd31648f81e2e6.js",
+      "compiledMarkers": [
+        "ScrollTrigger",
+        "lenisVersion",
+        "Lenis: Target not found"
+      ],
+      "fileBytes": 88695,
+      "sha256": "b1492f942daf5dd4e00143404a87bc3250bc58c970541f87fb207deac9e688c7",
+      "requestedInFrozenFirst20": false
+    },
+    {
+      "classification": "MotionDirector",
+      "chunkIds": [
+        59
+      ],
+      "requestPath": "/_next/static/chunks/59.0b04830cae6f3368.js",
+      "finalExportFile": "out/_next/static/chunks/59.0b04830cae6f3368.js",
+      "compiledMarkers": [
+        "data-lenis-prevent",
+        "autoSplit"
+      ],
+      "fileBytes": 3497,
+      "sha256": "f96a0545476aa9a1d9fddb6ad65467a692744a4306c4289a2557be1b5db52c2e",
+      "requestedInFrozenFirst20": false
+    },
+    {
+      "classification": "Lenis asynchronous stylesheet",
+      "chunkIds": [
+        272
+      ],
+      "requestPath": "/_next/static/css/226f4571965e8b3e.css",
+      "finalExportFile": "out/_next/static/css/226f4571965e8b3e.css",
+      "compiledMarkers": [
+        ".lenis",
+        "lenis-smooth",
+        "lenis-stopped"
+      ],
+      "fileBytes": 456,
+      "sha256": "308b0824419095e7cbc908de08ce821fa0347e001fc8458c65e0b7b01c1d1619",
+      "requestedInFrozenFirst20": false
+    }
+  ],
+  "dynamicImportEvidence": {
+    "fluidLoader": {
+      "file": "out/_next/static/chunks/319-45a3cb27b026032c.js",
+      "chunkIds": [
+        367,
+        831,
+        603,
+        471
+      ],
+      "moduleId": 9031
+    },
+    "motionLoader": {
+      "file": "out/_next/static/chunks/app/[locale]/layout-fc0309768ba79743.js",
+      "chunkIds": [
+        272,
+        592,
+        523,
+        59
+      ],
+      "moduleId": 8059
+    },
+    "lenisCss": {
+      "file": "out/_next/static/chunks/webpack-9fea46c6e123f5c2.js",
+      "chunkId": 272,
+      "cssPath": "_next/static/css/226f4571965e8b3e.css"
+    }
+  },
+  "absenceChecks": {
+    "desktopSceneRequested": false,
+    "transparentIngredientsRequested": false,
+    "mp4Requested": false,
+    "identifiedDesktopSplitChunkRequested": false
+  },
+  "sizes": {
+    "measurement": "Uncompressed final-export file bytes only; not transfer size, timings, throughput, heap or Core Web Vitals",
+    "getRequestCount": 19,
+    "headRequestCount": 1,
+    "directlyMappedRequestCount": 19,
+    "directlyMappedGetRequestCount": 18,
+    "unresolvedGetRequestCount": 1,
+    "directlyMappedGetReferencedFileBytes": 1870693,
+    "byClassificationDiskBytes": {
+      "html": 31827,
+      "actual-product-png": 881359,
+      "actual-brand-png": 35194,
+      "initial-css": 42061,
+      "initial-javascript": 505269,
+      "actual-archival-facility-webp": 122156,
+      "mobile-scene-webp": 87768,
+      "font": 164700,
+      "next-flight-text": 359
+    },
+    "identifiedUnrequestedDesktopSplitFileBytes": 1075387,
+    "headAndUnresolvedRequestExcludedFromGetFileSum": true
+  },
+  "requestedFontMatches": [
+    "Manrope.ttf"
+  ],
+  "limitations": [
+    "No response status/body/timing recorded in this log.",
+    "No HAR, transfer/compression/cache-miss proof, throttling or isolated-cache measurement.",
+    "Desktop-browser 390px emulation, not a physical phone.",
+    "Absence applies to frozen first20 only; not all later interactions or locales.",
+    "Mapped current final-export file sizes do not establish historical network payload sizes.",
+    "data-lenis-prevent attributes and loader references in shared initial chunks do not indicate a deferred library download.",
+    "Row20 has no direct final-export file path; nested Flight file exists. The simple server code would return404, but response status was not captured."
+  ]
+}

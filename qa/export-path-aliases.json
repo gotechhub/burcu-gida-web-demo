@@ -1,0 +1,2039 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-14T08:43:20.026Z",
+  "nextVersion": "16.4.0",
+  "purpose": "Windows static-export nested Flight path aliases, using the installed Next client filename encoder.",
+  "boundary": "Existing V2 out/ route directories only; original nested files are never removed or rewritten.",
+  "sourceReferences": [
+    {
+      "file": "node_modules/next/dist/shared/lib/segment-cache/segment-value-encoding.js",
+      "symbol": "convertSegmentPathToStaticExportFilename",
+      "sha256": "50956a9d602610de8e4d652fb7309ed6c30fbc425a12b7e20d6cbc3896868cd4"
+    },
+    {
+      "file": "node_modules/next/dist/client/components/segment-cache/cache.js",
+      "symbols": [
+        "addSegmentPathToUrlInOutputExportMode",
+        "fetchPrefetchResponse"
+      ],
+      "sha256": "eb6272b7c203ebf210e167beae661e689f6d3edcfe8ee52aac09f0d1cbbd9581"
+    }
+  ],
+  "aliasCount": 101,
+  "createdCount": 101,
+  "reusedIdenticalCount": 0,
+  "aliases": [
+    {
+      "source": "out/__next.!KGVudHJ5KQ/__PAGE__.txt",
+      "alias": "out/__next.!KGVudHJ5KQ.__PAGE__.txt",
+      "route": "/",
+      "segmentPath": "/!KGVudHJ5KQ/__PAGE__",
+      "bytes": 4745,
+      "sha256": "52960b78a396f3cc9fbefb7f7888e66e453613de18ec918ef44f8db59038ada4",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/_not-found/__next._not-found/__PAGE__.txt",
+      "alias": "out/_not-found/__next._not-found.__PAGE__.txt",
+      "route": "/_not-found/",
+      "segmentPath": "/_not-found/__PAGE__",
+      "bytes": 2506,
+      "sha256": "34ee09c9bc8c552c514f79bc62bcd29ba2162b722bf75b357f5cd0a3410fa6a1",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/__next.$d$locale/__PAGE__.txt",
+      "alias": "out/ar/__next.$d$locale.__PAGE__.txt",
+      "route": "/ar/",
+      "segmentPath": "/$d$locale/__PAGE__",
+      "bytes": 24392,
+      "sha256": "59202e16e47298966a0f57131338c3f923a504a8dcbc10cc681656bf859f7d98",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/about/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/ar/about/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/ar/about/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 13928,
+      "sha256": "c60f1a55202bd6859e0c92143f99e3a4b337362861cef1f806594e95eda994be",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/careers/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/ar/careers/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/ar/careers/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 9871,
+      "sha256": "32f32f92f0fd4b1f827fd5f95ca49837b78a39682ebcc5a2f7d21eadfdce4197",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/certificates/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/ar/certificates/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/ar/certificates/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 14787,
+      "sha256": "cf8a950faffc86d505265dcd264288b3f619a912fedd45a3c9c381c94c04fc5f",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/contact/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/ar/contact/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/ar/contact/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 8129,
+      "sha256": "da3e0d279e828e72ec7948d3f059cea379a273fcee73e7630497299c8de3d954",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/cookies/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/ar/cookies/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/ar/cookies/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 7540,
+      "sha256": "7033703d18eb5bbc1c22eb8e7e656a0c6488b080581743c45c9d31a476c3206e",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/corporate-sales/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/ar/corporate-sales/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/ar/corporate-sales/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 13297,
+      "sha256": "47a2b74ed6bf613bd2e72f5a628f01a4beee9c6d3f762470b56d9984ffef7498",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/facilities/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/ar/facilities/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/ar/facilities/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 12418,
+      "sha256": "b18e39b40ef1471f52d91d2084555313d93a28fbde5e79b772c98a8c57c05144",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/food-safety/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/ar/food-safety/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/ar/food-safety/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 10731,
+      "sha256": "fabdfd92cde1ca7d78c2b97f4b5284696e4bf01249e31a5b316c62fe3b701551",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/global/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/ar/global/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/ar/global/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 13445,
+      "sha256": "64a8405a90a8c47c0fb92c99d6d544f0a2faafd14c6b9a2220fc78a58a46be1f",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/kitchen/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/ar/kitchen/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/ar/kitchen/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 12779,
+      "sha256": "4ce174cebb06e8a6ae9881f23cc049035d8c62ef44c63443bb25a6a7fb62903e",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/kvkk/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/ar/kvkk/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/ar/kvkk/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 7762,
+      "sha256": "27935b35bc051a3bd9fb728598236cf883d5bcd519943613dfa0fbc2dd361ea2",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/media/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/ar/media/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/ar/media/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 10695,
+      "sha256": "0f8da33ae9169b294e35e3c010d6a76405cf35d4b4fc2efdbdc20ed5102735b7",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/privacy/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/ar/privacy/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/ar/privacy/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 8242,
+      "sha256": "703fbee44639fcc15f51937a86cfcb7c9d1ccef41a991044f5fb0e2cec1d50ca",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/products/__next.$d$locale/products/__PAGE__.txt",
+      "alias": "out/ar/products/__next.$d$locale.products.__PAGE__.txt",
+      "route": "/ar/products/",
+      "segmentPath": "/$d$locale/products/__PAGE__",
+      "bytes": 12142,
+      "sha256": "e360d64c5d5e189179edf433d2ddaed3b28fed182981f95e3c9548946c74e2f5",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/products/2si1arada/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/ar/products/2si1arada/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/ar/products/2si1arada/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 27320,
+      "sha256": "64285c625d6f4594d2979d2b46b7fe0be300fd3bdc4c7bd3687e225c968c9d36",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/products/barbunya-pilaki/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/ar/products/barbunya-pilaki/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/ar/products/barbunya-pilaki/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 21857,
+      "sha256": "cbcd1a9b9a4fba30af4e4c4629fe46b5f6ea3f6c9fb2ccec86f0f8d23dca6628",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/products/bezelye/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/ar/products/bezelye/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/ar/products/bezelye/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 22048,
+      "sha256": "b063a51269db5e11d646828cd303e9a6c01a3eb0cd1d9291f7566d429219f38e",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/products/biber-salcasi/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/ar/products/biber-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/ar/products/biber-salcasi/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 35118,
+      "sha256": "282bf52aa47b0c7caf283d78bcc7604021f5077feae3565e6f97150131092f58",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/products/domates-salcasi/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/ar/products/domates-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/ar/products/domates-salcasi/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 32471,
+      "sha256": "e7d9611985c7652efb38e235078491826a420b4add2a8104b92d825cbc486a6a",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/products/family/meals/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+      "alias": "out/ar/products/family/meals/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "route": "/ar/products/family/meals/",
+      "segmentPath": "/$d$locale/products/family/$d$family/__PAGE__",
+      "bytes": 12048,
+      "sha256": "6d714d6ee8595f67a036c685ae99a6574ed9ee49cada40a7393cc072c9744573",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/products/family/paste/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+      "alias": "out/ar/products/family/paste/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "route": "/ar/products/family/paste/",
+      "segmentPath": "/$d$locale/products/family/$d$family/__PAGE__",
+      "bytes": 12051,
+      "sha256": "09ab10b959fd5a2751d9a04114780dc10a1707c05cee80faa4965541fa39bd3b",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/products/family/pulses/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+      "alias": "out/ar/products/family/pulses/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "route": "/ar/products/family/pulses/",
+      "segmentPath": "/$d$locale/products/family/$d$family/__PAGE__",
+      "bytes": 11924,
+      "sha256": "d7daf4a1ea2ee280e6aade17d3fec363d285f96bb739438349ed41377da0e1ed",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/products/family/roasted/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+      "alias": "out/ar/products/family/roasted/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "route": "/ar/products/family/roasted/",
+      "segmentPath": "/$d$locale/products/family/$d$family/__PAGE__",
+      "bytes": 12111,
+      "sha256": "b1361e8de0dadd297191310ea173e2c04ee5f0489b9319a91a29d058a50dec4b",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/products/family/sauce/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+      "alias": "out/ar/products/family/sauce/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "route": "/ar/products/family/sauce/",
+      "segmentPath": "/$d$locale/products/family/$d$family/__PAGE__",
+      "bytes": 11670,
+      "sha256": "1501ecfaceac8d9e3f4928d6cb2339eb15fb87192c6b5e3a83247e95d525e502",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/products/family/vegetables/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+      "alias": "out/ar/products/family/vegetables/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "route": "/ar/products/family/vegetables/",
+      "segmentPath": "/$d$locale/products/family/$d$family/__PAGE__",
+      "bytes": 11808,
+      "sha256": "db39d06237a8d22e34da9b9d7deecff12612e8c7f9a99d1f5b7688e5aa67b2bb",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/products/haslanmis-nohut/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/ar/products/haslanmis-nohut/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/ar/products/haslanmis-nohut/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 21455,
+      "sha256": "8ac7d0aee0a1fe32d1809b4be49a638d3e6c3f32cf6b66f80d38850d41021767",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/products/ketcap/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/ar/products/ketcap/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/ar/products/ketcap/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 28957,
+      "sha256": "a183cdb5ba76aa1aba63bc1367750d3c51d7ac3934d3abdd4897963b5e8b5efc",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/products/kozlenmis-biber/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/ar/products/kozlenmis-biber/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/ar/products/kozlenmis-biber/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 20980,
+      "sha256": "c5e35c7574278a291dd1cbef204d2d7019e2dbfad6acbe57ba85171857f8db4c",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/products/mayonez/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/ar/products/mayonez/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/ar/products/mayonez/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 27064,
+      "sha256": "e7a2f79f1d407b4a707ec5f30c467757f8ee5357c6aa22cceb1dfa375f14abed",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/products/yaprak-sarma/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/ar/products/yaprak-sarma/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/ar/products/yaprak-sarma/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 22683,
+      "sha256": "78d9573a494e1fe9ceba80d7bd47549a3349c956aaa15915e1fa8b3e5ccfb79f",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/quality/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/ar/quality/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/ar/quality/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 10890,
+      "sha256": "75cbadd89a6c9327fbfdf681ad8285d887621ab62ddd34cb511b4bbc44f6bcd9",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/ar/sitemap/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/ar/sitemap/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/ar/sitemap/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 18060,
+      "sha256": "58921ccf3ef4c0b69e56076db1fae8254ef8990a5d7ab605c8a9dc9e3c2b064c",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/__next.$d$locale/__PAGE__.txt",
+      "alias": "out/en/__next.$d$locale.__PAGE__.txt",
+      "route": "/en/",
+      "segmentPath": "/$d$locale/__PAGE__",
+      "bytes": 22049,
+      "sha256": "8ae2c5ecf226c14b92f1ac0ed6d5dff01eacf4df480f2cec8fc9425223647f22",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/about/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/en/about/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/en/about/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 12740,
+      "sha256": "f091d2cd2c8afea2237124956fed0aca16c8949be7b7ec9396b9817660354647",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/careers/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/en/careers/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/en/careers/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 9069,
+      "sha256": "3ca102e99fa0813d5dc957f96740882d8f3acbfdc0ccb4703c9c5c75632bfd70",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/certificates/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/en/certificates/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/en/certificates/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 13513,
+      "sha256": "5a8bdec3b9cf6de3235c690e78cefdf028802b7bc0402a10e35c3c897c04c603",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/contact/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/en/contact/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/en/contact/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 7457,
+      "sha256": "24df0308ffa9d693cf57d3180a2758bec368bcaac099f6022fa2faffdf95ca1e",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/cookies/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/en/cookies/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/en/cookies/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 6682,
+      "sha256": "cc6172be40183006ef32e2f9d589ee95984ffc1abdc727dc4f7a7326bca12322",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/corporate-sales/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/en/corporate-sales/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/en/corporate-sales/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 12375,
+      "sha256": "75c1408fab0098594055e691e0ded71ef84f7455df0a385613a70aa6671684eb",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/facilities/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/en/facilities/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/en/facilities/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 11522,
+      "sha256": "b7b7d6199e415197b266fd78a287a08ecd9d9858d41958a1ab254d597b9d49db",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/food-safety/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/en/food-safety/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/en/food-safety/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 9959,
+      "sha256": "52f8c0d0ac8a0a548d23d043fafc1efb210aeaac5846b8e17cfe0214b6e0d62c",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/global/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/en/global/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/en/global/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 12474,
+      "sha256": "dcdabc1507a90f399537a66c1d074408ae834bfc7f9b1e5e1f3f6d96417a91d5",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/kitchen/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/en/kitchen/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/en/kitchen/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 12030,
+      "sha256": "42150bec388808f17c255f86172d458ef53899cf53b3dad9061cc13322b50aef",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/kvkk/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/en/kvkk/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/en/kvkk/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 6803,
+      "sha256": "e08c6edfb3d3ad21cc56ebec74b68268cafa32ac7fb8056130d120f41a35c202",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/media/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/en/media/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/en/media/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 9996,
+      "sha256": "b2ef76c9fe79344b172cae15315887098971585a38266fb0026975ea7c8aa6df",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/privacy/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/en/privacy/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/en/privacy/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 7334,
+      "sha256": "295308995b0782043ee5077a4d1d4b75aea7c6dd6bedb129666fce69eef8c53a",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/products/__next.$d$locale/products/__PAGE__.txt",
+      "alias": "out/en/products/__next.$d$locale.products.__PAGE__.txt",
+      "route": "/en/products/",
+      "segmentPath": "/$d$locale/products/__PAGE__",
+      "bytes": 10169,
+      "sha256": "aa6c3412445f89513a27b044f42397d854c23d94498da7e0f1221a677ae6b9e0",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/products/2si1arada/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/en/products/2si1arada/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/en/products/2si1arada/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 25494,
+      "sha256": "f4a8f6cec7a7040317051413caaa0f7ddfbd1d27ae5a00e2d98e2475b9194294",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/products/barbunya-pilaki/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/en/products/barbunya-pilaki/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/en/products/barbunya-pilaki/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 20241,
+      "sha256": "04ef90b977457d8c3612702b88e323f3998bdbeb50810eba8ec55cb77cfd528b",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/products/bezelye/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/en/products/bezelye/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/en/products/bezelye/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 20471,
+      "sha256": "04f5b086c0df29f6cecd6c0279a01addfdc5d355755591e0f2bcb20ade0f23d7",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/products/biber-salcasi/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/en/products/biber-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/en/products/biber-salcasi/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 33148,
+      "sha256": "378bbcb556d0b8bf6f0020d0dedcd1878eadd2b701098f84ecefa0d8adbf78ea",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/products/domates-salcasi/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/en/products/domates-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/en/products/domates-salcasi/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 30472,
+      "sha256": "798b05ab3919f8bde1b5b2afee4569130c312ac9386a77d3a569bf4ad30a9005",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/products/family/meals/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+      "alias": "out/en/products/family/meals/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "route": "/en/products/family/meals/",
+      "segmentPath": "/$d$locale/products/family/$d$family/__PAGE__",
+      "bytes": 10193,
+      "sha256": "fe6eda1f2d285fa980c35ddf9c71af25694cd54f0f50274e4db893d7398554c7",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/products/family/paste/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+      "alias": "out/en/products/family/paste/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "route": "/en/products/family/paste/",
+      "segmentPath": "/$d$locale/products/family/$d$family/__PAGE__",
+      "bytes": 10267,
+      "sha256": "7a1c3f13e69213939f8c6ffb6e03f01cad450458876c677abcdde1eb7188d1ca",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/products/family/pulses/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+      "alias": "out/en/products/family/pulses/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "route": "/en/products/family/pulses/",
+      "segmentPath": "/$d$locale/products/family/$d$family/__PAGE__",
+      "bytes": 10126,
+      "sha256": "db444296dec1b81857937d6578a1e93db5b16583a8395581c876f74c55176977",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/products/family/roasted/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+      "alias": "out/en/products/family/roasted/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "route": "/en/products/family/roasted/",
+      "segmentPath": "/$d$locale/products/family/$d$family/__PAGE__",
+      "bytes": 10237,
+      "sha256": "30f2f5020e709dc310d0548bfd5c5d6d47d904070e29d434ac63d3ba465f2a3a",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/products/family/sauce/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+      "alias": "out/en/products/family/sauce/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "route": "/en/products/family/sauce/",
+      "segmentPath": "/$d$locale/products/family/$d$family/__PAGE__",
+      "bytes": 9930,
+      "sha256": "98cb1a3c6ce67a4568edf5bf393dece294c3d5bde448601c6dde95d93bd08c58",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/products/family/vegetables/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+      "alias": "out/en/products/family/vegetables/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "route": "/en/products/family/vegetables/",
+      "segmentPath": "/$d$locale/products/family/$d$family/__PAGE__",
+      "bytes": 10039,
+      "sha256": "e72dd4f4f7ba6db7ebfd4442175c0882d3fd92fb114b14221e7361e1cc36bd8c",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/products/haslanmis-nohut/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/en/products/haslanmis-nohut/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/en/products/haslanmis-nohut/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 20094,
+      "sha256": "114cdb48c615cb1a34fdfa8fa9aafbabcb294716a8f2f193220180215c88acc1",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/products/ketcap/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/en/products/ketcap/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/en/products/ketcap/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 27400,
+      "sha256": "3644b888c90fe854a47957381f0316124b3dd9eea8f8b008f1c1a4be05b4c85c",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/products/kozlenmis-biber/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/en/products/kozlenmis-biber/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/en/products/kozlenmis-biber/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 19434,
+      "sha256": "8fd76f0f3143dfb2cbde813d04f694e11d5bf6cce195d5713d8cc0bb9aa3c7f7",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/products/mayonez/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/en/products/mayonez/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/en/products/mayonez/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 25638,
+      "sha256": "f5408ae890e543d57c59c596f5027d5ff24d3376ac214edc4d683d174705bc38",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/products/yaprak-sarma/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/en/products/yaprak-sarma/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/en/products/yaprak-sarma/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 21112,
+      "sha256": "b6e2f79359e0112602ad216060386587af1c0acd635a3f7e645a9b45ee0ee34c",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/quality/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/en/quality/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/en/quality/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 10177,
+      "sha256": "194cd740bdcbd5891673577d7bf48ea78cd26f1fcaad7954c9e61ebc435a741a",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/en/sitemap/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/en/sitemap/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/en/sitemap/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 17399,
+      "sha256": "e6801c84f89e2d824f18ffd8ba14a3e04d32a9ed7aa1beb7c90c7da9c26081a1",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/__next.$d$locale/__PAGE__.txt",
+      "alias": "out/tr/__next.$d$locale.__PAGE__.txt",
+      "route": "/tr/",
+      "segmentPath": "/$d$locale/__PAGE__",
+      "bytes": 22011,
+      "sha256": "e776e21813e8bfe357b40e2a685d421b8451964ff6b2b79c5b94f2040eba905d",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/about/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/tr/about/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/tr/about/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 13007,
+      "sha256": "969385ced76b49a5e5bf8f8224ea11c9c46813a3a024c57a8bf3238a8540a797",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/careers/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/tr/careers/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/tr/careers/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 9219,
+      "sha256": "1d0c11b95b8b787a4885600b32bd13ac8db7908bd8d90ff45933bac88a99874b",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/certificates/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/tr/certificates/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/tr/certificates/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 13498,
+      "sha256": "ecc4b2114666b6fef83ed788a64ec2fb2b50e9dd45cb6f82aa5a447921483e5e",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/contact/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/tr/contact/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/tr/contact/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 7502,
+      "sha256": "892b08a0386d4dce09a57cbd23a8383aeb1fe81b2feb158f538fbfa0949f9e07",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/cookies/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/tr/cookies/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/tr/cookies/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 6865,
+      "sha256": "dd6270c95064ebdd3ca38f3cfd45a9662192a42f3b77c90e0727b5464c2dacc8",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/corporate-sales/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/tr/corporate-sales/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/tr/corporate-sales/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 12640,
+      "sha256": "feac6deafcd6948885b0cfd39b4319e1ca72397c57de43b78e25d8d41e6bc90b",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/facilities/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/tr/facilities/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/tr/facilities/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 11486,
+      "sha256": "e017e20590f9d978eafdde4d19cd5db93b62e19597504e9a03512dee98960fbf",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/food-safety/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/tr/food-safety/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/tr/food-safety/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 10269,
+      "sha256": "0e378b134fb609fd119253d0a1fbdfb7ec5851d279757e1f33646431ac1a8403",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/global/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/tr/global/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/tr/global/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 12688,
+      "sha256": "991f6917ffd84928e6f497f275b513c46f8f9c004a4fd5b3939ad01222f908f4",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/kitchen/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/tr/kitchen/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/tr/kitchen/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 12170,
+      "sha256": "b0b67552e8bc71f7c2ee560676d88fa6b7fee3ad97c4dc51a227ea4798709aa5",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/kvkk/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/tr/kvkk/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/tr/kvkk/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 6902,
+      "sha256": "ad978ff34421fc6a1fe93db44c83b2144849c751f28644b5cf6ad90cb3d00e90",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/media/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/tr/media/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/tr/media/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 9909,
+      "sha256": "a08a2a36cbfce323698dac63db5055b56a42045df30015191f80268b32392a65",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/privacy/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/tr/privacy/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/tr/privacy/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 7377,
+      "sha256": "b74755299cfc7e4248c898448d2c1be16770e16330d8b958f55a052f4e8e7088",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/products/__next.$d$locale/products/__PAGE__.txt",
+      "alias": "out/tr/products/__next.$d$locale.products.__PAGE__.txt",
+      "route": "/tr/products/",
+      "segmentPath": "/$d$locale/products/__PAGE__",
+      "bytes": 10076,
+      "sha256": "2cfbcd3e93f88714b75c7aeea779d59dd2ceefda081c88984a48bd534a6e6912",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/products/2si1arada/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/tr/products/2si1arada/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/tr/products/2si1arada/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 25615,
+      "sha256": "06bfef2aaccc0e4584b2b2b1967f2caa4c3b646e8aa72dc13786e037293d32cb",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/products/barbunya-pilaki/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/tr/products/barbunya-pilaki/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/tr/products/barbunya-pilaki/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 20302,
+      "sha256": "e3dab56d81260a437f49ad0d057eca787ce8e70da53015107a894b85bb41146f",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/products/bezelye/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/tr/products/bezelye/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/tr/products/bezelye/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 20781,
+      "sha256": "630ae61fbd97bb1a6da0d0a5758bfd667ed80947bbeb9a58bf0e257c885fd0c8",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/products/biber-salcasi/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/tr/products/biber-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/tr/products/biber-salcasi/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 33398,
+      "sha256": "002ffe0ec35ff7a0d74e9c417cf4839e908dfa28c48c90feb4edbef34d06cd8c",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/products/domates-salcasi/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/tr/products/domates-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/tr/products/domates-salcasi/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 30811,
+      "sha256": "1245a1144d8272cc382902978ef9f1bf68415cbbe02a274700f6d3be3b134fea",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/products/family/meals/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+      "alias": "out/tr/products/family/meals/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "route": "/tr/products/family/meals/",
+      "segmentPath": "/$d$locale/products/family/$d$family/__PAGE__",
+      "bytes": 10133,
+      "sha256": "1cde7fe29a96c281575772131176b389076cc388ee8930125ddbd211c1da6c1a",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/products/family/paste/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+      "alias": "out/tr/products/family/paste/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "route": "/tr/products/family/paste/",
+      "segmentPath": "/$d$locale/products/family/$d$family/__PAGE__",
+      "bytes": 10205,
+      "sha256": "2187efa25b23bb3f1399a9395fc84d56cc2600a91143b465ab72a52f65eec1c3",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/products/family/pulses/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+      "alias": "out/tr/products/family/pulses/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "route": "/tr/products/family/pulses/",
+      "segmentPath": "/$d$locale/products/family/$d$family/__PAGE__",
+      "bytes": 10063,
+      "sha256": "092e339b72475615d3a0c86eeee9f4c5d65f830a3d29a3760fb0b206537d49da",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/products/family/roasted/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+      "alias": "out/tr/products/family/roasted/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "route": "/tr/products/family/roasted/",
+      "segmentPath": "/$d$locale/products/family/$d$family/__PAGE__",
+      "bytes": 10157,
+      "sha256": "5e37a319bc30e7f7d998f61798237e8d615d42f1d5824c24da5ea8b998750d53",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/products/family/sauce/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+      "alias": "out/tr/products/family/sauce/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "route": "/tr/products/family/sauce/",
+      "segmentPath": "/$d$locale/products/family/$d$family/__PAGE__",
+      "bytes": 9895,
+      "sha256": "91eb0e9de1195a84badc248f38ed155e8219669f773ce472bdfc4edce49ca5e4",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/products/family/vegetables/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+      "alias": "out/tr/products/family/vegetables/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+      "route": "/tr/products/family/vegetables/",
+      "segmentPath": "/$d$locale/products/family/$d$family/__PAGE__",
+      "bytes": 9999,
+      "sha256": "a6e3ba8ffb934af44f772a7e9e5b8e0c97723cdcf12d5cc71768439ea9fc527b",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/products/haslanmis-nohut/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/tr/products/haslanmis-nohut/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/tr/products/haslanmis-nohut/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 20235,
+      "sha256": "60e93b4a2bf01c3af6a49ace0b99a9c582601c1c24303a68fa2d4248093a7de7",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/products/ketcap/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/tr/products/ketcap/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/tr/products/ketcap/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 27450,
+      "sha256": "5de7e0418cf35146b0b32973d26ebbb2f469bcb9c76715833c42ddb2dcdd2745",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/products/kozlenmis-biber/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/tr/products/kozlenmis-biber/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/tr/products/kozlenmis-biber/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 19493,
+      "sha256": "7228f78a729e44354948b347d9f51767f359071dfd17ff88b828163e81467bac",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/products/mayonez/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/tr/products/mayonez/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/tr/products/mayonez/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 25536,
+      "sha256": "cf08a9c78ff8b9f6c10e393d09a88e43f991f21509731437230fe5efbc292c44",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/products/yaprak-sarma/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+      "alias": "out/tr/products/yaprak-sarma/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "route": "/tr/products/yaprak-sarma/",
+      "segmentPath": "/$d$locale/products/$d$slug/__PAGE__",
+      "bytes": 21080,
+      "sha256": "77d1ae67e6ee417b27d3b18c06ff642e7ade86e57e6a4dc3a7d7ff49182f21d0",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/quality/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/tr/quality/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/tr/quality/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 10455,
+      "sha256": "4bda12979d00c7f30003516421d226c3465e244eb622f7dae9e6fb0807c255f5",
+      "status": "created",
+      "byteIdentical": true
+    },
+    {
+      "source": "out/tr/sitemap/__next.$d$locale/$d$section/__PAGE__.txt",
+      "alias": "out/tr/sitemap/__next.$d$locale.$d$section.__PAGE__.txt",
+      "route": "/tr/sitemap/",
+      "segmentPath": "/$d$locale/$d$section/__PAGE__",
+      "bytes": 17497,
+      "sha256": "ea916a8e1d08e692aa615bd92d974dc51cf0b8fd3ddd515cabaa5b3b2da88b92",
+      "status": "created",
+      "byteIdentical": true
+    }
+  ],
+  "verification": {
+    "nextVersion": "16.4.0",
+    "aliasCount": 101,
+    "expectedPageFlightCount": 99,
+    "verifiedPageFlightCount": 99,
+    "byteIdentityPassed": true,
+    "originalsPreserved": true,
+    "filesystemVerificationOnly": true,
+    "httpVerificationPerformed": false,
+    "pageFlights": [
+      {
+        "route": "/tr/",
+        "requestPath": "/tr/__next.$d$locale.__PAGE__.txt",
+        "source": "out/tr/__next.$d$locale/__PAGE__.txt",
+        "alias": "out/tr/__next.$d$locale.__PAGE__.txt",
+        "bytes": 22011,
+        "sha256": "e776e21813e8bfe357b40e2a685d421b8451964ff6b2b79c5b94f2040eba905d",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/products/",
+        "requestPath": "/tr/products/__next.$d$locale.products.__PAGE__.txt",
+        "source": "out/tr/products/__next.$d$locale/products/__PAGE__.txt",
+        "alias": "out/tr/products/__next.$d$locale.products.__PAGE__.txt",
+        "bytes": 10076,
+        "sha256": "2cfbcd3e93f88714b75c7aeea779d59dd2ceefda081c88984a48bd534a6e6912",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/about/",
+        "requestPath": "/tr/about/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/tr/about/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/tr/about/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 13007,
+        "sha256": "969385ced76b49a5e5bf8f8224ea11c9c46813a3a024c57a8bf3238a8540a797",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/facilities/",
+        "requestPath": "/tr/facilities/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/tr/facilities/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/tr/facilities/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 11486,
+        "sha256": "e017e20590f9d978eafdde4d19cd5db93b62e19597504e9a03512dee98960fbf",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/quality/",
+        "requestPath": "/tr/quality/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/tr/quality/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/tr/quality/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 10455,
+        "sha256": "4bda12979d00c7f30003516421d226c3465e244eb622f7dae9e6fb0807c255f5",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/food-safety/",
+        "requestPath": "/tr/food-safety/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/tr/food-safety/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/tr/food-safety/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 10269,
+        "sha256": "0e378b134fb609fd119253d0a1fbdfb7ec5851d279757e1f33646431ac1a8403",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/certificates/",
+        "requestPath": "/tr/certificates/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/tr/certificates/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/tr/certificates/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 13498,
+        "sha256": "ecc4b2114666b6fef83ed788a64ec2fb2b50e9dd45cb6f82aa5a447921483e5e",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/careers/",
+        "requestPath": "/tr/careers/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/tr/careers/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/tr/careers/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 9219,
+        "sha256": "1d0c11b95b8b787a4885600b32bd13ac8db7908bd8d90ff45933bac88a99874b",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/corporate-sales/",
+        "requestPath": "/tr/corporate-sales/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/tr/corporate-sales/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/tr/corporate-sales/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 12640,
+        "sha256": "feac6deafcd6948885b0cfd39b4319e1ca72397c57de43b78e25d8d41e6bc90b",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/global/",
+        "requestPath": "/tr/global/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/tr/global/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/tr/global/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 12688,
+        "sha256": "991f6917ffd84928e6f497f275b513c46f8f9c004a4fd5b3939ad01222f908f4",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/kitchen/",
+        "requestPath": "/tr/kitchen/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/tr/kitchen/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/tr/kitchen/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 12170,
+        "sha256": "b0b67552e8bc71f7c2ee560676d88fa6b7fee3ad97c4dc51a227ea4798709aa5",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/media/",
+        "requestPath": "/tr/media/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/tr/media/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/tr/media/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 9909,
+        "sha256": "a08a2a36cbfce323698dac63db5055b56a42045df30015191f80268b32392a65",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/contact/",
+        "requestPath": "/tr/contact/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/tr/contact/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/tr/contact/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 7502,
+        "sha256": "892b08a0386d4dce09a57cbd23a8383aeb1fe81b2feb158f538fbfa0949f9e07",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/sitemap/",
+        "requestPath": "/tr/sitemap/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/tr/sitemap/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/tr/sitemap/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 17497,
+        "sha256": "ea916a8e1d08e692aa615bd92d974dc51cf0b8fd3ddd515cabaa5b3b2da88b92",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/privacy/",
+        "requestPath": "/tr/privacy/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/tr/privacy/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/tr/privacy/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 7377,
+        "sha256": "b74755299cfc7e4248c898448d2c1be16770e16330d8b958f55a052f4e8e7088",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/kvkk/",
+        "requestPath": "/tr/kvkk/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/tr/kvkk/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/tr/kvkk/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 6902,
+        "sha256": "ad978ff34421fc6a1fe93db44c83b2144849c751f28644b5cf6ad90cb3d00e90",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/cookies/",
+        "requestPath": "/tr/cookies/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/tr/cookies/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/tr/cookies/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 6865,
+        "sha256": "dd6270c95064ebdd3ca38f3cfd45a9662192a42f3b77c90e0727b5464c2dacc8",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/products/domates-salcasi/",
+        "requestPath": "/tr/products/domates-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/tr/products/domates-salcasi/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/tr/products/domates-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 30811,
+        "sha256": "1245a1144d8272cc382902978ef9f1bf68415cbbe02a274700f6d3be3b134fea",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/products/biber-salcasi/",
+        "requestPath": "/tr/products/biber-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/tr/products/biber-salcasi/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/tr/products/biber-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 33398,
+        "sha256": "002ffe0ec35ff7a0d74e9c417cf4839e908dfa28c48c90feb4edbef34d06cd8c",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/products/2si1arada/",
+        "requestPath": "/tr/products/2si1arada/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/tr/products/2si1arada/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/tr/products/2si1arada/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 25615,
+        "sha256": "06bfef2aaccc0e4584b2b2b1967f2caa4c3b646e8aa72dc13786e037293d32cb",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/products/ketcap/",
+        "requestPath": "/tr/products/ketcap/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/tr/products/ketcap/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/tr/products/ketcap/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 27450,
+        "sha256": "5de7e0418cf35146b0b32973d26ebbb2f469bcb9c76715833c42ddb2dcdd2745",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/products/mayonez/",
+        "requestPath": "/tr/products/mayonez/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/tr/products/mayonez/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/tr/products/mayonez/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 25536,
+        "sha256": "cf08a9c78ff8b9f6c10e393d09a88e43f991f21509731437230fe5efbc292c44",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/products/barbunya-pilaki/",
+        "requestPath": "/tr/products/barbunya-pilaki/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/tr/products/barbunya-pilaki/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/tr/products/barbunya-pilaki/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 20302,
+        "sha256": "e3dab56d81260a437f49ad0d057eca787ce8e70da53015107a894b85bb41146f",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/products/yaprak-sarma/",
+        "requestPath": "/tr/products/yaprak-sarma/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/tr/products/yaprak-sarma/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/tr/products/yaprak-sarma/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 21080,
+        "sha256": "77d1ae67e6ee417b27d3b18c06ff642e7ade86e57e6a4dc3a7d7ff49182f21d0",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/products/bezelye/",
+        "requestPath": "/tr/products/bezelye/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/tr/products/bezelye/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/tr/products/bezelye/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 20781,
+        "sha256": "630ae61fbd97bb1a6da0d0a5758bfd667ed80947bbeb9a58bf0e257c885fd0c8",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/products/haslanmis-nohut/",
+        "requestPath": "/tr/products/haslanmis-nohut/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/tr/products/haslanmis-nohut/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/tr/products/haslanmis-nohut/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 20235,
+        "sha256": "60e93b4a2bf01c3af6a49ace0b99a9c582601c1c24303a68fa2d4248093a7de7",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/products/kozlenmis-biber/",
+        "requestPath": "/tr/products/kozlenmis-biber/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/tr/products/kozlenmis-biber/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/tr/products/kozlenmis-biber/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 19493,
+        "sha256": "7228f78a729e44354948b347d9f51767f359071dfd17ff88b828163e81467bac",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/products/family/paste/",
+        "requestPath": "/tr/products/family/paste/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "source": "out/tr/products/family/paste/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+        "alias": "out/tr/products/family/paste/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "bytes": 10205,
+        "sha256": "2187efa25b23bb3f1399a9395fc84d56cc2600a91143b465ab72a52f65eec1c3",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/products/family/sauce/",
+        "requestPath": "/tr/products/family/sauce/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "source": "out/tr/products/family/sauce/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+        "alias": "out/tr/products/family/sauce/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "bytes": 9895,
+        "sha256": "91eb0e9de1195a84badc248f38ed155e8219669f773ce472bdfc4edce49ca5e4",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/products/family/vegetables/",
+        "requestPath": "/tr/products/family/vegetables/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "source": "out/tr/products/family/vegetables/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+        "alias": "out/tr/products/family/vegetables/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "bytes": 9999,
+        "sha256": "a6e3ba8ffb934af44f772a7e9e5b8e0c97723cdcf12d5cc71768439ea9fc527b",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/products/family/pulses/",
+        "requestPath": "/tr/products/family/pulses/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "source": "out/tr/products/family/pulses/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+        "alias": "out/tr/products/family/pulses/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "bytes": 10063,
+        "sha256": "092e339b72475615d3a0c86eeee9f4c5d65f830a3d29a3760fb0b206537d49da",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/products/family/meals/",
+        "requestPath": "/tr/products/family/meals/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "source": "out/tr/products/family/meals/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+        "alias": "out/tr/products/family/meals/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "bytes": 10133,
+        "sha256": "1cde7fe29a96c281575772131176b389076cc388ee8930125ddbd211c1da6c1a",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/tr/products/family/roasted/",
+        "requestPath": "/tr/products/family/roasted/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "source": "out/tr/products/family/roasted/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+        "alias": "out/tr/products/family/roasted/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "bytes": 10157,
+        "sha256": "5e37a319bc30e7f7d998f61798237e8d615d42f1d5824c24da5ea8b998750d53",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/",
+        "requestPath": "/en/__next.$d$locale.__PAGE__.txt",
+        "source": "out/en/__next.$d$locale/__PAGE__.txt",
+        "alias": "out/en/__next.$d$locale.__PAGE__.txt",
+        "bytes": 22049,
+        "sha256": "8ae2c5ecf226c14b92f1ac0ed6d5dff01eacf4df480f2cec8fc9425223647f22",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/products/",
+        "requestPath": "/en/products/__next.$d$locale.products.__PAGE__.txt",
+        "source": "out/en/products/__next.$d$locale/products/__PAGE__.txt",
+        "alias": "out/en/products/__next.$d$locale.products.__PAGE__.txt",
+        "bytes": 10169,
+        "sha256": "aa6c3412445f89513a27b044f42397d854c23d94498da7e0f1221a677ae6b9e0",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/about/",
+        "requestPath": "/en/about/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/en/about/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/en/about/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 12740,
+        "sha256": "f091d2cd2c8afea2237124956fed0aca16c8949be7b7ec9396b9817660354647",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/facilities/",
+        "requestPath": "/en/facilities/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/en/facilities/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/en/facilities/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 11522,
+        "sha256": "b7b7d6199e415197b266fd78a287a08ecd9d9858d41958a1ab254d597b9d49db",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/quality/",
+        "requestPath": "/en/quality/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/en/quality/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/en/quality/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 10177,
+        "sha256": "194cd740bdcbd5891673577d7bf48ea78cd26f1fcaad7954c9e61ebc435a741a",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/food-safety/",
+        "requestPath": "/en/food-safety/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/en/food-safety/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/en/food-safety/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 9959,
+        "sha256": "52f8c0d0ac8a0a548d23d043fafc1efb210aeaac5846b8e17cfe0214b6e0d62c",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/certificates/",
+        "requestPath": "/en/certificates/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/en/certificates/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/en/certificates/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 13513,
+        "sha256": "5a8bdec3b9cf6de3235c690e78cefdf028802b7bc0402a10e35c3c897c04c603",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/careers/",
+        "requestPath": "/en/careers/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/en/careers/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/en/careers/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 9069,
+        "sha256": "3ca102e99fa0813d5dc957f96740882d8f3acbfdc0ccb4703c9c5c75632bfd70",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/corporate-sales/",
+        "requestPath": "/en/corporate-sales/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/en/corporate-sales/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/en/corporate-sales/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 12375,
+        "sha256": "75c1408fab0098594055e691e0ded71ef84f7455df0a385613a70aa6671684eb",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/global/",
+        "requestPath": "/en/global/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/en/global/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/en/global/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 12474,
+        "sha256": "dcdabc1507a90f399537a66c1d074408ae834bfc7f9b1e5e1f3f6d96417a91d5",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/kitchen/",
+        "requestPath": "/en/kitchen/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/en/kitchen/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/en/kitchen/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 12030,
+        "sha256": "42150bec388808f17c255f86172d458ef53899cf53b3dad9061cc13322b50aef",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/media/",
+        "requestPath": "/en/media/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/en/media/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/en/media/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 9996,
+        "sha256": "b2ef76c9fe79344b172cae15315887098971585a38266fb0026975ea7c8aa6df",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/contact/",
+        "requestPath": "/en/contact/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/en/contact/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/en/contact/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 7457,
+        "sha256": "24df0308ffa9d693cf57d3180a2758bec368bcaac099f6022fa2faffdf95ca1e",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/sitemap/",
+        "requestPath": "/en/sitemap/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/en/sitemap/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/en/sitemap/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 17399,
+        "sha256": "e6801c84f89e2d824f18ffd8ba14a3e04d32a9ed7aa1beb7c90c7da9c26081a1",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/privacy/",
+        "requestPath": "/en/privacy/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/en/privacy/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/en/privacy/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 7334,
+        "sha256": "295308995b0782043ee5077a4d1d4b75aea7c6dd6bedb129666fce69eef8c53a",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/kvkk/",
+        "requestPath": "/en/kvkk/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/en/kvkk/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/en/kvkk/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 6803,
+        "sha256": "e08c6edfb3d3ad21cc56ebec74b68268cafa32ac7fb8056130d120f41a35c202",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/cookies/",
+        "requestPath": "/en/cookies/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/en/cookies/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/en/cookies/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 6682,
+        "sha256": "cc6172be40183006ef32e2f9d589ee95984ffc1abdc727dc4f7a7326bca12322",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/products/domates-salcasi/",
+        "requestPath": "/en/products/domates-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/en/products/domates-salcasi/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/en/products/domates-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 30472,
+        "sha256": "798b05ab3919f8bde1b5b2afee4569130c312ac9386a77d3a569bf4ad30a9005",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/products/biber-salcasi/",
+        "requestPath": "/en/products/biber-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/en/products/biber-salcasi/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/en/products/biber-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 33148,
+        "sha256": "378bbcb556d0b8bf6f0020d0dedcd1878eadd2b701098f84ecefa0d8adbf78ea",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/products/2si1arada/",
+        "requestPath": "/en/products/2si1arada/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/en/products/2si1arada/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/en/products/2si1arada/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 25494,
+        "sha256": "f4a8f6cec7a7040317051413caaa0f7ddfbd1d27ae5a00e2d98e2475b9194294",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/products/ketcap/",
+        "requestPath": "/en/products/ketcap/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/en/products/ketcap/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/en/products/ketcap/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 27400,
+        "sha256": "3644b888c90fe854a47957381f0316124b3dd9eea8f8b008f1c1a4be05b4c85c",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/products/mayonez/",
+        "requestPath": "/en/products/mayonez/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/en/products/mayonez/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/en/products/mayonez/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 25638,
+        "sha256": "f5408ae890e543d57c59c596f5027d5ff24d3376ac214edc4d683d174705bc38",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/products/barbunya-pilaki/",
+        "requestPath": "/en/products/barbunya-pilaki/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/en/products/barbunya-pilaki/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/en/products/barbunya-pilaki/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 20241,
+        "sha256": "04ef90b977457d8c3612702b88e323f3998bdbeb50810eba8ec55cb77cfd528b",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/products/yaprak-sarma/",
+        "requestPath": "/en/products/yaprak-sarma/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/en/products/yaprak-sarma/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/en/products/yaprak-sarma/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 21112,
+        "sha256": "b6e2f79359e0112602ad216060386587af1c0acd635a3f7e645a9b45ee0ee34c",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/products/bezelye/",
+        "requestPath": "/en/products/bezelye/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/en/products/bezelye/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/en/products/bezelye/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 20471,
+        "sha256": "04f5b086c0df29f6cecd6c0279a01addfdc5d355755591e0f2bcb20ade0f23d7",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/products/haslanmis-nohut/",
+        "requestPath": "/en/products/haslanmis-nohut/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/en/products/haslanmis-nohut/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/en/products/haslanmis-nohut/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 20094,
+        "sha256": "114cdb48c615cb1a34fdfa8fa9aafbabcb294716a8f2f193220180215c88acc1",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/products/kozlenmis-biber/",
+        "requestPath": "/en/products/kozlenmis-biber/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/en/products/kozlenmis-biber/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/en/products/kozlenmis-biber/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 19434,
+        "sha256": "8fd76f0f3143dfb2cbde813d04f694e11d5bf6cce195d5713d8cc0bb9aa3c7f7",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/products/family/paste/",
+        "requestPath": "/en/products/family/paste/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "source": "out/en/products/family/paste/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+        "alias": "out/en/products/family/paste/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "bytes": 10267,
+        "sha256": "7a1c3f13e69213939f8c6ffb6e03f01cad450458876c677abcdde1eb7188d1ca",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/products/family/sauce/",
+        "requestPath": "/en/products/family/sauce/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "source": "out/en/products/family/sauce/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+        "alias": "out/en/products/family/sauce/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "bytes": 9930,
+        "sha256": "98cb1a3c6ce67a4568edf5bf393dece294c3d5bde448601c6dde95d93bd08c58",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/products/family/vegetables/",
+        "requestPath": "/en/products/family/vegetables/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "source": "out/en/products/family/vegetables/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+        "alias": "out/en/products/family/vegetables/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "bytes": 10039,
+        "sha256": "e72dd4f4f7ba6db7ebfd4442175c0882d3fd92fb114b14221e7361e1cc36bd8c",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/products/family/pulses/",
+        "requestPath": "/en/products/family/pulses/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "source": "out/en/products/family/pulses/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+        "alias": "out/en/products/family/pulses/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "bytes": 10126,
+        "sha256": "db444296dec1b81857937d6578a1e93db5b16583a8395581c876f74c55176977",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/products/family/meals/",
+        "requestPath": "/en/products/family/meals/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "source": "out/en/products/family/meals/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+        "alias": "out/en/products/family/meals/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "bytes": 10193,
+        "sha256": "fe6eda1f2d285fa980c35ddf9c71af25694cd54f0f50274e4db893d7398554c7",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/en/products/family/roasted/",
+        "requestPath": "/en/products/family/roasted/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "source": "out/en/products/family/roasted/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+        "alias": "out/en/products/family/roasted/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "bytes": 10237,
+        "sha256": "30f2f5020e709dc310d0548bfd5c5d6d47d904070e29d434ac63d3ba465f2a3a",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/",
+        "requestPath": "/ar/__next.$d$locale.__PAGE__.txt",
+        "source": "out/ar/__next.$d$locale/__PAGE__.txt",
+        "alias": "out/ar/__next.$d$locale.__PAGE__.txt",
+        "bytes": 24392,
+        "sha256": "59202e16e47298966a0f57131338c3f923a504a8dcbc10cc681656bf859f7d98",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/products/",
+        "requestPath": "/ar/products/__next.$d$locale.products.__PAGE__.txt",
+        "source": "out/ar/products/__next.$d$locale/products/__PAGE__.txt",
+        "alias": "out/ar/products/__next.$d$locale.products.__PAGE__.txt",
+        "bytes": 12142,
+        "sha256": "e360d64c5d5e189179edf433d2ddaed3b28fed182981f95e3c9548946c74e2f5",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/about/",
+        "requestPath": "/ar/about/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/ar/about/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/ar/about/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 13928,
+        "sha256": "c60f1a55202bd6859e0c92143f99e3a4b337362861cef1f806594e95eda994be",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/facilities/",
+        "requestPath": "/ar/facilities/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/ar/facilities/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/ar/facilities/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 12418,
+        "sha256": "b18e39b40ef1471f52d91d2084555313d93a28fbde5e79b772c98a8c57c05144",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/quality/",
+        "requestPath": "/ar/quality/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/ar/quality/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/ar/quality/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 10890,
+        "sha256": "75cbadd89a6c9327fbfdf681ad8285d887621ab62ddd34cb511b4bbc44f6bcd9",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/food-safety/",
+        "requestPath": "/ar/food-safety/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/ar/food-safety/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/ar/food-safety/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 10731,
+        "sha256": "fabdfd92cde1ca7d78c2b97f4b5284696e4bf01249e31a5b316c62fe3b701551",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/certificates/",
+        "requestPath": "/ar/certificates/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/ar/certificates/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/ar/certificates/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 14787,
+        "sha256": "cf8a950faffc86d505265dcd264288b3f619a912fedd45a3c9c381c94c04fc5f",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/careers/",
+        "requestPath": "/ar/careers/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/ar/careers/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/ar/careers/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 9871,
+        "sha256": "32f32f92f0fd4b1f827fd5f95ca49837b78a39682ebcc5a2f7d21eadfdce4197",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/corporate-sales/",
+        "requestPath": "/ar/corporate-sales/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/ar/corporate-sales/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/ar/corporate-sales/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 13297,
+        "sha256": "47a2b74ed6bf613bd2e72f5a628f01a4beee9c6d3f762470b56d9984ffef7498",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/global/",
+        "requestPath": "/ar/global/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/ar/global/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/ar/global/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 13445,
+        "sha256": "64a8405a90a8c47c0fb92c99d6d544f0a2faafd14c6b9a2220fc78a58a46be1f",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/kitchen/",
+        "requestPath": "/ar/kitchen/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/ar/kitchen/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/ar/kitchen/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 12779,
+        "sha256": "4ce174cebb06e8a6ae9881f23cc049035d8c62ef44c63443bb25a6a7fb62903e",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/media/",
+        "requestPath": "/ar/media/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/ar/media/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/ar/media/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 10695,
+        "sha256": "0f8da33ae9169b294e35e3c010d6a76405cf35d4b4fc2efdbdc20ed5102735b7",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/contact/",
+        "requestPath": "/ar/contact/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/ar/contact/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/ar/contact/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 8129,
+        "sha256": "da3e0d279e828e72ec7948d3f059cea379a273fcee73e7630497299c8de3d954",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/sitemap/",
+        "requestPath": "/ar/sitemap/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/ar/sitemap/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/ar/sitemap/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 18060,
+        "sha256": "58921ccf3ef4c0b69e56076db1fae8254ef8990a5d7ab605c8a9dc9e3c2b064c",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/privacy/",
+        "requestPath": "/ar/privacy/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/ar/privacy/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/ar/privacy/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 8242,
+        "sha256": "703fbee44639fcc15f51937a86cfcb7c9d1ccef41a991044f5fb0e2cec1d50ca",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/kvkk/",
+        "requestPath": "/ar/kvkk/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/ar/kvkk/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/ar/kvkk/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 7762,
+        "sha256": "27935b35bc051a3bd9fb728598236cf883d5bcd519943613dfa0fbc2dd361ea2",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/cookies/",
+        "requestPath": "/ar/cookies/__next.$d$locale.$d$section.__PAGE__.txt",
+        "source": "out/ar/cookies/__next.$d$locale/$d$section/__PAGE__.txt",
+        "alias": "out/ar/cookies/__next.$d$locale.$d$section.__PAGE__.txt",
+        "bytes": 7540,
+        "sha256": "7033703d18eb5bbc1c22eb8e7e656a0c6488b080581743c45c9d31a476c3206e",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/products/domates-salcasi/",
+        "requestPath": "/ar/products/domates-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/ar/products/domates-salcasi/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/ar/products/domates-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 32471,
+        "sha256": "e7d9611985c7652efb38e235078491826a420b4add2a8104b92d825cbc486a6a",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/products/biber-salcasi/",
+        "requestPath": "/ar/products/biber-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/ar/products/biber-salcasi/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/ar/products/biber-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 35118,
+        "sha256": "282bf52aa47b0c7caf283d78bcc7604021f5077feae3565e6f97150131092f58",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/products/2si1arada/",
+        "requestPath": "/ar/products/2si1arada/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/ar/products/2si1arada/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/ar/products/2si1arada/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 27320,
+        "sha256": "64285c625d6f4594d2979d2b46b7fe0be300fd3bdc4c7bd3687e225c968c9d36",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/products/ketcap/",
+        "requestPath": "/ar/products/ketcap/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/ar/products/ketcap/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/ar/products/ketcap/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 28957,
+        "sha256": "a183cdb5ba76aa1aba63bc1367750d3c51d7ac3934d3abdd4897963b5e8b5efc",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/products/mayonez/",
+        "requestPath": "/ar/products/mayonez/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/ar/products/mayonez/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/ar/products/mayonez/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 27064,
+        "sha256": "e7a2f79f1d407b4a707ec5f30c467757f8ee5357c6aa22cceb1dfa375f14abed",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/products/barbunya-pilaki/",
+        "requestPath": "/ar/products/barbunya-pilaki/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/ar/products/barbunya-pilaki/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/ar/products/barbunya-pilaki/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 21857,
+        "sha256": "cbcd1a9b9a4fba30af4e4c4629fe46b5f6ea3f6c9fb2ccec86f0f8d23dca6628",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/products/yaprak-sarma/",
+        "requestPath": "/ar/products/yaprak-sarma/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/ar/products/yaprak-sarma/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/ar/products/yaprak-sarma/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 22683,
+        "sha256": "78d9573a494e1fe9ceba80d7bd47549a3349c956aaa15915e1fa8b3e5ccfb79f",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/products/bezelye/",
+        "requestPath": "/ar/products/bezelye/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/ar/products/bezelye/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/ar/products/bezelye/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 22048,
+        "sha256": "b063a51269db5e11d646828cd303e9a6c01a3eb0cd1d9291f7566d429219f38e",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/products/haslanmis-nohut/",
+        "requestPath": "/ar/products/haslanmis-nohut/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/ar/products/haslanmis-nohut/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/ar/products/haslanmis-nohut/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 21455,
+        "sha256": "8ac7d0aee0a1fe32d1809b4be49a638d3e6c3f32cf6b66f80d38850d41021767",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/products/kozlenmis-biber/",
+        "requestPath": "/ar/products/kozlenmis-biber/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "source": "out/ar/products/kozlenmis-biber/__next.$d$locale/products/$d$slug/__PAGE__.txt",
+        "alias": "out/ar/products/kozlenmis-biber/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+        "bytes": 20980,
+        "sha256": "c5e35c7574278a291dd1cbef204d2d7019e2dbfad6acbe57ba85171857f8db4c",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/products/family/paste/",
+        "requestPath": "/ar/products/family/paste/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "source": "out/ar/products/family/paste/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+        "alias": "out/ar/products/family/paste/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "bytes": 12051,
+        "sha256": "09ab10b959fd5a2751d9a04114780dc10a1707c05cee80faa4965541fa39bd3b",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/products/family/sauce/",
+        "requestPath": "/ar/products/family/sauce/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "source": "out/ar/products/family/sauce/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+        "alias": "out/ar/products/family/sauce/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "bytes": 11670,
+        "sha256": "1501ecfaceac8d9e3f4928d6cb2339eb15fb87192c6b5e3a83247e95d525e502",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/products/family/vegetables/",
+        "requestPath": "/ar/products/family/vegetables/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "source": "out/ar/products/family/vegetables/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+        "alias": "out/ar/products/family/vegetables/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "bytes": 11808,
+        "sha256": "db39d06237a8d22e34da9b9d7deecff12612e8c7f9a99d1f5b7688e5aa67b2bb",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/products/family/pulses/",
+        "requestPath": "/ar/products/family/pulses/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "source": "out/ar/products/family/pulses/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+        "alias": "out/ar/products/family/pulses/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "bytes": 11924,
+        "sha256": "d7daf4a1ea2ee280e6aade17d3fec363d285f96bb739438349ed41377da0e1ed",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/products/family/meals/",
+        "requestPath": "/ar/products/family/meals/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "source": "out/ar/products/family/meals/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+        "alias": "out/ar/products/family/meals/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "bytes": 12048,
+        "sha256": "6d714d6ee8595f67a036c685ae99a6574ed9ee49cada40a7393cc072c9744573",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      },
+      {
+        "route": "/ar/products/family/roasted/",
+        "requestPath": "/ar/products/family/roasted/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "source": "out/ar/products/family/roasted/__next.$d$locale/products/family/$d$family/__PAGE__.txt",
+        "alias": "out/ar/products/family/roasted/__next.$d$locale.products.family.$d$family.__PAGE__.txt",
+        "bytes": 12111,
+        "sha256": "b1361e8de0dadd297191310ea173e2c04ee5f0489b9319a91a29d058a50dec4b",
+        "byteIdentical": true,
+        "nativeFlatExport": false
+      }
+    ]
+  }
+}

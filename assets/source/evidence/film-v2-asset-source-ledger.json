@@ -1,0 +1,1338 @@
+{
+  "schemaVersion": "2.0",
+  "projectId": "burcu-brand-film-tr-v2",
+  "updatedAt": "2026-10-12T13:37:21.013562+00:00",
+  "assets": [
+    {
+      "id": "PROD-domates-salcasi",
+      "kind": "authentic-product",
+      "authenticity": "official-brand-source",
+      "path": "public/products/domates-salcasi.png",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\domates-salcasi.png",
+      "sha256": "16894f5bd90ab23749434ae5ffabb04786c69db3971a86a5b81da02b5226ae34",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Domates-Salçasi.png",
+      "sourcePage": "https://www.burcu.com.tr/urunler/domates-salcasi/",
+      "sourceRetrievedAt": "2026-10-11T06:44:53.161Z",
+      "sourceCanvas": [
+        1024,
+        1024
+      ],
+      "preparedPath": "public/products/prepared/domates-salcasi.png",
+      "preparedSha256": "0dae3344c45e1f1733fbae13836c0558905baf8a5ce433052c96915ae4037862",
+      "nativePath": "public/products/native/domates-salcasi.png",
+      "nativeSha256": "f37b4965c3d326d678b6b09d4e38f31a32f632f5b9a9fff69b0cf21cf299defc",
+      "nativeDimensions": [
+        412,
+        698
+      ],
+      "sourcePixelCrop": [
+        309,
+        166,
+        721,
+        864
+      ],
+      "opaque128SourceBbox": [
+        309,
+        166,
+        721,
+        863
+      ],
+      "footAnchorPixels": [
+        206,
+        698
+      ],
+      "footBand": {
+        "height": 28,
+        "alpha128BBoxWithinBand": [
+          83,
+          0,
+          330,
+          27
+        ]
+      },
+      "maximumDisplayDimensions1080p": [
+        412,
+        698
+      ],
+      "recommendedDisplayScale": 0.9,
+      "rgbPreservedExactly": true,
+      "resampled": false,
+      "labelRedrawn": false,
+      "alphaProvenance": {
+        "sourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\prepared\\domates-salcasi.png",
+        "sourceSha256": "7a5f5991654701d908d71518bb3899ce74501ec79181f9cbce7b006adcc1f92a",
+        "method": "reuse V1 registered silhouette only; original source RGB restored exactly"
+      },
+      "notes": "Native crop has no source background/shadow outside the existing registered silhouette. Place on a scene-specific physical plane; no universal ellipse shadow."
+    },
+    {
+      "id": "PROD-biber-salcasi",
+      "kind": "authentic-product",
+      "authenticity": "official-brand-source",
+      "path": "public/products/biber-salcasi.png",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\biber-salcasi.png",
+      "sha256": "53b7e9f82d3545400e41e0b26734cfdacc3c229f55fd60518217966614e1f039",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Tatli-Biber-Salças.png",
+      "sourcePage": "https://www.burcu.com.tr/urunler/biber-salcasi/",
+      "sourceRetrievedAt": "2026-10-11T06:44:53.514Z",
+      "sourceCanvas": [
+        1024,
+        1024
+      ],
+      "preparedPath": "public/products/prepared/biber-salcasi.png",
+      "preparedSha256": "78e8d16efbce2f6935f4ff6d5c2e4eeba108fd5cdbed36a5bb12b454b7e2bc8a",
+      "nativePath": "public/products/native/biber-salcasi.png",
+      "nativeSha256": "e651c31a380fb9964dfa217a346726c6c238f36af3afa18fc38ec75c492e83a4",
+      "nativeDimensions": [
+        412,
+        697
+      ],
+      "sourcePixelCrop": [
+        309,
+        166,
+        721,
+        863
+      ],
+      "opaque128SourceBbox": [
+        309,
+        166,
+        721,
+        863
+      ],
+      "footAnchorPixels": [
+        206,
+        697
+      ],
+      "footBand": {
+        "height": 28,
+        "alpha128BBoxWithinBand": [
+          85,
+          0,
+          328,
+          28
+        ]
+      },
+      "maximumDisplayDimensions1080p": [
+        412,
+        697
+      ],
+      "recommendedDisplayScale": 0.9,
+      "rgbPreservedExactly": true,
+      "resampled": false,
+      "labelRedrawn": false,
+      "alphaProvenance": {
+        "sourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\prepared\\biber-salcasi.png",
+        "sourceSha256": "82de4ab8c090c46b84d9589d4e7c934e42a31c7aec5107a167298eb917429364",
+        "method": "reuse V1 registered silhouette only; original source RGB restored exactly"
+      },
+      "notes": "Native crop has no source background/shadow outside the existing registered silhouette. Place on a scene-specific physical plane; no universal ellipse shadow."
+    },
+    {
+      "id": "PROD-kozlenmis-biber",
+      "kind": "authentic-product",
+      "authenticity": "official-brand-source",
+      "path": "public/products/kozlenmis-biber.png",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\kozlenmis-biber.png",
+      "sha256": "c7218401bd8cb2933fe1b82ad50a926a2a07179bdb29682751362d62a834d40d",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/560gr-Közlenmiş-Biber-copy.png",
+      "sourcePage": "https://www.burcu.com.tr/urunler/kozlenmis-urunler/",
+      "sourceRetrievedAt": "2026-10-11T06:44:56.124Z",
+      "sourceCanvas": [
+        1024,
+        1024
+      ],
+      "preparedPath": "public/products/prepared/kozlenmis-biber.png",
+      "preparedSha256": "c7207e8430300160e68c956163b91b321b1c67fb1790c9c3a0cd7da854f6d007",
+      "nativePath": "public/products/native/kozlenmis-biber.png",
+      "nativeSha256": "b4f1ef279fa015b85d0deb69d29188f1f24c93cf2230c3363f11701e3695d140",
+      "nativeDimensions": [
+        367,
+        731
+      ],
+      "sourcePixelCrop": [
+        329,
+        147,
+        696,
+        878
+      ],
+      "opaque128SourceBbox": [
+        330,
+        147,
+        695,
+        877
+      ],
+      "footAnchorPixels": [
+        183.5,
+        731
+      ],
+      "footBand": {
+        "height": 28,
+        "alpha128BBoxWithinBand": [
+          65,
+          0,
+          303,
+          27
+        ]
+      },
+      "maximumDisplayDimensions1080p": [
+        367,
+        731
+      ],
+      "recommendedDisplayScale": 0.9,
+      "rgbPreservedExactly": true,
+      "resampled": false,
+      "labelRedrawn": false,
+      "alphaProvenance": {
+        "sourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\prepared\\kozlenmis-biber.png",
+        "sourceSha256": "207dad41400516e08028686dd6eac872c1a32ca77d2a7945f61958280d170ef2",
+        "method": "reuse V1 registered silhouette only; original source RGB restored exactly"
+      },
+      "notes": "Native crop has no source background/shadow outside the existing registered silhouette. Place on a scene-specific physical plane; no universal ellipse shadow."
+    },
+    {
+      "id": "PROD-haslanmis-nohut",
+      "kind": "authentic-product",
+      "authenticity": "official-brand-source",
+      "path": "public/products/haslanmis-nohut.png",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\haslanmis-nohut.png",
+      "sha256": "fd8e779c93e7680abddacdb312e034caf3890894218d512b5ceaf83e1439ccaa",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/600gr-Haşlanmiş-Nohut-copy.png",
+      "sourcePage": "https://www.burcu.com.tr/urunler/haslanmis-urunler/",
+      "sourceRetrievedAt": "2026-10-11T06:44:55.767Z",
+      "sourceCanvas": [
+        1024,
+        1024
+      ],
+      "preparedPath": "public/products/prepared/haslanmis-nohut.png",
+      "preparedSha256": "859b148fe90def156b437cc15e624ecd29d6a041d18943cb9f881f55b15d2bc4",
+      "nativePath": "public/products/native/haslanmis-nohut.png",
+      "nativeSha256": "8f4fbf97a955c554bb56754257218077c6356f10660b1f99f371d460c2282baa",
+      "nativeDimensions": [
+        310,
+        609
+      ],
+      "sourcePixelCrop": [
+        358,
+        208,
+        668,
+        817
+      ],
+      "opaque128SourceBbox": [
+        358,
+        208,
+        667,
+        817
+      ],
+      "footAnchorPixels": [
+        155,
+        609
+      ],
+      "footBand": {
+        "height": 28,
+        "alpha128BBoxWithinBand": [
+          50,
+          0,
+          262,
+          28
+        ]
+      },
+      "maximumDisplayDimensions1080p": [
+        310,
+        609
+      ],
+      "recommendedDisplayScale": 0.9,
+      "rgbPreservedExactly": true,
+      "resampled": false,
+      "labelRedrawn": false,
+      "alphaProvenance": {
+        "sourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\prepared\\haslanmis-nohut.png",
+        "sourceSha256": "9e28036880484e54c699801b3e42dffee36642bfcc08ff61df053ef7fbd9c5e6",
+        "method": "reuse V1 registered silhouette only; original source RGB restored exactly"
+      },
+      "notes": "Native crop has no source background/shadow outside the existing registered silhouette. Place on a scene-specific physical plane; no universal ellipse shadow."
+    },
+    {
+      "id": "PROD-bezelye",
+      "kind": "authentic-product",
+      "authenticity": "official-brand-source",
+      "path": "public/products/bezelye.png",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\bezelye.png",
+      "sha256": "41faaf0fa3d2d68eb2f87c9141d435d46c76fec9fa3294b47cb95ae14e9b7a0c",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/310gr-Bezelye-Konservesi-copy.png",
+      "sourcePage": "https://www.burcu.com.tr/urunler/konserveler/",
+      "sourceRetrievedAt": "2026-10-11T06:44:55.473Z",
+      "sourceCanvas": [
+        1024,
+        1024
+      ],
+      "preparedPath": "public/products/prepared/bezelye.png",
+      "preparedSha256": "70d2ea914035854146e68c731f70820b3d7a82c89a70623add5ad0cc03a536d1",
+      "nativePath": "public/products/native/bezelye.png",
+      "nativeSha256": "806564d86ee826f9c788d92a4061eb6638b8a78fb4ca32c1c056591264ceb1df",
+      "nativeDimensions": [
+        341,
+        579
+      ],
+      "sourcePixelCrop": [
+        345,
+        223,
+        686,
+        802
+      ],
+      "opaque128SourceBbox": [
+        345,
+        223,
+        684,
+        802
+      ],
+      "footAnchorPixels": [
+        170.5,
+        579
+      ],
+      "footBand": {
+        "height": 28,
+        "alpha128BBoxWithinBand": [
+          25,
+          0,
+          318,
+          28
+        ]
+      },
+      "maximumDisplayDimensions1080p": [
+        341,
+        579
+      ],
+      "recommendedDisplayScale": 0.9,
+      "rgbPreservedExactly": true,
+      "resampled": false,
+      "labelRedrawn": false,
+      "alphaProvenance": {
+        "sourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\prepared\\bezelye.png",
+        "sourceSha256": "14d0c85a765ea354186c9a26c37eae43bd19f3c255fd7f36a1dfd90cc449756e",
+        "method": "reuse V1 registered silhouette only; original source RGB restored exactly"
+      },
+      "notes": "Native crop has no source background/shadow outside the existing registered silhouette. Place on a scene-specific physical plane; no universal ellipse shadow."
+    },
+    {
+      "id": "PROD-ketcap",
+      "kind": "authentic-product",
+      "authenticity": "official-brand-source",
+      "path": "public/products/ketcap.png",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\ketcap.png",
+      "sha256": "b675078cdee425a9210c22b7b4e647ccfdabcc7e6dc4880f4fda28e119a86206",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/250gr-Ketçap.png",
+      "sourcePage": "https://www.burcu.com.tr/urunler/ketcap-mayonez/",
+      "sourceRetrievedAt": "2026-10-11T06:44:54.191Z",
+      "sourceCanvas": [
+        1024,
+        1024
+      ],
+      "preparedPath": "public/products/prepared/ketcap.png",
+      "preparedSha256": "e83be66c115211a56139cfd0ab1994471cf0eaa9db2d67a22656511278aa4dab",
+      "nativePath": "public/products/native/ketcap.png",
+      "nativeSha256": "e9b5c0edc59fadfd1b10f8a38c7f01580b2867260b2b67313f8acf261c3d1d6f",
+      "nativeDimensions": [
+        301,
+        794
+      ],
+      "sourcePixelCrop": [
+        362,
+        119,
+        663,
+        913
+      ],
+      "opaque128SourceBbox": [
+        362,
+        119,
+        663,
+        912
+      ],
+      "footAnchorPixels": [
+        150.5,
+        794
+      ],
+      "footBand": {
+        "height": 28,
+        "alpha128BBoxWithinBand": [
+          28,
+          0,
+          267,
+          27
+        ]
+      },
+      "maximumDisplayDimensions1080p": [
+        301,
+        794
+      ],
+      "recommendedDisplayScale": 0.9,
+      "rgbPreservedExactly": true,
+      "resampled": false,
+      "labelRedrawn": false,
+      "alphaProvenance": {
+        "sourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\prepared\\ketcap.png",
+        "sourceSha256": "e1bcc6a7d2c05047590184106818ec469a0e9f09521af202c0f03066c75dafa8",
+        "method": "reuse V1 registered silhouette only; original source RGB restored exactly"
+      },
+      "notes": "Native crop has no source background/shadow outside the existing registered silhouette. Place on a scene-specific physical plane; no universal ellipse shadow."
+    },
+    {
+      "id": "PROD-mayonez",
+      "kind": "authentic-product",
+      "authenticity": "official-brand-source",
+      "path": "public/products/mayonez.png",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\mayonez.png",
+      "sha256": "1f1df64d30fdcfbfd157e710b69a90af78e4c39734ec6f979d747dc1bf91901a",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/220gr-Mayonez-copy.png",
+      "sourcePage": "https://www.burcu.com.tr/urunler/ketcap-mayonez/",
+      "sourceRetrievedAt": "2026-10-11T06:44:54.464Z",
+      "sourceCanvas": [
+        1024,
+        1024
+      ],
+      "preparedPath": "public/products/prepared/mayonez.png",
+      "preparedSha256": "bcd3521e01203cb37034b510d03f9a54758494099748a470ac7021153cefd671",
+      "nativePath": "public/products/native/mayonez.png",
+      "nativeSha256": "47291d565678780240b8a9c2ed1585b91a5425500320db0f6c9020b4fab811e8",
+      "nativeDimensions": [
+        281,
+        734
+      ],
+      "sourcePixelCrop": [
+        372,
+        148,
+        653,
+        882
+      ],
+      "opaque128SourceBbox": [
+        372,
+        148,
+        652,
+        881
+      ],
+      "footAnchorPixels": [
+        140.5,
+        734
+      ],
+      "footBand": {
+        "height": 28,
+        "alpha128BBoxWithinBand": [
+          27,
+          0,
+          257,
+          27
+        ]
+      },
+      "maximumDisplayDimensions1080p": [
+        281,
+        734
+      ],
+      "recommendedDisplayScale": 0.9,
+      "rgbPreservedExactly": true,
+      "resampled": false,
+      "labelRedrawn": false,
+      "alphaProvenance": {
+        "sourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\prepared\\mayonez.png",
+        "sourceSha256": "a14882db65c8ff9070fce2a9e7e02e8b2aaa2592a3ab0fddf57d8551ed1c0517",
+        "method": "reuse V1 registered silhouette only; original source RGB restored exactly"
+      },
+      "notes": "Native crop has no source background/shadow outside the existing registered silhouette. Place on a scene-specific physical plane; no universal ellipse shadow."
+    },
+    {
+      "id": "PROD-barbunya-pilaki",
+      "kind": "authentic-product",
+      "authenticity": "official-brand-source",
+      "path": "public/products/barbunya-pilaki.png",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\barbunya-pilaki.png",
+      "sha256": "24ed535f6565daab658b1ea6020fcdecf4eb9ec7eeab68cc35c261e404067cee",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/400gr-Barbunya-Pilaki-Kapakli-copy.png",
+      "sourcePage": "https://www.burcu.com.tr/urunler/hazir-yemekler/",
+      "sourceRetrievedAt": "2026-10-11T06:44:54.798Z",
+      "sourceCanvas": [
+        1024,
+        1024
+      ],
+      "preparedPath": "public/products/prepared/barbunya-pilaki.png",
+      "preparedSha256": "de64d785c9f75f0e896255b9dec2c0c7581f1e9049c99e5d91aeee4789fdc82d",
+      "nativePath": "public/products/native/barbunya-pilaki.png",
+      "nativeSha256": "b99230ebe7125aae536bc96553e25762bed222cce80db55262eb9bafed01b18e",
+      "nativeDimensions": [
+        514,
+        485
+      ],
+      "sourcePixelCrop": [
+        255,
+        270,
+        769,
+        755
+      ],
+      "opaque128SourceBbox": [
+        255,
+        270,
+        769,
+        755
+      ],
+      "footAnchorPixels": [
+        257,
+        485
+      ],
+      "footBand": {
+        "height": 28,
+        "alpha128BBoxWithinBand": [
+          101,
+          0,
+          412,
+          28
+        ]
+      },
+      "maximumDisplayDimensions1080p": [
+        514,
+        485
+      ],
+      "recommendedDisplayScale": 0.9,
+      "rgbPreservedExactly": true,
+      "resampled": false,
+      "labelRedrawn": false,
+      "alphaProvenance": {
+        "sourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\prepared\\barbunya-pilaki.png",
+        "sourceSha256": "d3bee65a514d7db8e956df13c14a5ad8bd16fc6fb114cbb092138310d9a8ba76",
+        "method": "reuse V1 registered silhouette only; original source RGB restored exactly"
+      },
+      "notes": "Native crop has no source background/shadow outside the existing registered silhouette. Place on a scene-specific physical plane; no universal ellipse shadow."
+    },
+    {
+      "id": "PROD-yaprak-sarma",
+      "kind": "authentic-product",
+      "authenticity": "official-brand-source",
+      "path": "public/products/yaprak-sarma.png",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\yaprak-sarma.png",
+      "sha256": "6804608876eb90863a1ee22ae7fd5d9047e9788b78d29ab53c1bfa546042e5a4",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/400gr-Yaprak-Sarma-Kapakli-copy.png",
+      "sourcePage": "https://www.burcu.com.tr/urunler/hazir-yemekler/",
+      "sourceRetrievedAt": "2026-10-11T06:44:55.163Z",
+      "sourceCanvas": [
+        1024,
+        1024
+      ],
+      "preparedPath": "public/products/prepared/yaprak-sarma.png",
+      "preparedSha256": "86167a89cf77316f2f2eef35ea60c7e7b3a6c9c4f77e76ef744b95ed56181128",
+      "nativePath": "public/products/native/yaprak-sarma.png",
+      "nativeSha256": "40bd7ad6d83e7ef046f96c52eeb3c676f1854cb6447a6cad0f36d3489a1c080c",
+      "nativeDimensions": [
+        517,
+        496
+      ],
+      "sourcePixelCrop": [
+        256,
+        265,
+        773,
+        761
+      ],
+      "opaque128SourceBbox": [
+        256,
+        265,
+        772,
+        760
+      ],
+      "footAnchorPixels": [
+        258.5,
+        496
+      ],
+      "footBand": {
+        "height": 28,
+        "alpha128BBoxWithinBand": [
+          106,
+          0,
+          411,
+          27
+        ]
+      },
+      "maximumDisplayDimensions1080p": [
+        517,
+        496
+      ],
+      "recommendedDisplayScale": 0.9,
+      "rgbPreservedExactly": true,
+      "resampled": false,
+      "labelRedrawn": false,
+      "alphaProvenance": {
+        "sourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\prepared\\yaprak-sarma.png",
+        "sourceSha256": "52af80be8f8159eff3a6efeeade25b6c912bffbf021dc144b2f8e2ffeaa20ce9",
+        "method": "reuse V1 registered silhouette only; original source RGB restored exactly"
+      },
+      "notes": "Native crop has no source background/shadow outside the existing registered silhouette. Place on a scene-specific physical plane; no universal ellipse shadow."
+    },
+    {
+      "id": "PROD-2si1arada",
+      "kind": "authentic-product",
+      "authenticity": "official-brand-source",
+      "path": "public/products/2si1arada.png",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\2si1arada.png",
+      "sha256": "e25db6ec3c92b0c5d810edb7a979eee650829235dc51065f95c0556bcaf9572e",
+      "copiedByteForByte": true,
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Biber-Domates-Salçasi.png",
+      "sourcePage": "https://www.burcu.com.tr/urunler/2si-1-arada-salca/",
+      "sourceRetrievedAt": "2026-10-11T06:44:53.880Z",
+      "sourceCanvas": [
+        1024,
+        1024
+      ],
+      "preparedPath": "public/products/prepared/2si1arada.png",
+      "preparedSha256": "62ddd77df800931bb534402bf14bd531ef3ac1bbb0db6542a57a24ead7c25bee",
+      "nativePath": "public/products/native/2si1arada.png",
+      "nativeSha256": "3ddf5b46b0afb13346995925bed0f4a05bba8b3bab98bfc9e626a9995385cfbe",
+      "nativeDimensions": [
+        412,
+        697
+      ],
+      "sourcePixelCrop": [
+        309,
+        166,
+        721,
+        863
+      ],
+      "opaque128SourceBbox": [
+        309,
+        166,
+        721,
+        863
+      ],
+      "footAnchorPixels": [
+        206,
+        697
+      ],
+      "footBand": {
+        "height": 28,
+        "alpha128BBoxWithinBand": [
+          79,
+          0,
+          334,
+          28
+        ]
+      },
+      "maximumDisplayDimensions1080p": [
+        412,
+        697
+      ],
+      "recommendedDisplayScale": 0.9,
+      "rgbPreservedExactly": true,
+      "resampled": false,
+      "labelRedrawn": false,
+      "alphaProvenance": {
+        "sourcePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\products\\prepared\\2si1arada.png",
+        "sourceSha256": "047f6330561ed2ec4f0a2e14abda0592e2be8679dd51ff7100a53722d791a42b",
+        "method": "reuse V1 registered silhouette only; original source RGB restored exactly"
+      },
+      "notes": "Native crop has no source background/shadow outside the existing registered silhouette. Place on a scene-specific physical plane; no universal ellipse shadow."
+    },
+    {
+      "id": "BRAND-burcu-logo.svg",
+      "kind": "authentic-brand",
+      "authenticity": "official-catalogue-vector-geometry",
+      "path": "public/brand/burcu-logo.svg",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\brand\\burcu-logo.svg",
+      "sha256": "095e47b35c0db5f73ec5e51da85d74823a90837dff6e0eb4d97b9f10cac2bcb0",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "BRAND-burcu-logo.png",
+      "kind": "authentic-brand",
+      "authenticity": "official-brand-source",
+      "path": "public/brand/burcu-logo.png",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\brand\\burcu-logo.png",
+      "sha256": "3c8843460b960e3da57bad349fc15915fb4e0c2df8b1712e5251f4a696d29bf1",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "BRAND-burcu-logo-catalogue-vector.pdf",
+      "kind": "authentic-brand",
+      "authenticity": "official-catalogue-vector-geometry",
+      "path": "public/brand/burcu-logo-catalogue-vector.pdf",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\brand\\burcu-logo-catalogue-vector.pdf",
+      "sha256": "cbd716a2449337cff87424dc2ba885516ef74a5976f36c8cf361fbbd9cff3fbb",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "BRAND-vector-extraction.json",
+      "kind": "authentic-brand",
+      "authenticity": "official-brand-source",
+      "path": "public/brand/vector-extraction.json",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\brand\\vector-extraction.json",
+      "sha256": "248f6a6142ed7bf6394be8068b4917d0f43bc1a18ceace1677150b9f517ac8de",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "FONT-Manrope.ttf",
+      "kind": "open-font",
+      "license": "SIL-OFL-1.1",
+      "origin": "https://github.com/google/fonts/tree/main/ofl/manrope",
+      "path": "public/fonts/Manrope.ttf",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\fonts\\Manrope.ttf",
+      "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "FONT-OFL.txt",
+      "kind": "open-font",
+      "license": "SIL-OFL-1.1",
+      "origin": "https://github.com/google/fonts/tree/main/ofl/manrope",
+      "path": "public/fonts/OFL.txt",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\assets\\source\\fonts\\OFL.txt",
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "REF-factory-burhaniye",
+      "kind": "official-factory-reference",
+      "authenticity": "official-catalogue-photography",
+      "productionUse": "reference only; not a new V2 scene",
+      "imageDimensions": [
+        1060,
+        794
+      ],
+      "catalogueSource": {
+        "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\katalog\\Burcu-Gida-Katalog-mevcut eski.pdf",
+        "sha256": "f1ac8299cf3b102d9a88b07c67162a9047821c3d9a257096693247ee89755933",
+        "pages": 67,
+        "creationDate": "D:20240819145254+03'00'",
+        "caveat": "Filename says old; creation metadata is 2024-08-19. Current SKU/appearance/company scope review still required."
+      },
+      "path": "public/references/official/factory-burhaniye.png",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\sources\\catalogue\\factory-burhaniye.png",
+      "sha256": "e5c914dd070a95ab147901c37212ea730f78e88e69cbf73f6928479a866f6680",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "REF-factory-bergama",
+      "kind": "official-factory-reference",
+      "authenticity": "official-catalogue-photography",
+      "productionUse": "reference only; not a new V2 scene",
+      "imageDimensions": [
+        1025,
+        633
+      ],
+      "catalogueSource": {
+        "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\katalog\\Burcu-Gida-Katalog-mevcut eski.pdf",
+        "sha256": "f1ac8299cf3b102d9a88b07c67162a9047821c3d9a257096693247ee89755933",
+        "pages": 67,
+        "creationDate": "D:20240819145254+03'00'",
+        "caveat": "Filename says old; creation metadata is 2024-08-19. Current SKU/appearance/company scope review still required."
+      },
+      "path": "public/references/official/factory-bergama.png",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\sources\\catalogue\\factory-bergama.png",
+      "sha256": "0d8cae5921e11963f50a03e6fb092b6688619bc941399dac7714f648fa861647",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "REF-factory-ovakoy",
+      "kind": "official-factory-reference",
+      "authenticity": "official-catalogue-photography",
+      "productionUse": "reference only; not a new V2 scene",
+      "imageDimensions": [
+        1039,
+        777
+      ],
+      "catalogueSource": {
+        "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\katalog\\Burcu-Gida-Katalog-mevcut eski.pdf",
+        "sha256": "f1ac8299cf3b102d9a88b07c67162a9047821c3d9a257096693247ee89755933",
+        "pages": 67,
+        "creationDate": "D:20240819145254+03'00'",
+        "caveat": "Filename says old; creation metadata is 2024-08-19. Current SKU/appearance/company scope review still required."
+      },
+      "path": "public/references/official/factory-ovakoy.png",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\sources\\catalogue\\factory-ovakoy.png",
+      "sha256": "030b235cb7d2ceda39a686a9eaebf22ab19c8b22546ed5df7c9011469d8faebb",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "REF-factory-yenice",
+      "kind": "official-factory-reference",
+      "authenticity": "official-catalogue-photography",
+      "productionUse": "reference only; not a new V2 scene",
+      "imageDimensions": [
+        1146,
+        860
+      ],
+      "catalogueSource": {
+        "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\katalog\\Burcu-Gida-Katalog-mevcut eski.pdf",
+        "sha256": "f1ac8299cf3b102d9a88b07c67162a9047821c3d9a257096693247ee89755933",
+        "pages": 67,
+        "creationDate": "D:20240819145254+03'00'",
+        "caveat": "Filename says old; creation metadata is 2024-08-19. Current SKU/appearance/company scope review still required."
+      },
+      "path": "public/references/official/factory-yenice.png",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\sources\\catalogue\\factory-yenice.png",
+      "sha256": "34660fc2277fe200003a6faa26abc6a32fcf9a5c094198bc616d76bc39952fdb",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "AUDIO-R05-DOGA-full-source.mp3",
+      "kind": "approved-voice-source",
+      "voiceId": "IuRRIAcbQK5AQk1XevPj",
+      "model": "eleven_v4",
+      "voiceSelectionApproved": true,
+      "fullMixListeningApproved": false,
+      "path": "public/audio/r05/DOGA-full-source.mp3",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\audio\\r05\\DOGA-full-source.mp3",
+      "sha256": "1bd580104029c7f41a52c47039f8fd80484f6bd1049ae3dfe6d01a9e2a6d27c9",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "AUDIO-R05-VO01-aligned.wav",
+      "kind": "approved-voice-source",
+      "voiceId": "IuRRIAcbQK5AQk1XevPj",
+      "model": "eleven_v4",
+      "voiceSelectionApproved": true,
+      "fullMixListeningApproved": false,
+      "path": "public/audio/r05/VO01-aligned.wav",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\audio\\r05\\VO01-aligned.wav",
+      "sha256": "6e27307ec5843054f2c8e81b4d8dc0af1003142a85d89676b84a9c3fef0fa562",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "AUDIO-R05-VO02-aligned.wav",
+      "kind": "approved-voice-source",
+      "voiceId": "IuRRIAcbQK5AQk1XevPj",
+      "model": "eleven_v4",
+      "voiceSelectionApproved": true,
+      "fullMixListeningApproved": false,
+      "path": "public/audio/r05/VO02-aligned.wav",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\audio\\r05\\VO02-aligned.wav",
+      "sha256": "7bd9c0279545a9ba5b7a80881b3b676b4d83a86818ea944918af7aba71384333",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "AUDIO-R05-VO03-aligned.wav",
+      "kind": "approved-voice-source",
+      "voiceId": "IuRRIAcbQK5AQk1XevPj",
+      "model": "eleven_v4",
+      "voiceSelectionApproved": true,
+      "fullMixListeningApproved": false,
+      "path": "public/audio/r05/VO03-aligned.wav",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\audio\\r05\\VO03-aligned.wav",
+      "sha256": "600788ea580ecdae4c8c4323aca9917855fa6041a1a3eabb9419dc0e89518409",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "AUDIO-R05-VO04-aligned.wav",
+      "kind": "approved-voice-source",
+      "voiceId": "IuRRIAcbQK5AQk1XevPj",
+      "model": "eleven_v4",
+      "voiceSelectionApproved": true,
+      "fullMixListeningApproved": false,
+      "path": "public/audio/r05/VO04-aligned.wav",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\audio\\r05\\VO04-aligned.wav",
+      "sha256": "1051d78d669dd42d22f26392f48f5ec3612b355afe1f667826f7e5e735c23cac",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "AUDIO-R05-VO05-aligned.wav",
+      "kind": "approved-voice-source",
+      "voiceId": "IuRRIAcbQK5AQk1XevPj",
+      "model": "eleven_v4",
+      "voiceSelectionApproved": true,
+      "fullMixListeningApproved": false,
+      "path": "public/audio/r05/VO05-aligned.wav",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\audio\\r05\\VO05-aligned.wav",
+      "sha256": "1d0b2f03c4696710a737771d678ffb64105799f2f60887da144cf81c5a2935cd",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "AUDIO-R05-burcu-vo-isolated-150s.wav",
+      "kind": "approved-voice-source",
+      "voiceId": "IuRRIAcbQK5AQk1XevPj",
+      "model": "eleven_v4",
+      "voiceSelectionApproved": true,
+      "fullMixListeningApproved": false,
+      "path": "public/audio/r05/burcu-vo-isolated-150s.wav",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\audio\\r05\\burcu-vo-isolated-150s.wav",
+      "sha256": "d596a7f257475d8437af3b537e2fc9f6440cad103500e340a0849ac56fc0ad89",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "AUDIO-R05-burcu-master-150s.wav",
+      "kind": "legacy-reference-mix",
+      "voiceId": "IuRRIAcbQK5AQk1XevPj",
+      "model": "eleven_v4",
+      "voiceSelectionApproved": true,
+      "fullMixListeningApproved": false,
+      "path": "public/audio/r05/burcu-master-150s.wav",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\audio\\r05\\burcu-master-150s.wav",
+      "sha256": "972b15d098c1b3c5370b4eccab225b55a00913a3c5c70a4b9d76415e97236cdc",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "AUDIO-R05-burcu-tr.srt",
+      "kind": "approved-voice-source",
+      "voiceId": "IuRRIAcbQK5AQk1XevPj",
+      "model": "eleven_v4",
+      "voiceSelectionApproved": true,
+      "fullMixListeningApproved": false,
+      "path": "public/audio/r05/burcu-tr.srt",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\audio\\r05\\burcu-tr.srt",
+      "sha256": "8093658b664cfd71bf61b48ed3163cd6ccea4457801570b8bf4dbf2344af3264",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "AUDIO-music-source",
+      "kind": "existing-generated-instrumental",
+      "newProviderCall": false,
+      "path": "public/audio/music-source.mp3",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\audio\\music-source.mp3",
+      "sha256": "a6d48b3824596788601ca402036bff1a847bd4e5913ff8beb17e043404703cba",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "AMB01-source",
+      "kind": "existing-generated-ambience",
+      "path": "public/audio/ambiences/AMB01-source.mp3",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\audio\\ambiences\\AMB01-source.mp3",
+      "sha256": "620abc5e95293002ae2897c51ee268057e1899f946296feebb8a7fe509d09ea1",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "AMB02-source",
+      "kind": "existing-generated-ambience",
+      "path": "public/audio/ambiences/AMB02-source.mp3",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\audio\\ambiences\\AMB02-source.mp3",
+      "sha256": "55c7b1a35157dbf88e762d6df5ed323c9d1e637b7fd4790fcf855633613d977b",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "AMB03-source",
+      "kind": "existing-generated-ambience",
+      "path": "public/audio/ambiences/AMB03-source.mp3",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\audio\\ambiences\\AMB03-source.mp3",
+      "sha256": "e4b85297c4c4ac0cc9074bf91fe259ca2bcbf983914291b7df1f821d31881b55",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "AMB04-source",
+      "kind": "existing-generated-ambience",
+      "path": "public/audio/ambiences/AMB04-source.mp3",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\audio\\ambiences\\AMB04-source.mp3",
+      "sha256": "ed5d9801e301075683c12bcba8a6b59a1100db93dc510203b6d47edcf0b6e957",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "AMB05-source",
+      "kind": "existing-generated-ambience",
+      "path": "public/audio/ambiences/AMB05-source.mp3",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\audio\\ambiences\\AMB05-source.mp3",
+      "sha256": "2a51650a98b9c7d1d29ff4ea7f27c0505f61168f40373d775611bae980f134ab",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "AMB06-source",
+      "kind": "existing-generated-ambience",
+      "path": "public/audio/ambiences/AMB06-source.mp3",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\audio\\ambiences\\AMB06-source.mp3",
+      "sha256": "95b3bb26a77451264ab071c4a6edfd09a308f81916c9669c66eba60f34ed24b2",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "AMB07-source",
+      "kind": "existing-generated-ambience",
+      "path": "public/audio/ambiences/AMB07-source.mp3",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\audio\\ambiences\\AMB07-source.mp3",
+      "sha256": "f148c59c23481aead1882c524259217447e181fe7ef0f60cec68bba58d7ad723",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "AMB08-source",
+      "kind": "existing-generated-ambience",
+      "path": "public/audio/ambiences/AMB08-source.mp3",
+      "sourceLocalPath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\tanitim-filmi\\v1\\public\\audio\\ambiences\\AMB08-source.mp3",
+      "sha256": "eeabb25c9090c2ab32ed7fb43349519da2cd57a09921b0539f387a293e9fb8fd",
+      "copiedByteForByte": true
+    },
+    {
+      "id": "ICON-leaf",
+      "kind": "custom-hand-authored-svg",
+      "path": "public/graphics/icons/leaf.svg",
+      "sha256": "a0015d6e7bee793e26dc1e45d201f39179daa708ff20f27d2ba3f6f3a9cde842",
+      "sourcePath": "src/CustomIcon.tsx",
+      "sourceSha256": "eb8813aa7ff7da9abb878955f06bd14f519cbd979530450d39e836d6f86c9e79",
+      "sourceGeometryPreserved": true,
+      "vector": true,
+      "generatedWithAiImageModel": false,
+      "emoji": false,
+      "iconLibrary": false
+    },
+    {
+      "id": "ICON-harvest",
+      "kind": "custom-hand-authored-svg",
+      "path": "public/graphics/icons/harvest.svg",
+      "sha256": "02405830f5cd0451e23420b1fa83f3c3f975a7192ce9fbca7c8b179317e2bfbd",
+      "sourcePath": "src/CustomIcon.tsx",
+      "sourceSha256": "eb8813aa7ff7da9abb878955f06bd14f519cbd979530450d39e836d6f86c9e79",
+      "sourceGeometryPreserved": true,
+      "vector": true,
+      "generatedWithAiImageModel": false,
+      "emoji": false,
+      "iconLibrary": false
+    },
+    {
+      "id": "ICON-factory",
+      "kind": "custom-hand-authored-svg",
+      "path": "public/graphics/icons/factory.svg",
+      "sha256": "b8f62a2f7274022a3ea0b296c777f5a93a5d7ed108f023ecf539cd85d1622799",
+      "sourcePath": "src/CustomIcon.tsx",
+      "sourceSha256": "eb8813aa7ff7da9abb878955f06bd14f519cbd979530450d39e836d6f86c9e79",
+      "sourceGeometryPreserved": true,
+      "vector": true,
+      "generatedWithAiImageModel": false,
+      "emoji": false,
+      "iconLibrary": false
+    },
+    {
+      "id": "ICON-lab",
+      "kind": "custom-hand-authored-svg",
+      "path": "public/graphics/icons/lab.svg",
+      "sha256": "f635fa07d65e49bd8861519a822fcb2f5084513c6a633999b2a7fb30df52769d",
+      "sourcePath": "src/CustomIcon.tsx",
+      "sourceSha256": "eb8813aa7ff7da9abb878955f06bd14f519cbd979530450d39e836d6f86c9e79",
+      "sourceGeometryPreserved": true,
+      "vector": true,
+      "generatedWithAiImageModel": false,
+      "emoji": false,
+      "iconLibrary": false
+    },
+    {
+      "id": "ICON-cook",
+      "kind": "custom-hand-authored-svg",
+      "path": "public/graphics/icons/cook.svg",
+      "sha256": "f6b68f5be5a201d791250dbd6a6c60a6ed1e4705ee4b76dbee58c482d5800b3a",
+      "sourcePath": "src/CustomIcon.tsx",
+      "sourceSha256": "eb8813aa7ff7da9abb878955f06bd14f519cbd979530450d39e836d6f86c9e79",
+      "sourceGeometryPreserved": true,
+      "vector": true,
+      "generatedWithAiImageModel": false,
+      "emoji": false,
+      "iconLibrary": false
+    },
+    {
+      "id": "ICON-dispatch",
+      "kind": "custom-hand-authored-svg",
+      "path": "public/graphics/icons/dispatch.svg",
+      "sha256": "07abc16efb7f9522c15b8341953f7fdab1aec82ab97b9dfb17fd0a13f734526d",
+      "sourcePath": "src/CustomIcon.tsx",
+      "sourceSha256": "eb8813aa7ff7da9abb878955f06bd14f519cbd979530450d39e836d6f86c9e79",
+      "sourceGeometryPreserved": true,
+      "vector": true,
+      "generatedWithAiImageModel": false,
+      "emoji": false,
+      "iconLibrary": false
+    },
+    {
+      "id": "ICON-partnership",
+      "kind": "custom-hand-authored-svg",
+      "path": "public/graphics/icons/partnership.svg",
+      "sha256": "c75e6a7ba9083a3faaccd55e4da969303e7139e112d99319915c3d72ecb8e160",
+      "sourcePath": "src/CustomIcon.tsx",
+      "sourceSha256": "eb8813aa7ff7da9abb878955f06bd14f519cbd979530450d39e836d6f86c9e79",
+      "sourceGeometryPreserved": true,
+      "vector": true,
+      "generatedWithAiImageModel": false,
+      "emoji": false,
+      "iconLibrary": false
+    },
+    {
+      "id": "ICON-globe",
+      "kind": "custom-hand-authored-svg",
+      "path": "public/graphics/icons/globe.svg",
+      "sha256": "5ec22d913f0febffa7b0f4e7c0a70acdc968a9c8c7b76eef00cf492970caed32",
+      "sourcePath": "src/CustomIcon.tsx",
+      "sourceSha256": "eb8813aa7ff7da9abb878955f06bd14f519cbd979530450d39e836d6f86c9e79",
+      "sourceGeometryPreserved": true,
+      "vector": true,
+      "generatedWithAiImageModel": false,
+      "emoji": false,
+      "iconLibrary": false
+    },
+    {
+      "id": "AUDIO-pilot-voice",
+      "kind": "derived-pilot-audio",
+      "path": "public/audio/pilot-voice.wav",
+      "sha256": "d3f56039d3a7390387d07e3b78170bc745f8133b04554703d681483d9a1bfec1",
+      "nativeSourceQualityPreserved": true,
+      "newProviderCall": false,
+      "metadata": {
+        "index": 0,
+        "codec_name": "pcm_s24le",
+        "codec_long_name": "PCM signed 24-bit little-endian",
+        "codec_type": "audio",
+        "codec_tag_string": "[1][0][0][0]",
+        "codec_tag": "0x0001",
+        "sample_fmt": "s32",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 24,
+        "initial_padding": 0,
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "duration_ts": 960000,
+        "duration": "20.000000",
+        "bit_rate": "2304000",
+        "bits_per_raw_sample": "24",
+        "disposition": {
+          "default": 0,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        }
+      }
+    },
+    {
+      "id": "AUDIO-pilot-music",
+      "kind": "derived-pilot-audio",
+      "path": "public/audio/pilot-music.wav",
+      "sha256": "89910c8d1d5239b6b9724a1a6d82cdc85b3e6e80d3e37b89d78f694d96ca578b",
+      "nativeSourceQualityPreserved": true,
+      "newProviderCall": false,
+      "metadata": {
+        "index": 0,
+        "codec_name": "pcm_s24le",
+        "codec_long_name": "PCM signed 24-bit little-endian",
+        "codec_type": "audio",
+        "codec_tag_string": "[1][0][0][0]",
+        "codec_tag": "0x0001",
+        "sample_fmt": "s32",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 24,
+        "initial_padding": 0,
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "duration_ts": 958895,
+        "duration": "19.976979",
+        "bit_rate": "2304000",
+        "bits_per_raw_sample": "24",
+        "disposition": {
+          "default": 0,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        }
+      }
+    },
+    {
+      "id": "AUDIO-pilot-ambience",
+      "kind": "derived-pilot-audio",
+      "path": "public/audio/pilot-ambience.wav",
+      "sha256": "b85154f4c7dbf25ee6e3f3753438f8cd295699b97869ea76741460cede478df2",
+      "nativeSourceQualityPreserved": true,
+      "newProviderCall": false,
+      "metadata": {
+        "index": 0,
+        "codec_name": "pcm_s24le",
+        "codec_long_name": "PCM signed 24-bit little-endian",
+        "codec_type": "audio",
+        "codec_tag_string": "[1][0][0][0]",
+        "codec_tag": "0x0001",
+        "sample_fmt": "s32",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 24,
+        "initial_padding": 0,
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "duration_ts": 960000,
+        "duration": "20.000000",
+        "bit_rate": "2304000",
+        "bits_per_raw_sample": "24",
+        "disposition": {
+          "default": 0,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        }
+      }
+    },
+    {
+      "id": "AUDIO-pilot-mix",
+      "kind": "derived-pilot-audio",
+      "path": "public/audio/pilot-mix.wav",
+      "sha256": "5a65ef6ad27077294b9c38a7547ade549a4932960a30018b339628d2d89c073c",
+      "nativeSourceQualityPreserved": true,
+      "newProviderCall": false,
+      "metadata": {
+        "index": 0,
+        "codec_name": "pcm_s24le",
+        "codec_long_name": "PCM signed 24-bit little-endian",
+        "codec_type": "audio",
+        "codec_tag_string": "[1][0][0][0]",
+        "codec_tag": "0x0001",
+        "sample_fmt": "s32",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 24,
+        "initial_padding": 0,
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "duration_ts": 960000,
+        "duration": "20.000000",
+        "bit_rate": "2304000",
+        "bits_per_raw_sample": "24",
+        "disposition": {
+          "default": 0,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        }
+      }
+    },
+    {
+      "id": "AUDIO-pilot-tr-srt",
+      "kind": "derived-pilot-subtitles",
+      "path": "public/audio/pilot-tr.srt",
+      "cueCount": 4,
+      "originalTimelineShiftSeconds": 131.84,
+      "sha256": "92732c4311ebb978dfa4df09944aa49dd2cfdb1707415cad706e3d5a89352e1a",
+      "originalSourcePath": "public/audio/r05/burcu-tr.srt",
+      "originalSourceSha256": "8093658b664cfd71bf61b48ed3163cd6ccea4457801570b8bf4dbf2344af3264",
+      "sourceWordsPreserved": true,
+      "overlappingSentenceCuesMerged": true
+    },
+    {
+      "id": "COMPOSITE-pilot-product-still",
+      "kind": "physical-product-still",
+      "path": "public/stills/pilot-product.png",
+      "sha256": "2e1a27e1ab351b8a9401227267e84ac445b754d808fa6d4c89a0087699233be6",
+      "sourcePaths": [
+        "public/stills/pilot-product-native.png",
+        "public/products/native/domates-salcasi.png"
+      ],
+      "provenanceReportPath": "production/composite-pilot-product.json",
+      "newProviderCallsForComposite": 0,
+      "underlyingAuthenticPackSourceUnchanged": true,
+      "labelRedrawn": false,
+      "sourceProductUpscaled": false,
+      "humanVisualApproval": false,
+      "rootAndIndependentAgentStillReviewPassed": true
+    },
+    {
+      "id": "COMPOSITE-pilot-product-overlay",
+      "kind": "transparent-product-grounding-layer",
+      "path": "public/graphics/product-grounded-overlay.png",
+      "sha256": "6239b416027ab6be7d74e20e29c10d96af153e5449998bedab23df4ba71a7848",
+      "sourcePaths": [
+        "public/products/native/domates-salcasi.png"
+      ],
+      "provenanceReportPath": "production/composite-pilot-product.json",
+      "newProviderCallsForComposite": 0,
+      "underlyingAuthenticPackSourceUnchanged": true,
+      "labelRedrawn": false,
+      "sourceProductUpscaled": false,
+      "humanVisualApproval": false,
+      "rootAndIndependentAgentStillReviewPassed": true
+    },
+    {
+      "id": "COMPOSITE-pilot-product-video",
+      "kind": "generated-footage-with-authentic-product-composite",
+      "path": "public/video/pilot-product.mp4",
+      "sha256": "e78aaf023996203bac916b3b85ea5d66ed8a422516e90af9e2c443de5453af94",
+      "sourcePaths": [
+        "public/video/pilot-product-4k-source.mp4",
+        "public/graphics/product-grounded-overlay.png"
+      ],
+      "provenanceReportPath": "production/composite-pilot-product.json",
+      "newProviderCallsForComposite": 0,
+      "underlyingAuthenticPackSourceUnchanged": true,
+      "labelRedrawn": false,
+      "sourceProductUpscaled": false,
+      "humanVisualApproval": false,
+      "rootAndIndependentAgentStillReviewPassed": true
+    }
+  ],
+  "policy": {
+    "officialPackagingRgb": "preserved exactly",
+    "generatedImagery": "representative, not documentary footage",
+    "factoryReference": "local official catalogue, reference only",
+    "newProviderCallsInAssetPreparation": 0,
+    "nativePixelSizeIsQualityEvidence": true
+  },
+  "counts": {
+    "authenticProducts": 10,
+    "officialFactoryReferences": 4,
+    "fontFamilies": 1,
+    "customVectorIcons": 8,
+    "localPilotComposites": 3
+  }
+}

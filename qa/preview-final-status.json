@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-14",
+  "processId": 16244,
+  "base": "http://127.0.0.1:4320",
+  "mode": "Normal static preview; opt-in quality logger and private measurement routes disabled",
+  "passed": true,
+  "checks": [
+    {
+      "path": "/tr/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "path": "/en/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "path": "/ar/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "path": "/__qa/performance/",
+      "status": 404,
+      "pass": true
+    },
+    {
+      "path": "/__qa/metrics.js",
+      "status": 404,
+      "pass": true
+    }
+  ]
+}

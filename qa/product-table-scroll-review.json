@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-10-14T04:31:58.734Z",
+  "route": "/tr/products/mayonez/",
+  "viewport": {
+    "width": 3856,
+    "height": 2160
+  },
+  "target": {
+    "x": 1900,
+    "y": 700
+  },
+  "before": 2700,
+  "after": 108,
+  "passed": true
+}

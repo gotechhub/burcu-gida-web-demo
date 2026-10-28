@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-14",
+  "buildSession": 30383,
+  "method": "Native Brave screenshots from the live static frontend; motion reduced for static capture. PNG codec conversion without resizing or visual editing. Unused 207px viewport below the product footer removed, based on observed footer bottom 6992.5626 CSS px. 300 DPI is export metadata; photo and packshot native source detail was not increased.",
+  "records": [
+    {
+      "name": "final-home-4k-full",
+      "width": 3840,
+      "height": 7901,
+      "renderViewport": {
+        "width": 3840,
+        "height": 8200
+      },
+      "source": "design/approval-panels/final-home-4k-full.jpg",
+      "sourceSize": {
+        "width": 3840,
+        "height": 7901
+      },
+      "sourceSha256": "417a0f65280cb9762cca6921a5f7992c0c3c1c33fe2fb70c2f903408467d3da5",
+      "output": "design/approval-panels/final-home-4k-full.png",
+      "format": "png",
+      "outputSize": {
+        "width": 3840,
+        "height": 7901
+      },
+      "density": 300,
+      "outputSha256": "c81b461d22c8b795a847f0817bc0fa10615c2459f5ce9ba5658350a30a1f8aa3",
+      "bytes": 21968924
+    },
+    {
+      "name": "final-mayonnaise-4k-full",
+      "width": 3840,
+      "height": 6993,
+      "renderViewport": {
+        "width": 3840,
+        "height": 7200
+      },
+      "source": "design/approval-panels/final-mayonnaise-4k-full.jpg",
+      "sourceSize": {
+        "width": 3840,
+        "height": 7200
+      },
+      "sourceSha256": "00c99f053f6cb01f005ae03febbebf5738c45d380b4cf3526815e44ea6095a3b",
+      "output": "design/approval-panels/final-mayonnaise-4k-full.png",
+      "format": "png",
+      "outputSize": {
+        "width": 3840,
+        "height": 6993
+      },
+      "density": 300,
+      "outputSha256": "37604391a273fe20a6fb69cd18a8e2abb76c97ef3f8be99a7841ed09bd045e0b",
+      "bytes": 7410763
+    }
+  ]
+}

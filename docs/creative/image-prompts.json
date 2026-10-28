@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "2.0-canonical-prompt-index",
+  "updatedAt": "2026-10-14",
+  "status": "index-to-canonical-full-prompts",
+  "mode": "built-in image_gen",
+  "canonicalFullPrompts": {
+    "path": "docs/creative/generation-prompts-complete.json",
+    "relativeToThisFile": "generation-prompts-complete.json",
+    "sha256": "76147bac0618a78e68af01bce73d18b68c823fe6e6d22f48865929b960011fc1",
+    "fullPromptCount": 8,
+    "generatorOutputCount": 8,
+    "generatorOutputsMatchMasterBytes": true,
+    "policy": "This is the canonical complete record of the eight V2 generation prompts and generator output paths. This index contains no abbreviated substitute prompts."
+  },
+  "newGeneratedMasters": {
+    "count": 8,
+    "photographicSceneCount": 7,
+    "transparentForegroundCount": 1,
+    "keys": [
+      "ketchup",
+      "chickpea",
+      "paste",
+      "table",
+      "peas",
+      "roasted",
+      "meals",
+      "ingredients"
+    ],
+    "masterPathPattern": "assets/masters/{key}.png",
+    "nativePhotographicDimensions": [
+      1672,
+      941
+    ],
+    "nativeTransparentForegroundDimensions": [
+      1360,
+      1156
+    ],
+    "sceneLabelsOrPackagesGenerated": false
+  },
+  "reusedPhotographicScene": {
+    "count": 1,
+    "key": "ketchup-serving",
+    "path": "assets/masters/ketchup-serving.png",
+    "sourceType": "reused-V1-generated-photographic-serving-scene",
+    "sourcePath": "../v1/design/approval-panels/4k/scenes/table-world.png",
+    "sourcePromptPath": "../v1/design/approval-panels/4k/imagegen-scene-prompts.json",
+    "sourcePromptKey": "serving",
+    "sourceLedgerPath": "../v1/design/approval-panels/4k/delivery-manifest.json",
+    "sourceCreatedAt": "2026-10-12",
+    "sha256": "83f0e15a73eb0c67ce91ec8053e669671d51e095d882742e3701def45cb16fc9",
+    "nativeDimensions": [
+      1672,
+      941
+    ],
+    "copiedByteForByte": true,
+    "includedInNewGeneratedMasterCount": false,
+    "policy": "Existing generated serving suggestion reused from V1; not a new V2 generation or a photograph of a Burcu facility."
+  },
+  "actualAndExistingSourceLayers": {
+    "sourceInventoryPath": "source-inventory.json",
+    "actualProductCutouts": 10,
+    "productRuntimePattern": "public/assets/products/{slug}.png",
+    "productCutoutsCopiedByteForByte": true,
+    "productVisibleAndOpaqueRgbMatchesOriginal": "10/10",
+    "actualArchivalFacilityPhotographs": 2,
+    "facilityRuntimePaths": [
+      "public/assets/facilities/F01.png",
+      "public/assets/facilities/F02.png"
+    ],
+    "facilitySourceType": "Actual archived catalogue photographs, PDFium colour decode; capture date unknown.",
+    "existingConceptVideoCount": 1,
+    "existingConceptVideoPath": "public/assets/video/burcu-concept.mp4",
+    "existingConceptVideoSha256": "2d44602be651b7c570e4529b072befda41149ddf843b9146ffd480ddc05b2f67",
+    "videoSourceType": "Existing concept brand film with representative generated photography, authored motion graphics and authentic product pixels; not documentary company footage."
+  },
+  "derivativeManifestPath": "assets/manifest.generated.json",
+  "assetQaReportPath": "qa/assets-report.md",
+  "sourcePolicy": "Generate surroundings and ingredients only. Authentic product packaging remains an independent unchanged source-pixel layer. Archived facilities and the existing concept film remain separately classified.",
+  "resolutionPolicy": "Historical prompts request an 8K quality aesthetic. Measured native photographic output is 1672x941, not 8K or native 4K. Desktop derivatives retain native dimensions. Exact 720x960 mobile cover requires about 2.02% mechanical enlargement, recorded without a claim of added detail. Ingredient foreground is downsampled with lossless WebP encoding and preserved alpha.",
+  "originalSourcesModified": false,
+  "v1Modified": false
+}

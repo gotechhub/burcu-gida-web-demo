@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "summary": {
+    "errors": 0,
+    "warnings": 0,
+    "suggestions": 2
+  },
+  "filesReviewed": 9,
+  "findings": [
+    {
+      "ruleId": "design-hardcoded-color",
+      "severity": "info",
+      "category": "design-system",
+      "file": "src\\components\\desktop\\FluidBackdrop.tsx",
+      "line": 108,
+      "column": 38,
+      "message": "Hardcoded color may drift from project design tokens.",
+      "confidence": 0.9,
+      "autofix": false,
+      "fixable": false
+    },
+    {
+      "ruleId": "design-hardcoded-color",
+      "severity": "info",
+      "category": "design-system",
+      "file": "src\\components\\desktop\\FluidBackdrop.tsx",
+      "line": 127,
+      "column": 48,
+      "message": "Hardcoded color may drift from project design tokens.",
+      "confidence": 0.9,
+      "autofix": false,
+      "fixable": false
+    }
+  ],
+  "fixed": []
+}

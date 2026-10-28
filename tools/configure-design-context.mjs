@@ -1,0 +1,11 @@
+import fs from 'node:fs';
+const path='.21st/design.json';const ctx=JSON.parse(fs.readFileSync(path,'utf8'));
+ctx.project.productType='Corporate food brand; immersive product and production design pilot';
+ctx.design.density='cinematic full-width editorial scenes, sparse controls';
+ctx.design.typography={latin:'Manrope variable 200–800',arabic:'Noto Sans Arabic',display:'large, fluid, strongly weighted; no label reconstruction'};
+ctx.design.motion={desktop:'conditional R3F photo backdrop + GSAP/Lenis, normal vertical scroll',mobile:'separate static layouts and horizontal native intent swipe',reduced:'no shader, no animated reveal or liquid wipe'};
+ctx.constraints.must=['Nine actual pilot content addresses: home/ketchup/tomato paste ×TR EN AR. Full57 is planned after user visual approval.','Preserve original product labels/caps; native cutout RGB proven identical.','Six family scenes; no catalog-card grid as homepage storytelling.','Real catalogue facilities; concept-film disclosure.','No desktopGL/GSAP/Lenis/video startup requests on mobile.','Normal scroll, focus and keyboard, RTL, reduced motion, error/static fallback.'];
+ctx.constraints.avoid=['AI package/label/backside reconstruction','fake factory/certificate/count/health claims','paid hosted21st AI or public publishing','blocking preloader or wheel-hijacked page scroll','treating a4Kcanvas as new native photographic detail'];
+ctx.decisions=[{id:'v2-supersedes-v1-direction',decision:'13October user rejected V1 and commissioned a new V2. Product/production-first cinematic ingredient worlds with an interactive six-family studio.',source:'Current user request and attached creative brief'},{id:'pilot-approval-boundary',decision:'Three pages in three languages produce a concrete new visual proposal before full57-address expansion.',source:'AGENTS.md'},{id:'21st-access',decision:'LocalCLI1.18.0 initialized; catalog search blocked by sign-in. Public references reviewed; no hostedAI generation or fetched component code.',source:'docs/technical/architecture.md'}];
+fs.writeFileSync(path,JSON.stringify(ctx,null,2)+'\n');
+console.log('V2 design context updated.');

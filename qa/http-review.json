@@ -1,0 +1,182 @@
+{
+  "status": "PASS",
+  "checkedAt": "2026-10-13T22:39:35.199Z",
+  "origin": "http://127.0.0.1:4320",
+  "contentRouteCount": 9,
+  "flightCount": 11,
+  "checks": [
+    {
+      "route": "/tr/",
+      "status": 200,
+      "bytes": 31858,
+      "type": "content"
+    },
+    {
+      "route": "/tr/products/ketcap/",
+      "status": 200,
+      "bytes": 30036,
+      "type": "content"
+    },
+    {
+      "route": "/tr/products/domates-salcasi/",
+      "status": 200,
+      "bytes": 30240,
+      "type": "content"
+    },
+    {
+      "route": "/en/",
+      "status": 200,
+      "bytes": 31976,
+      "type": "content"
+    },
+    {
+      "route": "/en/products/ketcap/",
+      "status": 200,
+      "bytes": 30150,
+      "type": "content"
+    },
+    {
+      "route": "/en/products/domates-salcasi/",
+      "status": 200,
+      "bytes": 30376,
+      "type": "content"
+    },
+    {
+      "route": "/ar/",
+      "status": 200,
+      "bytes": 33368,
+      "type": "content"
+    },
+    {
+      "route": "/ar/products/ketcap/",
+      "status": 200,
+      "bytes": 31649,
+      "type": "content"
+    },
+    {
+      "route": "/ar/products/domates-salcasi/",
+      "status": 200,
+      "bytes": 32015,
+      "type": "content"
+    },
+    {
+      "route": "/__next.!KGVudHJ5KQ.__PAGE__.txt",
+      "status": 200,
+      "bytes": 4502,
+      "type": "flight",
+      "byteIdentical": true
+    },
+    {
+      "route": "/_not-found/__next._not-found.__PAGE__.txt",
+      "status": 200,
+      "bytes": 2506,
+      "type": "flight",
+      "byteIdentical": true
+    },
+    {
+      "route": "/ar/__next.$d$locale.__PAGE__.txt",
+      "status": 200,
+      "bytes": 12143,
+      "type": "flight",
+      "byteIdentical": true
+    },
+    {
+      "route": "/ar/products/domates-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 13583,
+      "type": "flight",
+      "byteIdentical": true
+    },
+    {
+      "route": "/ar/products/ketcap/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 13447,
+      "type": "flight",
+      "byteIdentical": true
+    },
+    {
+      "route": "/en/__next.$d$locale.__PAGE__.txt",
+      "status": 200,
+      "bytes": 11731,
+      "type": "flight",
+      "byteIdentical": true
+    },
+    {
+      "route": "/en/products/domates-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 12864,
+      "type": "flight",
+      "byteIdentical": true
+    },
+    {
+      "route": "/en/products/ketcap/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 12792,
+      "type": "flight",
+      "byteIdentical": true
+    },
+    {
+      "route": "/tr/__next.$d$locale.__PAGE__.txt",
+      "status": 200,
+      "bytes": 11682,
+      "type": "flight",
+      "byteIdentical": true
+    },
+    {
+      "route": "/tr/products/domates-salcasi/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 12809,
+      "type": "flight",
+      "byteIdentical": true
+    },
+    {
+      "route": "/tr/products/ketcap/__next.$d$locale.products.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "bytes": 12737,
+      "type": "flight",
+      "byteIdentical": true
+    },
+    {
+      "route": "/assets/products/ketcap.webp",
+      "status": 200,
+      "bytes": 283906,
+      "type": "asset"
+    },
+    {
+      "route": "/assets/products/domates-salcasi.webp",
+      "status": 200,
+      "bytes": 351106,
+      "type": "asset"
+    },
+    {
+      "route": "/assets/brand/burcu-logo.webp",
+      "status": 200,
+      "bytes": 21736,
+      "type": "asset"
+    },
+    {
+      "route": "/assets/fonts/Manrope.woff2",
+      "status": 200,
+      "bytes": 53892,
+      "type": "asset"
+    },
+    {
+      "route": "/assets/fonts/NotoSansArabic.woff2",
+      "status": 200,
+      "bytes": 361724,
+      "type": "asset"
+    },
+    {
+      "route": "/assets/video/burcu-concept.mp4",
+      "status": 206,
+      "type": "range",
+      "rangeBytes": 1024
+    },
+    {
+      "route": "/de/",
+      "status": 404,
+      "type": "locked-language"
+    }
+  ],
+  "limits": "Local HTTP file/status/byte checks; not browser interactions, public deployment or performance timings"
+}

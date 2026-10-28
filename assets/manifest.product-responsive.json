@@ -1,0 +1,755 @@
+{
+  "schemaVersion": "1.0-responsive-resampled-lossless-product-webp",
+  "preparedAt": "2026-10-14T06:04:50.371Z",
+  "sourceManifest": {
+    "path": "assets/manifest.product-webp.json",
+    "sha256": "7ace5ac2d5b3ddba08a79ab27aa1db511ec31d7d5524b19df44797654250eecd"
+  },
+  "encoder": {
+    "sharp": "0.35.5",
+    "libvips": "8.18.7",
+    "webp": "1.6.0"
+  },
+  "codec": {
+    "lossless": true,
+    "nearLossless": false,
+    "exact": true,
+    "quality": 100,
+    "alphaQuality": 100,
+    "effort": 6
+  },
+  "widths": [
+    240,
+    360
+  ],
+  "counts": {
+    "products": 10,
+    "derivatives": 16,
+    "derivativeBytes": 2959692
+  },
+  "existing48WebpCountChanged": false,
+  "newResponsiveDerivativesCountedSeparately": true,
+  "uiCodeModified": false,
+  "srcsetIntegration": "Root agent will wire sizes/srcset; files do not change browser transfer until referenced.",
+  "browserTransferMeasured": false,
+  "assets": [
+    {
+      "id": "P01",
+      "slug": "domates-salcasi",
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Domates-Salçasi.png",
+      "source": {
+        "path": "public/assets/products/domates-salcasi.png",
+        "bytes": 486053,
+        "sha256": "f37b4965c3d326d678b6b09d4e38f31a32f632f5b9a9fff69b0cf21cf299defc",
+        "width": 412,
+        "height": 698,
+        "alpha": true,
+        "decodedRgbaSha256": "9a5dc955acab00e6945da7c1786f23b5bccc9d4bf78652ec2f0c271014fcf663"
+      },
+      "nativeWebp": {
+        "path": "public/assets/products/domates-salcasi.webp",
+        "bytes": 351106,
+        "sha256": "b0bf1857ad226a1161906820a85829854d7016a38af2f3cf5e59deb7bbbffb34",
+        "width": 412,
+        "height": 698,
+        "decodedRgbaSha256": "9a5dc955acab00e6945da7c1786f23b5bccc9d4bf78652ec2f0c271014fcf663"
+      },
+      "derivatives": [
+        {
+          "path": "public/assets/products/responsive/domates-salcasi-240w.webp",
+          "url": "/assets/products/responsive/domates-salcasi-240w.webp",
+          "width": 240,
+          "height": 407,
+          "bytes": 133044,
+          "sha256": "12be026f85c51bbe3e4e828d535602a117c721a7175c49520fd6f7516fe83d2d",
+          "format": "webp",
+          "alpha": true,
+          "comparison": {
+            "canonicalResizedRgbaSha256": "a76f8046a66a84958d146a00491f8e8dcbfded816b0bb0bc16706a967cbac7d1",
+            "decodedRgbaSha256": "a76f8046a66a84958d146a00491f8e8dcbfded816b0bb0bc16706a967cbac7d1",
+            "rgbaExactlyEqualToCanonicalResizedBuffer": true,
+            "pixelsChecked": 97680
+          },
+          "savingsComparedWithNativeWebp": {
+            "bytes": 218062,
+            "percent": 62.11
+          }
+        },
+        {
+          "path": "public/assets/products/responsive/domates-salcasi-360w.webp",
+          "url": "/assets/products/responsive/domates-salcasi-360w.webp",
+          "width": 360,
+          "height": 610,
+          "bytes": 282758,
+          "sha256": "8e11a239d27e390dec97499a8d2d2243598fac15bafd7b82f7eb3b7edfed1255",
+          "format": "webp",
+          "alpha": true,
+          "comparison": {
+            "canonicalResizedRgbaSha256": "6fed76099f8e03f019f4f62a27e5ae7fbb025a2e849720e0b5dfc07502b9d4ab",
+            "decodedRgbaSha256": "6fed76099f8e03f019f4f62a27e5ae7fbb025a2e849720e0b5dfc07502b9d4ab",
+            "rgbaExactlyEqualToCanonicalResizedBuffer": true,
+            "pixelsChecked": 219600
+          },
+          "savingsComparedWithNativeWebp": {
+            "bytes": 68348,
+            "percent": 19.47
+          }
+        }
+      ],
+      "skippedWidths": [],
+      "policy": {
+        "sourcePngModified": false,
+        "nativeWebpModified": false,
+        "sourceRgbaPreserved": true,
+        "resamplingApplied": true,
+        "kernel": "lanczos3",
+        "withoutEnlargement": true,
+        "losslessCodec": true,
+        "fullRgbaPreservedAfterResampling": true,
+        "derivativeEqualsNativeRgba": false,
+        "aiUsed": false,
+        "labelsRedrawn": false,
+        "note": "These are resized runtime derivatives, not byte-identical native master pixels. Native packs remain available for sufficient DPR and large rendering."
+      }
+    },
+    {
+      "id": "P02",
+      "slug": "biber-salcasi",
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Tatli-Biber-Salças.png",
+      "source": {
+        "path": "public/assets/products/biber-salcasi.png",
+        "bytes": 483622,
+        "sha256": "e651c31a380fb9964dfa217a346726c6c238f36af3afa18fc38ec75c492e83a4",
+        "width": 412,
+        "height": 697,
+        "alpha": true,
+        "decodedRgbaSha256": "02e2e6381dcecf7e6112241afddf31dd55df1b3559a62957647eb381fbccf3ba"
+      },
+      "nativeWebp": {
+        "path": "public/assets/products/biber-salcasi.webp",
+        "bytes": 352792,
+        "sha256": "cd5f82cfa44e651fc113dc4418815ca9d3009e3aaf34bc94cb033f4d75d72a5c",
+        "width": 412,
+        "height": 697,
+        "decodedRgbaSha256": "02e2e6381dcecf7e6112241afddf31dd55df1b3559a62957647eb381fbccf3ba"
+      },
+      "derivatives": [
+        {
+          "path": "public/assets/products/responsive/biber-salcasi-240w.webp",
+          "url": "/assets/products/responsive/biber-salcasi-240w.webp",
+          "width": 240,
+          "height": 406,
+          "bytes": 134358,
+          "sha256": "5d6b6bc96e41114a03123997e5a78329e3cc587c352bdd678cc9922a98c296b9",
+          "format": "webp",
+          "alpha": true,
+          "comparison": {
+            "canonicalResizedRgbaSha256": "c15774d375769711f72fde0d531ce8e2ee4490bbcb549337bdc7e7ac22d39569",
+            "decodedRgbaSha256": "c15774d375769711f72fde0d531ce8e2ee4490bbcb549337bdc7e7ac22d39569",
+            "rgbaExactlyEqualToCanonicalResizedBuffer": true,
+            "pixelsChecked": 97440
+          },
+          "savingsComparedWithNativeWebp": {
+            "bytes": 218434,
+            "percent": 61.92
+          }
+        },
+        {
+          "path": "public/assets/products/responsive/biber-salcasi-360w.webp",
+          "url": "/assets/products/responsive/biber-salcasi-360w.webp",
+          "width": 360,
+          "height": 609,
+          "bytes": 283896,
+          "sha256": "f78ee388f3fe5e8998991623c7dd33f0b90d600cc2c5e9c3f104bec2740a59e5",
+          "format": "webp",
+          "alpha": true,
+          "comparison": {
+            "canonicalResizedRgbaSha256": "6dc0070573cc5a2875b2ed8bbfd68183c7d5c6b0ab9cdcb8f493e6d490c01f43",
+            "decodedRgbaSha256": "6dc0070573cc5a2875b2ed8bbfd68183c7d5c6b0ab9cdcb8f493e6d490c01f43",
+            "rgbaExactlyEqualToCanonicalResizedBuffer": true,
+            "pixelsChecked": 219240
+          },
+          "savingsComparedWithNativeWebp": {
+            "bytes": 68896,
+            "percent": 19.53
+          }
+        }
+      ],
+      "skippedWidths": [],
+      "policy": {
+        "sourcePngModified": false,
+        "nativeWebpModified": false,
+        "sourceRgbaPreserved": true,
+        "resamplingApplied": true,
+        "kernel": "lanczos3",
+        "withoutEnlargement": true,
+        "losslessCodec": true,
+        "fullRgbaPreservedAfterResampling": true,
+        "derivativeEqualsNativeRgba": false,
+        "aiUsed": false,
+        "labelsRedrawn": false,
+        "note": "These are resized runtime derivatives, not byte-identical native master pixels. Native packs remain available for sufficient DPR and large rendering."
+      }
+    },
+    {
+      "id": "P03",
+      "slug": "2si1arada",
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/320gr-Biber-Domates-Salçasi.png",
+      "source": {
+        "path": "public/assets/products/2si1arada.png",
+        "bytes": 496802,
+        "sha256": "3ddf5b46b0afb13346995925bed0f4a05bba8b3bab98bfc9e626a9995385cfbe",
+        "width": 412,
+        "height": 697,
+        "alpha": true,
+        "decodedRgbaSha256": "2e34720af6f7e5f1cf35e8e90b9e1b6933a04f5ed697c7f771a1db07e2d7ab99"
+      },
+      "nativeWebp": {
+        "path": "public/assets/products/2si1arada.webp",
+        "bytes": 364026,
+        "sha256": "bf0a47a09c7eeaf7388eb7821f23c134741ab8cb7f75583eef509a9a3eb13c15",
+        "width": 412,
+        "height": 697,
+        "decodedRgbaSha256": "2e34720af6f7e5f1cf35e8e90b9e1b6933a04f5ed697c7f771a1db07e2d7ab99"
+      },
+      "derivatives": [
+        {
+          "path": "public/assets/products/responsive/2si1arada-240w.webp",
+          "url": "/assets/products/responsive/2si1arada-240w.webp",
+          "width": 240,
+          "height": 406,
+          "bytes": 138394,
+          "sha256": "f6da139240fb580a69eaca8a6d25d14dc14063b2f7e0e087053fba291f0495dd",
+          "format": "webp",
+          "alpha": true,
+          "comparison": {
+            "canonicalResizedRgbaSha256": "8dc4c8fb67c845e19346a1072c5a7b04062d40eb7b544b482f07be9411ea5d2f",
+            "decodedRgbaSha256": "8dc4c8fb67c845e19346a1072c5a7b04062d40eb7b544b482f07be9411ea5d2f",
+            "rgbaExactlyEqualToCanonicalResizedBuffer": true,
+            "pixelsChecked": 97440
+          },
+          "savingsComparedWithNativeWebp": {
+            "bytes": 225632,
+            "percent": 61.98
+          }
+        },
+        {
+          "path": "public/assets/products/responsive/2si1arada-360w.webp",
+          "url": "/assets/products/responsive/2si1arada-360w.webp",
+          "width": 360,
+          "height": 609,
+          "bytes": 293100,
+          "sha256": "46b167ab08f7543b89308fa94514d463a923181c39060216b9e4f09ff9f8037f",
+          "format": "webp",
+          "alpha": true,
+          "comparison": {
+            "canonicalResizedRgbaSha256": "5b287cbe83fdb4488a403d700cbe8782cd48975baac787f0793cfa63c04d77f7",
+            "decodedRgbaSha256": "5b287cbe83fdb4488a403d700cbe8782cd48975baac787f0793cfa63c04d77f7",
+            "rgbaExactlyEqualToCanonicalResizedBuffer": true,
+            "pixelsChecked": 219240
+          },
+          "savingsComparedWithNativeWebp": {
+            "bytes": 70926,
+            "percent": 19.48
+          }
+        }
+      ],
+      "skippedWidths": [],
+      "policy": {
+        "sourcePngModified": false,
+        "nativeWebpModified": false,
+        "sourceRgbaPreserved": true,
+        "resamplingApplied": true,
+        "kernel": "lanczos3",
+        "withoutEnlargement": true,
+        "losslessCodec": true,
+        "fullRgbaPreservedAfterResampling": true,
+        "derivativeEqualsNativeRgba": false,
+        "aiUsed": false,
+        "labelsRedrawn": false,
+        "note": "These are resized runtime derivatives, not byte-identical native master pixels. Native packs remain available for sufficient DPR and large rendering."
+      }
+    },
+    {
+      "id": "P04",
+      "slug": "ketcap",
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/250gr-Ketçap.png",
+      "source": {
+        "path": "public/assets/products/ketcap.png",
+        "bytes": 395306,
+        "sha256": "e9b5c0edc59fadfd1b10f8a38c7f01580b2867260b2b67313f8acf261c3d1d6f",
+        "width": 301,
+        "height": 794,
+        "alpha": true,
+        "decodedRgbaSha256": "958a05a8f3193f2df9afdacbb3881f44aa5b44a06ed2344f656d08af25e23219"
+      },
+      "nativeWebp": {
+        "path": "public/assets/products/ketcap.webp",
+        "bytes": 283906,
+        "sha256": "0f90bced6589bb966161243ef755d9c9ff9b15d3ad08d7d0bc7d0e5b6c94cf05",
+        "width": 301,
+        "height": 794,
+        "decodedRgbaSha256": "958a05a8f3193f2df9afdacbb3881f44aa5b44a06ed2344f656d08af25e23219"
+      },
+      "derivatives": [
+        {
+          "path": "public/assets/products/responsive/ketcap-240w.webp",
+          "url": "/assets/products/responsive/ketcap-240w.webp",
+          "width": 240,
+          "height": 633,
+          "bytes": 186650,
+          "sha256": "e18c24cda36a5e5287cb6d6bd4668d01cdbb5f0725ac393c77bcb9cc735522e3",
+          "format": "webp",
+          "alpha": true,
+          "comparison": {
+            "canonicalResizedRgbaSha256": "a3f301df3fb8526da070c46f4ca1ae44c46eb09de984abb2cfbd602e6cb560fa",
+            "decodedRgbaSha256": "a3f301df3fb8526da070c46f4ca1ae44c46eb09de984abb2cfbd602e6cb560fa",
+            "rgbaExactlyEqualToCanonicalResizedBuffer": true,
+            "pixelsChecked": 151920
+          },
+          "savingsComparedWithNativeWebp": {
+            "bytes": 97256,
+            "percent": 34.26
+          }
+        }
+      ],
+      "skippedWidths": [
+        360
+      ],
+      "policy": {
+        "sourcePngModified": false,
+        "nativeWebpModified": false,
+        "sourceRgbaPreserved": true,
+        "resamplingApplied": true,
+        "kernel": "lanczos3",
+        "withoutEnlargement": true,
+        "losslessCodec": true,
+        "fullRgbaPreservedAfterResampling": true,
+        "derivativeEqualsNativeRgba": false,
+        "aiUsed": false,
+        "labelsRedrawn": false,
+        "note": "These are resized runtime derivatives, not byte-identical native master pixels. Native packs remain available for sufficient DPR and large rendering."
+      }
+    },
+    {
+      "id": "P05",
+      "slug": "mayonez",
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/05/220gr-Mayonez-copy.png",
+      "source": {
+        "path": "public/assets/products/mayonez.png",
+        "bytes": 333922,
+        "sha256": "47291d565678780240b8a9c2ed1585b91a5425500320db0f6c9020b4fab811e8",
+        "width": 281,
+        "height": 734,
+        "alpha": true,
+        "decodedRgbaSha256": "97d61b32c51a011d1465adf5fcc967caaf4a2dc5ef4d2123da58242189602bc5"
+      },
+      "nativeWebp": {
+        "path": "public/assets/products/mayonez.webp",
+        "bytes": 240534,
+        "sha256": "4fcc548c819c3df96517a084155abad4a2dc7fb0c60b0e0d0d319d9dad8feebb",
+        "width": 281,
+        "height": 734,
+        "decodedRgbaSha256": "97d61b32c51a011d1465adf5fcc967caaf4a2dc5ef4d2123da58242189602bc5"
+      },
+      "derivatives": [
+        {
+          "path": "public/assets/products/responsive/mayonez-240w.webp",
+          "url": "/assets/products/responsive/mayonez-240w.webp",
+          "width": 240,
+          "height": 627,
+          "bytes": 180076,
+          "sha256": "f5809927a90baabf7473436365a934b267aae54af8e1603417be6142c7a113c1",
+          "format": "webp",
+          "alpha": true,
+          "comparison": {
+            "canonicalResizedRgbaSha256": "d241c23a9c8e489558c1013d2163479170859e5efdab6810eb007147d610344d",
+            "decodedRgbaSha256": "d241c23a9c8e489558c1013d2163479170859e5efdab6810eb007147d610344d",
+            "rgbaExactlyEqualToCanonicalResizedBuffer": true,
+            "pixelsChecked": 150480
+          },
+          "savingsComparedWithNativeWebp": {
+            "bytes": 60458,
+            "percent": 25.13
+          }
+        }
+      ],
+      "skippedWidths": [
+        360
+      ],
+      "policy": {
+        "sourcePngModified": false,
+        "nativeWebpModified": false,
+        "sourceRgbaPreserved": true,
+        "resamplingApplied": true,
+        "kernel": "lanczos3",
+        "withoutEnlargement": true,
+        "losslessCodec": true,
+        "fullRgbaPreservedAfterResampling": true,
+        "derivativeEqualsNativeRgba": false,
+        "aiUsed": false,
+        "labelsRedrawn": false,
+        "note": "These are resized runtime derivatives, not byte-identical native master pixels. Native packs remain available for sufficient DPR and large rendering."
+      }
+    },
+    {
+      "id": "P06",
+      "slug": "barbunya-pilaki",
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/400gr-Barbunya-Pilaki-Kapakli-copy.png",
+      "source": {
+        "path": "public/assets/products/barbunya-pilaki.png",
+        "bytes": 448226,
+        "sha256": "b99230ebe7125aae536bc96553e25762bed222cce80db55262eb9bafed01b18e",
+        "width": 514,
+        "height": 485,
+        "alpha": true,
+        "decodedRgbaSha256": "a33432adb51129ce2e17d13e684068f7d573f97e7def62469dd0348cd28d1c3a"
+      },
+      "nativeWebp": {
+        "path": "public/assets/products/barbunya-pilaki.webp",
+        "bytes": 327020,
+        "sha256": "d737d15ff0c66cc8beb56109cd9c0c2971f658d4838ad968c121ea653b4b2e19",
+        "width": 514,
+        "height": 485,
+        "decodedRgbaSha256": "a33432adb51129ce2e17d13e684068f7d573f97e7def62469dd0348cd28d1c3a"
+      },
+      "derivatives": [
+        {
+          "path": "public/assets/products/responsive/barbunya-pilaki-240w.webp",
+          "url": "/assets/products/responsive/barbunya-pilaki-240w.webp",
+          "width": 240,
+          "height": 226,
+          "bytes": 83256,
+          "sha256": "57ea1ed1a5acc49a9bec23b0136045cf3f23dbe243c4a92084bec920ffe33fc8",
+          "format": "webp",
+          "alpha": true,
+          "comparison": {
+            "canonicalResizedRgbaSha256": "90f0d231a1df8773fb45638d8e72773e218a641caddfcb343d5642fb9c6d2073",
+            "decodedRgbaSha256": "90f0d231a1df8773fb45638d8e72773e218a641caddfcb343d5642fb9c6d2073",
+            "rgbaExactlyEqualToCanonicalResizedBuffer": true,
+            "pixelsChecked": 54240
+          },
+          "savingsComparedWithNativeWebp": {
+            "bytes": 243764,
+            "percent": 74.54
+          }
+        },
+        {
+          "path": "public/assets/products/responsive/barbunya-pilaki-360w.webp",
+          "url": "/assets/products/responsive/barbunya-pilaki-360w.webp",
+          "width": 360,
+          "height": 340,
+          "bytes": 171774,
+          "sha256": "653fabd99ef8ac6f18d821c045d8325e014488f95772bcd2f0ab33a655e0f005",
+          "format": "webp",
+          "alpha": true,
+          "comparison": {
+            "canonicalResizedRgbaSha256": "0e063b13534ab7006c7091c251f53e3bc496bebdb1fe751011f2b26e92ef5b86",
+            "decodedRgbaSha256": "0e063b13534ab7006c7091c251f53e3bc496bebdb1fe751011f2b26e92ef5b86",
+            "rgbaExactlyEqualToCanonicalResizedBuffer": true,
+            "pixelsChecked": 122400
+          },
+          "savingsComparedWithNativeWebp": {
+            "bytes": 155246,
+            "percent": 47.47
+          }
+        }
+      ],
+      "skippedWidths": [],
+      "policy": {
+        "sourcePngModified": false,
+        "nativeWebpModified": false,
+        "sourceRgbaPreserved": true,
+        "resamplingApplied": true,
+        "kernel": "lanczos3",
+        "withoutEnlargement": true,
+        "losslessCodec": true,
+        "fullRgbaPreservedAfterResampling": true,
+        "derivativeEqualsNativeRgba": false,
+        "aiUsed": false,
+        "labelsRedrawn": false,
+        "note": "These are resized runtime derivatives, not byte-identical native master pixels. Native packs remain available for sufficient DPR and large rendering."
+      }
+    },
+    {
+      "id": "P07",
+      "slug": "yaprak-sarma",
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/400gr-Yaprak-Sarma-Kapakli-copy.png",
+      "source": {
+        "path": "public/assets/products/yaprak-sarma.png",
+        "bytes": 462871,
+        "sha256": "40bd7ad6d83e7ef046f96c52eeb3c676f1854cb6447a6cad0f36d3489a1c080c",
+        "width": 517,
+        "height": 496,
+        "alpha": true,
+        "decodedRgbaSha256": "e497f643856aa0700640ba0e87a6ea4d26ee27bd635bbbe41033f852e9001b9c"
+      },
+      "nativeWebp": {
+        "path": "public/assets/products/yaprak-sarma.webp",
+        "bytes": 332356,
+        "sha256": "f1b71ebcd42b15882e69db9e6dd7e73b9d57c53d42d947c35ce552af1570f627",
+        "width": 517,
+        "height": 496,
+        "decodedRgbaSha256": "e497f643856aa0700640ba0e87a6ea4d26ee27bd635bbbe41033f852e9001b9c"
+      },
+      "derivatives": [
+        {
+          "path": "public/assets/products/responsive/yaprak-sarma-240w.webp",
+          "url": "/assets/products/responsive/yaprak-sarma-240w.webp",
+          "width": 240,
+          "height": 230,
+          "bytes": 82398,
+          "sha256": "0613b126b4407e0e76de635ede54640842037174251be295036e85a73fefe7f0",
+          "format": "webp",
+          "alpha": true,
+          "comparison": {
+            "canonicalResizedRgbaSha256": "21358dc018128900468ecb7e98f94a4f74b8b4692ea7c09e1f3100957efb9697",
+            "decodedRgbaSha256": "21358dc018128900468ecb7e98f94a4f74b8b4692ea7c09e1f3100957efb9697",
+            "rgbaExactlyEqualToCanonicalResizedBuffer": true,
+            "pixelsChecked": 55200
+          },
+          "savingsComparedWithNativeWebp": {
+            "bytes": 249958,
+            "percent": 75.21
+          }
+        },
+        {
+          "path": "public/assets/products/responsive/yaprak-sarma-360w.webp",
+          "url": "/assets/products/responsive/yaprak-sarma-360w.webp",
+          "width": 360,
+          "height": 345,
+          "bytes": 171868,
+          "sha256": "80e5a99322d92232c597708edfd111d59ac23c6b6b3815dd03eb0a24b1c0f1eb",
+          "format": "webp",
+          "alpha": true,
+          "comparison": {
+            "canonicalResizedRgbaSha256": "5584537fc10b09d50ac6d2f49758e62ef3a32674d04ce7de276dd885ba3fa0a3",
+            "decodedRgbaSha256": "5584537fc10b09d50ac6d2f49758e62ef3a32674d04ce7de276dd885ba3fa0a3",
+            "rgbaExactlyEqualToCanonicalResizedBuffer": true,
+            "pixelsChecked": 124200
+          },
+          "savingsComparedWithNativeWebp": {
+            "bytes": 160488,
+            "percent": 48.29
+          }
+        }
+      ],
+      "skippedWidths": [],
+      "policy": {
+        "sourcePngModified": false,
+        "nativeWebpModified": false,
+        "sourceRgbaPreserved": true,
+        "resamplingApplied": true,
+        "kernel": "lanczos3",
+        "withoutEnlargement": true,
+        "losslessCodec": true,
+        "fullRgbaPreservedAfterResampling": true,
+        "derivativeEqualsNativeRgba": false,
+        "aiUsed": false,
+        "labelsRedrawn": false,
+        "note": "These are resized runtime derivatives, not byte-identical native master pixels. Native packs remain available for sufficient DPR and large rendering."
+      }
+    },
+    {
+      "id": "P08",
+      "slug": "bezelye",
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/310gr-Bezelye-Konservesi-copy.png",
+      "source": {
+        "path": "public/assets/products/bezelye.png",
+        "bytes": 382362,
+        "sha256": "806564d86ee826f9c788d92a4061eb6638b8a78fb4ca32c1c056591264ceb1df",
+        "width": 341,
+        "height": 579,
+        "alpha": true,
+        "decodedRgbaSha256": "1f91766b9378f9981559b998787f51f41d67af167a57b264a30d65b318720665"
+      },
+      "nativeWebp": {
+        "path": "public/assets/products/bezelye.webp",
+        "bytes": 277584,
+        "sha256": "aecfe940934c3a5a3db3f766ab704227c934b0f89bae6ada5652337dcda554b7",
+        "width": 341,
+        "height": 579,
+        "decodedRgbaSha256": "1f91766b9378f9981559b998787f51f41d67af167a57b264a30d65b318720665"
+      },
+      "derivatives": [
+        {
+          "path": "public/assets/products/responsive/bezelye-240w.webp",
+          "url": "/assets/products/responsive/bezelye-240w.webp",
+          "width": 240,
+          "height": 408,
+          "bytes": 148910,
+          "sha256": "ca3e510ad11d54c466ac22696100f114982831ffd41175c569f3ce5444ff6163",
+          "format": "webp",
+          "alpha": true,
+          "comparison": {
+            "canonicalResizedRgbaSha256": "d30aef6279e2818cf95832d7279726ead8bef7c41c727d9d15bbf3d32913790d",
+            "decodedRgbaSha256": "d30aef6279e2818cf95832d7279726ead8bef7c41c727d9d15bbf3d32913790d",
+            "rgbaExactlyEqualToCanonicalResizedBuffer": true,
+            "pixelsChecked": 97920
+          },
+          "savingsComparedWithNativeWebp": {
+            "bytes": 128674,
+            "percent": 46.35
+          }
+        }
+      ],
+      "skippedWidths": [
+        360
+      ],
+      "policy": {
+        "sourcePngModified": false,
+        "nativeWebpModified": false,
+        "sourceRgbaPreserved": true,
+        "resamplingApplied": true,
+        "kernel": "lanczos3",
+        "withoutEnlargement": true,
+        "losslessCodec": true,
+        "fullRgbaPreservedAfterResampling": true,
+        "derivativeEqualsNativeRgba": false,
+        "aiUsed": false,
+        "labelsRedrawn": false,
+        "note": "These are resized runtime derivatives, not byte-identical native master pixels. Native packs remain available for sufficient DPR and large rendering."
+      }
+    },
+    {
+      "id": "P09",
+      "slug": "haslanmis-nohut",
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/600gr-Haşlanmiş-Nohut-copy.png",
+      "source": {
+        "path": "public/assets/products/haslanmis-nohut.png",
+        "bytes": 350555,
+        "sha256": "8f4fbf97a955c554bb56754257218077c6356f10660b1f99f371d460c2282baa",
+        "width": 310,
+        "height": 609,
+        "alpha": true,
+        "decodedRgbaSha256": "c75d0067002c9d7f2a89a86d9d54e1eb9e7827449a1b8896e50abeddc52e507f"
+      },
+      "nativeWebp": {
+        "path": "public/assets/products/haslanmis-nohut.webp",
+        "bytes": 259158,
+        "sha256": "9f25693159406d9aface23cb3e803787a4f88c66ff3199258e7684297d36cc9d",
+        "width": 310,
+        "height": 609,
+        "decodedRgbaSha256": "c75d0067002c9d7f2a89a86d9d54e1eb9e7827449a1b8896e50abeddc52e507f"
+      },
+      "derivatives": [
+        {
+          "path": "public/assets/products/responsive/haslanmis-nohut-240w.webp",
+          "url": "/assets/products/responsive/haslanmis-nohut-240w.webp",
+          "width": 240,
+          "height": 471,
+          "bytes": 163760,
+          "sha256": "b83073efbe9fb07cabf6a70f47e938be73eb34407586f56c2d0f76b2ffda6d50",
+          "format": "webp",
+          "alpha": true,
+          "comparison": {
+            "canonicalResizedRgbaSha256": "6898f0faac508a248f1656b702f7a880b81327a1bdbb4479eddd0239f6a773c4",
+            "decodedRgbaSha256": "6898f0faac508a248f1656b702f7a880b81327a1bdbb4479eddd0239f6a773c4",
+            "rgbaExactlyEqualToCanonicalResizedBuffer": true,
+            "pixelsChecked": 113040
+          },
+          "savingsComparedWithNativeWebp": {
+            "bytes": 95398,
+            "percent": 36.81
+          }
+        }
+      ],
+      "skippedWidths": [
+        360
+      ],
+      "policy": {
+        "sourcePngModified": false,
+        "nativeWebpModified": false,
+        "sourceRgbaPreserved": true,
+        "resamplingApplied": true,
+        "kernel": "lanczos3",
+        "withoutEnlargement": true,
+        "losslessCodec": true,
+        "fullRgbaPreservedAfterResampling": true,
+        "derivativeEqualsNativeRgba": false,
+        "aiUsed": false,
+        "labelsRedrawn": false,
+        "note": "These are resized runtime derivatives, not byte-identical native master pixels. Native packs remain available for sufficient DPR and large rendering."
+      }
+    },
+    {
+      "id": "P10",
+      "slug": "kozlenmis-biber",
+      "sourceUrl": "https://www.burcu.com.tr/wp-content/uploads/2020/12/560gr-Közlenmiş-Biber-copy.png",
+      "source": {
+        "path": "public/assets/products/kozlenmis-biber.png",
+        "bytes": 487641,
+        "sha256": "b4f1ef279fa015b85d0deb69d29188f1f24c93cf2230c3363f11701e3695d140",
+        "width": 367,
+        "height": 731,
+        "alpha": true,
+        "decodedRgbaSha256": "a8f3bf7f6745b23dac5ce589107f62b23b78e0b38ef03e894b6494a4fa1bd81a"
+      },
+      "nativeWebp": {
+        "path": "public/assets/products/kozlenmis-biber.webp",
+        "bytes": 357098,
+        "sha256": "3c40ffa0520858dd57e8599cd92aa37743a1d0ef545ef602546968b7ca0d5eb2",
+        "width": 367,
+        "height": 731,
+        "decodedRgbaSha256": "a8f3bf7f6745b23dac5ce589107f62b23b78e0b38ef03e894b6494a4fa1bd81a"
+      },
+      "derivatives": [
+        {
+          "path": "public/assets/products/responsive/kozlenmis-biber-240w.webp",
+          "url": "/assets/products/responsive/kozlenmis-biber-240w.webp",
+          "width": 240,
+          "height": 478,
+          "bytes": 161126,
+          "sha256": "3511386f9f2e0046e82ac07e613b014075d2a056bb19ef8ca0a19794a89eaddf",
+          "format": "webp",
+          "alpha": true,
+          "comparison": {
+            "canonicalResizedRgbaSha256": "20d2c3c4e75fd01fc80d7090d5cb24bd6865362aa82241a467294d188c640850",
+            "decodedRgbaSha256": "20d2c3c4e75fd01fc80d7090d5cb24bd6865362aa82241a467294d188c640850",
+            "rgbaExactlyEqualToCanonicalResizedBuffer": true,
+            "pixelsChecked": 114720
+          },
+          "savingsComparedWithNativeWebp": {
+            "bytes": 195972,
+            "percent": 54.88
+          }
+        },
+        {
+          "path": "public/assets/products/responsive/kozlenmis-biber-360w.webp",
+          "url": "/assets/products/responsive/kozlenmis-biber-360w.webp",
+          "width": 360,
+          "height": 717,
+          "bytes": 344324,
+          "sha256": "ce7cd2b91e8530990a5b277b8506fd02a9e557f8f53bf4ead5355f00e3e7699b",
+          "format": "webp",
+          "alpha": true,
+          "comparison": {
+            "canonicalResizedRgbaSha256": "3f9722718e1507cac7b3444a13ef473749f5c5263b9e5767c7a91f73da8bcc4b",
+            "decodedRgbaSha256": "3f9722718e1507cac7b3444a13ef473749f5c5263b9e5767c7a91f73da8bcc4b",
+            "rgbaExactlyEqualToCanonicalResizedBuffer": true,
+            "pixelsChecked": 258120
+          },
+          "savingsComparedWithNativeWebp": {
+            "bytes": 12774,
+            "percent": 3.58
+          }
+        }
+      ],
+      "skippedWidths": [],
+      "policy": {
+        "sourcePngModified": false,
+        "nativeWebpModified": false,
+        "sourceRgbaPreserved": true,
+        "resamplingApplied": true,
+        "kernel": "lanczos3",
+        "withoutEnlargement": true,
+        "losslessCodec": true,
+        "fullRgbaPreservedAfterResampling": true,
+        "derivativeEqualsNativeRgba": false,
+        "aiUsed": false,
+        "labelsRedrawn": false,
+        "note": "These are resized runtime derivatives, not byte-identical native master pixels. Native packs remain available for sufficient DPR and large rendering."
+      }
+    }
+  ]
+}

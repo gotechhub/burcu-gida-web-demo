@@ -1,0 +1,823 @@
+{
+  "checkedAt": "2026-10-13T22:33:47.009Z",
+  "method": "Local static source/export inspection; no browser, HAR, screenshot or Lighthouse measurement.",
+  "expectedContentRouteCount": 9,
+  "actualContentRouteCount": 9,
+  "expectedContentFiles": [
+    "ar/index.html",
+    "ar/products/domates-salcasi/index.html",
+    "ar/products/ketcap/index.html",
+    "en/index.html",
+    "en/products/domates-salcasi/index.html",
+    "en/products/ketcap/index.html",
+    "tr/index.html",
+    "tr/products/domates-salcasi/index.html",
+    "tr/products/ketcap/index.html"
+  ],
+  "actualContentFiles": [
+    "ar/index.html",
+    "ar/products/domates-salcasi/index.html",
+    "ar/products/ketcap/index.html",
+    "en/index.html",
+    "en/products/domates-salcasi/index.html",
+    "en/products/ketcap/index.html",
+    "tr/index.html",
+    "tr/products/domates-salcasi/index.html",
+    "tr/products/ketcap/index.html"
+  ],
+  "routeSetMatches": true,
+  "pages": [
+    {
+      "file": "tr/index.html",
+      "lang": "tr",
+      "dir": "ltr",
+      "expectedDir": "ltr",
+      "mainCount": 1,
+      "h1Count": 1,
+      "duplicateIds": [],
+      "noindex": true,
+      "scripts": [
+        {
+          "src": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "noModule": false,
+          "bytes": 203721,
+          "gzipBytes": 64057,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "noModule": false,
+          "bytes": 242917,
+          "gzipBytes": 67558,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/main-app-53fb55aaedf99428.js",
+          "noModule": false,
+          "bytes": 513,
+          "gzipBytes": 222,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "noModule": false,
+          "bytes": 7642,
+          "gzipBytes": 3246,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/319-231054c294c00b2d.js",
+          "noModule": false,
+          "bytes": 20163,
+          "gzipBytes": 7528,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/app/%5Blocale%5D/layout-5c31caf82028fdb3.js",
+          "noModule": false,
+          "bytes": 17882,
+          "gzipBytes": 4700,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/app/%5Blocale%5D/page-0ece250a9e9b23bf.js",
+          "noModule": false,
+          "bytes": 8116,
+          "gzipBytes": 2986,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "noModule": true,
+          "bytes": 112594,
+          "gzipBytes": 39627,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/webpack-778986402d37ddcf.js",
+          "noModule": false,
+          "bytes": 4863,
+          "gzipBytes": 2366,
+          "heavyMarkers": []
+        }
+      ],
+      "stylesheets": [
+        "/_next/static/css/be869f481fa87b06.css"
+      ],
+      "modernInitialJsBytes": 505817,
+      "modernInitialJsGzipBytes": 152663,
+      "missingDeclaredAssets": [],
+      "brokenInternalRouteLinks": []
+    },
+    {
+      "file": "tr/products/ketcap/index.html",
+      "lang": "tr",
+      "dir": "ltr",
+      "expectedDir": "ltr",
+      "mainCount": 1,
+      "h1Count": 1,
+      "duplicateIds": [],
+      "noindex": true,
+      "scripts": [
+        {
+          "src": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "noModule": false,
+          "bytes": 203721,
+          "gzipBytes": 64057,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "noModule": false,
+          "bytes": 242917,
+          "gzipBytes": 67558,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/main-app-53fb55aaedf99428.js",
+          "noModule": false,
+          "bytes": 513,
+          "gzipBytes": 222,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "noModule": false,
+          "bytes": 7642,
+          "gzipBytes": 3246,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/319-231054c294c00b2d.js",
+          "noModule": false,
+          "bytes": 20163,
+          "gzipBytes": 7528,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/app/%5Blocale%5D/layout-5c31caf82028fdb3.js",
+          "noModule": false,
+          "bytes": 17882,
+          "gzipBytes": 4700,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/app/%5Blocale%5D/products/%5Bslug%5D/page-730afdf03074b763.js",
+          "noModule": false,
+          "bytes": 6232,
+          "gzipBytes": 2438,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "noModule": true,
+          "bytes": 112594,
+          "gzipBytes": 39627,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/webpack-778986402d37ddcf.js",
+          "noModule": false,
+          "bytes": 4863,
+          "gzipBytes": 2366,
+          "heavyMarkers": []
+        }
+      ],
+      "stylesheets": [
+        "/_next/static/css/be869f481fa87b06.css"
+      ],
+      "modernInitialJsBytes": 503933,
+      "modernInitialJsGzipBytes": 152115,
+      "missingDeclaredAssets": [],
+      "brokenInternalRouteLinks": []
+    },
+    {
+      "file": "tr/products/domates-salcasi/index.html",
+      "lang": "tr",
+      "dir": "ltr",
+      "expectedDir": "ltr",
+      "mainCount": 1,
+      "h1Count": 1,
+      "duplicateIds": [],
+      "noindex": true,
+      "scripts": [
+        {
+          "src": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "noModule": false,
+          "bytes": 203721,
+          "gzipBytes": 64057,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "noModule": false,
+          "bytes": 242917,
+          "gzipBytes": 67558,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/main-app-53fb55aaedf99428.js",
+          "noModule": false,
+          "bytes": 513,
+          "gzipBytes": 222,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "noModule": false,
+          "bytes": 7642,
+          "gzipBytes": 3246,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/319-231054c294c00b2d.js",
+          "noModule": false,
+          "bytes": 20163,
+          "gzipBytes": 7528,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/app/%5Blocale%5D/layout-5c31caf82028fdb3.js",
+          "noModule": false,
+          "bytes": 17882,
+          "gzipBytes": 4700,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/app/%5Blocale%5D/products/%5Bslug%5D/page-730afdf03074b763.js",
+          "noModule": false,
+          "bytes": 6232,
+          "gzipBytes": 2438,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "noModule": true,
+          "bytes": 112594,
+          "gzipBytes": 39627,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/webpack-778986402d37ddcf.js",
+          "noModule": false,
+          "bytes": 4863,
+          "gzipBytes": 2366,
+          "heavyMarkers": []
+        }
+      ],
+      "stylesheets": [
+        "/_next/static/css/be869f481fa87b06.css"
+      ],
+      "modernInitialJsBytes": 503933,
+      "modernInitialJsGzipBytes": 152115,
+      "missingDeclaredAssets": [],
+      "brokenInternalRouteLinks": []
+    },
+    {
+      "file": "en/index.html",
+      "lang": "en",
+      "dir": "ltr",
+      "expectedDir": "ltr",
+      "mainCount": 1,
+      "h1Count": 1,
+      "duplicateIds": [],
+      "noindex": true,
+      "scripts": [
+        {
+          "src": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "noModule": false,
+          "bytes": 203721,
+          "gzipBytes": 64057,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "noModule": false,
+          "bytes": 242917,
+          "gzipBytes": 67558,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/main-app-53fb55aaedf99428.js",
+          "noModule": false,
+          "bytes": 513,
+          "gzipBytes": 222,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "noModule": false,
+          "bytes": 7642,
+          "gzipBytes": 3246,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/319-231054c294c00b2d.js",
+          "noModule": false,
+          "bytes": 20163,
+          "gzipBytes": 7528,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/app/%5Blocale%5D/layout-5c31caf82028fdb3.js",
+          "noModule": false,
+          "bytes": 17882,
+          "gzipBytes": 4700,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/app/%5Blocale%5D/page-0ece250a9e9b23bf.js",
+          "noModule": false,
+          "bytes": 8116,
+          "gzipBytes": 2986,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "noModule": true,
+          "bytes": 112594,
+          "gzipBytes": 39627,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/webpack-778986402d37ddcf.js",
+          "noModule": false,
+          "bytes": 4863,
+          "gzipBytes": 2366,
+          "heavyMarkers": []
+        }
+      ],
+      "stylesheets": [
+        "/_next/static/css/be869f481fa87b06.css"
+      ],
+      "modernInitialJsBytes": 505817,
+      "modernInitialJsGzipBytes": 152663,
+      "missingDeclaredAssets": [],
+      "brokenInternalRouteLinks": []
+    },
+    {
+      "file": "en/products/ketcap/index.html",
+      "lang": "en",
+      "dir": "ltr",
+      "expectedDir": "ltr",
+      "mainCount": 1,
+      "h1Count": 1,
+      "duplicateIds": [],
+      "noindex": true,
+      "scripts": [
+        {
+          "src": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "noModule": false,
+          "bytes": 203721,
+          "gzipBytes": 64057,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "noModule": false,
+          "bytes": 242917,
+          "gzipBytes": 67558,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/main-app-53fb55aaedf99428.js",
+          "noModule": false,
+          "bytes": 513,
+          "gzipBytes": 222,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "noModule": false,
+          "bytes": 7642,
+          "gzipBytes": 3246,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/319-231054c294c00b2d.js",
+          "noModule": false,
+          "bytes": 20163,
+          "gzipBytes": 7528,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/app/%5Blocale%5D/layout-5c31caf82028fdb3.js",
+          "noModule": false,
+          "bytes": 17882,
+          "gzipBytes": 4700,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/app/%5Blocale%5D/products/%5Bslug%5D/page-730afdf03074b763.js",
+          "noModule": false,
+          "bytes": 6232,
+          "gzipBytes": 2438,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "noModule": true,
+          "bytes": 112594,
+          "gzipBytes": 39627,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/webpack-778986402d37ddcf.js",
+          "noModule": false,
+          "bytes": 4863,
+          "gzipBytes": 2366,
+          "heavyMarkers": []
+        }
+      ],
+      "stylesheets": [
+        "/_next/static/css/be869f481fa87b06.css"
+      ],
+      "modernInitialJsBytes": 503933,
+      "modernInitialJsGzipBytes": 152115,
+      "missingDeclaredAssets": [],
+      "brokenInternalRouteLinks": []
+    },
+    {
+      "file": "en/products/domates-salcasi/index.html",
+      "lang": "en",
+      "dir": "ltr",
+      "expectedDir": "ltr",
+      "mainCount": 1,
+      "h1Count": 1,
+      "duplicateIds": [],
+      "noindex": true,
+      "scripts": [
+        {
+          "src": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "noModule": false,
+          "bytes": 203721,
+          "gzipBytes": 64057,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "noModule": false,
+          "bytes": 242917,
+          "gzipBytes": 67558,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/main-app-53fb55aaedf99428.js",
+          "noModule": false,
+          "bytes": 513,
+          "gzipBytes": 222,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "noModule": false,
+          "bytes": 7642,
+          "gzipBytes": 3246,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/319-231054c294c00b2d.js",
+          "noModule": false,
+          "bytes": 20163,
+          "gzipBytes": 7528,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/app/%5Blocale%5D/layout-5c31caf82028fdb3.js",
+          "noModule": false,
+          "bytes": 17882,
+          "gzipBytes": 4700,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/app/%5Blocale%5D/products/%5Bslug%5D/page-730afdf03074b763.js",
+          "noModule": false,
+          "bytes": 6232,
+          "gzipBytes": 2438,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "noModule": true,
+          "bytes": 112594,
+          "gzipBytes": 39627,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/webpack-778986402d37ddcf.js",
+          "noModule": false,
+          "bytes": 4863,
+          "gzipBytes": 2366,
+          "heavyMarkers": []
+        }
+      ],
+      "stylesheets": [
+        "/_next/static/css/be869f481fa87b06.css"
+      ],
+      "modernInitialJsBytes": 503933,
+      "modernInitialJsGzipBytes": 152115,
+      "missingDeclaredAssets": [],
+      "brokenInternalRouteLinks": []
+    },
+    {
+      "file": "ar/index.html",
+      "lang": "ar",
+      "dir": "rtl",
+      "expectedDir": "rtl",
+      "mainCount": 1,
+      "h1Count": 1,
+      "duplicateIds": [],
+      "noindex": true,
+      "scripts": [
+        {
+          "src": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "noModule": false,
+          "bytes": 203721,
+          "gzipBytes": 64057,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "noModule": false,
+          "bytes": 242917,
+          "gzipBytes": 67558,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/main-app-53fb55aaedf99428.js",
+          "noModule": false,
+          "bytes": 513,
+          "gzipBytes": 222,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "noModule": false,
+          "bytes": 7642,
+          "gzipBytes": 3246,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/319-231054c294c00b2d.js",
+          "noModule": false,
+          "bytes": 20163,
+          "gzipBytes": 7528,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/app/%5Blocale%5D/layout-5c31caf82028fdb3.js",
+          "noModule": false,
+          "bytes": 17882,
+          "gzipBytes": 4700,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/app/%5Blocale%5D/page-0ece250a9e9b23bf.js",
+          "noModule": false,
+          "bytes": 8116,
+          "gzipBytes": 2986,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "noModule": true,
+          "bytes": 112594,
+          "gzipBytes": 39627,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/webpack-778986402d37ddcf.js",
+          "noModule": false,
+          "bytes": 4863,
+          "gzipBytes": 2366,
+          "heavyMarkers": []
+        }
+      ],
+      "stylesheets": [
+        "/_next/static/css/be869f481fa87b06.css"
+      ],
+      "modernInitialJsBytes": 505817,
+      "modernInitialJsGzipBytes": 152663,
+      "missingDeclaredAssets": [],
+      "brokenInternalRouteLinks": []
+    },
+    {
+      "file": "ar/products/ketcap/index.html",
+      "lang": "ar",
+      "dir": "rtl",
+      "expectedDir": "rtl",
+      "mainCount": 1,
+      "h1Count": 1,
+      "duplicateIds": [],
+      "noindex": true,
+      "scripts": [
+        {
+          "src": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "noModule": false,
+          "bytes": 203721,
+          "gzipBytes": 64057,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "noModule": false,
+          "bytes": 242917,
+          "gzipBytes": 67558,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/main-app-53fb55aaedf99428.js",
+          "noModule": false,
+          "bytes": 513,
+          "gzipBytes": 222,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "noModule": false,
+          "bytes": 7642,
+          "gzipBytes": 3246,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/319-231054c294c00b2d.js",
+          "noModule": false,
+          "bytes": 20163,
+          "gzipBytes": 7528,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/app/%5Blocale%5D/layout-5c31caf82028fdb3.js",
+          "noModule": false,
+          "bytes": 17882,
+          "gzipBytes": 4700,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/app/%5Blocale%5D/products/%5Bslug%5D/page-730afdf03074b763.js",
+          "noModule": false,
+          "bytes": 6232,
+          "gzipBytes": 2438,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "noModule": true,
+          "bytes": 112594,
+          "gzipBytes": 39627,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/webpack-778986402d37ddcf.js",
+          "noModule": false,
+          "bytes": 4863,
+          "gzipBytes": 2366,
+          "heavyMarkers": []
+        }
+      ],
+      "stylesheets": [
+        "/_next/static/css/be869f481fa87b06.css"
+      ],
+      "modernInitialJsBytes": 503933,
+      "modernInitialJsGzipBytes": 152115,
+      "missingDeclaredAssets": [],
+      "brokenInternalRouteLinks": []
+    },
+    {
+      "file": "ar/products/domates-salcasi/index.html",
+      "lang": "ar",
+      "dir": "rtl",
+      "expectedDir": "rtl",
+      "mainCount": 1,
+      "h1Count": 1,
+      "duplicateIds": [],
+      "noindex": true,
+      "scripts": [
+        {
+          "src": "/_next/static/chunks/4bd1b696-c7408084347438ae.js",
+          "noModule": false,
+          "bytes": 203721,
+          "gzipBytes": 64057,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/794-f6a16fdde17f7dcf.js",
+          "noModule": false,
+          "bytes": 242917,
+          "gzipBytes": 67558,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/main-app-53fb55aaedf99428.js",
+          "noModule": false,
+          "bytes": 513,
+          "gzipBytes": 222,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/500-fc3b64d9ff4a32a7.js",
+          "noModule": false,
+          "bytes": 7642,
+          "gzipBytes": 3246,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/319-231054c294c00b2d.js",
+          "noModule": false,
+          "bytes": 20163,
+          "gzipBytes": 7528,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/app/%5Blocale%5D/layout-5c31caf82028fdb3.js",
+          "noModule": false,
+          "bytes": 17882,
+          "gzipBytes": 4700,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/app/%5Blocale%5D/products/%5Bslug%5D/page-730afdf03074b763.js",
+          "noModule": false,
+          "bytes": 6232,
+          "gzipBytes": 2438,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "noModule": true,
+          "bytes": 112594,
+          "gzipBytes": 39627,
+          "heavyMarkers": []
+        },
+        {
+          "src": "/_next/static/chunks/webpack-778986402d37ddcf.js",
+          "noModule": false,
+          "bytes": 4863,
+          "gzipBytes": 2366,
+          "heavyMarkers": []
+        }
+      ],
+      "stylesheets": [
+        "/_next/static/css/be869f481fa87b06.css"
+      ],
+      "modernInitialJsBytes": 503933,
+      "modernInitialJsGzipBytes": 152115,
+      "missingDeclaredAssets": [],
+      "brokenInternalRouteLinks": []
+    }
+  ],
+  "desktopChunks": [
+    {
+      "file": "_next/static/chunks/471.d7264bcd7210cf04.js",
+      "fluidComponent": true,
+      "motionDirector": false,
+      "modalGuardPresent": true,
+      "listedInInitialPageScripts": false
+    },
+    {
+      "file": "_next/static/chunks/59.0b04830cae6f3368.js",
+      "fluidComponent": false,
+      "motionDirector": true,
+      "modalGuardPresent": true,
+      "listedInInitialPageScripts": false
+    }
+  ],
+  "previousFocusRingContrastOnCream": 1.57,
+  "sourceCssFixMarkers": {
+    "twoToneFocus": true,
+    "familyOverflowHidden": true,
+    "minimum44PixelControls": true
+  },
+  "exportedCssFixMarkers": [
+    {
+      "file": "_next/static/css/226f4571965e8b3e.css",
+      "referencedByContentPages": [],
+      "twoToneFocus": false,
+      "familyOverflowHidden": false,
+      "minimum44PixelControls": false
+    },
+    {
+      "file": "_next/static/css/be869f481fa87b06.css",
+      "referencedByContentPages": [
+        "tr/index.html",
+        "tr/products/ketcap/index.html",
+        "tr/products/domates-salcasi/index.html",
+        "en/index.html",
+        "en/products/ketcap/index.html",
+        "en/products/domates-salcasi/index.html",
+        "ar/index.html",
+        "ar/products/ketcap/index.html",
+        "ar/products/domates-salcasi/index.html"
+      ],
+      "twoToneFocus": true,
+      "familyOverflowHidden": true,
+      "minimum44PixelControls": true
+    }
+  ],
+  "limits": [
+    "Declared responsive sources are checked for existence, not for which source a browser requests.",
+    "Heavy marker scan is a static bundle signal; cold device-specific HAR remains required.",
+    "Gzip totals are hypothetical per-file gzip encoding, not observed transfer sizes or performance scores.",
+    "Static AR lang/dir does not prove native shaping, visual fit, swipe or keyboard behavior."
+  ]
+}

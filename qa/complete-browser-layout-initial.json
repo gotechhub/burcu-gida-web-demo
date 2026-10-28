@@ -1,0 +1,3373 @@
+{
+  "checkedAt": "2026-10-14T01:54:26.702Z",
+  "completed": 198,
+  "expected": 198,
+  "checks": [
+    {
+      "route": "/tr/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Lezzetin kaynağı Türkiye. Ufku dünya.",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Ürünler · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/about/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Lezzetin arkasında, bir dünya var. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/facilities/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Lezzet üreten birikim. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/quality/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Güven, gösterilen özenle başlar. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/food-safety/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Özen, üretimin her aşamasında. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/certificates/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Belgeyi, kaynağıyla tanıyın. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/careers/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Üretime değer katan, insanın emeği. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/corporate-sales/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "İşiniz için, doğru ürün konuşması. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/global/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Türkiye’den, dünyanın sofralarına. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/kitchen/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Her sofrada, yeni bir fikir. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/media/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Markanın hikâyesi, birçok kadrajda. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/contact/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "İlk görüşmeyle başlayalım. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/sitemap/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Burcu dünyasına, tek bir bakış. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/privacy/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Bilgiye, açık bir yaklaşım. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/kvkk/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Kişisel veriye, özenli yaklaşım. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/cookies/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Tarayıcı deneyimini, anlaşılır kılalım. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/domates-salcasi/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Burcu Domates Salçası · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/biber-salcasi/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Burcu Tatlı Biber Salçası · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/2si1arada/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Burcu 2'si 1 Arada Salça · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/ketcap/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Burcu Tatlı Ketçap · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/mayonez/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Burcu Mayonez · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/barbunya-pilaki/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Burcu Barbunya Pilaki · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/yaprak-sarma/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Burcu Yaprak Sarma · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/bezelye/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Burcu Bezelye Konservesi · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/haslanmis-nohut/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Burcu Haşlanmış Nohut · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/kozlenmis-biber/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Burcu Közlenmiş Biber · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/family/paste/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Salçalar · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/family/sauce/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Ketçap ve mayonez · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/family/vegetables/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Sebze konserveleri · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/family/pulses/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Haşlanmış ürünler · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/family/meals/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Hazır yemekler · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/family/roasted/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Közlenmiş ürünler · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Rooted in Türkiye. Shared with the world.",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Products · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/about/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "There is a world behind the flavour. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/facilities/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Experience that creates flavour. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/quality/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Trust begins with care. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/food-safety/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Care through every stage. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/certificates/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Know the document. Know its source. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/careers/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "People’s work, production’s value. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/corporate-sales/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "The right product conversation for your business. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/global/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "From Türkiye, to tables around the world. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/kitchen/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "A fresh idea for every table. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/media/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "The brand story, through different lenses. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/contact/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Start with a conversation. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/sitemap/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "One view of the Burcu world. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/privacy/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "An open approach to information. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/kvkk/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Care for personal information. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/cookies/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Understanding the browser experience. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/domates-salcasi/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Burcu Tomato Paste · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/biber-salcasi/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Burcu Sweet Pepper Paste · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/2si1arada/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Burcu 2-in-1 Tomato and Pepper Paste · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/ketcap/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Burcu Sweet Ketchup · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/mayonez/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Burcu Mayonnaise · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/barbunya-pilaki/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Burcu Barbunya Pilaki · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/yaprak-sarma/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Burcu Stuffed Vine Leaves · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/bezelye/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Burcu Canned Peas · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/haslanmis-nohut/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Burcu Cooked Chickpeas · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/kozlenmis-biber/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Burcu Roasted Red Pepper · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/family/paste/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Tomato and pepper pastes · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/family/sauce/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Ketchup and mayonnaise · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/family/vegetables/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Canned vegetables · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/family/pulses/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Cooked products · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/family/meals/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Ready meals · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/family/roasted/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Roasted products · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "جذورنا في تركيا. ومذاقنا للعالم.",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "المنتجات · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/about/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "وراء المذاق، عالم كامل. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/facilities/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "خبرة تنتج المذاق. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/quality/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "الثقة تبدأ بالعناية. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/food-safety/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "عناية في كل مرحلة. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/certificates/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "تعرّف إلى الوثيقة. وتعرّف إلى مصدرها. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/careers/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "عمل الإنسان، قيمة الإنتاج. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/corporate-sales/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "حوار المنتج المناسب لعملك. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/global/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "من تركيا، إلى موائد العالم. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/kitchen/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "فكرة جديدة لكل مائدة. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/media/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "قصة العلامة، بعدسات مختلفة. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/contact/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "لنبدأ بالحديث. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/sitemap/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "نظرة واحدة إلى عالم بورجو. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/privacy/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "نهج واضح للمعلومات. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/kvkk/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "عناية بالمعلومات الشخصية. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/cookies/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "فهم تجربة المتصفح. · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/domates-salcasi/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "Burcu معجون الطماطم · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/biber-salcasi/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "Burcu معجون الفلفل الحلو · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/2si1arada/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "Burcu معجون الطماطم والفلفل 2 في 1 · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/ketcap/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "Burcu كاتشب حلو · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/mayonez/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "Burcu مايونيز · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/barbunya-pilaki/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "Burcu باربونيا بيلاكي · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/yaprak-sarma/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "Burcu ورق عنب محشي · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/bezelye/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "Burcu بازلاء معلبة · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/haslanmis-nohut/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "Burcu حمص مسلوق · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/kozlenmis-biber/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "Burcu فلفل أحمر مشوي · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/family/paste/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "معجون الطماطم والفلفل · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/family/sauce/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "الكاتشب والمايونيز · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/family/vegetables/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "الخضار المعلبة · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/family/pulses/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "المنتجات المسلوقة · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/family/meals/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "الوجبات الجاهزة · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/family/roasted/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "المنتجات المشوية · Burcu",
+      "viewport": [
+        390,
+        844
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Lezzetin kaynağı Türkiye. Ufku dünya.",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Ürünler · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/about/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Lezzetin arkasında, bir dünya var. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/facilities/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Lezzet üreten birikim. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/quality/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Güven, gösterilen özenle başlar. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/food-safety/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Özen, üretimin her aşamasında. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/certificates/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Belgeyi, kaynağıyla tanıyın. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/careers/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Üretime değer katan, insanın emeği. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/corporate-sales/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "İşiniz için, doğru ürün konuşması. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/global/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Türkiye’den, dünyanın sofralarına. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/kitchen/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Her sofrada, yeni bir fikir. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/media/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Markanın hikâyesi, birçok kadrajda. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/contact/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "İlk görüşmeyle başlayalım. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/sitemap/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Burcu dünyasına, tek bir bakış. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/privacy/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Bilgiye, açık bir yaklaşım. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/kvkk/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Kişisel veriye, özenli yaklaşım. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/cookies/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Tarayıcı deneyimini, anlaşılır kılalım. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/domates-salcasi/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": true,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Burcu Domates Salçası · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/biber-salcasi/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": true,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Burcu Tatlı Biber Salçası · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/2si1arada/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": true,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Burcu 2'si 1 Arada Salça · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/ketcap/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Burcu Tatlı Ketçap · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/mayonez/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Burcu Mayonez · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/barbunya-pilaki/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Burcu Barbunya Pilaki · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/yaprak-sarma/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Burcu Yaprak Sarma · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/bezelye/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Burcu Bezelye Konservesi · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/haslanmis-nohut/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Burcu Haşlanmış Nohut · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/kozlenmis-biber/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Burcu Közlenmiş Biber · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/family/paste/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Salçalar · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/family/sauce/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Ketçap ve mayonez · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/family/vegetables/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Sebze konserveleri · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/family/pulses/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Haşlanmış ürünler · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/family/meals/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Hazır yemekler · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/tr/products/family/roasted/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "tr",
+      "title": "Közlenmiş ürünler · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Rooted in Türkiye. Shared with the world.",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Products · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/about/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "There is a world behind the flavour. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/facilities/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Experience that creates flavour. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/quality/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Trust begins with care. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/food-safety/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Care through every stage. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/certificates/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Know the document. Know its source. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/careers/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "People’s work, production’s value. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/corporate-sales/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "The right product conversation for your business. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/global/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "From Türkiye, to tables around the world. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/kitchen/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "A fresh idea for every table. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/media/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "The brand story, through different lenses. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/contact/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Start with a conversation. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/sitemap/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "One view of the Burcu world. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/privacy/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "An open approach to information. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/kvkk/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Care for personal information. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/cookies/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Understanding the browser experience. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/domates-salcasi/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": true,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Burcu Tomato Paste · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/biber-salcasi/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": true,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Burcu Sweet Pepper Paste · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/2si1arada/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": true,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Burcu 2-in-1 Tomato and Pepper Paste · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/ketcap/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Burcu Sweet Ketchup · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/mayonez/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Burcu Mayonnaise · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/barbunya-pilaki/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Burcu Barbunya Pilaki · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/yaprak-sarma/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Burcu Stuffed Vine Leaves · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/bezelye/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Burcu Canned Peas · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/haslanmis-nohut/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Burcu Cooked Chickpeas · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/kozlenmis-biber/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Burcu Roasted Red Pepper · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/family/paste/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Tomato and pepper pastes · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/family/sauce/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Ketchup and mayonnaise · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/family/vegetables/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Canned vegetables · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/family/pulses/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Cooked products · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/family/meals/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Ready meals · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/en/products/family/roasted/",
+      "canvasCount": 0,
+      "dir": "ltr",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "en",
+      "title": "Roasted products · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "جذورنا في تركيا. ومذاقنا للعالم.",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "المنتجات · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/about/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "وراء المذاق، عالم كامل. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/facilities/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "خبرة تنتج المذاق. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/quality/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "الثقة تبدأ بالعناية. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/food-safety/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "عناية في كل مرحلة. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/certificates/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "تعرّف إلى الوثيقة. وتعرّف إلى مصدرها. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/careers/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "عمل الإنسان، قيمة الإنتاج. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/corporate-sales/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "حوار المنتج المناسب لعملك. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/global/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "من تركيا، إلى موائد العالم. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/kitchen/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "فكرة جديدة لكل مائدة. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/media/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "قصة العلامة، بعدسات مختلفة. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/contact/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "لنبدأ بالحديث. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/sitemap/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "نظرة واحدة إلى عالم بورجو. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/privacy/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "نهج واضح للمعلومات. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/kvkk/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "عناية بالمعلومات الشخصية. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/cookies/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "فهم تجربة المتصفح. · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/domates-salcasi/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": true,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "Burcu معجون الطماطم · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/biber-salcasi/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": true,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "Burcu معجون الفلفل الحلو · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/2si1arada/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": true,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "Burcu معجون الطماطم والفلفل 2 في 1 · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/ketcap/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "Burcu كاتشب حلو · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/mayonez/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "Burcu مايونيز · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/barbunya-pilaki/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "Burcu باربونيا بيلاكي · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/yaprak-sarma/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "Burcu ورق عنب محشي · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/bezelye/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "Burcu بازلاء معلبة · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/haslanmis-nohut/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "Burcu حمص مسلوق · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/kozlenmis-biber/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "Burcu فلفل أحمر مشوي · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/family/paste/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "معجون الطماطم والفلفل · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/family/sauce/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "الكاتشب والمايونيز · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/family/vegetables/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "الخضار المعلبة · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/family/pulses/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "المنتجات المسلوقة · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/family/meals/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "الوجبات الجاهزة · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    },
+    {
+      "route": "/ar/products/family/roasted/",
+      "canvasCount": 0,
+      "dir": "rtl",
+      "h1Count": 1,
+      "headerOverflow": 0,
+      "headingOverflow": 0,
+      "heroCopyPackOverlap": false,
+      "horizontalOverflow": 0,
+      "lang": "ar",
+      "title": "المنتجات المشوية · Burcu",
+      "viewport": [
+        1440,
+        900
+      ],
+      "visibleBrokenImages": []
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "checkedAt": "2026-10-14T03:51:33.126Z",
+  "checks": {
+    "mayonnaise": {
+      "selected": "P05",
+      "scene": "/assets/scenes/mayonnaise-desktop.webp",
+      "detail": "/tr/products/mayonez/",
+      "lightTheme": true
+    },
+    "search": {
+      "canvas": 0,
+      "count": 1,
+      "links": [
+        "/tr/products/mayonez/"
+      ],
+      "query": "mayonez"
+    },
+    "empty": {
+      "canvas": 0,
+      "count": 0,
+      "message": "Bu arama için ürün bulunamadı."
+    },
+    "language": {
+      "url": "http://127.0.0.1:4320/en/products/mayonez/",
+      "h1": "A smooth texture.Fresh ideas.",
+      "lang": "en",
+      "pack": "/assets/products/mayonez.webp"
+    }
+  },
+  "finalSceneChecks": [
+    {
+      "route": "/tr/products/biber-salcasi/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "expectedScene": "pepper-paste",
+      "canvas": 0,
+      "dir": "ltr",
+      "horizontalOverflow": 0,
+      "pack": "/assets/products/biber-salcasi.webp",
+      "photo": "http://127.0.0.1:4320/assets/scenes/pepper-paste-mobile.webp"
+    },
+    {
+      "route": "/tr/products/2si1arada/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "expectedScene": "mixed-paste",
+      "canvas": 0,
+      "dir": "ltr",
+      "horizontalOverflow": 0,
+      "pack": "/assets/products/2si1arada.webp",
+      "photo": "http://127.0.0.1:4320/assets/scenes/mixed-paste-mobile.webp"
+    },
+    {
+      "route": "/tr/products/yaprak-sarma/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "expectedScene": "vine-leaves",
+      "canvas": 0,
+      "dir": "ltr",
+      "horizontalOverflow": 0,
+      "pack": "/assets/products/yaprak-sarma.webp",
+      "photo": "http://127.0.0.1:4320/assets/scenes/vine-leaves-mobile.webp"
+    },
+    {
+      "route": "/en/products/biber-salcasi/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "expectedScene": "pepper-paste",
+      "canvas": 0,
+      "dir": "ltr",
+      "horizontalOverflow": 0,
+      "pack": "/assets/products/biber-salcasi.webp",
+      "photo": "http://127.0.0.1:4320/assets/scenes/pepper-paste-mobile.webp"
+    },
+    {
+      "route": "/en/products/2si1arada/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "expectedScene": "mixed-paste",
+      "canvas": 0,
+      "dir": "ltr",
+      "horizontalOverflow": 0,
+      "pack": "/assets/products/2si1arada.webp",
+      "photo": "http://127.0.0.1:4320/assets/scenes/mixed-paste-mobile.webp"
+    },
+    {
+      "route": "/en/products/yaprak-sarma/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "expectedScene": "vine-leaves",
+      "canvas": 0,
+      "dir": "ltr",
+      "horizontalOverflow": 0,
+      "pack": "/assets/products/yaprak-sarma.webp",
+      "photo": "http://127.0.0.1:4320/assets/scenes/vine-leaves-mobile.webp"
+    },
+    {
+      "route": "/ar/products/biber-salcasi/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "expectedScene": "pepper-paste",
+      "canvas": 0,
+      "dir": "rtl",
+      "horizontalOverflow": 0,
+      "pack": "/assets/products/biber-salcasi.webp",
+      "photo": "http://127.0.0.1:4320/assets/scenes/pepper-paste-mobile.webp"
+    },
+    {
+      "route": "/ar/products/2si1arada/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "expectedScene": "mixed-paste",
+      "canvas": 0,
+      "dir": "rtl",
+      "horizontalOverflow": 0,
+      "pack": "/assets/products/2si1arada.webp",
+      "photo": "http://127.0.0.1:4320/assets/scenes/mixed-paste-mobile.webp"
+    },
+    {
+      "route": "/ar/products/yaprak-sarma/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "expectedScene": "vine-leaves",
+      "canvas": 0,
+      "dir": "rtl",
+      "horizontalOverflow": 0,
+      "pack": "/assets/products/yaprak-sarma.webp",
+      "photo": "http://127.0.0.1:4320/assets/scenes/vine-leaves-mobile.webp"
+    },
+    {
+      "route": "/tr/products/biber-salcasi/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "expectedScene": "pepper-paste",
+      "canvas": 0,
+      "dir": "ltr",
+      "horizontalOverflow": 0,
+      "pack": "/assets/products/biber-salcasi.webp",
+      "photo": "http://127.0.0.1:4320/assets/scenes/pepper-paste-desktop.webp"
+    },
+    {
+      "route": "/tr/products/2si1arada/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "expectedScene": "mixed-paste",
+      "canvas": 0,
+      "dir": "ltr",
+      "horizontalOverflow": 0,
+      "pack": "/assets/products/2si1arada.webp",
+      "photo": "http://127.0.0.1:4320/assets/scenes/mixed-paste-desktop.webp"
+    },
+    {
+      "route": "/tr/products/yaprak-sarma/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "expectedScene": "vine-leaves",
+      "canvas": 0,
+      "dir": "ltr",
+      "horizontalOverflow": 0,
+      "pack": "/assets/products/yaprak-sarma.webp",
+      "photo": "http://127.0.0.1:4320/assets/scenes/vine-leaves-desktop.webp"
+    },
+    {
+      "route": "/en/products/biber-salcasi/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "expectedScene": "pepper-paste",
+      "canvas": 0,
+      "dir": "ltr",
+      "horizontalOverflow": 0,
+      "pack": "/assets/products/biber-salcasi.webp",
+      "photo": "http://127.0.0.1:4320/assets/scenes/pepper-paste-desktop.webp"
+    },
+    {
+      "route": "/en/products/2si1arada/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "expectedScene": "mixed-paste",
+      "canvas": 0,
+      "dir": "ltr",
+      "horizontalOverflow": 0,
+      "pack": "/assets/products/2si1arada.webp",
+      "photo": "http://127.0.0.1:4320/assets/scenes/mixed-paste-desktop.webp"
+    },
+    {
+      "route": "/en/products/yaprak-sarma/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "expectedScene": "vine-leaves",
+      "canvas": 0,
+      "dir": "ltr",
+      "horizontalOverflow": 0,
+      "pack": "/assets/products/yaprak-sarma.webp",
+      "photo": "http://127.0.0.1:4320/assets/scenes/vine-leaves-desktop.webp"
+    },
+    {
+      "route": "/ar/products/biber-salcasi/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "expectedScene": "pepper-paste",
+      "canvas": 0,
+      "dir": "rtl",
+      "horizontalOverflow": 0,
+      "pack": "/assets/products/biber-salcasi.webp",
+      "photo": "http://127.0.0.1:4320/assets/scenes/pepper-paste-desktop.webp"
+    },
+    {
+      "route": "/ar/products/2si1arada/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "expectedScene": "mixed-paste",
+      "canvas": 0,
+      "dir": "rtl",
+      "horizontalOverflow": 0,
+      "pack": "/assets/products/2si1arada.webp",
+      "photo": "http://127.0.0.1:4320/assets/scenes/mixed-paste-desktop.webp"
+    },
+    {
+      "route": "/ar/products/yaprak-sarma/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "expectedScene": "vine-leaves",
+      "canvas": 0,
+      "dir": "rtl",
+      "horizontalOverflow": 0,
+      "pack": "/assets/products/yaprak-sarma.webp",
+      "photo": "http://127.0.0.1:4320/assets/scenes/vine-leaves-desktop.webp"
+    }
+  ],
+  "errors": []
+}

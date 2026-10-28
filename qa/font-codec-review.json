@@ -1,0 +1,215 @@
+{
+  "schemaVersion": "1.0-font-codec-review",
+  "checkedAt": "2026-10-13T22:02:51.366196+00:00",
+  "status": "passed",
+  "mode": "verify-existing",
+  "pythonVersion": "3.12.14",
+  "pythonExecutableBase": "C:\\Users\\SG\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+  "pythonEnvironment": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v2\\tools\\font-runtime",
+  "projectLocalEnvironment": true,
+  "dependencies": {
+    "fonttools": "4.66.1",
+    "Brotli": "1.2.0"
+  },
+  "fonts": [
+    {
+      "name": "Manrope",
+      "sourcePath": "assets/source/fonts/Manrope.ttf",
+      "existingRuntimeTtfPath": "public/assets/fonts/Manrope.ttf",
+      "woff2Path": "public/assets/fonts/Manrope.woff2",
+      "sourceSha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6",
+      "woff2Sha256": "30b83738add8c9edd9e3450b98036a9a8fb5668d0cbd4eb0ce5fe6761197f21f",
+      "sourceBytes": 164700,
+      "woff2Bytes": 53892,
+      "savedBytes": 110808,
+      "reductionPercent": 67.28,
+      "glyphCount": 742,
+      "unicodeCodePointCount": 678,
+      "axes": [
+        {
+          "tag": "wght",
+          "min": 200.0,
+          "default": 200.0,
+          "max": 800.0,
+          "flags": 0,
+          "nameID": 256
+        }
+      ],
+      "axisTablesPreserved": [
+        "HVAR",
+        "STAT",
+        "fvar",
+        "gvar"
+      ],
+      "shapingTablesPreserved": [
+        "GDEF",
+        "GPOS",
+        "GSUB"
+      ],
+      "untransformedTablesPreserved": [
+        "GDEF",
+        "GPOS",
+        "GSUB",
+        "HVAR",
+        "OS/2",
+        "STAT",
+        "cmap",
+        "fvar",
+        "gasp",
+        "gvar",
+        "hhea",
+        "hmtx",
+        "maxp",
+        "name",
+        "post",
+        "prep"
+      ],
+      "untransformedTableSha256": {
+        "GDEF": "ef59b71a3dfdb415e76074c123e9568d03c1d6b4c0522e4b773959f7fcabb887",
+        "GPOS": "81579b03cb51c148aae6bab2132eea71f05f345cd761146ddc98a4a50f75c891",
+        "GSUB": "24f054ab18dc3dfd0dd65cecae6e35895b775c1c8391c2b1f7480277767c4869",
+        "HVAR": "ea3e91a9166ca38d01dd95abe66d0bbbc1edc122511bb9e281ab7d85eaf6a2ce",
+        "OS/2": "17a990d606b5f52e6547e83fef8ad7fbb94f41ed5503d5e9fae93c3452986485",
+        "STAT": "083924b543b677eb462600e377505249ea284400821814924067797729cebbaa",
+        "cmap": "a9fb9d2d59f6a0b9f8d0ce692a3cbfc9cbce9a9b326a4cfff946d746e70c2867",
+        "fvar": "5f811d812d9a75b9e7a87ede3fad2f6b05507ae494a48ec7f02242c0efc12582",
+        "gasp": "4ca731f86ad506ac0e320283dc9461926346de3c4d91d539ea7f6620d3826940",
+        "gvar": "11651c2aac3509657b49b1c8fd3714561bee3d8f1330517ad01e1f75599e92dc",
+        "hhea": "e99cbdaaffa318914dc701d0d738318a11dc19d89031a0b76b08783db1f3e5be",
+        "hmtx": "a84f915c50510edb1c74acf1b30d2ce80eaa91e6a65c48c3588bdb2aeea03920",
+        "maxp": "3f03123328983f9175fa5708d8a18c4206cf10001c45c8b93affb5581bf4ba58",
+        "name": "8ffc00b8a604fb90f37063e5cc9699cc72c6ee15104dc20608a4bd235211f6a8",
+        "post": "4014f0ebba6c4c06d7cd798caa03b77fca946300e8761f10afab077cf63e31b1",
+        "prep": "907c4106ff9989c1805827d5581bdf107a253b098cb71eb374f5e47c35604452"
+      },
+      "decodedGlyphDataSha256": "865a9ee38226d8f61a0a1ad19325bb78b0cdd268d2585b82c30537c713f8237a",
+      "decodedDrawingOutlineSha256": "39ab23b56cfb6af748ffa66d5d9b35688adf73cdb0619aae02aa1b839ac3cf06",
+      "checks": {
+        "sourceTtfUnchanged": true,
+        "existingRuntimeTtfUnchanged": true,
+        "tableSetIdentical": true,
+        "glyphOrderIdentical": true,
+        "allCmapSubtablesIdentical": true,
+        "axisTablesBinaryIdentical": true,
+        "shapingTablesBinaryIdentical": true,
+        "decodedGlyphPointsContoursCompositesInstructionsBoundsIdentical": true,
+        "allDecodedDrawingOutlinesIdentical": true,
+        "horizontalAndVerticalMetricsIdentical": true,
+        "headGeometryAndIdentityMetadataIdentical": true,
+        "subsetApplied": false,
+        "axisLimitsChanged": false
+      }
+    },
+    {
+      "name": "NotoSansArabic",
+      "sourcePath": "assets/source/fonts/NotoSansArabic.ttf",
+      "existingRuntimeTtfPath": "public/assets/fonts/NotoSansArabic.ttf",
+      "woff2Path": "public/assets/fonts/NotoSansArabic.woff2",
+      "sourceSha256": "63111b5b2e074dd48cc67692e0a2726d86ee94c1c37fe8598257b7b4e87e869e",
+      "woff2Sha256": "d383af9d4bce176d3d619bdc9b35c8d494ac15e410ce7efafc4ed9621bbc3d19",
+      "sourceBytes": 844676,
+      "woff2Bytes": 361724,
+      "savedBytes": 482952,
+      "reductionPercent": 57.18,
+      "glyphCount": 1711,
+      "unicodeCodePointCount": 1561,
+      "axes": [
+        {
+          "tag": "wght",
+          "min": 100.0,
+          "default": 400.0,
+          "max": 900.0,
+          "flags": 0,
+          "nameID": 260
+        },
+        {
+          "tag": "wdth",
+          "min": 62.5,
+          "default": 100.0,
+          "max": 100.0,
+          "flags": 0,
+          "nameID": 261
+        }
+      ],
+      "axisTablesPreserved": [
+        "HVAR",
+        "MVAR",
+        "STAT",
+        "avar",
+        "fvar",
+        "gvar"
+      ],
+      "shapingTablesPreserved": [
+        "GDEF",
+        "GPOS",
+        "GSUB"
+      ],
+      "untransformedTablesPreserved": [
+        "GDEF",
+        "GPOS",
+        "GSUB",
+        "HVAR",
+        "MVAR",
+        "OS/2",
+        "STAT",
+        "avar",
+        "cmap",
+        "fvar",
+        "gasp",
+        "gvar",
+        "hhea",
+        "hmtx",
+        "maxp",
+        "name",
+        "post",
+        "prep"
+      ],
+      "untransformedTableSha256": {
+        "GDEF": "ab5095b2734356cc039a264207a769d1d61b945484c70d0d390493130fbe54fc",
+        "GPOS": "e18c7759932148f1d50ffa30edad68b17cf3db25a6cf8ba1e66b0cfee84264ab",
+        "GSUB": "edf2b6ac6fbf35f98d89bf2a5b55d88d388aaacdf2e7f565fce214870714ac8b",
+        "HVAR": "aea64c5827a8c39873f02a1ed2dfef38592b08e4b667298f9a8c3d1597efb8eb",
+        "MVAR": "8817647fcf4aac4fd107661da3a5d508846fc183423e9601fedcdb812a9f7f4f",
+        "OS/2": "5df1aef2c69779f88761062c9a72d78a9a3ba0294d5d41167ebcd17da3989dfc",
+        "STAT": "f6279a7b0b37d55055a539b4d60191572a817d48a373381d8c750d07ea7ee4df",
+        "avar": "c3d2c163db57497211b1b53e78c3796dfedb43fc66dcfe8482e17091833df4e0",
+        "cmap": "c96ba5aeebac976e193c4ab000fcb49ec1dcb8983b952c5618c7348b274a693d",
+        "fvar": "61273555941d595168f5672c92d55edcdcd9045df0a46f59e799b159c2d139ec",
+        "gasp": "4ca731f86ad506ac0e320283dc9461926346de3c4d91d539ea7f6620d3826940",
+        "gvar": "94ad75a08cd9d613089e3e8dd8445604d16e9d8be825fe6bafe899c4259d9948",
+        "hhea": "833f2a2e61c23c10371081fc154d32e732a1436a4c4c222a120434e40e12db38",
+        "hmtx": "c84cfd1b76409d6922ac953fba41fddb57cf36a4de49bcafb48fb43fe55fc9b1",
+        "maxp": "1f33d07e0cc1e9099737a15f0115f2a541c1c6f6c9ed2a21aba37c44572cac35",
+        "name": "d4368ada571b95d89f7ec2ecbcfad50fd2e771c34245a50a44a87a3df5192d94",
+        "post": "6e272e55ae2a44ca54f2943b55d8a7dc32dc53484d46200bb20d84c5381b65f3",
+        "prep": "907c4106ff9989c1805827d5581bdf107a253b098cb71eb374f5e47c35604452"
+      },
+      "decodedGlyphDataSha256": "86ab67b4ddd9c3d615d768a2391eed91351f3161fe36e4a8f0340a47f91d93d3",
+      "decodedDrawingOutlineSha256": "721f365eeccdc6678a79e4ab68bb33f30eabb2da27489d6e62579a5b073b2272",
+      "checks": {
+        "sourceTtfUnchanged": true,
+        "existingRuntimeTtfUnchanged": true,
+        "tableSetIdentical": true,
+        "glyphOrderIdentical": true,
+        "allCmapSubtablesIdentical": true,
+        "axisTablesBinaryIdentical": true,
+        "shapingTablesBinaryIdentical": true,
+        "decodedGlyphPointsContoursCompositesInstructionsBoundsIdentical": true,
+        "allDecodedDrawingOutlinesIdentical": true,
+        "horizontalAndVerticalMetricsIdentical": true,
+        "headGeometryAndIdentityMetadataIdentical": true,
+        "subsetApplied": false,
+        "axisLimitsChanged": false
+      }
+    }
+  ],
+  "totals": {
+    "sourceBytes": 1009376,
+    "woff2Bytes": 415616,
+    "savedBytes": 593760,
+    "reductionPercent": 58.82
+  },
+  "uiFontImportsModified": false,
+  "browserTransferMeasured": false,
+  "lighthouseGainClaimed": false
+}

@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+
+# GitHub'a gitmeyecek büyük / yerel dosyalar
+assets/source/documents/
+assets/masters/
+design/
+tmp/
+tools/font-runtime/
+qa/screenshots/
+qa/*.png
+qa/*.jpg
+.vercel/

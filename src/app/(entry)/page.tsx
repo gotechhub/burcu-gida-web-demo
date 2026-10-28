@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function Entry(){return <main className="language-entry"><img src="/assets/brand/burcu-logo.webp" alt="Burcu" width="237" height="104"/><p>LEZZET AŞKI</p><h1>Burcu.</h1><nav aria-label="Language"><Link href="/tr/">Türkçe <span>→</span></Link><Link href="/en/">English <span>→</span></Link><Link href="/ar/" lang="ar">العربية <span>←</span></Link></nav><small>V2 · DESIGN EXPERIENCE</small></main>;}

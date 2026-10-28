@@ -1,0 +1,722 @@
+[
+  {
+    "canvas": 0,
+    "copyBottom": 286.0500030517578,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 312.2749938964844,
+    "path": "/tr/",
+    "titleBottom": 286.0500030517578,
+    "width": 360
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 443.0249938964844,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 467.0249938964844,
+    "path": "/tr/products/ketcap/",
+    "titleBottom": 298.8250045776367,
+    "width": 360
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 459.0249938964844,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 483.0249938964844,
+    "path": "/tr/products/domates-salcasi/",
+    "titleBottom": 314.8250045776367,
+    "width": 360
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 273.1125030517578,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 354.4750061035156,
+    "path": "/en/",
+    "titleBottom": 273.1125030517578,
+    "width": 360
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 459.0249938964844,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 483.0249938964844,
+    "path": "/en/products/ketcap/",
+    "titleBottom": 314.8250045776367,
+    "width": 360
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 459.0249938964844,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 483.0249938964844,
+    "path": "/en/products/domates-salcasi/",
+    "titleBottom": 314.8250045776367,
+    "width": 360
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 241.8000030517578,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 312.2749938964844,
+    "path": "/ar/",
+    "titleBottom": 241.8000030517578,
+    "width": 360
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 440.3000183105469,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 464.3000183105469,
+    "path": "/ar/products/ketcap/",
+    "titleBottom": 296.0999984741211,
+    "width": 360
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 440.3000183105469,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 464.3000183105469,
+    "path": "/ar/products/domates-salcasi/",
+    "titleBottom": 296.0999984741211,
+    "width": 360
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 286.0500030517578,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 312.2749938964844,
+    "path": "/tr/",
+    "titleBottom": 286.0500030517578,
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 443.0249938964844,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 467.0249938964844,
+    "path": "/tr/products/ketcap/",
+    "titleBottom": 298.8250045776367,
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 443.0249938964844,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 467.0249938964844,
+    "path": "/tr/products/domates-salcasi/",
+    "titleBottom": 298.8250045776367,
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 273.1125030517578,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 354.4750061035156,
+    "path": "/en/",
+    "titleBottom": 273.1125030517578,
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 459.0249938964844,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 483.0249938964844,
+    "path": "/en/products/ketcap/",
+    "titleBottom": 314.8250045776367,
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 459.0249938964844,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 483.0249938964844,
+    "path": "/en/products/domates-salcasi/",
+    "titleBottom": 314.8250045776367,
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 241.8000030517578,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 312.2749938964844,
+    "path": "/ar/",
+    "titleBottom": 241.8000030517578,
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 440.3000183105469,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 464.3000183105469,
+    "path": "/ar/products/ketcap/",
+    "titleBottom": 296.0999984741211,
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 440.3000183105469,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 464.3000183105469,
+    "path": "/ar/products/domates-salcasi/",
+    "titleBottom": 296.0999984741211,
+    "width": 390
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 252.02500915527344,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 289,
+    "path": "/tr/",
+    "titleBottom": 252.0250015258789,
+    "width": 430
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 440.8000183105469,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 464.8000183105469,
+    "path": "/tr/products/ketcap/",
+    "titleBottom": 296.5999984741211,
+    "width": 430
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 440.8000183105469,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 464.8000183105469,
+    "path": "/tr/products/domates-salcasi/",
+    "titleBottom": 296.5999984741211,
+    "width": 430
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 239.07500457763672,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 357,
+    "path": "/en/",
+    "titleBottom": 239.07500457763672,
+    "width": 430
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 456.8000183105469,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 480.8000183105469,
+    "path": "/en/products/ketcap/",
+    "titleBottom": 312.5999984741211,
+    "width": 430
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 456.8000183105469,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 480.8000183105469,
+    "path": "/en/products/domates-salcasi/",
+    "titleBottom": 312.5999984741211,
+    "width": 430
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 256.90000915527344,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 289,
+    "path": "/ar/",
+    "titleBottom": 256.9000015258789,
+    "width": 430
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 445.7000122070313,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 469.7000122070313,
+    "path": "/ar/products/ketcap/",
+    "titleBottom": 301.5,
+    "width": 430
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 445.7000122070313,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 469.7000122070313,
+    "path": "/ar/products/domates-salcasi/",
+    "titleBottom": 301.5,
+    "width": 430
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 283.0500030517578,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 340,
+    "path": "/tr/",
+    "titleBottom": 283.0500030517578,
+    "width": 768
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 481.9250183105469,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 505.9250183105469,
+    "path": "/tr/products/ketcap/",
+    "titleBottom": 337.7250061035156,
+    "width": 768
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 481.9250183105469,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 505.9250183105469,
+    "path": "/tr/products/domates-salcasi/",
+    "titleBottom": 337.7250061035156,
+    "width": 768
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 269.8000030517578,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 357,
+    "path": "/en/",
+    "titleBottom": 269.8000030517578,
+    "width": 768
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 481.9250183105469,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 505.9250183105469,
+    "path": "/en/products/ketcap/",
+    "titleBottom": 337.7250061035156,
+    "width": 768
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 481.9250183105469,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 505.9250183105469,
+    "path": "/en/products/domates-salcasi/",
+    "titleBottom": 337.7250061035156,
+    "width": 768
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 300.0500030517578,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 340,
+    "path": "/ar/",
+    "titleBottom": 300.0500030517578,
+    "width": 768
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 488.0500183105469,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 512.0499877929688,
+    "path": "/ar/products/ketcap/",
+    "titleBottom": 343.8500061035156,
+    "width": 768
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 488.0500183105469,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 512.0499877929688,
+    "path": "/ar/products/domates-salcasi/",
+    "titleBottom": 343.8500061035156,
+    "width": 768
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 291.6000061035156,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 340,
+    "path": "/tr/",
+    "titleBottom": 291.6000061035156,
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 490.8000183105469,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 514.7999877929688,
+    "path": "/tr/products/ketcap/",
+    "titleBottom": 346.6000061035156,
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 490.8000183105469,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 514.7999877929688,
+    "path": "/tr/products/domates-salcasi/",
+    "titleBottom": 346.6000061035156,
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 277.4250030517578,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 357,
+    "path": "/en/",
+    "titleBottom": 277.4250030517578,
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 490.8000183105469,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 514.7999877929688,
+    "path": "/en/products/ketcap/",
+    "titleBottom": 346.6000061035156,
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 490.8000183105469,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 514.7999877929688,
+    "path": "/en/products/domates-salcasi/",
+    "titleBottom": 346.6000061035156,
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 309.75,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 340,
+    "path": "/ar/",
+    "titleBottom": 309.75,
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 497.3250122070313,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 521.3250122070312,
+    "path": "/ar/products/ketcap/",
+    "titleBottom": 353.125,
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 497.3250122070313,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 521.3250122070312,
+    "path": "/ar/products/domates-salcasi/",
+    "titleBottom": 353.125,
+    "width": 820
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 335.3500061035156,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 423,
+    "path": "/tr/",
+    "titleBottom": 335.3500061035156,
+    "width": 1024
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 638.8999938964844,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 177.5355682373047,
+    "path": "/tr/products/ketcap/",
+    "titleBottom": 461.90000915527344,
+    "width": 1024
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 638.8999938964844,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 256.04779052734375,
+    "path": "/tr/products/domates-salcasi/",
+    "titleBottom": 461.90000915527344,
+    "width": 1024
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 335.3500061035156,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 423,
+    "path": "/en/",
+    "titleBottom": 335.3500061035156,
+    "width": 1024
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 638.8999938964844,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 177.5355682373047,
+    "path": "/en/products/ketcap/",
+    "titleBottom": 461.90000915527344,
+    "width": 1024
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 638.8999938964844,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 256.04779052734375,
+    "path": "/en/products/domates-salcasi/",
+    "titleBottom": 461.90000915527344,
+    "width": 1024
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 356.90000915527344,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 470,
+    "path": "/ar/",
+    "titleBottom": 356.8999938964844,
+    "width": 1024
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 652.125,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 177.5355682373047,
+    "path": "/ar/products/ketcap/",
+    "titleBottom": 475.12501525878906,
+    "width": 1024
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 652.125,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 256.04779052734375,
+    "path": "/ar/products/domates-salcasi/",
+    "titleBottom": 475.12501525878906,
+    "width": 1024
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 399.6000061035156,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 423,
+    "path": "/tr/",
+    "titleBottom": 399.6000061035156,
+    "width": 1440
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 693.0750122070312,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 173.61831665039062,
+    "path": "/tr/products/ketcap/",
+    "titleBottom": 516.0750122070312,
+    "width": 1440
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 693.0750122070312,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 252.3466339111328,
+    "path": "/tr/products/domates-salcasi/",
+    "titleBottom": 516.0750122070312,
+    "width": 1440
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 399.6000061035156,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 423,
+    "path": "/en/",
+    "titleBottom": 399.6000061035156,
+    "width": 1440
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 693.0750122070312,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 173.61831665039062,
+    "path": "/en/products/ketcap/",
+    "titleBottom": 516.0750122070312,
+    "width": 1440
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 693.0750122070312,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 252.3466339111328,
+    "path": "/en/products/domates-salcasi/",
+    "titleBottom": 516.0750122070312,
+    "width": 1440
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 429.8999938964844,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 470,
+    "path": "/ar/",
+    "titleBottom": 429.8999938964844,
+    "width": 1440
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 711.6749877929688,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 173.61831665039062,
+    "path": "/ar/products/ketcap/",
+    "titleBottom": 534.6750030517578,
+    "width": 1440
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 711.6749877929688,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 252.3466339111328,
+    "path": "/ar/products/domates-salcasi/",
+    "titleBottom": 534.6750030517578,
+    "width": 1440
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 483.4250030517578,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 518.4000244140625,
+    "path": "/tr/",
+    "titleBottom": 483.4250030517578,
+    "width": 1920
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 760.3999938964844,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 188.183349609375,
+    "path": "/tr/products/ketcap/",
+    "titleBottom": 583.4000091552734,
+    "width": 1920
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 760.3999938964844,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 275.11920166015625,
+    "path": "/tr/products/domates-salcasi/",
+    "titleBottom": 583.4000091552734,
+    "width": 1920
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 483.4250030517578,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 518.4000244140625,
+    "path": "/en/",
+    "titleBottom": 483.4250030517578,
+    "width": 1920
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 760.3999938964844,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 188.183349609375,
+    "path": "/en/products/ketcap/",
+    "titleBottom": 583.4000091552734,
+    "width": 1920
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 760.3999938964844,
+    "dir": "ltr",
+    "overflow": false,
+    "packTop": 275.11920166015625,
+    "path": "/en/products/domates-salcasi/",
+    "titleBottom": 583.4000091552734,
+    "width": 1920
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 487.40000915527344,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 540,
+    "path": "/ar/",
+    "titleBottom": 487.40000915527344,
+    "width": 1920
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 768.5,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 188.183349609375,
+    "path": "/ar/products/ketcap/",
+    "titleBottom": 591.5000152587891,
+    "width": 1920
+  },
+  {
+    "canvas": 0,
+    "copyBottom": 768.5,
+    "dir": "rtl",
+    "overflow": false,
+    "packTop": 275.11920166015625,
+    "path": "/ar/products/domates-salcasi/",
+    "titleBottom": 591.5000152587891,
+    "width": 1920
+  }
+]

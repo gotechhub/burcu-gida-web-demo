@@ -1,0 +1,61 @@
+{
+  "operation": "source PDF image decode only",
+  "date": "2026-10-12",
+  "pypdfium2Version": "5.13.0",
+  "sourcePdfSha256": "f1ac8299cf3b102d9a88b07c67162a9047821c3d9a257096693247ee89755933",
+  "rawSourcesPreserved": true,
+  "images": [
+    {
+      "id": "F01",
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\design\\approval-panels\\homepage-r02\\references\\F01-burhaniye-pdfium-render.png",
+      "sourcePdf": "D:\\Claude\\gofactory\\demo\\burcu-gida\\katalog\\Burcu-Gida-Katalog-mevcut eski.pdf",
+      "pdfPageOneBased": 5,
+      "pdfiumObjectIndex": 455,
+      "embeddedWidth": 1060,
+      "embeddedHeight": 794,
+      "renderedWidth": 1061,
+      "renderedHeight": 795,
+      "mode": "RGBA",
+      "alphaPresent": true,
+      "sha256": "249a343515dd006ab6c540af71502acb62059786a94fa6aef90b4388a3516d8b",
+      "method": "pypdfium2 PdfImage.get_bitmap(render=True, scale_to_original=True); PDFium applies PDF image decode/color pipeline, transform and alpha mask. No manual CMYK inversion, color guessing, retouch, AI or creative alteration.",
+      "visiblePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\design\\approval-panels\\homepage-r02\\references\\F01-burhaniye-pdfium-render-visible.png",
+      "visibleAlphaBounds": [
+        27,
+        220,
+        1056,
+        728
+      ],
+      "visibleWidth": 1029,
+      "visibleHeight": 508,
+      "visibleSha256": "82a6d0c4944ad6622a42c6cd1b60b574aa51facebda0586bfe9a6e1241a22488",
+      "visibleCropMethod": "Trim only fully transparent borders from PDFium-rendered result; color pixels and alpha values retained byte-equivalent. No resampling, color inversion, retouch or image generation."
+    },
+    {
+      "id": "F02",
+      "path": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\design\\approval-panels\\homepage-r02\\references\\F02-ovakoy-pdfium-render.png",
+      "sourcePdf": "D:\\Claude\\gofactory\\demo\\burcu-gida\\katalog\\Burcu-Gida-Katalog-mevcut eski.pdf",
+      "pdfPageOneBased": 5,
+      "pdfiumObjectIndex": 457,
+      "embeddedWidth": 1039,
+      "embeddedHeight": 777,
+      "renderedWidth": 1040,
+      "renderedHeight": 778,
+      "mode": "RGBA",
+      "alphaPresent": true,
+      "sha256": "3bdc8582fddad02aadd407954786b9e29cb53f1710d583d015c3707baf202a12",
+      "method": "pypdfium2 PdfImage.get_bitmap(render=True, scale_to_original=True); PDFium applies PDF image decode/color pipeline, transform and alpha mask. No manual CMYK inversion, color guessing, retouch, AI or creative alteration.",
+      "visiblePath": "D:\\Claude\\gofactory\\demo\\burcu-gida\\web\\v1\\design\\approval-panels\\homepage-r02\\references\\F02-ovakoy-pdfium-render-visible.png",
+      "visibleAlphaBounds": [
+        11,
+        179,
+        1035,
+        686
+      ],
+      "visibleWidth": 1024,
+      "visibleHeight": 507,
+      "visibleSha256": "d00cc224eb1b7804ddf763e6743b73ec2064327a46099defd089cfebb60ef14e",
+      "visibleCropMethod": "Trim only fully transparent borders from PDFium-rendered result; color pixels and alpha values retained byte-equivalent. No resampling, color inversion, retouch or image generation."
+    }
+  ]
+}

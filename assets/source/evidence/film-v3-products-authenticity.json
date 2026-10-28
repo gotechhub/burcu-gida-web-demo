@@ -1,0 +1,232 @@
+{
+  "productCount": 24,
+  "officialFamilyCount": 19,
+  "allVisiblePreparedRGBExactlyMatchesSource": true,
+  "allSourceAndPreparedHashesMatch": true,
+  "packLabelsRedrawn": false,
+  "productSourcesEnlarged": false,
+  "contactsInspected": true,
+  "sourceContact": "production/products-source-contact.jpg",
+  "preparedContact": "production/products-prepared-contact.jpg",
+  "sourceBrand": "Burcu",
+  "otherBrandsPresent": false,
+  "productSceneHumanAccepted": false,
+  "rows": [
+    {
+      "id": "domates-salcasi",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 412,
+        "height": 698
+      }
+    },
+    {
+      "id": "biber-salcasi",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 412,
+        "height": 697
+      }
+    },
+    {
+      "id": "2si1arada",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 412,
+        "height": 697
+      }
+    },
+    {
+      "id": "bezelye",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 341,
+        "height": 579
+      }
+    },
+    {
+      "id": "haslanmis-nohut",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 310,
+        "height": 609
+      }
+    },
+    {
+      "id": "yesil-mercimek",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 513,
+        "height": 658
+      }
+    },
+    {
+      "id": "kozlenmis-biber",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 367,
+        "height": 731
+      }
+    },
+    {
+      "id": "kurutulmus-domates",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 373,
+        "height": 625
+      }
+    },
+    {
+      "id": "kornison-tursusu",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 333,
+        "height": 557
+      }
+    },
+    {
+      "id": "barbunya-pilaki",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 514,
+        "height": 485
+      }
+    },
+    {
+      "id": "salamura-yaprak",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 798,
+        "height": 893
+      }
+    },
+    {
+      "id": "ketcap",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 301,
+        "height": 794
+      }
+    },
+    {
+      "id": "mayonez",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 281,
+        "height": 734
+      }
+    },
+    {
+      "id": "pizza-sosu",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 397,
+        "height": 781
+      }
+    },
+    {
+      "id": "elma-sirkesi",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 270,
+        "height": 825
+      }
+    },
+    {
+      "id": "ton-baligi",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 634,
+        "height": 357
+      }
+    },
+    {
+      "id": "kahvaltilik-sos",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 404,
+        "height": 404
+      }
+    },
+    {
+      "id": "cilek-receli",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 377,
+        "height": 630
+      }
+    },
+    {
+      "id": "bal",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 390,
+        "height": 641
+      }
+    },
+    {
+      "id": "uzum-pekmezi",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 387,
+        "height": 654
+      }
+    },
+    {
+      "id": "tahin",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 386,
+        "height": 642
+      }
+    },
+    {
+      "id": "siyah-zeytin",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 664,
+        "height": 640
+      }
+    },
+    {
+      "id": "zeytinyagi",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 308,
+        "height": 773
+      }
+    },
+    {
+      "id": "sos-seti",
+      "sourceRGBExact": true,
+      "hashesMatch": true,
+      "nativeDimensions": {
+        "width": 705,
+        "height": 850
+      }
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "createdAt": "2026-10-14T06:15:48.959Z",
+  "scope": "Local website caption derivatives; original V3 sources unchanged. No public deployment, dubbing or human acceptance claim.",
+  "source": {
+    "path": "tanitim-filmi/v3/public/audio/r05/burcu-tr.srt",
+    "sha256": "8093658b664cfd71bf61b48ed3163cd6ccea4457801570b8bf4dbf2344af3264",
+    "originalCueCount": 40,
+    "spokenWordCount": 242,
+    "activeScriptExactTokenMatch": true,
+    "immutable": true
+  },
+  "sourceVoiceLanguage": "tr",
+  "film": {
+    "path": "public/assets/video/burcu-concept.mp4",
+    "sha256": "2d44602be651b7c570e4529b072befda41149ddf843b9146ffd480ddc05b2f67",
+    "unchanged": true,
+    "durationMs": 150000
+  },
+  "nonSpeech": {
+    "musicLabelAtFirstCue": true,
+    "source": "tanitim-filmi/v2/production/audio/r05-source/audio-timeline.json",
+    "musicPath": "audio/music-source.mp3",
+    "sfxInvented": false
+  },
+  "derivation": {
+    "shortFragmentMaximumMs": 1500,
+    "maximumContinuationGapMs": 150,
+    "merges": [
+      {
+        "sourceCue": 6,
+        "into": 5,
+        "durationMs": 756,
+        "gapMs": 0
+      },
+      {
+        "sourceCue": 11,
+        "into": 10,
+        "durationMs": 1280,
+        "gapMs": -80
+      },
+      {
+        "sourceCue": 13,
+        "into": 12,
+        "durationMs": 1400,
+        "gapMs": -80
+      },
+      {
+        "sourceCue": 17,
+        "into": 16,
+        "durationMs": 1080,
+        "gapMs": -40
+      },
+      {
+        "sourceCue": 25,
+        "into": 24,
+        "durationMs": 1000,
+        "gapMs": -40
+      },
+      {
+        "sourceCue": 32,
+        "into": 31,
+        "durationMs": 520,
+        "gapMs": -40
+      },
+      {
+        "sourceCue": 38,
+        "into": 37,
+        "durationMs": 440,
+        "gapMs": -40
+      }
+    ],
+    "overlapAdjustments": [
+      {
+        "sourceCues": [
+          1
+        ],
+        "originalEndMs": 4040,
+        "derivedEndMs": 4000
+      },
+      {
+        "sourceCues": [
+          2
+        ],
+        "originalEndMs": 7800,
+        "derivedEndMs": 7720
+      },
+      {
+        "sourceCues": [
+          8
+        ],
+        "originalEndMs": 32640,
+        "derivedEndMs": 32600
+      },
+      {
+        "sourceCues": [
+          10,
+          11
+        ],
+        "originalEndMs": 41760,
+        "derivedEndMs": 41720
+      },
+      {
+        "sourceCues": [
+          14
+        ],
+        "originalEndMs": 55720,
+        "derivedEndMs": 55640
+      },
+      {
+        "sourceCues": [
+          15
+        ],
+        "originalEndMs": 58920,
+        "derivedEndMs": 58880
+      },
+      {
+        "sourceCues": [
+          19
+        ],
+        "originalEndMs": 74040,
+        "derivedEndMs": 74000
+      },
+      {
+        "sourceCues": [
+          20
+        ],
+        "originalEndMs": 78120,
+        "derivedEndMs": 78080
+      },
+      {
+        "sourceCues": [
+          29
+        ],
+        "originalEndMs": 109480,
+        "derivedEndMs": 109400
+      },
+      {
+        "sourceCues": [
+          30
+        ],
+        "originalEndMs": 113240,
+        "derivedEndMs": 113200
+      },
+      {
+        "sourceCues": [
+          33
+        ],
+        "originalEndMs": 122960,
+        "derivedEndMs": 122920
+      }
+    ],
+    "derivedCueCount": 33,
+    "sourceCueCoverage": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "allSourceWordsPreserved": true
+  },
+  "tracks": [
+    {
+      "locale": "tr",
+      "kind": "captions",
+      "url": "/assets/video/captions/burcu-tr.vtt",
+      "sha256": "97eea7c81202cbdb863f58db7450bb1e43b5979320cddb18302b4c8add77cc4c",
+      "bytes": 3230,
+      "cueCount": 33,
+      "firstStartMs": 800,
+      "lastEndMs": 148000,
+      "maxLines": 2,
+      "maxCharactersPerLine": 46,
+      "maxCharactersPerSecond": 17.81
+    },
+    {
+      "locale": "en",
+      "kind": "subtitles",
+      "url": "/assets/video/captions/burcu-en.vtt",
+      "sha256": "36e8d58e4f7fdb1aacd10e3288fea221715b75abf4a679f861b30587d9e11fff",
+      "bytes": 3107,
+      "cueCount": 33,
+      "firstStartMs": 800,
+      "lastEndMs": 148000,
+      "maxLines": 2,
+      "maxCharactersPerLine": 44,
+      "maxCharactersPerSecond": 17.8
+    },
+    {
+      "locale": "ar",
+      "kind": "subtitles",
+      "url": "/assets/video/captions/burcu-ar.vtt",
+      "sha256": "ef776054d5adcdeb1501e324838703114b834d6a8447174213e3fbdfd092bb7b",
+      "bytes": 4004,
+      "cueCount": 33,
+      "firstStartMs": 800,
+      "lastEndMs": 148000,
+      "maxLines": 2,
+      "maxCharactersPerLine": 46,
+      "maxCharactersPerSecond": 18.16
+    }
+  ],
+  "editorialReview": {
+    "en": "Professional editorial translation; native review pending.",
+    "ar": "Professional editorial translation; native review pending."
+  },
+  "remainingChecks": [
+    "Native-language proofreading and translation acceptance",
+    "Normal-speed human narration/caption timing review",
+    "Native video cue legibility, Arabic direction and dialog fit on physical devices",
+    "Overall accessibility audit; caption presence alone does not establish WCAG 2.2 AA conformance"
+  ]
+}
